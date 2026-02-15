@@ -84,8 +84,7 @@ We've put these through their paces during Cornwall's "summer" and a particularl
   price="£69.95"
   rating="4.8"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/ruffwear-swamp-cooler.jpg"
->}}
+  image="/images/products/ruffwear-swamp-cooler.jpg" >}}
 
 **Pros:**
 - Genuinely effective evaporative cooling that lasts
@@ -122,8 +121,7 @@ The point is: Buster, our reliable indicator of "too hot to function," was genui
   price="£24.99"
   rating="4.5"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/canada-pooch-cooling-vest.jpg"
->}}
+  image="/images/products/canada-pooch-cooling-vest.jpg" >}}
 
 **Pros:**
 - Excellent value for money
@@ -154,8 +152,7 @@ The mesh design means it's less bulky than some options, which Jago appreciates 
   price="£34.99"
   rating="4.6"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/bullhug-cooling-vest.jpg"
->}}
+  image="/images/products/bullhug-cooling-vest.jpg" >}}
 
 **Pros:**
 - Designed specifically for bulldog breeds (finally!)
@@ -185,8 +182,7 @@ The belly coverage is particularly good for Frenchies who like to lie on cool su
   price="£28.95"
   rating="4.3"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/hifrenchies-cooling-harness.jpg"
->}}
+  image="/images/products/hifrenchies-cooling-harness.jpg" >}}
 
 **Pros:**
 - Dual-purpose: cooling vest + walking harness
@@ -214,8 +210,7 @@ We use this for morning toilet breaks during hot spells, but wouldn't rely on it
   price="£32.50"
   rating="4.4"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/gf-pet-elastofit.jpg"
->}}
+  image="/images/products/gf-pet-elastofit.jpg" >}}
 
 **Pros:**
 - Stretchy Elastofit material moves with your dog
@@ -336,8 +331,7 @@ Here's a confession: we don't use cooling *vests* most of the time. We use a coo
   price="£19.99"
   rating="4.6"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/pawpride-cooling-mat.jpg"
->}}
+  image="/images/products/pawpride-cooling-mat.jpg" >}}
 
 **Pros:**
 - No need to wear anything (Buster and Jago approve)

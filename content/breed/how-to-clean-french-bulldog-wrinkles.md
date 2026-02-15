@@ -222,7 +222,7 @@ After trying various products over the years (including some absolute disasters 
 
 ### Best Wrinkle Wipes
 
-{{< product-card name="Squishface Wrinkle Wipes" price="£13.99" rating="4.8" url="AFFILIATE_LINK_HERE" pros="Specifically designed for wrinkles,Gentle on sensitive skin,Perfect size for Frenchie faces,No harsh chemicals" cons="Slightly more expensive,Can't choose pack size" >}}
+{{< product-card name="Squishface Wrinkle Wipes" price="£13.99" rating="4.8" url="AFFILIATE_LINK_HERE" pros="Specifically designed for wrinkles,Gentle on sensitive skin,Perfect size for Frenchie faces,No harsh chemicals" cons="Slightly more expensive,Can't choose pack size" >}}{{< /product-card >}}
 
 {{< tested-badge >}}
 
@@ -232,7 +232,7 @@ These are what we actually use on Buster and Jago. Specifically formulated for w
 
 **Alternative option:**
 
-{{< product-card name="Earthbath Hypoallergenic Grooming Wipes" price="£12.99" rating="4.5" url="AFFILIATE_LINK_HERE" pros="Fragrance-free,Plant-based,Large wipes,Good value" cons="Can be slightly dry,Not individually wrapped,Not wrinkle-specific" >}}
+{{< product-card name="Earthbath Hypoallergenic Grooming Wipes" price="£12.99" rating="4.5" url="AFFILIATE_LINK_HERE" pros="Fragrance-free,Plant-based,Large wipes,Good value" cons="Can be slightly dry,Not individually wrapped,Not wrinkle-specific" >}}{{< /product-card >}}
 
 A solid budget-friendly option that we used before discovering Squishface. They're gentle enough for sensitive skin (Buster's face, Jago's entire existence), and the size is perfect for getting into Frenchie wrinkles without needing seventeen of them. We've used these on both boys for over a year with zero irritation. They don't smell of anything, which initially seemed boring but is actually perfect. Your dog's face shouldn't smell like a lavender field. Or anything, really.
 
@@ -240,7 +240,7 @@ A solid budget-friendly option that we used before discovering Squishface. They'
 
 ### Best Wrinkle Balm
 
-{{< product-card name="Natural Dog Company Wrinkle Balm" price="£16.99" rating="4.7" url="AFFILIATE_LINK_HERE" pros="All-natural ingredients,Long-lasting,Actually works" cons="Bit pricey,Can be messy if over-applied" >}}
+{{< product-card name="Natural Dog Company Wrinkle Balm" price="£16.99" rating="4.7" url="AFFILIATE_LINK_HERE" pros="All-natural ingredients,Long-lasting,Actually works" cons="Bit pricey,Can be messy if over-applied" >}}{{< /product-card >}}
 
 {{< tested-badge >}}
 
@@ -254,7 +254,7 @@ This stuff is brilliant. It's made with organic ingredients including shea butte
 
 ### For Problem Areas
 
-{{< product-card name="Veterinary Formula Clinical Care Antiseptic & Antifungal Wipes" price="£9.99" rating="4.3" url="AFFILIATE_LINK_HERE" pros="Effective for yeast,Medicated when needed,Good value" cons="Not for daily use,Stronger smell" >}}
+{{< product-card name="Veterinary Formula Clinical Care Antiseptic & Antifungal Wipes" price="£9.99" rating="4.3" url="AFFILIATE_LINK_HERE" pros="Effective for yeast,Medicated when needed,Good value" cons="Not for daily use,Stronger smell" >}}{{< /product-card >}}
 
 We keep these on hand for those times when we notice early signs of yeast or irritation. They're not for everyday use — they're the nuclear option, the big guns, the "things are getting concerning and we need to sort this before it becomes A Problem." Brilliant for nipping issues in the bud. These are what rescued us from the Stilton Incident before it required actual veterinary intervention.
 

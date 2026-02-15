@@ -106,8 +106,7 @@ If a toy can satisfy both the distinguished gentleman and the agent of chaos, it
   price="£8.79"
   where="Amazon UK"
   link="https://www.amazon.co.uk/KONG-Classic-Durable-Natural-Rubber/dp/B000AYN7LU"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 The KONG Classic is the gold standard for a reason. Made from ultra-durable natural rubber, it's virtually indestructible (even Buster has met his match). The hollow centre is perfect for stuffing with treats, peanut butter, or frozen kibble – which transforms this from a chew toy into a 30-minute mental workout.
 
@@ -130,8 +129,7 @@ This is one of the boys' absolute favourites. Buster chews his with the focused 
   price="£8.95"
   where="Amazon UK / Pets at Home"
   link="https://www.amazon.co.uk/dp/B00E82N3MG"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 For the serious chewers (hi, Jago), Nylabone's Power Chew range is purpose-built for dogs with powerful jaws. These aren't edible, but they're designed to be gnawed on for months without splintering or breaking into dangerous chunks.
 
@@ -152,8 +150,7 @@ For the serious chewers (hi, Jago), Nylabone's Power Chew range is purpose-built
   price="£11.68"
   where="Amazon UK"
   link="https://www.amazon.co.uk/KONG-Extreme-Toughest-Natural-Rubber/dp/B0002AR0II"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 If the standard KONG Classic doesn't last long in your house, meet the Extreme. Made from KONG's toughest black rubber compound, this is designed for the Jagos of the world.
 
@@ -182,8 +179,7 @@ French Bulldogs are smarter than people give them credit for. Sure, Jago's prima
   price="£19.99"
   where="Amazon UK / VioVet"
   link="https://www.amazon.co.uk/Outward-Hound-Ottoson-Brick-Puzzle/dp/B0711Y9XTF"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 This is hands-down Buster's favourite toy. The Dog Brick has flip-up compartments and sliding panels that hide treats. Your Frenchie has to work out the sequence to access the rewards. It's like Sudoku for dogs, but with cheese.
 
@@ -204,8 +200,7 @@ This is hands-down Buster's favourite toy. The Dog Brick has flip-up compartment
   price="£12.98"
   where="Amazon UK"
   link="https://www.amazon.co.uk/snuffle-mat-dogs/s?k=snuffle+mat+for+dogs"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 This looks like a shaggy rug had a baby with a dog toy. Hide kibble or treats in the fabric strips, and your Frenchie has to sniff them out. It's based on foraging behaviour and absolutely *exhausts* them mentally.
 
@@ -226,8 +221,7 @@ This looks like a shaggy rug had a baby with a dog toy. Hide kibble or treats in
   price="£14.99"
   where="Pets at Home / Amazon UK"
   link="https://www.petsathome.com"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 Imagine a Weeble (remember those? "Weebles wobble but they don't fall down"?) crossed with a treat dispenser. Your Frenchie bats it around, and kibble falls out of the hole at unpredictable intervals.
 
@@ -258,8 +252,7 @@ Either way, if your Frenchie does enjoy fetch, you need the right tools.
   price="£9.99"
   where="Amazon UK"
   link="https://www.amazon.co.uk/Chuckit-Breathe-Right-Medium-Pursue/dp/B07D3FZ15J"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 Tennis balls are another favourite in our house, though we use these Breathe Right balls for actual fetch sessions. The hollow, lattice-like design allows air to flow through even when it's in your Frenchie's mouth. No more wheezing after three throws.
 
@@ -282,8 +275,7 @@ Regular tennis balls are fine for gentle play, but the breathable design makes t
   price="£8.50"
   where="Pets at Home / Amazon UK"
   link="https://www.amazon.co.uk"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 Frisbees and Frenchies shouldn't work together. Their jumping ability is... enthusiastic but imprecise. The KONG Flyer is made from soft rubber, so when Jago misjudges his leap and it hits him in the face (regularly), it doesn't hurt.
 
@@ -310,8 +302,7 @@ Yes, these are tough, muscular dogs with powerful jaws. They're also massive sof
   price="£11.99"
   where="Amazon UK / The Range"
   link="https://www.amazon.co.uk/KONG-Internal-Knotted-Stuffing-Assorted/dp/B00B4UR08K"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 Soft and cuddly on the outside, but with an internal knotted rope skeleton for durability. Less stuffing means less mess when (not if) Buster decides to investigate its structural integrity.
 
@@ -332,8 +323,7 @@ Soft and cuddly on the outside, but with an internal knotted rope skeleton for d
   price="£7.99"
   where="Amazon UK"
   link="https://www.amazon.co.uk"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 These long, thin plush toys have squeakers in the head and tail but zero stuffing in the body. When your Frenchie inevitably "kills" it, there's no polyfill explosion all over your living room.
 
@@ -342,6 +332,8 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
 **Longevity:** Not indestructible, but they're cheap enough that replacing one every few months doesn't hurt. Think of them as consumable entertainment.
 
 <!-- IMAGE PLACEHOLDER: Buster with his Wild Knots bear -->
+
+{{< /product-card >}}
 
 ---
 
@@ -356,8 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   price="£3.99"
   where="Pets at Home / The Range"
   link="https://www.petsathome.com"
-  affiliate="true"
->}}
+  affiliate="true" >}}
 
 Look, not every toy needs to cost £15. A good quality rubber ball with a rope attached is simple, effective, and costs less than a fancy coffee.
 

@@ -66,8 +66,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
   rating="4.6"
   price="£12-18 (1L)"
   retailer="Amazon UK"
-  url="#affiliate-link" 
->}}
+  url="#affiliate-link" >}}
 This isn't optional. Regular cleaners don't remove the scent markers that tell your dog "this is the wee spot." Enzyme cleaners actually break down the proteins. We've tried cheaper alternatives. Don't. Just don't.
 {{< /product-card >}}
 
@@ -85,8 +84,7 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
   rating="4.4"
   price="£18-22"
   retailer="Amazon UK"
-  url="#affiliate-link" 
->}}
+  url="#affiliate-link" >}}
 Super-absorbent, leak-proof, and crucially: they actually work. Some trainers say pads teach indoor weeing. We say they're a godsend if you live on the third floor and your puppy needs to go NOW.
 {{< /product-card >}}
 
@@ -394,8 +392,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
   rating="4.2"
   price="£25-35"
   retailer="Various UK retailers"
-  url="#affiliate-link" 
->}}
+  url="#affiliate-link" >}}
 Real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. Requires regular replacement but gets good reviews from flat-living Frenchie owners.
 {{< /product-card >}}
 
@@ -448,8 +445,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   rating="4.6"
   price="£12-18 (1L)"
   retailer="Amazon UK"
-  url="#affiliate-link" 
->}}
+  url="#affiliate-link" >}}
 **Why we like it:** Actually works. Removes odours completely. One bottle lasts ages. Multiple surfaces. Doesn't smell artificial. Buy it. Seriously.
 {{< /product-card >}}
 
@@ -461,8 +457,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   rating="4.4"
   price="£18-22"
   retailer="Amazon UK"
-  url="#affiliate-link" 
->}}
+  url="#affiliate-link" >}}
 **Why we like it:** Super absorbent, doesn't leak, good size (56x56cm fits most puppies), stays in place. We tried cheaper ones. The cheap ones leak. Don't be heroes.
 {{< /product-card >}}
 

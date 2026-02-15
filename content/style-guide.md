@@ -68,15 +68,7 @@ Both light and dark modes are fully supported!
 
 ### Full Product Card
 
-{{< product-card 
-  name="Puppia Soft Harness" 
-  image="/images/placeholder-product.jpg" 
-  price="£24.99" 
-  rating="4.5" 
-  url="https://amazon.co.uk" 
-  pros="Comfortable,Easy to put on,Breathable" 
-  cons="Limited colours,Sizing runs small" 
->}}
+{{< product-card name="Puppia Soft Harness" image="/images/placeholder-product.jpg" price="£24.99" rating="4.5" url="https://amazon.co.uk" pros="Comfortable,Easy to put on,Breathable" cons="Limited colours,Sizing runs small" >}}{{< /product-card >}}
 
 {{< tested-badge >}}
 
@@ -86,7 +78,6 @@ We've been using the Puppia Soft Harness with Buster for over 6 months now, and 
 
 **Not ideal for:** Strong pullers, rough play, outdoor swimming
 
-{{< /product-card >}}
 
 ---
 

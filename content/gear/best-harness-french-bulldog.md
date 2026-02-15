@@ -80,8 +80,7 @@ We've put these through proper field testing. By which I mean: Buster and Jago h
   price="£28.95"
   rating="4.8"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/ezydog-quick-fit.jpg"
->}}
+  image="/images/products/ezydog-quick-fit.jpg" >}}
 
 **Pros:**
 - Actually fits French Bulldog proportions perfectly
@@ -138,8 +137,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
   price="£13.99"
   rating="4.5"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/puppia-soft-harness.jpg"
->}}
+  image="/images/products/puppia-soft-harness.jpg" >}}
 
 **Pros:**
 - Excellent value for money
@@ -189,8 +187,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
   price="£32.50"
   rating="4.7"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/julius-k9-power.jpg"
->}}
+  image="/images/products/julius-k9-power.jpg" >}}
 
 **Pros:**
 - Extremely durable (basically indestructible)
@@ -235,8 +232,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
   price="£39.95"
   rating="4.8"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/ruffwear-front-range.jpg"
->}}
+  image="/images/products/ruffwear-front-range.jpg" >}}
 
 **Pros:**
 - Two leash attachment points (front and back)
@@ -280,8 +276,7 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
   price="£19.99"
   rating="4.6"
   url="AFFILIATE_LINK_HERE"
-  image="/images/products/truelove-harness.jpg"
->}}
+  image="/images/products/truelove-harness.jpg" >}}
 
 **Pros:**
 - Front and back D-rings
