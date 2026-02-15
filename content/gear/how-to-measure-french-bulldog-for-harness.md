@@ -33,9 +33,7 @@ As brachycephalic dogs, Frenchies already have restricted airways. A poorly fitt
 **Escape Artists**  
 Despite their stocky build, a too-loose harness means your Frenchie can back out of it. We learned this the hard way with Jago on a coastal path walk!
 
-{{< box type="warning" >}}
-**Never use a collar for walking** — French Bulldogs are prone to tracheal collapse. Always use a well-fitted harness.
-{{< /box >}}
+> **⚠️ Warning:** Never use a collar for walking — French Bulldogs are prone to tracheal collapse. Always use a well-fitted harness.
 
 ## What You'll Need to Measure Your Frenchie
 
@@ -126,9 +124,7 @@ Every brand is different, but here's what to look for:
 
 **Buster** (58cm chest, 13kg) would typically be a **Medium**, though it depends on the brand.
 
-{{< box type="tip" >}}
-Always check **customer reviews from other Frenchie owners**. If lots of people say "runs small" or "too loose for brachycephalic breeds," trust them!
-{{< /box >}}
+> **💡 Tip:** Always check **customer reviews from other Frenchie owners**. If lots of people say "runs small" or "too loose for brachycephalic breeds," trust them!
 
 ## Our Top French Bulldog Harness Recommendations
 

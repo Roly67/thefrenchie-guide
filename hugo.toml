@@ -2,7 +2,9 @@ baseURL = "https://thefrenchie-guide.com"
 title = "The Frenchie Guide"
 languageCode = "en-gb"
 theme = "PaperMod"
-paginate = 10
+
+[pagination]
+pagerSize = 10
 
 # Enable features
 enableRobotsTXT = true
