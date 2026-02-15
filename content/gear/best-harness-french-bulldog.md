@@ -7,7 +7,7 @@ draft: false
 category: "Gear & Accessories"
 tags: ["harness", "gear", "walking", "reviews", "tested"]
 author: "Rowland & The Boys"
-featured_image: "/images/gear/french-bulldog-harness-header.jpg"
+featured_image: "/images/gear/french-bulldog-harness-hero.jpg"
 toc: true
 seo:
   keywords: ["best harness for french bulldog", "french bulldog harness", "ezydog harness", "puppia harness", "no pull harness frenchie"]

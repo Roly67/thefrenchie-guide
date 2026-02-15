@@ -6,7 +6,7 @@ draft: false
 categories: ["Breed Info"]
 tags: ["grooming", "wrinkle care", "skin care", "health"]
 cover:
-  image: "/images/breed/frenchie-wrinkle-cleaning.jpg"
+  image: "/images/breed/frenchie-face-wrinkles-closeup.jpg"
   alt: "French Bulldog having face wrinkles cleaned"
   caption: "Keeping those adorable wrinkles clean and healthy"
 ShowToc: true
