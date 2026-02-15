@@ -1,0 +1,28 @@
+{{- /* Pros & Cons Shortcode */ -}}
+
+{{- $pros := split (.Get "pros") "," -}}
+{{- $cons := split (.Get "cons") "," -}}
+
+<div class="frenchie-pros-cons">
+  {{- if $pros -}}
+    <div class="frenchie-pros">
+      <h4>Pros</h4>
+      <ul>
+        {{- range $pros -}}
+          <li>{{ trim . " " }}</li>
+        {{- end -}}
+      </ul>
+    </div>
+  {{- end -}}
+  
+  {{- if $cons -}}
+    <div class="frenchie-cons">
+      <h4>Cons</h4>
+      <ul>
+        {{- range $cons -}}
+          <li>{{ trim . " " }}</li>
+        {{- end -}}
+      </ul>
+    </div>
+  {{- end -}}
+</div>

@@ -1,0 +1,22 @@
+{{- /* Star Rating Shortcode */ -}}
+
+{{- $score := .Get "score" | float -}}
+{{- $fullStars := int $score -}}
+{{- $hasHalf := ne (sub $score (float $fullStars)) 0 -}}
+{{- $emptyStars := int (sub 5 $fullStars) -}}
+{{- if $hasHalf -}}
+  {{- $emptyStars = sub $emptyStars 1 -}}
+{{- end -}}
+
+<div class="frenchie-stars" role="img" aria-label="{{ $score }} out of 5 stars">
+  {{- range seq $fullStars -}}
+    <span class="frenchie-stars__star frenchie-stars__star--full"></span>
+  {{- end -}}
+  {{- if $hasHalf -}}
+    <span class="frenchie-stars__star frenchie-stars__star--half"></span>
+  {{- end -}}
+  {{- range seq $emptyStars -}}
+    <span class="frenchie-stars__star frenchie-stars__star--empty"></span>
+  {{- end -}}
+  <span class="frenchie-stars__score" style="margin-left: 0.5rem; font-weight: 600; color: var(--theme-text);">{{ $score }}</span>
+</div>

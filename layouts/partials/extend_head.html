@@ -1,0 +1,43 @@
+{{- /* Custom Head Extensions for The Frenchie Guide */ -}}
+
+{{- /* Google Fonts - Outfit (headings), Nunito Sans (body), Space Mono (mono) */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+{{- /* Favicon - placeholder (replace with actual favicon paths) */ -}}
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+{{- /* Additional Meta Tags */ -}}
+<meta name="theme-color" content="#6B7C93">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+{{- /* Open Graph enhancements */ -}}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+
+{{- /* Twitter Card enhancements */ -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@thefrenchie_guide">
+
+{{- /* Schema.org markup for better SEO */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Frenchie Guide",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}logo.png"
+    }
+  }
+}
+</script>

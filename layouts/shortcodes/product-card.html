@@ -1,0 +1,67 @@
+{{- /* Product Card Shortcode */ -}}
+
+{{- $name := .Get "name" -}}
+{{- $image := .Get "image" | default "/images/placeholder-product.jpg" -}}
+{{- $price := .Get "price" -}}
+{{- $rating := .Get "rating" | default "0" -}}
+{{- $url := .Get "url" -}}
+{{- $pros := split (.Get "pros") "," -}}
+{{- $cons := split (.Get "cons") "," -}}
+
+<div class="frenchie-product-card">
+  <div class="frenchie-product-card__header">
+    <div class="frenchie-product-card__image">
+      <img src="{{ $image }}" alt="{{ $name }}" loading="lazy">
+    </div>
+    <div class="frenchie-product-card__info">
+      <h3 class="frenchie-product-card__name">{{ $name }}</h3>
+      {{- if ne $rating "0" -}}
+        {{- partial "star-rating.html" (dict "score" $rating) -}}
+      {{- end -}}
+      {{- if $price -}}
+        <div class="frenchie-product-card__price">{{ $price }}</div>
+      {{- end -}}
+    </div>
+  </div>
+  
+  <div class="frenchie-product-card__body">
+    {{- if .Inner -}}
+      {{ .Inner | .Page.RenderString }}
+    {{- end -}}
+    
+    {{- if or $pros $cons -}}
+      <div class="frenchie-pros-cons">
+        {{- if $pros -}}
+          <div class="frenchie-pros">
+            <h4>Pros</h4>
+            <ul>
+              {{- range $pros -}}
+                <li>{{ trim . " " }}</li>
+              {{- end -}}
+            </ul>
+          </div>
+        {{- end -}}
+        
+        {{- if $cons -}}
+          <div class="frenchie-cons">
+            <h4>Cons</h4>
+            <ul>
+              {{- range $cons -}}
+                <li>{{ trim . " " }}</li>
+              {{- end -}}
+            </ul>
+          </div>
+        {{- end -}}
+      </div>
+    {{- end -}}
+    
+    {{- if $url -}}
+      <div class="frenchie-btn-wrapper">
+        <a href="{{ $url }}" class="frenchie-btn" target="_blank" rel="nofollow noopener">
+          Check Price on Amazon
+        </a>
+        <p class="frenchie-btn-disclosure">We may earn a commission from purchases (at no extra cost to you)</p>
+      </div>
+    {{- end -}}
+  </div>
+</div>

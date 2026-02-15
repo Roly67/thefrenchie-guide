@@ -18,8 +18,19 @@ description = "Real advice from real Frenchie parents. Product reviews, care gui
 author = "The Frenchie Guide Team"
 images = ["/images/og-default.jpg"]
 
+# Design System - Frenchie-themed colours
+[params.assets]
+disableHLJS = false
+disableFingerprinting = false
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
+
 # PaperMod specific settings
 defaultTheme = "auto"
+# Custom accent colours (overridden by CSS variables)
+themeColor = "#6B7C93"
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
@@ -161,7 +172,7 @@ respectDoNotTrack = true
 [privacy.instagram]
 disable = false
 simple = true
-[privacy.twitter]
+[privacy.x]
 enableDNT = true
 simple = true
 [privacy.vimeo]

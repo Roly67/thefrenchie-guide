@@ -1,0 +1,14 @@
+{{- /* Affiliate Button Shortcode */ -}}
+
+{{- $url := .Get "url" -}}
+{{- $text := .Get "text" | default "Check Price on Amazon" -}}
+{{- $disclosure := .Get "disclosure" | default "true" -}}
+
+<div class="frenchie-btn-wrapper">
+  <a href="{{ $url }}" class="frenchie-btn" target="_blank" rel="nofollow noopener">
+    {{ $text }}
+  </a>
+  {{- if eq $disclosure "true" -}}
+    <p class="frenchie-btn-disclosure">We may earn a commission from purchases (at no extra cost to you)</p>
+  {{- end -}}
+</div>

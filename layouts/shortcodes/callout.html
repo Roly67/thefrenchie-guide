@@ -1,0 +1,14 @@
+{{- /* Callout Box Shortcode - Types: tip, warning, buster-says, jago-says, vet-note */ -}}
+
+{{- $type := .Get "type" | default "tip" -}}
+{{- $title := .Get "title" | default (cond (eq $type "tip") "Tip" (cond (eq $type "warning") "Warning" (cond (eq $type "buster-says") "Buster Says" (cond (eq $type "jago-says") "Jago Says" "Vet Note")))) -}}
+
+<div class="frenchie-callout frenchie-callout--{{ $type }}">
+  <div class="frenchie-callout__title">
+    <span class="frenchie-callout__icon"></span>
+    {{ $title }}
+  </div>
+  <div class="frenchie-callout__content">
+    {{ .Inner | .Page.RenderString }}
+  </div>
+</div>
