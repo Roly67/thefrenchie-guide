@@ -3,7 +3,7 @@ title: "Can French Bulldogs Swim? The Truth (Plus Safety Tips)"
 description: "The short answer: technically yes, practically no. Here's everything you need to know about Frenchies and water, including how to keep them safe around pools, beaches, and that one puddle Jago insists on investigating."
 date: 2026-02-15
 lastmod: 2026-02-15
-draft: true
+draft: false
 category: "Breed Info"
 tags: ["safety", "swimming", "water", "summer", "life jacket"]
 author: "Rowland & The Boys"

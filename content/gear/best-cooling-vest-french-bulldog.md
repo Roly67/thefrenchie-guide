@@ -3,7 +3,7 @@ title: "Best Cooling Vest for French Bulldogs (2026 Review)"
 description: "We've tested the best cooling vests to keep your Frenchie comfortable in the heat. From Cornwall summers to heatwaves, here's what actually works."
 date: 2026-02-15
 lastmod: 2026-02-15
-draft: true
+draft: false
 category: "Gear & Accessories"
 tags: ["cooling", "summer", "gear", "overheating", "safety"]
 author: "Rowland & The Boys"

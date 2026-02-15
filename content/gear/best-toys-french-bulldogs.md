@@ -4,7 +4,7 @@ description: "We've tested dozens of toys with Buster and Jago to find the best 
 slug: best-toys-french-bulldogs
 date: 2026-02-15
 lastmod: 2026-02-15
-draft: true
+draft: false
 category: "Gear & Accessories"
 tags: ["toys", "gear", "reviews", "enrichment", "chew toys"]
 author: "Rowland & The Boys"

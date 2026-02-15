@@ -3,7 +3,7 @@ title: "French Bulldog Potty Training: The Complete (Honest) Guide"
 description: "The unvarnished truth about potty training French Bulldogs, featuring one stoic gentleman who got it in a week and one chaos merchant who took four months. Here's everything we learned the hard way."
 date: 2026-02-15
 lastmod: 2026-02-15
-draft: true
+draft: false
 category: "Training"
 tags: ["training", "puppy", "potty training", "housetraining", "behaviour"]
 author: "The Frenchie Guide"
