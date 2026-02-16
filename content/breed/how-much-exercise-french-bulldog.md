@@ -3,7 +3,12 @@ title: "How Much Exercise Does a French Bulldog Need? (They're Not Lazy, Just Se
 description: "French Bulldogs aren't couch potatoes—they need proper exercise. Learn how much walking, playing, and activity is right for your Frenchie, from puppyhood through to senior years. UK-based real experience with Buster and Jago."
 slug: how-much-exercise-french-bulldog
 date: 2026-02-17
-draft: true
+draft: false
+cover:
+  image: "/images/breed/how-much-exercise-french-bulldog-hero.jpg"
+  alt: "French Bulldog on a spring walk with daffodils"
+ShowToc: true
+TocOpen: true
 keywords:
   - how much exercise does a french bulldog need
   - french bulldog walking guide
@@ -321,7 +326,7 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     title="Ruffwear Front Range Harness"
     description="Padded chest and belly panel for comfort. Front clip reduces pulling. Two leash attachment points. Reflective trim for visibility. Designed to not restrict breathing."
-    url="AFFILIATE_LINK_HERE"
+    url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
     price="£££"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/gear/best-harness-french-bulldog/)
@@ -330,16 +335,16 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     title="Ruffwear Swamp Cooler Cooling Vest"
     description="Evaporative cooling vest for hot-weather walks. Soak in water, wring out, put on dog. Provides cooling for 2-4 hours. Reflective trim."
-    url="AFFILIATE_LINK_HERE"
+    url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
     price="££££"
 >}}
 **Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest review](/gear/best-cooling-vest-french-bulldog/)
 {{< /product-card >}}
 
 {{< product-card 
-    title="Kong Classic Dog Toy"
+    name="Kong Classic Dog Toy"
     description="Indestructible treat-dispensing toy. Freeze with food for extended mental stimulation. Provides exercise alternative on days when walking isn't possible."
-    url="AFFILIATE_LINK_HERE"
+    url="https://www.amazon.co.uk/dp/B000AYN7LU?tag=broadbandhelp"
     price="££"
 >}}
 **Mental exercise:** Frozen Kong keeps Jago occupied for 30+ minutes. More mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
@@ -348,7 +353,7 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     title="Collapsible Dog Water Bowl"
     description="Portable, lightweight, clips to lead or bag. Essential for carrying water on walks. Silicone, folds flat, machine washable."
-    url="AFFILIATE_LINK_HERE"
+    url="https://www.amazon.co.uk/s?k=collapsible+dog+water+bowl&tag=broadbandhelp"
     price="£"
 >}}
 **Hydration essential:** Always carry water for Frenchies, especially in weather above 15°C. They overheat quickly and need frequent drinking opportunities.
@@ -357,7 +362,7 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     title="Hurtta Extreme Warmer Dog Coat"
     description="Insulated, waterproof winter coat. Covers chest and belly. Reflective trim. Adjustable for proper fit. Suitable for temperatures down to -20°C."
-    url="AFFILIATE_LINK_HERE"
+    url="https://www.amazon.co.uk/s?k=hurtta+extreme+warmer+dog+coat&tag=broadbandhelp"
     price="££££"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
@@ -366,7 +371,7 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     title="Outward Hound Nina Ottosson Puzzle Toys"
     description="Range of interactive puzzle toys, beginner to advanced. Dog manipulates pieces to reveal treats. Mental stimulation on exercise-restricted days."
-    url="AFFILIATE_LINK_HERE"
+    url="https://www.amazon.co.uk/dp/B0711Y9XTF?tag=broadbandhelp"
     price="££-£££"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
