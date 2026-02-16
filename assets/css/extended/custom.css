@@ -1072,3 +1072,41 @@ input:focus {
   margin: 0 0.25rem;
   opacity: 0.4;
 }
+
+/* === Homepage Hero Image === */
+.home-hero {
+  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+  overflow: hidden;
+  margin: calc(-1 * var(--space-xl)) calc(-1 * var(--space-xl)) var(--space-lg);
+}
+
+.home-hero img {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  display: block;
+}
+
+[data-theme="dark"] .home-hero img {
+  filter: brightness(0.9) contrast(1.05);
+}
+
+/* === Post List Cover Images === */
+.post-entry .entry-cover img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* === Homepage Hero Responsive === */
+@media (max-width: 768px) {
+  .home-hero {
+    margin: calc(-1 * var(--space-md)) calc(-1 * var(--space-md)) var(--space-md);
+  }
+
+  .home-hero img {
+    max-height: 250px;
+  }
+}

@@ -40,7 +40,7 @@ We started The Frenchie Guide to share what we've learned from living with Buste
 
 Have a question? Want to share your own Frenchie story? We'd love to hear from you.
 
-📧 Email: hello@thefrenchie-guide.com  
+📧 Email: hello@thefrenchieguide.com  
 📸 Instagram: [@thefrenchie.guide](https://instagram.com/thefrenchie.guide)  
 👍 Facebook: [The Frenchie Guide](https://facebook.com/thefrenchie.guide)
 

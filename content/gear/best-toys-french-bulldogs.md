@@ -8,7 +8,10 @@ draft: false
 category: "Gear & Accessories"
 tags: ["toys", "gear", "reviews", "enrichment", "chew toys"]
 author: "Rowland & The Boys"
-featured_image: "/images/gear/french-bulldog-toys-hero.jpg"
+cover:
+  image: "/images/gear/french-bulldog-toys-hero.jpg"
+  alt: "French Bulldog surrounded by safe, durable toys"
+  caption: ""
 toc: true
 seo:
   keywords: ["best toys for french bulldogs", "french bulldog toys", "safe toys for frenchies", "indestructible french bulldog toys", "frenchie chew toys", "french bulldog puzzle toys"]

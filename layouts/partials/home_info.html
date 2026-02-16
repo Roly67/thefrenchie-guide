@@ -1,0 +1,18 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <div class="home-hero">
+        <img src="/images/breed/frenchie-cornwall-beach-safety.jpg"
+             alt="French Bulldog enjoying a Cornwall beach walk"
+             width="1200" height="630" loading="eager">
+    </div>
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+    </footer>
+</article>
+{{- end -}}

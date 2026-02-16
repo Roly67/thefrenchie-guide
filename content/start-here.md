@@ -63,7 +63,7 @@ We're not professional dog trainers or vets (always consult a professional for m
 
 We'd love to hear from you!
 
-📧 Email: hello@thefrenchie-guide.com
+📧 Email: hello@thefrenchieguide.com
 
 ---
 

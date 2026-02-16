@@ -7,7 +7,10 @@ draft: false
 category: "Breed Info"
 tags: ["safety", "swimming", "water", "summer", "life jacket"]
 author: "Rowland & The Boys"
-featured_image: "/images/breed/french-bulldog-water-safety-hero.jpg"
+cover:
+  image: "/images/breed/french-bulldog-water-safety-hero.jpg"
+  alt: "French Bulldog standing cautiously at the edge of a paddling pool"
+  caption: ""
 ---
 
 ![French Bulldog standing nervously at the edge of a paddling pool](/images/breed/french-bulldog-water-safety-hero.jpg)

@@ -236,6 +236,6 @@ A: Yes! Many Frenchies do well with step-in harnesses, especially if they dislik
 
 ---
 
-**Have questions about harness sizing for your Frenchie?** Drop us an email at hello@thefrenchie-guide.com or follow us on [Instagram](https://instagram.com/thefrenchie.guide) for more tips!
+**Have questions about harness sizing for your Frenchie?** Drop us an email at hello@thefrenchieguide.com or follow us on [Instagram](https://instagram.com/thefrenchie.guide) for more tips!
 
 *This post contains affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you. See our [affiliate disclosure](/affiliate-disclosure/) for details.*

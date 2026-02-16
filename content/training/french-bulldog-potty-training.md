@@ -7,7 +7,10 @@ draft: false
 category: "Training"
 tags: ["training", "puppy", "potty training", "housetraining", "behaviour"]
 author: "The Frenchie Guide"
-featured_image: "/images/training/french-bulldog-potty-training-hero.jpg"
+cover:
+  image: "/images/training/french-bulldog-potty-training-hero.jpg"
+  alt: "French Bulldog puppy learning potty training basics"
+  caption: ""
 ---
 
 Let's start with the uncomfortable truth: French Bulldogs can be absolute nightmares to potty train.

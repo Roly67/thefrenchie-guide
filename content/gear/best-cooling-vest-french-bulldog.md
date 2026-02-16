@@ -7,7 +7,10 @@ draft: false
 category: "Gear & Accessories"
 tags: ["cooling", "summer", "gear", "overheating", "safety"]
 author: "Rowland & The Boys"
-featured_image: "/images/gear/french-bulldog-cooling-vest-hero.jpg"
+cover:
+  image: "/images/gear/french-bulldog-cooling-vest-hero.jpg"
+  alt: "French Bulldog wearing a cooling vest on a sunny Cornwall beach"
+  caption: ""
 ---
 
 ![French Bulldog wearing a cooling vest on a sunny Cornwall beach](/images/gear/french-bulldog-cooling-vest-hero.jpg)
