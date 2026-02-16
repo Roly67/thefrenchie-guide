@@ -3,6 +3,102 @@
    Warm, playful, distinctive — like a Frenchie!
    ======================================== */
 
+/* === Self-hosted Fonts === */
+
+/* Outfit (variable, 400–800) */
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url('/fonts/outfit-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url('/fonts/outfit-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Nunito Sans — normal (variable, 400–700) */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url('/fonts/nunito-sans-normal-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url('/fonts/nunito-sans-normal-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Nunito Sans — italic (variable, 400–600) */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-weight: 400 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url('/fonts/nunito-sans-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: italic;
+  font-weight: 400 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url('/fonts/nunito-sans-italic-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Space Mono 400 */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/space-mono-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/space-mono-400-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Space Mono 700 */
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/space-mono-700-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Space Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/space-mono-700-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
 /* === CSS Variables === */
 :root {
   /* Primary - Warm Fawn/Cream (like a fawn Frenchie) */
@@ -861,7 +957,118 @@ input:focus {
   .frenchie-ad,
   .frenchie-signup,
   .nav,
-  .footer {
+  .footer,
+  .cookie-consent {
     display: none;
   }
+}
+
+/* === Cookie Consent Banner === */
+.cookie-consent {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  transform: translateY(100%);
+  transition: transform var(--transition-base);
+}
+
+.cookie-consent--visible {
+  transform: translateY(0);
+}
+
+.cookie-consent__inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: var(--space-md) var(--space-lg);
+  background: var(--theme-bg-card);
+  border-top: 2px solid var(--theme-border);
+  box-shadow: 0 -4px 20px var(--theme-shadow);
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.cookie-consent__inner p {
+  margin: 0;
+  font-size: 0.9375rem;
+  flex: 1;
+  line-height: 1.5;
+}
+
+.cookie-consent__actions {
+  display: flex;
+  gap: var(--space-sm);
+  flex-shrink: 0;
+}
+
+.cookie-consent__btn {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.875rem;
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-full);
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.cookie-consent__btn--accept {
+  background: var(--theme-primary);
+  color: var(--frenchie-white);
+  border-color: var(--theme-primary);
+}
+
+.cookie-consent__btn--accept:hover {
+  background: var(--theme-primary-hover);
+  border-color: var(--theme-primary-hover);
+}
+
+.cookie-consent__btn--reject {
+  background: transparent;
+  color: var(--theme-text);
+  border-color: var(--theme-border);
+}
+
+.cookie-consent__btn--reject:hover {
+  border-color: var(--theme-text-muted);
+}
+
+@media (max-width: 768px) {
+  .cookie-consent__inner {
+    flex-direction: column;
+    text-align: center;
+    padding: var(--space-md);
+  }
+
+  .cookie-consent__actions {
+    width: 100%;
+  }
+
+  .cookie-consent__btn {
+    flex: 1;
+  }
+}
+
+/* === Footer Legal Links === */
+.footer-legal {
+  text-align: center;
+  padding: var(--space-sm) 0 0;
+  font-size: 0.8125rem;
+  color: var(--theme-text-muted);
+}
+
+.footer-legal a {
+  color: var(--theme-text-muted);
+  margin: 0 var(--space-xs);
+}
+
+.footer-legal a:hover {
+  color: var(--theme-accent);
+}
+
+.footer-legal__separator {
+  margin: 0 0.25rem;
+  opacity: 0.4;
 }

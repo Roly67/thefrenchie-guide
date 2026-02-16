@@ -61,7 +61,7 @@ All sponsored content, if any, will be clearly marked as "Sponsored" or "Ad."
 
 If you have any questions about our affiliate relationships or how we earn from this site, please contact us at:
 
-📧 hello@thefrenchie-guide.com
+Email: hello@thefrenchieguide.com
 
 ---
 
