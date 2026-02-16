@@ -247,6 +247,13 @@ a:hover {
   letter-spacing: -0.03em;
 }
 
+.logo svg {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 0.35rem;
+  flex-shrink: 0;
+}
+
 .menu a {
   font-family: var(--font-heading);
   font-weight: 600;

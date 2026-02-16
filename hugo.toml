@@ -47,6 +47,11 @@ favicon16x16 = "/favicon-16x16.png"
 favicon32x32 = "/favicon-32x32.png"
 apple_touch_icon = "/apple-touch-icon.png"
 
+[params.label]
+text = "The Frenchie Guide"
+iconHeight = 35
+iconSVG = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="35" fill="currentColor" fill-rule="evenodd" aria-hidden="true"><path d="M32 62C48 62 58 52 58 40C58 32 56 26 52 22C58 12 60 2 50 0C44 0 44 6 42 8Q32 12 22 8C20 6 20 0 14 0C4 2 6 12 12 22C8 26 6 32 6 40C6 52 16 62 32 62ZM22 32A5 5 0 1 1 22 42A5 5 0 1 1 22 32ZM42 32A5 5 0 1 1 42 42A5 5 0 1 1 42 32ZM32 46A6 3 0 1 1 32 52A6 3 0 1 1 32 46Z"/></svg>'
+
 # Google Analytics - placeholder (add your GA4 measurement ID)
 # googleAnalytics = "G-MEASUREMENT_ID"
 
