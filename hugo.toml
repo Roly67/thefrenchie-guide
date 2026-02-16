@@ -96,20 +96,14 @@ tag = "tags"
 
 # Menu
 [[menu.main]]
-identifier = "home"
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
 identifier = "gear"
-name = "Gear & Accessories"
+name = "Gear"
 url = "/gear/"
 weight = 2
 
 [[menu.main]]
 identifier = "nutrition"
-name = "Food & Nutrition"
+name = "Nutrition"
 url = "/nutrition/"
 weight = 3
 
@@ -121,7 +115,7 @@ weight = 4
 
 [[menu.main]]
 identifier = "lifestyle"
-name = "Health & Care"
+name = "Health"
 url = "/lifestyle/"
 weight = 5
 
