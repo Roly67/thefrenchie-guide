@@ -85,7 +85,7 @@ Controversial topic, I know. But crate training makes [our potty training guide]
 {{< product-card 
     title="MidWest iCrate Dog Crate - 24 inch"
     description="Fold-flat wire crate with divider panel (essential for puppies). Single-door or double-door options. Includes plastic tray. 24-inch size suitable for adult Frenchies."
-    url="https://www.amazon.co.uk/dp/B000QFMCP0?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B000OX89VK?tag=broadbandhelp"
     price="£££"
 >}}
 **Key feature:** The divider panel. Puppies shouldn't have too much space initially (they'll toilet in one corner and sleep in another). As they grow, you move the divider to increase space.
@@ -150,7 +150,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
 {{< product-card 
     title="Royal Canin French Bulldog Puppy"
     description="Breed-specific formula designed for French Bulldog puppies. Kibble shaped for brachycephalic jaws. Supports digestive health and skin barriers. Suitable from 2-12 months."
-    url="https://www.amazon.co.uk/dp/B004MFYZ44?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B009H3WMZM?tag=broadbandhelp"
     price="££££"
 >}}
 **Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
@@ -159,7 +159,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
 {{< product-card 
     title="James Wellbeloved Puppy Food (Turkey & Rice)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
-    url="https://www.amazon.co.uk/dp/B003TOFB6E?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B002OVSGAO?tag=broadbandhelp"
     price="£££"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
@@ -269,7 +269,7 @@ Puppies need appropriate toys. Not "every toy in the shop," but targeted, safe o
 {{< product-card 
     title="Kong Puppy (Small)"
     description="Soft blue rubber Kong designed for puppy teeth and jaws. Stuff with food, freeze for extended engagement. Virtually indestructible. The ultimate puppy sanity saver."
-    url="https://www.amazon.co.uk/dp/B0002AR17S?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B0002AR18C?tag=broadbandhelp"
     price="££"
 >}}
 **Multi-purpose genius:** Mental stimulation, teething relief, meal timer, crate training aid, exhaustion tool. Buy three. Freeze them stuffed with wet food, peanut butter, or mashed banana.
@@ -280,7 +280,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
 {{< product-card 
     title="Nylabone Puppy Chew Toys"
     description="Specifically designed for puppy teeth (softer than adult versions). Textured for teething relief. Various shapes and sizes. Replace when heavily worn."
-    url="https://www.amazon.co.uk/dp/B001ANLZHA?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B0002DGL26?tag=broadbandhelp"
     price="££"
 >}}
 **Teething essential:** When puppy teeth are coming through (12-16 weeks particularly hellish), they *need* to chew. Better a Nylabone than your furniture.
@@ -335,7 +335,7 @@ You'll need hundreds. Puppies poo approximately 47 times per day. This feels lik
 {{< product-card 
     title="Earth Rated Poo Bags - Lavender Scented"
     description="Extra thick, leak-proof, lavender scented (genuinely helps). Comes on rolls that fit standard dispensers. Certified compostable."
-    url="https://www.amazon.co.uk/dp/B00B73WA3A?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B00BSYR7K8?tag=broadbandhelp"
     price="££"
 >}}
 **Buy in bulk:** Subscribe and save on Amazon. You'll go through a roll per week minimum.
@@ -367,7 +367,7 @@ To limit puppy's access to the house whilst toilet training and teaching boundar
 {{< product-card 
     title="BabyDan Pressure Fit Safety Gate"
     description="No drilling required, adjustable width, auto-close feature. Tall enough that adult Frenchies won't jump over (not that they're athletic enough to try, but still)."
-    url="https://www.amazon.co.uk/dp/B000LBRBGO?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B007XTDGQG?tag=broadbandhelp"
     price="£££"
 >}}
 **Where to use:** Block off stairs (puppies shouldn't use stairs until 12+ weeks, risks joint damage), rooms with hazards, kitchen during meal prep.
