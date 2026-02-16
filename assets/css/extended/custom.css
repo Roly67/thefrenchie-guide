@@ -240,20 +240,6 @@ a:hover {
   box-shadow: 0 2px 8px var(--theme-shadow);
 }
 
-.logo {
-  font-family: var(--font-heading);
-  font-weight: 800;
-  font-size: 1.5rem;
-  letter-spacing: -0.03em;
-}
-
-.logo svg {
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 0.35rem;
-  flex-shrink: 0;
-}
-
 .menu a {
   font-family: var(--font-heading);
   font-weight: 600;
