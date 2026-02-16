@@ -116,7 +116,7 @@ Look for:
 
 We use the **Outward Hound PupSaver Life Jacket** and it's genuinely excellent for brachycephalic breeds.
 
-{{< product-card name="Outward Hound PupSaver Ripstop Life Jacket" price="£24.99" rating="4.7" url="AFFILIATE_LINK_HERE" image="/images/products/outward-hound-pupsaver.jpg" >}}
+{{< product-card name="Outward Hound PupSaver Ripstop Life Jacket" price="£24.99" rating="4.7" url="https://www.amazon.co.uk/dp/B0081XIKY6?tag=broadbandhelp" image="/images/products/outward-hound-pupsaver.jpg" >}}
 
 **Why it's brilliant for Frenchies:**
 - **Front chin float** keeps their head elevated (crucial for brachycephalic breeds)
@@ -387,7 +387,7 @@ And for the love of everything, get a life jacket.
 
 {{< affiliate-button 
   text="View the Outward Hound PupSaver Life Jacket"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B0081XIKY6?tag=broadbandhelp"
 >}}
 
 ---

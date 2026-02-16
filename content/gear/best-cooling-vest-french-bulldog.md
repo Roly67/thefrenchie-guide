@@ -83,7 +83,7 @@ We've put these through their paces during Cornwall's "summer" and a particularl
   name="Ruffwear Swamp Cooler Cooling Vest"
   price="£69.95"
   rating="4.8"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
   image="/images/products/ruffwear-swamp-cooler.jpg" >}}
 
 **Pros:**
@@ -120,7 +120,7 @@ The point is: Buster, our reliable indicator of "too hot to function," was genui
   name="Canada Pooch Chill Seeker Cooling Vest"
   price="£24.99"
   rating="4.5"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B009JLQCUI?tag=broadbandhelp"
   image="/images/products/canada-pooch-cooling-vest.jpg" >}}
 
 **Pros:**
@@ -151,7 +151,7 @@ The mesh design means it's less bulky than some options, which Jago appreciates 
   name="BullHug Cooling Vest for French Bulldogs"
   price="£34.99"
   rating="4.6"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/s?k=bullhug+cooling+vest+dog&tag=broadbandhelp"
   image="/images/products/bullhug-cooling-vest.jpg" >}}
 
 **Pros:**
@@ -181,7 +181,7 @@ The belly coverage is particularly good for Frenchies who like to lie on cool su
   name="Hifrenchies Cooling Harness Vest"
   price="£28.95"
   rating="4.3"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/s?k=bullhug+cooling+vest+dog&tag=broadbandhelp"
   image="/images/products/hifrenchies-cooling-harness.jpg" >}}
 
 **Pros:**
@@ -209,7 +209,7 @@ We use this for morning toilet breaks during hot spells, but wouldn't rely on it
   name="GF Pet Elastofit Ice Dog Vest"
   price="£32.50"
   rating="4.4"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/s?k=gf+pet+elastofit+cooling+vest&tag=broadbandhelp"
   image="/images/products/gf-pet-elastofit.jpg" >}}
 
 **Pros:**
@@ -330,7 +330,7 @@ Here's a confession: we don't use cooling *vests* most of the time. We use a coo
   name="PawPride Pet Cooling Mat (Large, 50x65cm)"
   price="£19.99"
   rating="4.6"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B0CB6VLF1N?tag=broadbandhelp"
   image="/images/products/pawpride-cooling-mat.jpg" >}}
 
 **Pros:**
@@ -363,7 +363,7 @@ The gel pockets activate when they lie down, providing instant cooling without a
 
 {{< affiliate-button 
   text="Check Price on Amazon"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B0CB6VLF1N?tag=broadbandhelp"
 >}}
 
 ---
@@ -384,7 +384,7 @@ Buster and Jago thank you for your diligence. (Well, Buster thanks you. Jago jus
 
 {{< affiliate-button 
   text="View the Ruffwear Swamp Cooler on Amazon"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
 >}}
 
 ---

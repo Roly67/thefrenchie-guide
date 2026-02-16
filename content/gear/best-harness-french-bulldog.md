@@ -79,7 +79,7 @@ We've put these through proper field testing. By which I mean: Buster and Jago h
   name="EzyDog Quick Fit Harness"
   price="£28.95"
   rating="4.8"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B003XX1UGY?tag=broadbandhelp"
   image="/images/products/ezydog-quick-fit.jpg" >}}
 
 **Pros:**
@@ -125,7 +125,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
 
 {{< affiliate-button 
   text="Check Price on Amazon UK"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B003XX1UGY?tag=broadbandhelp"
 >}}
 
 ---
@@ -136,7 +136,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
   name="Puppia Soft Harness (Air Mesh)"
   price="£13.99"
   rating="4.5"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B0013MX6HS?tag=broadbandhelp"
   image="/images/products/puppia-soft-harness.jpg" >}}
 
 **Pros:**
@@ -175,7 +175,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 {{< affiliate-button 
   text="View on Amazon UK"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B0013MX6HS?tag=broadbandhelp"
 >}}
 
 ---
@@ -186,7 +186,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
   name="Julius-K9 IDC Powerharness"
   price="£32.50"
   rating="4.7"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
   image="/images/products/julius-k9-power.jpg" >}}
 
 **Pros:**
@@ -220,7 +220,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< affiliate-button 
   text="View on Amazon UK"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
 >}}
 
 ---
@@ -231,7 +231,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
   name="Ruffwear Front Range Harness"
   price="£39.95"
   rating="4.8"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
   image="/images/products/ruffwear-front-range.jpg" >}}
 
 **Pros:**
@@ -264,7 +264,7 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
 
 {{< affiliate-button 
   text="View on Amazon UK"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
 >}}
 
 ---
@@ -275,7 +275,7 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
   name="Truelove No-Pull Harness"
   price="£19.99"
   rating="4.6"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B077GV18P3?tag=broadbandhelp"
   image="/images/products/truelove-harness.jpg" >}}
 
 **Pros:**
@@ -303,7 +303,7 @@ We tested this briefly with Jago. It worked, but he found the chest padding rest
 
 {{< affiliate-button 
   text="View on Amazon UK"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B077GV18P3?tag=broadbandhelp"
 >}}
 
 ---
@@ -488,7 +488,7 @@ Buster and Jago's seal of approval goes to the EzyDog. Buster's is reluctant but
 
 {{< affiliate-button 
   text="View the EzyDog Quick Fit Harness"
-  url="AFFILIATE_LINK_HERE"
+  url="https://www.amazon.co.uk/dp/B003XX1UGY?tag=broadbandhelp"
 >}}
 
 ---
