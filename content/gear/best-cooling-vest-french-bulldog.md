@@ -110,7 +110,7 @@ Jago, predictably, went on strike anyway — not because he was hot, but because
 
 The point is: Buster, our reliable indicator of "too hot to function," was genuinely comfortable. That's the endorsement that matters.
 
-{{< callout type="buster" >}}
+{{< callout type="buster-says" >}}
 **Buster says:** I'll allow it. It's undignified, but effective. 7/10.
 {{< /callout >}}
 
@@ -141,7 +141,7 @@ If the Ruffwear is out of budget, this is a solid alternative. It won't keep you
 
 The mesh design means it's less bulky than some options, which Jago appreciates (he has Opinions about clothing). Re-soak it every 30-45 minutes for best results.
 
-{{< callout type="jago" >}}
+{{< callout type="jago-says" >}}
 **Jago says:** CAN I EAT IT? No? Fine. It's blue! I like blue! Can we go to the beach now?!
 {{< /callout >}}
 

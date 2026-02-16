@@ -11,7 +11,7 @@ url: "/privacy/"
 
 ### Introduction
 
-The Frenchie Guide ("we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you visit our website at https://thefrenchie-guide.com (the "Site").
+The Frenchie Guide ("we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you visit our website at https://thefrenchieguide.com (the "Site").
 
 ### Information We Collect
 
@@ -81,7 +81,7 @@ If you're in the EU/UK, you have the right to:
 - Restrict or object to data processing
 - Data portability
 
-To exercise these rights, contact us at hello@thefrenchie-guide.com.
+To exercise these rights, contact us at hello@thefrenchieguide.com.
 
 ### Children's Privacy
 
@@ -95,8 +95,8 @@ We may update this Privacy Policy from time to time. We'll notify you of signifi
 
 If you have questions about this Privacy Policy, please contact us:
 
-📧 Email: hello@thefrenchie-guide.com  
-🌐 Website: https://thefrenchie-guide.com
+📧 Email: hello@thefrenchieguide.com  
+🌐 Website: https://thefrenchieguide.com
 
 ---
 

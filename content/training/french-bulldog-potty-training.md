@@ -61,7 +61,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
 **2. Enzyme cleaner** (the most important thing you'll buy)
 
 {{< product-card 
-  title="Dirtbusters Pet Pro Urine & Odour Destroyer" 
+  name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/enzyme-cleaner.jpg"
   rating="4.6"
   price="£12-18 (1L)"
@@ -79,7 +79,7 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
 **4. Puppy pads** (controversial, but useful for flats/apartments)
 
 {{< product-card 
-  title="Pet's Hub Training Pads (50 Pack)" 
+  name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/training-pads.jpg"
   rating="4.4"
   price="£18-22"
@@ -387,7 +387,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
 ### 2. Grass Patches (Fake Lawn)
 
 {{< product-card 
-  title="Piddle Patch Indoor Dog Toilet" 
+  name="Piddle Patch Indoor Dog Toilet"
   image="/images/products/grass-patch.jpg"
   rating="4.2"
   price="£25-35"
@@ -440,7 +440,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
 ### Enzyme Cleaner (Essential)
 
 {{< product-card 
-  title="Dirtbusters Pet Pro Urine & Odour Destroyer" 
+  name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/enzyme-cleaner.jpg"
   rating="4.6"
   price="£12-18 (1L)"
@@ -452,7 +452,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
 ### Training Pads (For Flats/Emergency Backup)
 
 {{< product-card 
-  title="Pet's Hub Training Pads (50 Pack)" 
+  name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/training-pads.jpg"
   rating="4.4"
   price="£18-22"

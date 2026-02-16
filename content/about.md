@@ -11,13 +11,13 @@ We're real French Bulldog owners, based in the beautiful county of Cornwall, UK.
 
 ### Meet the Frenchies
 
-**Buster**  
-*Age: [TBD]*  
-*Personality: [TBD — add details about Buster's temperament, quirks, likes/dislikes]*
+**Buster**
+*Age: 4 years old*
+*Personality: The dignified gentleman. Calm, considered, and quietly determined — unless there's a toy to dismantle. Buster approaches life with measured composure and treats every chew toy as a structural engineering challenge. Secret destroyer of plush toys. Favourite thing: his KONG Classic.*
 
-**Jago**  
-*Age: [TBD]*  
-*Personality: [TBD — add details about Jago's temperament, quirks, likes/dislikes]*
+**Jago**
+*Age: 2 years old*
+*Personality: The chaos merchant. Boundless energy, zero subtlety, and an enthusiasm for life that borders on the unhinged. Jago treats every day like an adventure and every object as potentially edible. Surprisingly gentle with his toys. Favourite thing: anything that bounces.*
 
 ### Our Cornwall Connection
 

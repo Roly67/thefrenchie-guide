@@ -501,4 +501,4 @@ Buster and Jago's seal of approval goes to the EzyDog. Buster's is reluctant but
 
 ---
 
-*Affiliate Disclosure: This post contains affiliate links, meaning we may earn a small commission if you click through and make a purchase (at no extra cost to you). These commissions help fund Buster's dignified lifestyle and Jago's chaos. We only recommend products we've genuinely tested and would buy ourselves — the EzyDog harness is what we actually use every single day, and the others are thoroughly researched alternatives. Read our full [affiliate disclosure policy](/legal/affiliate-disclosure).*
+*Affiliate Disclosure: This post contains affiliate links, meaning we may earn a small commission if you click through and make a purchase (at no extra cost to you). These commissions help fund Buster's dignified lifestyle and Jago's chaos. We only recommend products we've genuinely tested and would buy ourselves — the EzyDog harness is what we actually use every single day, and the others are thoroughly researched alternatives. Read our full [affiliate disclosure policy](/affiliate-disclosure/).*

@@ -269,11 +269,11 @@ Controlled environment, warm water, you can actually wash them whilst they glare
 
 Not technically swimming, but it's water-based enrichment. Sort of.
 
-{{< callout type="jago" >}}
+{{< callout type="jago-says" >}}
 **Jago says:** Water is EXCITING! Smells weird! Can I eat it?! There's a LEAF in the pool! Can I eat the leaf?! Why are you taking me out already?! THIS IS UNFAIR!
 {{< /callout >}}
 
-{{< callout type="buster" >}}
+{{< callout type="buster-says" >}}
 **Buster says:** I have tolerated this indignity with grace. I expect compensation in the form of premium snacks. Immediately.
 {{< /callout >}}
 

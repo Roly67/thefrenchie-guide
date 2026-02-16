@@ -24,15 +24,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
-{{- /* Open Graph enhancements */ -}}
-<meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-
-{{- /* Twitter Card enhancements */ -}}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@thefrenchie_guide">
-
-{{- /* Schema.org markup for better SEO */ -}}
+{{- /* Schema.org WebSite markup (homepage only — PaperMod handles Article/BreadcrumbList on pages) */ -}}
+{{- if .IsHome }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -50,3 +43,4 @@
   }
 }
 </script>
+{{- end }}

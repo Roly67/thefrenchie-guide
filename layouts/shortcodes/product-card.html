@@ -1,4 +1,3 @@
-{{ .Inner }}
 {{ $name := .Get "name" }}
 {{ $image := .Get "image" | default "/images/placeholder-product.jpg" }}
 {{ $price := .Get "price" }}
@@ -22,6 +21,11 @@
     </div>
   </div>
   <div class="frenchie-product-card__body">
+    {{ with .Inner }}
+      <div class="frenchie-product-card__description">
+        {{ . | $.Page.RenderString }}
+      </div>
+    {{ end }}
     {{ if or $pros $cons }}
       <div class="frenchie-pros-cons">
         {{ if $pros }}
