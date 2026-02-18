@@ -3,12 +3,8 @@ title: "French Bulldog Separation Anxiety: A Survival Guide (For You Both)"
 description: "Does your Frenchie lose the plot when you leave? Learn to recognise separation anxiety signs and discover practical, tested strategies to help your French Bulldog cope when you're not home."
 slug: french-bulldog-separation-anxiety
 date: 2026-02-17
-draft: false
-cover:
-  image: "/images/training/french-bulldog-separation-anxiety-hero.jpg"
-  alt: "French Bulldog looking up with concerned expression"
-ShowToc: true
-TocOpen: true
+draft: true
+silo: training
 keywords:
   - french bulldog separation anxiety
   - french bulldog anxiety tips
@@ -82,7 +78,7 @@ Here's where things get interesting. Not every French Bulldog destroying your fl
 
 Jago falls firmly into the "creative chaos" category. Give him 90 minutes alone with insufficient mental stimulation, and he'll redesign your living room. It's not anxiety—it's entrepreneurship.
 
-The solution? [our toy guide](/gear/best-toys-french-bulldogs/) becomes absolutely essential. Puzzle toys, chew toys, anything that occupies that bat-eared brain.
+The solution? [our guide to the best toys for French Bulldogs](/best-toys-french-bulldogs/) becomes absolutely essential. Puzzle toys, chew toys, anything that occupies that bat-eared brain.
 
 ## Building Independence: The Gradual Approach
 
@@ -131,7 +127,7 @@ Some Frenchies find crates comforting—a den-like space that feels secure. Othe
 
 **If your Frenchie hates crates:**
 
-Don't force it. Instead, create a designated "safe zone"—perhaps a corner with their bed, a [our bed guide](/gear/best-bed-french-bulldog/) (coming soon) that's comfortable and secure, familiar toys, and background noise (radio, white noise machine).
+Don't force it. Instead, create a designated "safe zone"—perhaps a corner with their bed, a [choosing the right bed](/best-bed-french-bulldog/) that's comfortable and secure, familiar toys, and background noise (radio, white noise machine).
 
 Jago's safe space is basically a nest of blankets in the corner of the living room. He's constructed it himself over months, like some sort of comfort-obsessed interior designer. I daren't touch it.
 
@@ -143,7 +139,7 @@ Jago, predictably, had opinions. But even he settled quickly once we established
 
 A tired Frenchie is a calmer Frenchie. Before you leave, ensure they've had:
 
-- A proper walk (see [our exercise guide](/breed/how-much-exercise-french-bulldog/) for guidelines)
+- A proper walk (see [our exercise guide](/how-much-exercise-french-bulldog/) for guidelines)
 - Some play time or training
 - Ideally, a chance to "do their business"
 
@@ -166,7 +162,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
 {{< product-card 
     title="ADAPTIL Calm Home Diffuser for Dogs"
     description="Pheromone diffuser that mimics the calming pheromones mother dogs produce. Covers up to 70m². Clinically proven to reduce stress signs in dogs."
-    url="https://www.amazon.co.uk/dp/B0038XBOJC?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
     price="£££"
 >}}
 **The science bit:** Releases synthetic versions of the Dog Appeasing Pheromone (DAP). Does it work? For Buster, yes. For Jago, marginally. Your mileage may vary, but it's worth trying.
@@ -175,9 +171,9 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
 {{< /product-card >}}
 
 {{< product-card 
-    name="Kong Classic Dog Toy"
+    title="Kong Classic Dog Toy"
     description="The original, virtually indestructible treat-dispensing toy. Freeze with peanut butter, wet food, or Kong's own paste for extended engagement."
-    url="https://www.amazon.co.uk/dp/B000AYN7LU?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
     price="££"
 >}}
 **Why it works:** Provides mental stimulation, positive association with you leaving (Kong = good things happen), and keeps them occupied during the critical first 20-30 minutes of your departure.
@@ -188,7 +184,7 @@ I prepare three frozen Kongs at a time. Game changer.
 {{< product-card 
     title="Furbo Dog Camera with Treat Dispenser"
     description="HD camera lets you watch, talk to, and toss treats to your dog remotely. Sends alerts for barking, activity, and selfie moments."
-    url="https://www.amazon.co.uk/dp/B01FXC7JWQ?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"
     price="££££"
 >}}
 **Controversial take:** This is more for *your* anxiety than theirs. But knowing you can check in does provide peace of mind. Just don't talk to them constantly—that defeats the purpose of building independence.
@@ -199,7 +195,7 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 {{< product-card 
     title="ThunderShirt Classic Anxiety Jacket"
     description="Applies gentle, constant pressure to calm anxiety, fear, and overexcitement. Like a constant hug, but less needy."
-    url="https://www.amazon.co.uk/dp/B0029PY7SK?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
     price="£££"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
@@ -210,7 +206,7 @@ Buster tolerates his. Jago treats it as a personal insult.
 {{< product-card 
     title="Snuggle Puppy Heartbeat Toy"
     description="Soft toy with a real-feel heartbeat and heat pack, designed to comfort puppies and anxious dogs. Mimics the presence of a littermate."
-    url="https://www.amazon.co.uk/dp/B0722XGRMB?tag=broadbandhelp"
+    url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
     price="££"
 >}}
 **Best for:** Younger dogs or those recently rehomed. The heartbeat feature can be genuinely comforting. Plus, if your Frenchie has a shred of hunting instinct, it won't last a week. Consider it consumable.
@@ -317,8 +313,8 @@ Well, *their* world doesn't end. The shoe might not be so lucky.
 ---
 
 **Further reading:**
-- [our potty training guide](/training/french-bulldog-potty-training/) - Housettraining foundations
-- [our toy guide](/gear/best-toys-french-bulldogs/) - Mental stimulation tools
-- [our exercise guide](/breed/how-much-exercise-french-bulldog/) - Exercise guidelines
+- [Potty training your French Bulldog](/french-bulldog-potty-training/) - Housettraining foundations
+- [our guide to the best toys for French Bulldogs](/best-toys-french-bulldogs/) - Mental stimulation tools
+- [our exercise guide](/how-much-exercise-french-bulldog/) - Exercise guidelines
 
 **Disclaimer:** This guide is based on personal experience and research. For severe behavioural issues or clinical anxiety, please consult a qualified veterinary behaviourist or certified dog trainer. Always speak with your vet before using calming supplements or medications.
