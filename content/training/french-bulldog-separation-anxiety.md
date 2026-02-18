@@ -11,6 +11,10 @@ keywords:
   - french bulldog crying when left alone
   - french bulldog crate training anxiety
 author: "Rowland & The Frenchies"
+cover:
+  image: "/images/training/french-bulldog-separation-anxiety-hero.jpg"
+  alt: "French Bulldog looking out the window waiting for owner to return"
+  caption: ""
 tags:
   - training
   - behaviour

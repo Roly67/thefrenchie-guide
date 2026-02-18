@@ -12,6 +12,10 @@ keywords:
   - how far can french bulldog walk
   - french bulldog puppy exercise
 author: "Rowland & The Frenchies"
+cover:
+  image: "/images/breed/how-much-exercise-french-bulldog-hero.jpg"
+  alt: "French Bulldog on a walk in the woods"
+  caption: ""
 tags:
   - exercise
   - health

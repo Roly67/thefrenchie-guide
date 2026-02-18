@@ -12,6 +12,10 @@ keywords:
   - what to buy for french bulldog puppy
   - french bulldog starter kit
 author: "Rowland & The Frenchies"
+cover:
+  image: "/images/breed/french-bulldog-puppy-checklist-hero.jpg"
+  alt: "French Bulldog puppy with new owner and puppy essentials"
+  caption: ""
 tags:
   - puppies
   - gear
