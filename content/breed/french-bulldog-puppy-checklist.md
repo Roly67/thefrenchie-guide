@@ -85,7 +85,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
 Controversial topic, I know. But crate training makes [our potty training guide](/french-bulldog-potty-training/) easier, provides a safe space, and prevents a lot of puppy destruction.
 
 {{< product-card 
-    name="MidWest iCrate 24" Starter Kit"
+    name="MidWest iCrate 24in Starter Kit"
     price="£49.99"
     rating="4.6"
     image="/images/placeholder-product.jpg"
