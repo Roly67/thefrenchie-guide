@@ -3,7 +3,7 @@ title: "How Much Exercise Does a French Bulldog Need? (They're Not Lazy, Just Se
 description: "French Bulldogs aren't couch potatoes—they need proper exercise. Learn how much walking, playing, and activity is right for your Frenchie, from puppyhood through to senior years. UK-based real experience with Buster and Jago."
 slug: how-much-exercise-french-bulldog
 date: 2026-02-17
-draft: true
+draft: false
 silo: breed
 keywords:
   - how much exercise does a french bulldog need

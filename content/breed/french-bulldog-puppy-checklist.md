@@ -3,7 +3,7 @@ title: "French Bulldog Puppy Checklist: Everything You Actually Need (And What's
 description: "Bringing home a French Bulldog puppy? This comprehensive UK checklist covers the genuine essentials, Frenchie-specific gear, and what you can skip. Based on real experience with Buster and Jago."
 slug: french-bulldog-puppy-checklist
 date: 2026-02-17
-draft: true
+draft: false
 silo: breed
 keywords:
   - french bulldog puppy checklist
