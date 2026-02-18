@@ -324,55 +324,61 @@ A "sniff walk" where you walk slowly and let them investigate everything can be 
 A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
-    title="Ruffwear Front Range Harness"
-    description="Padded chest and belly panel for comfort. Front clip reduces pulling. Two leash attachment points. Reflective trim for visibility. Designed to not restrict breathing."
+    name="Ruffwear Front Range Harness"
+    price="£44.95"
+    rating="4.7"
+    image="/images/placeholder-product.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
-    price="£££"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/best-harness-french-bulldog/)
 {{< /product-card >}}
 
 {{< product-card 
-    title="Ruffwear Swamp Cooler Cooling Vest"
-    description="Evaporative cooling vest for hot-weather walks. Soak in water, wring out, put on dog. Provides cooling for 2-4 hours. Reflective trim."
+    name="Ruffwear Swamp Cooler Cooling Vest"
+    price="£69.95"
+    rating="4.4"
+    image="/images/placeholder-product.jpg"
     url="https://www.amazon.co.uk/dp/B01MZ9D28N/?tag=broadbandhelp-21"
-    price="££££"
 >}}
 **Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/best-cooling-vest-french-bulldog/)
 {{< /product-card >}}
 
 {{< product-card 
-    title="Kong Classic Dog Toy"
-    description="Indestructible treat-dispensing toy. Freeze with food for extended mental stimulation. Provides exercise alternative on days when walking isn't possible."
+    name="Kong Classic Dog Toy"
+    price="£9.99"
+    rating="4.7"
+    image="/images/placeholder-product.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
-    price="££"
 >}}
 **Mental exercise:** Frozen Kong keeps Jago occupied for 30+ minutes. More mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Collapsible Dog Water Bowl"
-    description="Portable, lightweight, clips to lead or bag. Essential for carrying water on walks. Silicone, folds flat, machine washable."
+    name="Collapsible Dog Water Bowl"
+    price="£6.99"
+    rating="4.5"
+    image="/images/placeholder-product.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
-    price="£"
 >}}
 **Hydration essential:** Always carry water for Frenchies, especially in weather above 15°C. They overheat quickly and need frequent drinking opportunities.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Hurtta Extreme Warmer Dog Coat"
-    description="Insulated, waterproof winter coat. Covers chest and belly. Reflective trim. Adjustable for proper fit. Suitable for temperatures down to -20°C."
+    name="Hurtta Extreme Warmer Dog Coat"
+    price="£74.95"
+    rating="4.5"
+    image="/images/placeholder-product.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
-    price="££££"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Outward Hound Nina Ottosson Puzzle Toys"
-    description="Range of interactive puzzle toys, beginner to advanced. Dog manipulates pieces to reveal treats. Mental stimulation on exercise-restricted days."
+    name="Outward Hound Nina Ottosson Puzzle Toy"
+    price="£14.99"
+    rating="4.6"
+    image="/images/placeholder-product.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="££-£££"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}
