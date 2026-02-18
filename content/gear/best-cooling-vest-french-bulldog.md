@@ -84,10 +84,10 @@ We've put these through their paces during Cornwall's "summer" and a particularl
 
 {{< product-card 
   name="Ruffwear Swamp Cooler Cooling Vest"
-  price="£69.95"
-  rating="4.8"
+  price="£9.99"
+  rating="4.4"
   url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
-  image="/images/products/ruffwear-swamp-cooler.jpg" >}}
+  image="/images/products/amazon-b01mz9d28n.jpg" >}}
 
 **Pros:**
 - Genuinely effective evaporative cooling that lasts
@@ -122,9 +122,9 @@ The point is: Buster, our reliable indicator of "too hot to function," was genui
 {{< product-card 
   name="Canada Pooch Chill Seeker Cooling Vest"
   price="£24.99"
-  rating="4.5"
+  rating="3.8"
   url="https://www.amazon.co.uk/dp/B009JLQCUI?tag=broadbandhelp"
-  image="/images/products/canada-pooch-cooling-vest.jpg" >}}
+  image="/images/products/amazon-b009jlqcui.jpg" >}}
 
 **Pros:**
 - Excellent value for money
@@ -331,10 +331,10 @@ Here's a confession: we don't use cooling *vests* most of the time. We use a coo
 
 {{< product-card 
   name="PawPride Pet Cooling Mat (Large, 50x65cm)"
-  price="£19.99"
-  rating="4.6"
+  price="£22.99"
+  rating="3.6"
   url="https://www.amazon.co.uk/dp/B0CB6VLF1N?tag=broadbandhelp"
-  image="/images/products/pawpride-cooling-mat.jpg" >}}
+  image="/images/products/amazon-b0cb6vlf1n.jpg" >}}
 
 **Pros:**
 - No need to wear anything (Buster and Jago approve)

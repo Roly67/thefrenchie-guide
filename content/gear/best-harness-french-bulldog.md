@@ -80,10 +80,10 @@ We've put these through proper field testing. By which I mean: Buster and Jago h
 
 {{< product-card 
   name="EzyDog Quick Fit Harness"
-  price="£28.95"
-  rating="4.8"
+  price="£27.00"
+  rating="4.5"
   url="https://www.amazon.co.uk/dp/B003XX1UGY?tag=broadbandhelp"
-  image="/images/products/ezydog-quick-fit.jpg" >}}
+  image="/images/products/amazon-b003xx1ugy.jpg" >}}
 
 **Pros:**
 - Actually fits French Bulldog proportions perfectly
@@ -137,10 +137,10 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
 
 {{< product-card 
   name="Puppia Soft Harness (Air Mesh)"
-  price="£13.99"
-  rating="4.5"
+  price="£18.00"
+  rating="4.4"
   url="https://www.amazon.co.uk/dp/B0013MX6HS?tag=broadbandhelp"
-  image="/images/products/puppia-soft-harness.jpg" >}}
+  image="/images/products/amazon-b0013mx6hs.jpg" >}}
 
 **Pros:**
 - Excellent value for money
@@ -190,7 +190,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
   price="£32.50"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
-  image="/images/products/julius-k9-power.jpg" >}}
+  image="/images/products/amazon-b004iejf6e.jpg" >}}
 
 **Pros:**
 - Extremely durable (basically indestructible)
@@ -232,10 +232,10 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< product-card 
   name="Ruffwear Front Range Harness"
-  price="£39.95"
-  rating="4.8"
+  price="£115.26"
+  rating="4.7"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
-  image="/images/products/ruffwear-front-range.jpg" >}}
+  image="/images/products/amazon-b082fq7fqg.jpg" >}}
 
 **Pros:**
 - Two leash attachment points (front and back)
@@ -276,10 +276,10 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
 
 {{< product-card 
   name="Truelove No-Pull Harness"
-  price="£19.99"
+  price="£19.69"
   rating="4.6"
   url="https://www.amazon.co.uk/dp/B077GV18P3?tag=broadbandhelp"
-  image="/images/products/truelove-harness.jpg" >}}
+  image="/images/products/amazon-b077gv18p3.jpg" >}}
 
 **Pros:**
 - Front and back D-rings

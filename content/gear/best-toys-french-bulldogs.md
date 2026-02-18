@@ -104,9 +104,9 @@ If a toy can satisfy both the distinguished gentleman and the agent of chaos, it
 
 {{< product-card 
   name="KONG Classic Dog Toy (Medium, Red)"
-  image="/images/products/kong-classic-medium.jpg"
-  rating="4.8"
-  price="£8.79"
+  image="/images/products/amazon-b000ayn7lu.jpg"
+  rating="4.5"
+  price="£8.28"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B000AYN7LU?tag=broadbandhelp"
   affiliate="true" >}}
@@ -127,9 +127,9 @@ This is one of the boys' absolute favourites. Buster chews his with the focused 
 
 {{< product-card 
   name="Nylabone Power Chew DuraChew Textured Ring"
-  image="/images/products/nylabone-durachew.jpg"
-  rating="4.5"
-  price="£8.95"
+  image="/images/products/amazon-b003almw0m.jpg"
+  rating="4.3"
+  price="£15.27"
   where="Amazon UK / Pets at Home"
   url="https://www.amazon.co.uk/dp/B003ALMW0M?tag=broadbandhelp"
   affiliate="true" >}}
@@ -148,9 +148,9 @@ For the serious chewers (hi, Jago), Nylabone's Power Chew range is purpose-built
 
 {{< product-card 
   name="KONG Extreme Dog Toy (Medium, Black)"
-  image="/images/products/kong-extreme.jpg"
-  rating="4.7"
-  price="£11.68"
+  image="/images/products/amazon-b0002ar0ii.jpg"
+  rating="4.6"
+  price="£12.24"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002AR0II?tag=broadbandhelp"
   affiliate="true" >}}
@@ -177,9 +177,9 @@ French Bulldogs are smarter than people give them credit for. Sure, Jago's prima
 
 {{< product-card 
   name="Nina Ottosson Dog Brick Puzzle Toy"
-  image="/images/products/nina-ottosson-brick.jpg"
-  rating="4.6"
-  price="£19.99"
+  image="/images/products/amazon-b0711y9xtf.jpg"
+  rating="4.3"
+  price="£20.03"
   where="Amazon UK / VioVet"
   url="https://www.amazon.co.uk/dp/B0711Y9XTF?tag=broadbandhelp"
   affiliate="true" >}}
@@ -198,8 +198,8 @@ This is hands-down Buster's favourite toy. The Dog Brick has flip-up compartment
 
 {{< product-card 
   name="Snuffle Mat for Dogs (Medium/Large)"
-  image="/images/products/snuffle-mat.jpg"
-  rating="4.4"
+  image="/images/products/amazon-b09wvrbk61.jpg"
+  rating="4.2"
   price="£12.98"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B09WVRBK61?tag=broadbandhelp"
@@ -219,9 +219,9 @@ This looks like a shaggy rug had a baby with a dog toy. Hide kibble or treats in
 
 {{< product-card 
   name="KONG Wobbler Interactive Treat Toy"
-  image="/images/products/kong-wobbler.jpg"
-  rating="4.5"
-  price="£14.99"
+  image="/images/products/amazon-b07542nrbn.jpg"
+  rating="3.6"
+  price="£6.68"
   where="Pets at Home / Amazon UK"
   url="https://www.amazon.co.uk/dp/B07542NRBN?tag=broadbandhelp"
   affiliate="true" >}}
@@ -250,9 +250,9 @@ Either way, if your Frenchie does enjoy fetch, you need the right tools.
 
 {{< product-card 
   name="Chuckit! Breathe Right Fetch Ball (Medium, 2-Pack)"
-  image="/images/products/chuckit-breathe-right.jpg"
-  rating="4.7"
-  price="£9.99"
+  image="/images/products/amazon-b07d3fz15j.jpg"
+  rating="4.4"
+  price="£10.92"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B07D3FZ15J?tag=broadbandhelp"
   affiliate="true" >}}
@@ -273,9 +273,9 @@ Regular tennis balls are fine for gentle play, but the breathable design makes t
 
 {{< product-card 
   name="KONG Flyer Rubber Frisbee"
-  image="/images/products/kong-flyer.jpg"
-  rating="4.3"
-  price="£8.50"
+  image="/images/products/amazon-b000brtadk.jpg"
+  rating="4.5"
+  price="£10.58"
   where="Pets at Home / Amazon UK"
   url="https://www.amazon.co.uk/dp/B000BRTADK?tag=broadbandhelp"
   affiliate="true" >}}
@@ -300,9 +300,9 @@ Yes, these are tough, muscular dogs with powerful jaws. They're also massive sof
 
 {{< product-card 
   name="KONG Wild Knots Bear (Medium/Large)"
-  image="/images/products/kong-wild-knots.jpg"
-  rating="4.6"
-  price="£11.99"
+  image="/images/products/amazon-b00b4ur08k.jpg"
+  rating="4.2"
+  price="£10.99"
   where="Amazon UK / The Range"
   url="https://www.amazon.co.uk/dp/B00B4UR08K?tag=broadbandhelp"
   affiliate="true" >}}
@@ -321,9 +321,9 @@ Soft and cuddly on the outside, but with an internal knotted rope skeleton for d
 
 {{< product-card 
   name="ZippyPaws Skinny Peltz Fox"
-  image="/images/products/zippypaws-skinny.jpg"
+  image="/images/products/amazon-b0002asnac.jpg"
   rating="4.4"
-  price="£7.99"
+  price="£12.07"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002ASNAC?tag=broadbandhelp"
   affiliate="true" >}}
@@ -346,9 +346,9 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
 
 {{< product-card 
   name="Rosewood Rubber Ball with Rope (Medium)"
-  image="/images/products/rosewood-ball.jpg"
-  rating="4.2"
-  price="£3.99"
+  image="/images/products/amazon-b00p0yqyyw.jpg"
+  rating="4.5"
+  price="£16.14"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}
