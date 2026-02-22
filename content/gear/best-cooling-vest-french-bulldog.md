@@ -84,7 +84,7 @@ We've put these through their paces during Cornwall's "summer" and a particularl
 
 {{< product-card 
   name="Ruffwear Swamp Cooler Cooling Vest"
-  price="£9.99"
+  price="£49.99"
   rating="4.4"
   url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
   image="/images/products/amazon-b01mz9d28n.jpg" >}}

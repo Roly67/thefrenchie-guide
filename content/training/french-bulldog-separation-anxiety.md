@@ -177,7 +177,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
 
 {{< product-card 
     name="Kong Classic Dog Toy"
-    price="£8.28"
+    price="£8.78"
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
@@ -189,7 +189,7 @@ I prepare three frozen Kongs at a time. Game changer.
 
 {{< product-card 
     name="Furbo Dog Camera with Treat Dispenser"
-    price="£39.00"
+    price="£40.00"
     rating="4.1"
     image="/images/products/amazon-b01fxc7jwq.jpg"
     url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"

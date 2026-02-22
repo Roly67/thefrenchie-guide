@@ -84,7 +84,7 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
 {{< product-card 
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
-  rating="4.5"
+  rating="4.4"
   price="£8.37"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
@@ -393,7 +393,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
   name="Piddle Patch Indoor Dog Toilet"
   image="/images/products/amazon-b07yztpmrq.jpg"
   rating="4.0"
-  price="£18.04"
+  price="£33.99"
   retailer="Various UK retailers"
   url="https://www.amazon.co.uk/dp/B07YZTPMRQ?tag=broadbandhelp" >}}
 Real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. Requires regular replacement but gets good reviews from flat-living Frenchie owners.
@@ -457,7 +457,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
 {{< product-card 
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
-  rating="4.5"
+  rating="4.4"
   price="£8.37"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}

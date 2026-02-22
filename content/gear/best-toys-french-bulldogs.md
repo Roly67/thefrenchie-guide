@@ -106,7 +106,7 @@ If a toy can satisfy both the distinguished gentleman and the agent of chaos, it
   name="KONG Classic Dog Toy (Medium, Red)"
   image="/images/products/amazon-b000ayn7lu.jpg"
   rating="4.5"
-  price="£8.28"
+  price="£8.78"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B000AYN7LU?tag=broadbandhelp"
   affiliate="true" >}}
@@ -129,7 +129,7 @@ This is one of the boys' absolute favourites. Buster chews his with the focused 
   name="Nylabone Power Chew DuraChew Textured Ring"
   image="/images/products/amazon-b003almw0m.jpg"
   rating="4.3"
-  price="£15.27"
+  price="£16.57"
   where="Amazon UK / Pets at Home"
   url="https://www.amazon.co.uk/dp/B003ALMW0M?tag=broadbandhelp"
   affiliate="true" >}}
@@ -252,7 +252,7 @@ Either way, if your Frenchie does enjoy fetch, you need the right tools.
   name="Chuckit! Breathe Right Fetch Ball (Medium, 2-Pack)"
   image="/images/products/amazon-b07d3fz15j.jpg"
   rating="4.4"
-  price="£10.92"
+  price="£10.90"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B07D3FZ15J?tag=broadbandhelp"
   affiliate="true" >}}
@@ -302,7 +302,7 @@ Yes, these are tough, muscular dogs with powerful jaws. They're also massive sof
   name="KONG Wild Knots Bear (Medium/Large)"
   image="/images/products/amazon-b00b4ur08k.jpg"
   rating="4.2"
-  price="£10.99"
+  price="£10.18"
   where="Amazon UK / The Range"
   url="https://www.amazon.co.uk/dp/B00B4UR08K?tag=broadbandhelp"
   affiliate="true" >}}
@@ -323,7 +323,7 @@ Soft and cuddly on the outside, but with an internal knotted rope skeleton for d
   name="ZippyPaws Skinny Peltz Fox"
   image="/images/products/amazon-b0002asnac.jpg"
   rating="4.4"
-  price="£12.07"
+  price="£16.06"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002ASNAC?tag=broadbandhelp"
   affiliate="true" >}}
@@ -348,7 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   name="Rosewood Rubber Ball with Rope (Medium)"
   image="/images/products/amazon-b00p0yqyyw.jpg"
   rating="4.5"
-  price="£16.14"
+  price="£16.99"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}

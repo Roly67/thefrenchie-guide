@@ -86,7 +86,7 @@ Controversial topic, I know. But crate training makes [our potty training guide]
 
 {{< product-card 
     name="MidWest iCrate 24in Starter Kit"
-    price="£31.40"
+    price="£56.49"
     rating="4.8"
     image="/images/products/amazon-b07d1wp1fd.jpg"
     url="https://www.amazon.co.uk/dp/B07D1WP1FD/?tag=broadbandhelp-21"
@@ -131,7 +131,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
 
 {{< product-card 
     name="Elevated French Bulldog Bowl Set"
-    price="£22.63"
+    price="£22.64"
     rating="4.2"
     image="/images/products/amazon-b09ftb2t19.jpg"
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
@@ -183,7 +183,7 @@ Training treats should be:
 
 {{< product-card 
     name="PureBites Freeze-Dried Chicken Treats"
-    price="£49.03"
+    price="£53.45"
     rating="4.4"
     image="/images/products/amazon-b000z3mbrm.jpg"
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
@@ -232,8 +232,8 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
 
 {{< product-card 
     name="PawPride Dog Cooling Mat"
-    price="£14.99"
-    rating="3.9"
+    price="£9.99"
+    rating="4.0"
     image="/images/products/amazon-b07tgby43k.jpg"
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
 >}}
@@ -279,8 +279,8 @@ Puppies need appropriate toys. Not "every toy in the shop," but targeted, safe o
 
 {{< product-card 
     name="Kong Puppy Toy Small"
-    price="£7.79"
-    rating="4.2"
+    price="£7.77"
+    rating="4.5"
     image="/images/products/amazon-b0002ar18c.jpg"
     url="https://www.amazon.co.uk/dp/B0002AR18C/?tag=broadbandhelp-21"
 >}}
@@ -291,7 +291,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
 
 {{< product-card 
     name="Nylabone Puppy Chew Starter Pack"
-    price="£17.52"
+    price="£14.78"
     rating="4.4"
     image="/images/products/amazon-b06xcnccgk.jpg"
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
@@ -366,7 +366,7 @@ Frenchies have sensitive skin. Don't use human shampoo or harsh dog shampoos.
 {{< product-card 
     name="Burt's Bees Puppy Shampoo 2-in-1"
     price="£10.83"
-    rating="4.4"
+    rating="4.5"
     image="/images/products/amazon-b00cvtro48.jpg"
     url="https://www.amazon.co.uk/dp/B00CVTRO48/?tag=broadbandhelp-21"
 >}}

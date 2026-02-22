@@ -187,7 +187,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 {{< product-card 
   name="Julius-K9 IDC Powerharness"
-  price="£32.50"
+  price="£30.00"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
   image="/images/products/amazon-b004iejf6e.jpg" >}}
@@ -232,7 +232,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< product-card 
   name="Ruffwear Front Range Harness"
-  price="£115.26"
+  price="£43.99"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
   image="/images/products/amazon-b082fq7fqg.jpg" >}}
