@@ -68,8 +68,9 @@ This difference matters for food choice too. Buster's iron constitution can hand
 {{< product-card
   name="Forthglade Natural Grain-Free Complete Variety Pack"
   url="https://www.amazon.co.uk/Forthglade-Natural-Grain-Complete-Variety/dp/B00Y19A9BQ/?tag=broadbandhelp-21"
-  description="Natural grain-free wet food with named meat as the first ingredient. No artificial colours, flavours, or preservatives. Made in Devon."
->}}
+  image="/images/products/amazon-b00y19a9bq.jpg"
+  price="£29.99"
+  rating="4.7" />}}
 
 **Key features:**
 - Named meat protein first (minimum 75% meat)
@@ -88,8 +89,9 @@ This difference matters for food choice too. Buster's iron constitution can hand
 {{< product-card
   name="Lily's Kitchen Adult Chicken Complete Dry Food"
   url="https://www.amazon.co.uk/Lilys-Kitchen-Adult-Chicken-Complete/dp/B0757S3C3S/?tag=broadbandhelp-21"
-  description="Proper food made with freshly prepared chicken, vegetables, and botanicals. No meat meal, bone meal, or fillers."
->}}
+  image="/images/products/amazon-b0757s3c3s.jpg"
+  price="£39.99"
+  rating="4.5" />}}
 
 **Key features:**
 - Freshly prepared chicken as first ingredient
