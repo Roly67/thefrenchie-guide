@@ -3,7 +3,7 @@ title: "Best Dog Food for French Bulldogs UK: Our Top Picks (2026)"
 description: "We review the best dog food for French Bulldogs available in the UK, tested with Buster and Jago. From sensitive stomachs to grain-free options, find what actually works."
 date: 2026-02-23
 lastmod: 2026-02-23
-draft: true
+draft: false
 category: "Gear & Accessories"
 tags: ["dog food", "nutrition", "gear", "reviews", "UK", "sensitive stomach", "grain-free"]
 author: "Rowland & The Boys"

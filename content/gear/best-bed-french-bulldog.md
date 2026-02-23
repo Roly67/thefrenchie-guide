@@ -3,7 +3,7 @@ title: "Best Dog Bed for French Bulldogs: Orthopedic Support for Your Frenchie (
 description: "We tested orthopedic dog beds with Buster and Jago to find the best bed for French Bulldogs. Memory foam, bolsters, cooling features — what actually works for flat-faced breeds."
 date: 2026-02-23
 lastmod: 2026-02-23
-draft: true
+draft: false
 category: "Gear & Accessories"
 tags: ["dog beds", "gear", "reviews", "orthopedic", "sleep", "UK"]
 author: "Rowland & The Boys"

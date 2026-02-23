@@ -3,7 +3,7 @@ title: "French Bulldog Breathing Problems: Understanding BOAS & What You Can Do"
 description: "Learn about French Bulldog breathing problems, BOAS (Brachycephalic Obstructive Airway Syndrome), symptoms to watch for, and practical management tips from our experience with Buster and Jago."
 date: 2026-02-23
 lastmod: 2026-02-23
-draft: true
+draft: false
 category: "Breed Info"
 tags: ["health", "BOAS", "breathing", "brachycephalic", "veterinary", "safety"]
 author: "Rowland & The Boys"
