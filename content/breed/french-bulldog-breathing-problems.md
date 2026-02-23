@@ -44,7 +44,7 @@ BOAS encompasses several anatomical abnormalities:
 
 - **Grade 0:** No clinical signs
 - **Grade 1:** Mild signs — snoring, some noise when excited
-- **Grade 2:** Moderate signs — obvious breathing noise, reduced exercise tolerance. **Buster lives here.**
+- **Grade 2:** Moderate signs — obvious breathing noise, reduced exercise tolerance.
 - **Grade 3:** Severe signs — breathing noise at rest, very limited exercise
 
 Grades 2 and 3 often benefit from surgical correction.
@@ -74,11 +74,15 @@ This article shares our experience, but BOAS is a medical condition. If your Fre
 
 If your Frenchie can't manage a 10-minute walk without significant distress, that's a red flag.
 
-**Buster's pattern (Grade 2):** Happy for 15-20 minutes, then increased breathing noise, starts seeking shade. We plan shorter, more frequent walks.
+Buster is generally OK — no diagnosed breathing difficulties as such — but we've learned the hard way that there are firm limits. Our rule is simple: **no more than 2 miles per walk**, and we stick to it religiously.
 
 ### Heat Sensitivity
 
-French Bulldogs cannot regulate body temperature effectively. Signs of overheating:
+French Bulldogs cannot regulate body temperature effectively. Our vet's advice was blunt: **don't walk Frenchies in full sunshine.** We follow a hard rule — **no walks above 19°C in direct sun** unless there's reliable shade along the route.
+
+We learned this the scary way. One day we walked Buster in full sunshine at 23°C with little shade and barely any breeze. His breathing became severely distressed, and it took **over an hour** for it to normalise. That was genuinely frightening and a lesson we'll never forget.
+
+Signs of overheating:
 - Excessive panting that doesn't slow with rest
 - Drooling more than usual
 - Bright red gums or tongue
@@ -97,7 +101,7 @@ French Bulldogs cannot regulate body temperature effectively. Signs of overheati
 
 **Excess weight makes BOAS exponentially worse.** Every extra kilogram is more strain on an already compromised airway.
 
-Buster was edging toward overweight when we got him. After working with our vet on weight management, the difference in his breathing was noticeable within weeks.
+Even a small amount of extra weight puts more strain on an already compromised airway. Keep your Frenchie lean — your vet can help you find the right target weight.
 
 ### Exercise Management
 
@@ -116,11 +120,16 @@ Buster was edging toward overweight when we got him. After working with our vet 
 
 ### Temperature Control
 
-- Air conditioning or fans during warm weather
-- Cooling mats
+When Buster does get overheated, our go-to recovery kit is:
+- **Cooling mats** — we keep one by the front door for after walks
+- **A damp towel** draped over him
+- **A fan** pointed in his direction
 - Plenty of fresh water
+
+More generally:
+- Air conditioning or fans during warm weather
 - Never leave in cars
-- Limit exercise when warm
+- Limit exercise when it's warm — stick to early mornings or late evenings
 
 ### Harness vs. Collar (Use a Harness)
 
