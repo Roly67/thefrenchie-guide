@@ -16,17 +16,15 @@ seo:
   keywords: ["best bed for french bulldog", "french bulldog bed", "orthopedic dog bed frenchie", "best dog bed for frenchies uk", "memory foam dog bed french bulldog"]
 ---
 
-We spent £200 on an orthopedic memory foam bed with a removable, washable cover, therapeutic support, and rave reviews from every Labrador owner on the internet.
+We've tried various beds over the years, but the boys have very clear opinions about where they want to sleep — and it changes throughout the day.
 
-Buster and Jago have collectively slept on it for approximately four hours. Combined. In three months.
-
-Where do they sleep? The doormat. The bath mat. That one specific spot on the sofa where I've repeatedly told them they're not allowed. And Jago's personal favourite: directly on top of my shoes, ideally the expensive ones.
+During the day, you'll find them on the doormat or, in Jago's case, on top of my Crocs. In the evening, they migrate to the chairs and sofa. Overnight, they finally settle into their donut beds inside their crates. That's the routine, and woe betide anyone who disrupts it.
 
 French Bulldogs are notoriously picky about where they sleep. They're also prone to joint issues, hip dysplasia, and the general wear and tear that comes from being a compact, muscular breed with a fondness for dramatic leaps onto furniture they probably shouldn't be leaping onto.
 
-Finding the best bed for a French Bulldog means balancing what they *need* (orthopedic support, proper alignment) with what they'll *actually use* (apparently, floor mats and your personal belongings).
+Finding the best bed for a French Bulldog means balancing what they *need* (orthopedic support, proper alignment) with what they'll *actually use*. After testing several options, we discovered that donut-style calming beds were the clear winners in our household — both boys took to them immediately and now use them every single night.
 
-This guide shares what we've learned from testing multiple beds with two very different Frenchies — Buster, who has the joint stiffness of a distinguished gentleman entering his middle years, and Jago, who would sleep on a bed of nails if it meant being near us.
+This guide shares what we've learned from testing multiple beds with two very different Frenchies — Buster, who has no joint issues thankfully but loves the cosiness of his donut, and Jago, who would sleep on a bed of nails if it meant being near us.
 
 <!-- IMAGE PLACEHOLDER: Buster sprawled on a proper bed looking majestic -->
 
@@ -36,7 +34,7 @@ This guide shares what we've learned from testing multiple beds with two very di
 
 French Bulldogs are prone to hip dysplasia, intervertebral disc disease (IVDD), and general joint issues. A proper orthopedic bed isn't a luxury — it's preventive care.
 
-Buster's morning stiffness improved noticeably when we switched to a proper memory foam bed. He gets up with less of that "oh, everything hurts" stretch he used to do.
+Buster doesn't have joint issues — he's a healthy lad — but proper support from a young age is about prevention, not just treatment.
 
 ### Temperature Regulation
 
@@ -87,54 +85,27 @@ Buster prefers three-sided. Jago likes full surround for that "nest" feeling.
 
 ## Best Dog Beds for French Bulldogs: Our Recommendations
 
-### 1. Best Overall: [Brand Name] — [Product]
+### 1. Best Overall & Our Pick: ANWA Donut Calming Bed
 
-**Why it won:** The perfect balance of orthopedic support, durability, and — crucially — Frenchie acceptance.
+**Why it won:** Both Buster and Jago took to these immediately. They curl up in them every single night in their crates, and the raised rim gives them that secure, "nest" feeling that Frenchies love. We've bought multiple — that's how much we rate them.
 
-**Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- High-density therapeutic memory foam (5-inch base)
-- Three-sided bolster design
-- Removable, machine-washable cover
-- Water-resistant liner
-- Non-slip bottom
-
-**Real-world testing:** Buster's morning stiffness improved within two weeks. Jago sleeps through the night without relocating to the bath mat.
-
-### 2. Best Orthopedic: [Brand Name] — [Product]
-
-**Why we recommend it:** For Frenchies with existing joint issues or preventive care.
+{{< product-card
+  name="ANWA Donut Calming & Cooling Dog Bed"
+  url="https://www.amazon.co.uk/ANWA-Calming-Cooling-Warming-Available/dp/B0BMLKCPFZ/?tag=broadbandhelp-21"
+  image="/images/sleeping-resting/20210919_111331.jpg"
+  description="Calming donut bed with raised rim for Frenchies who love to nest. Cooling and warming options available. Machine washable."
+>}}
 
 **Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Medical-grade orthopedic foam
-- CertiPUR-US certified
-- 7-inch total thickness
-- Lifetime warranty on foam
+- Raised donut rim for head and chin support
+- Soft, plush material Frenchies love
+- Machine washable
+- Available in cooling and warming versions
+- Affordable enough to buy multiples
 
-We got this when Buster started showing morning stiffness. The difference was noticeable within days.
+**Real-world testing:** Both boys use these every night in their crates. Buster loves the donut bed — he circles twice, collapses into it, and is snoring within minutes. Jago curls up tight against the rim.
 
-### 3. Best Cooling Bed: [Brand Name] — [Product]
-
-**Why it makes the list:** Frenchies overheat. This bed helps, especially during summer.
-
-**Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Gel-infused cooling memory foam
-- Breathable mesh cover
-- Elevated design for air circulation
-
-Both dogs gravitate to this on warm days. Jago, who runs hot, will actually choose this over the tiled floor.
-
-### 4. Best Budget Option: [Brand Name] — [Product]
-
-**Why it's worth considering:** Decent support at a more accessible price point.
-
-**Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Egg-crate style foam
-- Removable cover
-- Good durability for the price
+![Buster relaxing in his favourite sleeping spot](/images/sleeping-resting/20221203_155637.JPG)
 
 ## Beds to Avoid
 
@@ -152,7 +123,7 @@ Put the bed where they naturally want to be. Near your bed if they sleep in your
 
 ### Make It Smell Right
 
-Put an old blanket or something that smells like you on it initially. Buster wouldn't touch his new bed until we put his old, beloved blanket on top.
+Put an old blanket or something that smells like you on it initially. Both boys were initially hesitant until we put their old blankets on top.
 
 ### Positive Association
 
