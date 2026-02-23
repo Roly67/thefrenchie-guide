@@ -393,7 +393,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
   name="Piddle Patch Indoor Dog Toilet"
   image="/images/products/amazon-b07yztpmrq.jpg"
   rating="4.0"
-  price="£33.99"
+  price="£24.99"
   retailer="Various UK retailers"
   url="https://www.amazon.co.uk/dp/B07YZTPMRQ?tag=broadbandhelp" >}}
 Real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. Requires regular replacement but gets good reviews from flat-living Frenchie owners.

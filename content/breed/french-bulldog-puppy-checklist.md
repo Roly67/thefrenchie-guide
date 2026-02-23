@@ -131,7 +131,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
 
 {{< product-card 
     name="Elevated French Bulldog Bowl Set"
-    price="£22.64"
+    price="£22.66"
     rating="4.2"
     image="/images/products/amazon-b09ftb2t19.jpg"
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
@@ -232,7 +232,7 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
 
 {{< product-card 
     name="PawPride Dog Cooling Mat"
-    price="£9.99"
+    price="£7.24"
     rating="4.0"
     image="/images/products/amazon-b07tgby43k.jpg"
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
@@ -365,7 +365,7 @@ Frenchies have sensitive skin. Don't use human shampoo or harsh dog shampoos.
 
 {{< product-card 
     name="Burt's Bees Puppy Shampoo 2-in-1"
-    price="£10.83"
+    price="£10.49"
     rating="4.5"
     image="/images/products/amazon-b00cvtro48.jpg"
     url="https://www.amazon.co.uk/dp/B00CVTRO48/?tag=broadbandhelp-21"
