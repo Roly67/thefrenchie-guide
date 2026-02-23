@@ -24,7 +24,7 @@ Finding the best dog food for French Bulldogs in the UK isn't just about picking
 
 After three years of careful experimentation, we've identified what actually works. This guide shares our top recommendations for French Bulldog food available in the UK.
 
-<!-- IMAGE PLACEHOLDER: Buster and Jago waiting for their food bowls -->
+![French Bulldog looking up at an empty plate after a meal](/images/food-eating/frenchie-at-table-after-meal.jpg)
 
 ## What Makes Good French Bulldog Food?
 
