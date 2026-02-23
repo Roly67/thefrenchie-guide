@@ -41,6 +41,10 @@ French Bulldogs need quality protein as the first ingredient — not grains, not
 
 Some French Bulldogs do better on grain-free diets, particularly those with allergies. Others thrive on quality whole grains like oats and brown rice. Buster does fine with grains. Jago is strictly grain-free.
 
+### Watch for Hidden Allergens
+
+Our vet's advice was clear: check for allergies, because some Frenchies are allergic to common fillers like peas and potatoes — ingredients you'd assume are perfectly safe. Jago's main sensitivity is dairy, particularly cream. We learned that the hard way when someone left a bowl of cream unattended. The aftermath was... atmospheric.
+
 ### Appropriate Calorie Density
 
 French Bulldogs are compact dogs with a tendency toward obesity. Their food needs to be nutrient-dense without being calorie-dense.
@@ -49,50 +53,49 @@ French Bulldogs are compact dogs with a tendency toward obesity. Their food need
 "The food you choose affects more than just my waistline. It affects the air quality in your home. Choose wisely, human."
 {{< /callout >}}
 
+## Mealtime with Buster and Jago
+
+Before we get into our recommendations, a quick note on our two taste testers. Buster and Jago have very different mealtime personalities. Buster absolutely scarfs his food — the bowl is empty before you've even straightened up from putting it down. Jago, on the other hand, waits for Buster's permission before eating. It's a fascinating little social hierarchy: Buster eats first, gives Jago "the nod," and only then does Jago tuck in.
+
+This difference matters for food choice too. Buster's iron constitution can handle most things. Jago's sensitive stomach means we have to be more selective.
+
 ## Best Dog Food for French Bulldogs UK: Our Top Picks
 
-### 1. Best Overall: [Brand Name] — [Product]
+### 1. Best Overall: Forthglade — Natural Grain-Free Complete
 
-**Why it won:** High-quality named protein first, no artificial nonsense, and no digestive drama.
+**Why it won:** High-quality named protein first, no artificial nonsense, and no digestive drama from either of our boys.
+
+{{< product-card
+  name="Forthglade Natural Grain-Free Complete Variety Pack"
+  url="https://www.amazon.co.uk/Forthglade-Natural-Grain-Complete-Variety/dp/B00Y19A9BQ/?tag=broadbandhelp-21"
+  description="Natural grain-free wet food with named meat as the first ingredient. No artificial colours, flavours, or preservatives. Made in Devon."
+>}}
 
 **Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Named meat protein first
+- Named meat protein first (minimum 75% meat)
 - No artificial colours, flavours, or preservatives
-- Added probiotics for digestive health
-- Calorie-controlled
+- Grain-free — ideal for sensitive Frenchie stomachs
+- Made in the UK
 
 **Buster's verdict:** "Acceptable. I'll eat it without making that disappointed face."
 
 **Jago's verdict:** "FANTASTIC. IS THERE MORE?"
 
-### 2. Best for Sensitive Stomachs: [Brand Name] — [Product]
+### 2. Best for Sensitive Stomachs: Lily's Kitchen — Adult Chicken Complete
 
-**Why we recommend it:** Limited ingredient formula with single protein source and minimal ingredients.
+**Why we recommend it:** A high-quality complete food that Jago's dairy-sensitive stomach handles brilliantly. The ingredient list is transparent and free from common Frenchie triggers.
 
-**Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Single animal protein source
-- No common allergens
-- Prebiotic fibre for gut health
-
-### 3. Best Grain-Free: [Brand Name] — [Product]
-
-**Why it makes the list:** Complete nutrition without triggering grain sensitivities.
+{{< product-card
+  name="Lily's Kitchen Adult Chicken Complete Dry Food"
+  url="https://www.amazon.co.uk/Lilys-Kitchen-Adult-Chicken-Complete/dp/B0757S3C3S/?tag=broadbandhelp-21"
+  description="Proper food made with freshly prepared chicken, vegetables, and botanicals. No meat meal, bone meal, or fillers."
+>}}
 
 **Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Sweet potato as quality carbohydrate
-- High meat content (60%+)
-- No grains or fillers
-
-### 4. Best for Puppies: [Brand Name] — [Product]
-
-**Key features:**
-- [AFFILIATE LINK PLACEHOLDER]
-- Higher protein for growth
-- Smaller kibble size for Frenchie mouths
-- DHA for brain development
+- Freshly prepared chicken as first ingredient
+- No common allergens or fillers
+- Added prebiotic fibre for gut health
+- Clear, honest ingredient list
 
 ## Ingredients to Avoid
 
