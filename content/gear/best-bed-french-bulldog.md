@@ -92,9 +92,9 @@ Buster prefers three-sided. Jago likes full surround for that "nest" feeling.
 {{< product-card
   name="ANWA Donut Calming & Cooling Dog Bed"
   url="https://www.amazon.co.uk/ANWA-Calming-Cooling-Warming-Available/dp/B0BMLKCPFZ/?tag=broadbandhelp-21"
-  image="/images/sleeping-resting/20210919_111331.jpg"
-  description="Calming donut bed with raised rim for Frenchies who love to nest. Cooling and warming options available. Machine washable."
->}}
+  image="/images/sleeping-resting/amazon-b0bmlkcpfz.jpg"
+  price="£34.99"
+  rating="4.5" />}}
 
 **Key features:**
 - Raised donut rim for head and chin support
