@@ -325,7 +325,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Front Range Harness"
-    price="£21.99"
+    price="£47.32"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
@@ -335,7 +335,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Swamp Cooler Cooling Vest"
-    price="£49.99"
+    price="£26.99"
     rating="4.4"
     image="/images/products/amazon-b01mz9d28n.jpg"
     url="https://www.amazon.co.uk/dp/B01MZ9D28N/?tag=broadbandhelp-21"
@@ -355,7 +355,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Collapsible Dog Water Bowl"
-    price="£12.90"
+    price="£11.43"
     rating="4.2"
     image="/images/products/amazon-b01arbs2s8.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
@@ -365,7 +365,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Hurtta Extreme Warmer Dog Coat"
-    price="£16.99"
+    price="£20.99"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"

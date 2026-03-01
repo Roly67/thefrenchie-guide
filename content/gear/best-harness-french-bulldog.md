@@ -232,7 +232,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< product-card 
   name="Ruffwear Front Range Harness"
-  price="£21.99"
+  price="£47.32"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
   image="/images/products/amazon-b082fq7fqg.jpg" >}}

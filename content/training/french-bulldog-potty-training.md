@@ -67,7 +67,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.3"
-  price="£11.29"
+  price="£11.63"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 This isn't optional. Regular cleaners don't remove the scent markers that tell your dog "this is the wee spot." Enzyme cleaners actually break down the proteins. We've tried cheaper alternatives. Don't. Just don't.
@@ -393,7 +393,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
   name="Piddle Patch Indoor Dog Toilet"
   image="/images/products/amazon-b07yztpmrq.jpg"
   rating="4.0"
-  price="£24.99"
+  price="£20.99"
   retailer="Various UK retailers"
   url="https://www.amazon.co.uk/dp/B07YZTPMRQ?tag=broadbandhelp" >}}
 Real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. Requires regular replacement but gets good reviews from flat-living Frenchie owners.
@@ -446,7 +446,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.3"
-  price="£11.29"
+  price="£11.63"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 **Why we like it:** Actually works. Removes odours completely. One bottle lasts ages. Multiple surfaces. Doesn't smell artificial. Buy it. Seriously.

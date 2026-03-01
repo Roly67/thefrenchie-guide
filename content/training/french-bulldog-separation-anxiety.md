@@ -165,7 +165,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
 
 {{< product-card 
     name="ADAPTIL Calm Home Diffuser for Dogs"
-    price="£23.00"
+    price="£21.42"
     rating="3.8"
     image="/images/products/amazon-b0038xbojc.jpg"
     url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
@@ -190,7 +190,7 @@ I prepare three frozen Kongs at a time. Game changer.
 {{< product-card 
     name="Furbo Dog Camera with Treat Dispenser"
     price="£40.00"
-    rating="4.1"
+    rating="3.6"
     image="/images/products/amazon-b01fxc7jwq.jpg"
     url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"
 >}}
@@ -201,7 +201,7 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 
 {{< product-card 
     name="ThunderShirt Classic Anxiety Jacket"
-    price="£35.00"
+    price="£34.94"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
