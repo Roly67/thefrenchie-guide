@@ -3,7 +3,7 @@ title: "Best Bed for French Bulldogs: What Buster & Jago Actually Sleep On (2026
 description: "We've tested orthopedic beds, donut beds, cooling beds, and cot-style beds with two Frenchies. Here's what actually works — and what they ignored in favour of the doormat."
 date: 2026-02-23
 lastmod: 2026-03-02
-draft: true
+draft: false
 category: "Gear & Accessories"
 tags: ["dog beds", "gear", "reviews", "orthopedic", "sleep", "UK"]
 author: "Rowland & The Boys"

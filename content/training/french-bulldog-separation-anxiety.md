@@ -3,7 +3,7 @@ title: "French Bulldog Separation Anxiety: A Survival Guide (For You Both)"
 description: "Does your Frenchie lose the plot when you leave? Learn to recognise separation anxiety signs and discover practical, tested strategies to help your French Bulldog cope when you're not home."
 slug: french-bulldog-separation-anxiety
 date: 2026-02-17
-draft: true
+draft: false
 silo: training
 keywords:
   - french bulldog separation anxiety
