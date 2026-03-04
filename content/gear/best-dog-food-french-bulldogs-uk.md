@@ -3,7 +3,7 @@ title: "Best Dog Food for French Bulldogs UK: What We Actually Feed Ours (2026)"
 description: "We've tested dozens of dog foods with two very different Frenchies. Here's what actually works for French Bulldogs in the UK — from sensitive stomachs to the fart situation."
 date: 2026-02-23
 lastmod: 2026-03-02
-draft: true
+draft: false
 category: "Gear & Accessories"
 tags: ["dog food", "nutrition", "gear", "reviews", "UK", "sensitive stomach", "grain-free"]
 author: "Rowland & The Boys"

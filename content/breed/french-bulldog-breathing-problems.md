@@ -3,7 +3,7 @@ title: "French Bulldog Breathing Problems: What's Normal and When to Worry"
 description: "Your Frenchie snores, snorts, and sounds like a tiny motorbike. But when should you actually worry? A practical owner's guide to French Bulldog breathing, BOAS, and knowing the difference between normal and not."
 date: 2026-02-23
 lastmod: 2026-03-02
-draft: true
+draft: false
 category: "Breed Info"
 tags: ["health", "BOAS", "breathing", "brachycephalic", "safety"]
 author: "Rowland & The Boys"
