@@ -3,7 +3,7 @@ title: "How to Choose a French Bulldog Breeder in the UK: Red Flags, Green Flags
 description: "Choosing the right French Bulldog breeder is the most important decision you'll make. Here's how to find a reputable UK breeder, spot puppy farms, and what questions to ask — from an owner who's done it twice."
 date: 2026-03-04
 lastmod: 2026-03-04
-draft: true
+draft: false
 category: "Breed Info"
 tags: ["breeder", "buying", "UK", "puppy", "health testing", "BOAS"]
 author: "Rowland & The Boys"

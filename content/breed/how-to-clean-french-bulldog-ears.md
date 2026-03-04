@@ -3,7 +3,7 @@ title: "How to Clean French Bulldog Ears: A Step-by-Step Guide (From Someone Who
 description: "Those magnificent bat ears need regular cleaning. Here's exactly how to clean your French Bulldog's ears safely, what products to use, and how to spot infections early — from real experience with Buster and Jago."
 date: 2026-03-04
 lastmod: 2026-03-04
-draft: true
+draft: false
 category: "Breed Info"
 tags: ["grooming", "ears", "health", "hygiene", "care"]
 author: "Rowland & The Boys"
