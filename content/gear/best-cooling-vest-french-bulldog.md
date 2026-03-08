@@ -84,7 +84,7 @@ We've put these through their paces during Cornwall's "summer" and a particularl
 
 {{< product-card 
   name="Ruffwear Swamp Cooler Cooling Vest"
-  price="£26.99"
+  price="£5.99"
   rating="4.4"
   url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
   image="/images/products/amazon-b01mz9d28n.jpg" >}}
@@ -331,7 +331,7 @@ Here's a confession: we don't use cooling *vests* most of the time. We use a coo
 
 {{< product-card 
   name="PawPride Pet Cooling Mat (Large, 50x65cm)"
-  price="£24.99"
+  price="£23.74"
   rating="3.9"
   url="https://www.amazon.co.uk/dp/B0CB6VLF1N?tag=broadbandhelp"
   image="/images/products/amazon-b0cb6vlf1n.jpg" >}}

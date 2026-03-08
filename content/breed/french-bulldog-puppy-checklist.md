@@ -55,7 +55,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
 
 {{< product-card 
     name="EzyDog Chest Plate Harness"
-    price="£25.50"
+    price="£19.13"
     rating="4.6"
     image="/images/products/amazon-b002qa6xpi.jpg"
     url="https://www.amazon.co.uk/dp/B002QA6XPI/?tag=broadbandhelp-21"
@@ -68,7 +68,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
 {{< product-card 
     name="Puppia Soft Harness"
     price="£18.00"
-    rating="4.4"
+    rating="4.5"
     image="/images/products/amazon-b0013mx6hs.jpg"
     url="https://www.amazon.co.uk/dp/B0013MX6HS/?tag=broadbandhelp-21"
 >}}
@@ -113,7 +113,7 @@ Puppies are disgusting. They'll wee on it, vomit on it, drag it through mud, and
 
 {{< product-card 
     name="Vet Bed Non-Slip Fleece"
-    price="£22.99"
+    price="£23.99"
     rating="4.6"
     image="/images/products/amazon-b019zoli8o.jpg"
     url="https://www.amazon.co.uk/dp/B019ZOLI8O/?tag=broadbandhelp-21"
@@ -131,7 +131,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
 
 {{< product-card 
     name="Elevated French Bulldog Bowl Set"
-    price="£23.00"
+    price="£23.54"
     rating="4.2"
     image="/images/products/amazon-b09ftb2t19.jpg"
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
@@ -154,7 +154,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
 
 {{< product-card 
     name="Royal Canin French Bulldog Puppy Food"
-    price="£23.98"
+    price="£19.29"
     rating="4.5"
     image="/images/products/amazon-b009h3wmzm.jpg"
     url="https://www.amazon.co.uk/dp/B009H3WMZM/?tag=broadbandhelp-21"
@@ -164,7 +164,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
 
 {{< product-card 
     name="James Wellbeloved Puppy Turkey & Rice"
-    price="£13.48"
+    price="£10.69"
     rating="4.6"
     image="/images/products/amazon-b002ovsgao.jpg"
     url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp-21"
@@ -183,7 +183,7 @@ Training treats should be:
 
 {{< product-card 
     name="PureBites Freeze-Dried Chicken Treats"
-    price="£51.61"
+    price="£52.04"
     rating="4.3"
     image="/images/products/amazon-b000z3mbrm.jpg"
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
@@ -232,7 +232,7 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
 
 {{< product-card 
     name="PawPride Dog Cooling Mat"
-    price="£14.99"
+    price="£14.24"
     rating="3.9"
     image="/images/products/amazon-b07tgby43k.jpg"
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
@@ -279,7 +279,7 @@ Puppies need appropriate toys. Not "every toy in the shop," but targeted, safe o
 
 {{< product-card 
     name="Kong Puppy Toy Small"
-    price="£7.99"
+    price="£6.55"
     rating="4.5"
     image="/images/products/amazon-b0002ar18c.jpg"
     url="https://www.amazon.co.uk/dp/B0002AR18C/?tag=broadbandhelp-21"
@@ -291,7 +291,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
 
 {{< product-card 
     name="Nylabone Puppy Chew Starter Pack"
-    price="£14.63"
+    price="£14.70"
     rating="4.4"
     image="/images/products/amazon-b06xcnccgk.jpg"
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
@@ -333,8 +333,8 @@ Puppies will have accidents. Many, many accidents. Regular cleaners don't elimin
 
 {{< product-card 
     name="Simple Solution Extreme Stain Remover"
-    price="£11.63"
-    rating="4.3"
+    price="£11.29"
+    rating="4.2"
     image="/images/products/amazon-b0002i9oa2.jpg"
     url="https://www.amazon.co.uk/dp/B0002I9OA2/?tag=broadbandhelp-21"
 >}}
@@ -349,7 +349,7 @@ You'll need hundreds. Puppies poo approximately 47 times per day. This feels lik
 
 {{< product-card 
     name="Earth Rated Poo Bags 270ct"
-    price="£11.49"
+    price="£15.39"
     rating="4.7"
     image="/images/products/amazon-b00bsyr7k8.jpg"
     url="https://www.amazon.co.uk/dp/B00BSYR7K8/?tag=broadbandhelp-21"

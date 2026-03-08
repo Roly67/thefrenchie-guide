@@ -201,7 +201,7 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 
 {{< product-card 
     name="ThunderShirt Classic Anxiety Jacket"
-    price="£34.94"
+    price="£34.98"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
