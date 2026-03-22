@@ -331,7 +331,7 @@ Here's a confession: we don't use cooling *vests* most of the time. We use a coo
 
 {{< product-card 
   name="PawPride Pet Cooling Mat (Large, 50x65cm)"
-  price="£23.74"
+  price="£24.99"
   rating="3.9"
   url="https://www.amazon.co.uk/dp/B0CB6VLF1N?tag=broadbandhelp"
   image="/images/products/amazon-b0cb6vlf1n.jpg" >}}
