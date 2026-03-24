@@ -3,7 +3,7 @@ title: "French Bulldog Separation Anxiety: A Survival Guide (For You Both)"
 description: "Does your Frenchie lose the plot when you leave? Learn to recognise separation anxiety signs and discover practical, tested strategies to help your French Bulldog cope when you're not home."
 slug: french-bulldog-separation-anxiety
 date: 2026-02-17
-draft: false
+draft: true
 silo: training
 keywords:
   - french bulldog separation anxiety
@@ -11,10 +11,6 @@ keywords:
   - french bulldog crying when left alone
   - french bulldog crate training anxiety
 author: "Rowland & The Frenchies"
-cover:
-  image: "/images/training/french-bulldog-separation-anxiety-hero.jpg"
-  alt: "French Bulldog looking out the window waiting for owner to return"
-  caption: ""
 tags:
   - training
   - behaviour
@@ -164,11 +160,10 @@ By the time I'm out the door, both Buster and Jago are ready for a kip anyway.
 I'm not one for buying every gadget under the sun, but some products genuinely make a difference for anxious Frenchies.
 
 {{< product-card 
-    name="ADAPTIL Calm Home Diffuser for Dogs"
-    price="£21.42"
-    rating="3.8"
-    image="/images/products/amazon-b0038xbojc.jpg"
+    title="ADAPTIL Calm Home Diffuser for Dogs"
+    description="Pheromone diffuser that mimics the calming pheromones mother dogs produce. Covers up to 70m². Clinically proven to reduce stress signs in dogs."
     url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
+    price="£££"
 >}}
 **The science bit:** Releases synthetic versions of the Dog Appeasing Pheromone (DAP). Does it work? For Buster, yes. For Jago, marginally. Your mileage may vary, but it's worth trying.
 
@@ -181,6 +176,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
+    price="££"
 >}}
 **Why it works:** Provides mental stimulation, positive association with you leaving (Kong = good things happen), and keeps them occupied during the critical first 20-30 minutes of your departure.
 
@@ -188,11 +184,10 @@ I prepare three frozen Kongs at a time. Game changer.
 {{< /product-card >}}
 
 {{< product-card 
-    name="Furbo Dog Camera with Treat Dispenser"
-    price="£40.00"
-    rating="3.6"
-    image="/images/products/amazon-b01fxc7jwq.jpg"
+    title="Furbo Dog Camera with Treat Dispenser"
+    description="HD camera lets you watch, talk to, and toss treats to your dog remotely. Sends alerts for barking, activity, and selfie moments."
     url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"
+    price="££££"
 >}}
 **Controversial take:** This is more for *your* anxiety than theirs. But knowing you can check in does provide peace of mind. Just don't talk to them constantly—that defeats the purpose of building independence.
 
@@ -205,6 +200,7 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
+    price="£££"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
 
@@ -212,11 +208,10 @@ Buster tolerates his. Jago treats it as a personal insult.
 {{< /product-card >}}
 
 {{< product-card 
-    name="Snuggle Puppy Heartbeat Toy"
-    price="£35.95"
-    rating="4.2"
-    image="/images/products/amazon-b0722xgrmb.jpg"
+    title="Snuggle Puppy Heartbeat Toy"
+    description="Soft toy with a real-feel heartbeat and heat pack, designed to comfort puppies and anxious dogs. Mimics the presence of a littermate."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
+    price="££"
 >}}
 **Best for:** Younger dogs or those recently rehomed. The heartbeat feature can be genuinely comforting. Plus, if your Frenchie has a shred of hunting instinct, it won't last a week. Consider it consumable.
 {{< /product-card >}}
