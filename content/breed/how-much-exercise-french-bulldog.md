@@ -320,8 +320,10 @@ A "sniff walk" where you walk slowly and let them investigate everything can be 
 A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
-    title="Ruffwear Front Range Harness"
-    description="Padded chest and belly panel for comfort. Front clip reduces pulling. Two leash attachment points. Reflective trim for visibility. Designed to not restrict breathing."
+    name="Ruffwear Front Range Harness"
+    price="£54.95"
+    rating="4.7"
+    image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
     price="£££"
 >}}
@@ -338,8 +340,10 @@ A few tools make Frenchie exercise safer and more effective.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Kong Classic Dog Toy"
-    description="Indestructible treat-dispensing toy. Freeze with food for extended mental stimulation. Provides exercise alternative on days when walking isn't possible."
+    name="Kong Classic Dog Toy"
+    price="£7.25"
+    rating="4.5"
+    image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
     price="££"
 >}}
@@ -347,8 +351,10 @@ A few tools make Frenchie exercise safer and more effective.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Collapsible Dog Water Bowl"
-    description="Portable, lightweight, clips to lead or bag. Essential for carrying water on walks. Silicone, folds flat, machine washable."
+    name="Collapsible Dog Water Bowl"
+    price="£3.99"
+    rating="4.2"
+    image="/images/products/amazon-b01arbs2s8.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
     price="£"
 >}}
@@ -356,8 +362,10 @@ A few tools make Frenchie exercise safer and more effective.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Hurtta Extreme Warmer Dog Coat"
-    description="Insulated, waterproof winter coat. Covers chest and belly. Reflective trim. Adjustable for proper fit. Suitable for temperatures down to -20°C."
+    name="Hurtta Extreme Warmer Dog Coat"
+    price="£23.99"
+    rating="4.6"
+    image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
     price="££££"
 >}}
@@ -365,8 +373,10 @@ A few tools make Frenchie exercise safer and more effective.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Outward Hound Nina Ottosson Puzzle Toys"
-    description="Range of interactive puzzle toys, beginner to advanced. Dog manipulates pieces to reveal treats. Mental stimulation on exercise-restricted days."
+    name="Outward Hound Nina Ottosson Puzzle Toy"
+    price="£12.50"
+    rating="4.3"
+    image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
     price="££-£££"
 >}}
