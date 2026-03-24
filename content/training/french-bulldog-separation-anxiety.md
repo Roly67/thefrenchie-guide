@@ -171,8 +171,10 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
 {{< /product-card >}}
 
 {{< product-card 
-    title="Kong Classic Dog Toy"
-    description="The original, virtually indestructible treat-dispensing toy. Freeze with peanut butter, wet food, or Kong's own paste for extended engagement."
+    name="Kong Classic Dog Toy"
+    price="£7.25"
+    rating="4.5"
+    image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
     price="££"
 >}}
@@ -193,8 +195,10 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 {{< /product-card >}}
 
 {{< product-card 
-    title="ThunderShirt Classic Anxiety Jacket"
-    description="Applies gentle, constant pressure to calm anxiety, fear, and overexcitement. Like a constant hug, but less needy."
+    name="ThunderShirt Classic Anxiety Jacket"
+    price="£30.56"
+    rating="4.2"
+    image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
     price="£££"
 >}}

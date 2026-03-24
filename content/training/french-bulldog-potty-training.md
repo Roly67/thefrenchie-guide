@@ -67,7 +67,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.2"
-  price="£11.29"
+  price="£11.82"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 This isn't optional. Regular cleaners don't remove the scent markers that tell your dog "this is the wee spot." Enzyme cleaners actually break down the proteins. We've tried cheaper alternatives. Don't. Just don't.
@@ -446,7 +446,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.2"
-  price="£11.29"
+  price="£11.82"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 **Why we like it:** Actually works. Removes odours completely. One bottle lasts ages. Multiple surfaces. Doesn't smell artificial. Buy it. Seriously.
