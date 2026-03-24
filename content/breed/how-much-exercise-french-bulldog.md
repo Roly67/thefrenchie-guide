@@ -325,7 +325,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Front Range Harness"
-    price="£50.01"
+    price="£54.95"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
@@ -345,7 +345,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Kong Classic Dog Toy"
-    price="£8.78"
+    price="£7.25"
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
@@ -355,7 +355,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Collapsible Dog Water Bowl"
-    price="£11.43"
+    price="£3.99"
     rating="4.2"
     image="/images/products/amazon-b01arbs2s8.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
@@ -365,7 +365,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Hurtta Extreme Warmer Dog Coat"
-    price="£77.01"
+    price="£23.99"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
@@ -375,7 +375,7 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Outward Hound Nina Ottosson Puzzle Toy"
-    price="£10.00"
+    price="£12.50"
     rating="4.3"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"

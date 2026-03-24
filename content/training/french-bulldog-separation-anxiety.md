@@ -177,7 +177,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
 
 {{< product-card 
     name="Kong Classic Dog Toy"
-    price="£8.78"
+    price="£7.25"
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
@@ -201,7 +201,7 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 
 {{< product-card 
     name="ThunderShirt Classic Anxiety Jacket"
-    price="£34.98"
+    price="£30.56"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
