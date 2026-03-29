@@ -187,7 +187,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 {{< product-card 
   name="Julius-K9 IDC Powerharness"
-  price="£29.99"
+  price="£30.00"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
   image="/images/products/amazon-b004iejf6e.jpg" >}}

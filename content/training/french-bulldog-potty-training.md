@@ -67,7 +67,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.2"
-  price="£11.82"
+  price="£10.99"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 This isn't optional. Regular cleaners don't remove the scent markers that tell your dog "this is the wee spot." Enzyme cleaners actually break down the proteins. We've tried cheaper alternatives. Don't. Just don't.
@@ -85,7 +85,7 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
   rating="4.4"
-  price="£8.49"
+  price="£8.91"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
 Super-absorbent, leak-proof, and crucially: they actually work. Some trainers say pads teach indoor weeing. We say they're a godsend if you live on the third floor and your puppy needs to go NOW.
@@ -393,7 +393,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
   name="Piddle Patch Indoor Dog Toilet"
   image="/images/products/amazon-b07yztpmrq.jpg"
   rating="4.0"
-  price="£20.99"
+  price="£38.50"
   retailer="Various UK retailers"
   url="https://www.amazon.co.uk/dp/B07YZTPMRQ?tag=broadbandhelp" >}}
 Real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. Requires regular replacement but gets good reviews from flat-living Frenchie owners.
@@ -446,7 +446,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.2"
-  price="£11.82"
+  price="£10.99"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 **Why we like it:** Actually works. Removes odours completely. One bottle lasts ages. Multiple surfaces. Doesn't smell artificial. Buy it. Seriously.
@@ -458,7 +458,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
   rating="4.4"
-  price="£8.49"
+  price="£8.91"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
 **Why we like it:** Super absorbent, doesn't leak, good size (56x56cm fits most puppies), stays in place. We tried cheaper ones. The cheap ones leak. Don't be heroes.

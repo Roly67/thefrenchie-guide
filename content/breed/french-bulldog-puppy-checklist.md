@@ -53,7 +53,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Ezydog Chest Plate Harness"
     description="Y-shaped front clip harness designed specifically for brachycephalic breeds. Distributes pressure across the chest, reducing strain on the throat. Reflective stitching for visibility. Multiple points of adjustment."
     url="https://www.amazon.co.uk/dp/B002QA6XPI/?tag=broadbandhelp-21"
-    price="£££"
+    price="£19.13"
 >}}
 **Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds. I've used these for both Buster and Jago—they're indestructible and properly designed.
 
@@ -64,7 +64,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Puppia Soft Harness"
     description="Soft vest-style harness, lightweight and comfortable for puppies still learning to walk on lead. Comes in small sizes suitable for Frenchie pups. Easy step-in design."
     url="https://www.amazon.co.uk/dp/B0013MX6HS/?tag=broadbandhelp-21"
-    price="££"
+    price="£18.00"
 >}}
 **Alternative option:** If you want something gentler for very young puppies during initial lead training. Less robust than Ezydog but easier to get on a wriggly puppy.
 {{< /product-card >}}
@@ -82,7 +82,7 @@ Controversial topic, I know. But crate training makes [our potty training guide]
     title="MidWest iCrate Dog Crate - 24 inch"
     description="Fold-flat wire crate with divider panel (essential for puppies). Single-door or double-door options. Includes plastic tray. 24-inch size suitable for adult Frenchies."
     url="https://www.amazon.co.uk/dp/B07D1WP1FD/?tag=broadbandhelp-21"
-    price="£££"
+    price="£43.79"
 >}}
 **Key feature:** The divider panel. Puppies shouldn't have too much space initially (they'll toilet in one corner and sleep in another). As they grow, you move the divider to increase space.
 
@@ -108,7 +108,7 @@ Puppies are disgusting. They'll wee on it, vomit on it, drag it through mud, and
     title="Vet Bed - Non-Slip Washable Fleece"
     description="Original veterinary bedding. Super absorbent, moisture wicks away from puppy, machine washable at 60°C, virtually indestructible. Non-slip backing."
     url="https://www.amazon.co.uk/dp/B019ZOLI8O/?tag=broadbandhelp-21"
-    price="££"
+    price="£22.99"
 >}}
 **Why vet bed is brilliant:** Stays dry on top even if puppy has an accident. Warm without overheating. Cannot be chewed into swallowable chunks (unlike memory foam). Lasts forever.
 
@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="££"
+    price="£21.90"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -147,7 +147,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="Royal Canin French Bulldog Puppy"
     description="Breed-specific formula designed for French Bulldog puppies. Kibble shaped for brachycephalic jaws. Supports digestive health and skin barriers. Suitable from 2-12 months."
     url="https://www.amazon.co.uk/dp/B009H3WMZM/?tag=broadbandhelp-21"
-    price="££££"
+    price="£17.95"
 >}}
 **Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
 {{< /product-card >}}
@@ -156,7 +156,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="James Wellbeloved Puppy Food (Turkey & Rice)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
     url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp-21"
-    price="£££"
+    price="£12.44"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
 {{< /product-card >}}
@@ -174,7 +174,7 @@ Training treats should be:
     title="Pure Bites Freeze-Dried Training Treats"
     description="Single ingredient (chicken or liver), freeze-dried, breaks into tiny pieces. High protein, minimal calories. No additives. Smells revolting to humans, dogs love it."
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
-    price="££"
+    price="£52.28"
 >}}
 **Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
 {{< /product-card >}}
@@ -197,7 +197,7 @@ Those adorable face folds? They collect moisture, food, dirt, and will develop i
     title="Squishface Wrinkle Paste"
     description="Water-repellent barrier cream for skin folds. Creates barrier against moisture, yeast, and bacteria. Use after cleaning wrinkles. Lasts ages."
     url="https://www.amazon.co.uk/dp/B01JH2DG8O/?tag=broadbandhelp-21"
-    price="£££"
+    price="£19.99"
 >}}
 **How to use:** Clean wrinkles with unscented baby wipe or damp cloth, dry thoroughly, apply thin layer of paste. Daily for deep wrinkles, every other day for shallower ones.
 
@@ -221,7 +221,7 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
     title="PawPride Cooling Mat"
     description="Self-cooling gel mat, no refrigeration needed. Activated by pressure. Various sizes - Small/Medium perfect for Frenchies. Helps prevent overheating during warm weather."
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
-    price="££"
+    price="£14.24"
 >}}
 **UK weather caveat:** Yes, even in Britain. That one week in July when it hits 24°C? Your Frenchie will suffer without cooling aids.
 
@@ -266,7 +266,7 @@ Puppies need appropriate toys. Not "every toy in the shop," but targeted, safe o
     title="Kong Puppy (Small)"
     description="Soft blue rubber Kong designed for puppy teeth and jaws. Stuff with food, freeze for extended engagement. Virtually indestructible. The ultimate puppy sanity saver."
     url="https://www.amazon.co.uk/dp/B0002AR18C/?tag=broadbandhelp-21"
-    price="££"
+    price="£7.77"
 >}}
 **Multi-purpose genius:** Mental stimulation, teething relief, meal timer, crate training aid, exhaustion tool. Buy three. Freeze them stuffed with wet food, peanut butter, or mashed banana.
 
@@ -277,7 +277,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Nylabone Puppy Chew Toys"
     description="Specifically designed for puppy teeth (softer than adult versions). Textured for teething relief. Various shapes and sizes. Replace when heavily worn."
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
-    price="££"
+    price="£14.96"
 >}}
 **Teething essential:** When puppy teeth are coming through (12-16 weeks particularly hellish), they *need* to chew. Better a Nylabone than your furniture.
 {{< /product-card >}}
@@ -286,7 +286,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Snuggle Puppy - Comfort Toy with Heartbeat"
     description="Soft toy with simulated heartbeat and heat pack. Mimics littermate comfort. Helps with first nights and separation anxiety."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
-    price="££"
+    price="£35.95"
 >}}
 **For the first week:** Genuinely helps some puppies settle. The heartbeat is oddly comforting. Buster loved his. Jago immediately attempted murder-by-mauling. Your mileage may vary.
 {{< /product-card >}}
@@ -317,7 +317,7 @@ Puppies will have accidents. Many, many accidents. Regular cleaners don't elimin
     title="Simple Solution Extreme Pet Stain & Odour Remover"
     description="Enzymatic formula breaks down urine proteins. Eliminates odours rather than masking. Works on carpets, wood, tile. Three times stronger than standard formula."
     url="https://www.amazon.co.uk/dp/B0002I9OA2/?tag=broadbandhelp-21"
-    price="££"
+    price="£10.99"
 >}}
 **Stock up:** This will be your most-used product for the first 3-4 months. Buy the largest bottle.
 
@@ -332,7 +332,7 @@ You'll need hundreds. Puppies poo approximately 47 times per day. This feels lik
     title="Earth Rated Poo Bags - Lavender Scented"
     description="Extra thick, leak-proof, lavender scented (genuinely helps). Comes on rolls that fit standard dispensers. Certified compostable."
     url="https://www.amazon.co.uk/dp/B00BSYR7K8/?tag=broadbandhelp-21"
-    price="££"
+    price="£8.85"
 >}}
 **Buy in bulk:** Subscribe and save on Amazon. You'll go through a roll per week minimum.
 {{< /product-card >}}
@@ -347,7 +347,7 @@ Frenchies have sensitive skin. Don't use human shampoo or harsh dog shampoos.
     title="Burt's Bees Puppy Shampoo (Tearless, 2-in-1)"
     description="Gentle, pH-balanced for puppies. Tearless formula. Adds shine without harsh chemicals. Buttermilk and linseed oil formula. Made from 97% natural ingredients."
     url="https://www.amazon.co.uk/dp/B00CVTRO48/?tag=broadbandhelp-21"
-    price="££"
+    price="£10.49"
 >}}
 **Bathing frequency:** Not more than once every 3-4 weeks unless they've rolled in something unspeakable. Over-bathing dries out skin and causes issues.
 
@@ -364,7 +364,7 @@ To limit puppy's access to the house whilst toilet training and teaching boundar
     title="BabyDan Pressure Fit Safety Gate"
     description="No drilling required, adjustable width, auto-close feature. Tall enough that adult Frenchies won't jump over (not that they're athletic enough to try, but still)."
     url="https://www.amazon.co.uk/dp/B007XTDGQG/?tag=broadbandhelp-21"
-    price="£££"
+    price="£32.00"
 >}}
 **Where to use:** Block off stairs (puppies shouldn't use stairs until 12+ weeks, risks joint damage), rooms with hazards, kitchen during meal prep.
 

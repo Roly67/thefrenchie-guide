@@ -122,7 +122,7 @@ The point is: Buster, our reliable indicator of "too hot to function," was genui
 {{< product-card 
   name="Canada Pooch Chill Seeker Cooling Vest"
   price="£24.99"
-  rating="3.8"
+  rating="3.7"
   url="https://www.amazon.co.uk/dp/B009JLQCUI?tag=broadbandhelp"
   image="/images/products/amazon-b009jlqcui.jpg" >}}
 

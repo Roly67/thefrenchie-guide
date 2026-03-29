@@ -342,10 +342,10 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     name="Kong Classic Dog Toy"
     price="£7.25"
-    rating="4.5"
+    rating="4.6"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
-    price="££"
+    price="£7.25"
 >}}
 **Mental exercise:** Frozen Kong keeps Jago occupied for 30+ minutes. More mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
 {{< /product-card >}}
@@ -356,18 +356,18 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.2"
     image="/images/products/amazon-b01arbs2s8.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
-    price="£"
+    price="£3.99"
 >}}
 **Hydration essential:** Always carry water for Frenchies, especially in weather above 15°C. They overheat quickly and need frequent drinking opportunities.
 {{< /product-card >}}
 
 {{< product-card 
     name="Hurtta Extreme Warmer Dog Coat"
-    price="£23.99"
+    price="£17.84"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
-    price="££££"
+    price="£17.84"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
 {{< /product-card >}}
@@ -378,7 +378,7 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.3"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="££-£££"
+    price="£12.50"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}
