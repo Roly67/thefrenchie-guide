@@ -396,7 +396,7 @@ EVERYTHING IS EXCITING AND URGENT. Pulls when he spots literally anything (birds
 
 **Different dogs, different harness needs:**
 
-If you've got two calm, measured Frenchies (unlikely, but possible), the Puppia would probably suffice. If you've got two chaos merchants, you need something robust. Most people have one of each (welcome to our world).
+If you've got two calm, measured Frenchies (unlikely, but possible), the Puppia would probably suffice. If you've got two chaos merchants, you need something robust. Most people have one of each (welcome to our world). And if you're still working on the basics, [potty training](/training/french-bulldog-potty-training/) is the foundation — walks go a lot smoother once that's sorted.
 
 ---
 
@@ -420,7 +420,7 @@ If you've got two calm, measured Frenchies (unlikely, but possible), the Puppia 
 ### 4. Harness Is Too Warm in Summer
 
 **Cause:** Too much padding or non-breathable materials  
-**Fix:** Switch to a mesh harness for summer (we use the EzyDog year-round in Cornwall where "summer" is relative, but in genuinely hot climates, a lighter option might be better)
+**Fix:** Switch to a mesh harness for summer (we use the EzyDog year-round in Cornwall where "summer" is relative, but in genuinely hot climates, a lighter option might be better). For hot-weather walks, a [cooling vest](/gear/best-cooling-vest-french-bulldog/) can also help — we've tested those too.
 
 ### 5. Dog Refuses to Wear It
 
@@ -497,10 +497,10 @@ Buster and Jago's seal of approval goes to the EzyDog. Buster's is reluctant but
 ---
 
 **Related Reading:**
-- [French Bulldog Walking Guide](/training/walking-guide)
-- [Best Leads for French Bulldogs](/gear/best-leads)
-- [French Bulldog Summer Safety](/health/summer-safety)
-- [Complete French Bulldog Training Guide](/training/complete-guide)
+- [French Bulldog Potty Training](/training/french-bulldog-potty-training/)
+- [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/)
+- [Best Toys for French Bulldogs](/gear/best-toys-french-bulldogs/)
+- [Can French Bulldogs Swim?](/breed/can-french-bulldogs-swim/)
 
 ---
 
