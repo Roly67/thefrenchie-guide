@@ -85,7 +85,7 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
   rating="4.5"
-  price="£10.10"
+  price="£7.99"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
 Super-absorbent, leak-proof, and crucially: they actually work. Some trainers say pads teach indoor weeing. We say they're a godsend if you live on the third floor and your puppy needs to go NOW.
@@ -458,7 +458,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
   rating="4.5"
-  price="£10.10"
+  price="£7.99"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
 **Why we like it:** Super absorbent, doesn't leak, good size (56x56cm fits most puppies), stays in place. We tried cheaper ones. The cheap ones leak. Don't be heroes.
