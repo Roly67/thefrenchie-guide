@@ -374,11 +374,11 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Outward Hound Nina Ottosson Puzzle Toy"
-    price="£10.81"
+    price="£10.25"
     rating="4.3"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="£10.81"
+    price="£10.25"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}

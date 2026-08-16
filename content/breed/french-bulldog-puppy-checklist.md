@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="£23.79"
+    price="£23.80"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -147,7 +147,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="Royal Canin French Bulldog Puppy"
     description="Breed-specific formula designed for French Bulldog puppies. Kibble shaped for brachycephalic jaws. Supports digestive health and skin barriers. Suitable from 2-12 months."
     url="https://www.amazon.co.uk/dp/B009H3WMZM/?tag=broadbandhelp-21"
-    price="£20.49"
+    price="£21.05"
 >}}
 **Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
 {{< /product-card >}}
@@ -174,7 +174,7 @@ Training treats should be:
     title="Pure Bites Freeze-Dried Training Treats"
     description="Single ingredient (chicken or liver), freeze-dried, breaks into tiny pieces. High protein, minimal calories. No additives. Smells revolting to humans, dogs love it."
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
-    price="£50.28"
+    price="£45.96"
 >}}
 **Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
 {{< /product-card >}}
@@ -221,7 +221,7 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
     title="PawPride Cooling Mat"
     description="Self-cooling gel mat, no refrigeration needed. Activated by pressure. Various sizes - Small/Medium perfect for Frenchies. Helps prevent overheating during warm weather."
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
-    price="£23.99"
+    price="£6.75"
 >}}
 **UK weather caveat:** Yes, even in Britain. That one week in July when it hits 24°C? Your Frenchie will suffer without cooling aids.
 
@@ -266,7 +266,7 @@ Puppies need appropriate toys. Not "every toy in the shop," but targeted, safe o
     title="Kong Puppy (Small)"
     description="Soft blue rubber Kong designed for puppy teeth and jaws. Stuff with food, freeze for extended engagement. Virtually indestructible. The ultimate puppy sanity saver."
     url="https://www.amazon.co.uk/dp/B0002AR18C/?tag=broadbandhelp-21"
-    price="£8.39"
+    price="£8.18"
 >}}
 **Multi-purpose genius:** Mental stimulation, teething relief, meal timer, crate training aid, exhaustion tool. Buy three. Freeze them stuffed with wet food, peanut butter, or mashed banana.
 
@@ -277,7 +277,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Nylabone Puppy Chew Toys"
     description="Specifically designed for puppy teeth (softer than adult versions). Textured for teething relief. Various shapes and sizes. Replace when heavily worn."
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
-    price="£14.56"
+    price="£14.51"
 >}}
 **Teething essential:** When puppy teeth are coming through (12-16 weeks particularly hellish), they *need* to chew. Better a Nylabone than your furniture.
 {{< /product-card >}}

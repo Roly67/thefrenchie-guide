@@ -163,7 +163,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
     title="ADAPTIL Calm Home Diffuser for Dogs"
     description="Pheromone diffuser that mimics the calming pheromones mother dogs produce. Covers up to 70m². Clinically proven to reduce stress signs in dogs."
     url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
-    price="£19.50"
+    price="£18.35"
 >}}
 **The science bit:** Releases synthetic versions of the Dog Appeasing Pheromone (DAP). Does it work? For Buster, yes. For Jago, marginally. Your mileage may vary, but it's worth trying.
 
