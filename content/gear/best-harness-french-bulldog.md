@@ -137,7 +137,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
 
 {{< product-card 
   name="Puppia Soft Harness (Air Mesh)"
-  price="£18.00"
+  price="£16.99"
   rating="4.4"
   url="https://www.amazon.co.uk/dp/B0013MX6HS?tag=broadbandhelp"
   image="/images/products/amazon-b0013mx6hs.jpg" >}}
@@ -187,7 +187,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 {{< product-card 
   name="Julius-K9 IDC Powerharness"
-  price="£33.49"
+  price="£21.49"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
   image="/images/products/amazon-b004iejf6e.jpg" >}}
@@ -232,7 +232,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< product-card 
   name="Ruffwear Front Range Harness"
-  price="£59.95"
+  price="£23.99"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
   image="/images/products/amazon-b082fq7fqg.jpg" >}}

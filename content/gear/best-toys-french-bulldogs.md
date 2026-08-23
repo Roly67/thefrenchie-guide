@@ -221,7 +221,7 @@ This looks like a shaggy rug had a baby with a dog toy. Hide kibble or treats in
   name="KONG Wobbler Interactive Treat Toy"
   image="/images/products/amazon-b07542nrbn.jpg"
   rating="3.7"
-  price="£6.33"
+  price="£6.99"
   where="Pets at Home / Amazon UK"
   url="https://www.amazon.co.uk/dp/B07542NRBN?tag=broadbandhelp"
   affiliate="true" >}}
@@ -323,7 +323,7 @@ Soft and cuddly on the outside, but with an internal knotted rope skeleton for d
   name="ZippyPaws Skinny Peltz Fox"
   image="/images/products/amazon-b0002asnac.jpg"
   rating="4.4"
-  price="£11.75"
+  price="£11.28"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002ASNAC?tag=broadbandhelp"
   affiliate="true" >}}
@@ -348,7 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   name="Rosewood Rubber Ball with Rope (Medium)"
   image="/images/products/amazon-b00p0yqyyw.jpg"
   rating="4.5"
-  price="£16.40"
+  price="£8.67"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}

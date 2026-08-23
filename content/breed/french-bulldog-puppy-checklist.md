@@ -64,7 +64,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Puppia Soft Harness"
     description="Soft vest-style harness, lightweight and comfortable for puppies still learning to walk on lead. Comes in small sizes suitable for Frenchie pups. Easy step-in design."
     url="https://www.amazon.co.uk/dp/B0013MX6HS/?tag=broadbandhelp-21"
-    price="£18.00"
+    price="£16.99"
 >}}
 **Alternative option:** If you want something gentler for very young puppies during initial lead training. Less robust than Ezydog but easier to get on a wriggly puppy.
 {{< /product-card >}}
@@ -82,7 +82,7 @@ Controversial topic, I know. But crate training makes [our potty training guide]
     title="MidWest iCrate Dog Crate - 24 inch"
     description="Fold-flat wire crate with divider panel (essential for puppies). Single-door or double-door options. Includes plastic tray. 24-inch size suitable for adult Frenchies."
     url="https://www.amazon.co.uk/dp/B07D1WP1FD/?tag=broadbandhelp-21"
-    price="£48.02"
+    price="£27.19"
 >}}
 **Key feature:** The divider panel. Puppies shouldn't have too much space initially (they'll toilet in one corner and sleep in another). As they grow, you move the divider to increase space.
 
@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="£23.80"
+    price="£24.18"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -147,7 +147,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="Royal Canin French Bulldog Puppy"
     description="Breed-specific formula designed for French Bulldog puppies. Kibble shaped for brachycephalic jaws. Supports digestive health and skin barriers. Suitable from 2-12 months."
     url="https://www.amazon.co.uk/dp/B009H3WMZM/?tag=broadbandhelp-21"
-    price="£21.05"
+    price="£23.03"
 >}}
 **Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
 {{< /product-card >}}
@@ -156,7 +156,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="James Wellbeloved Puppy Food (Turkey & Rice)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
     url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp-21"
-    price="£8.00"
+    price="£7.99"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
 {{< /product-card >}}
@@ -174,7 +174,7 @@ Training treats should be:
     title="Pure Bites Freeze-Dried Training Treats"
     description="Single ingredient (chicken or liver), freeze-dried, breaks into tiny pieces. High protein, minimal calories. No additives. Smells revolting to humans, dogs love it."
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
-    price="£45.96"
+    price="£41.48"
 >}}
 **Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
 {{< /product-card >}}
@@ -221,7 +221,7 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
     title="PawPride Cooling Mat"
     description="Self-cooling gel mat, no refrigeration needed. Activated by pressure. Various sizes - Small/Medium perfect for Frenchies. Helps prevent overheating during warm weather."
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
-    price="£6.75"
+    price="£6.99"
 >}}
 **UK weather caveat:** Yes, even in Britain. That one week in July when it hits 24°C? Your Frenchie will suffer without cooling aids.
 
@@ -317,7 +317,7 @@ Puppies will have accidents. Many, many accidents. Regular cleaners don't elimin
     title="Simple Solution Extreme Pet Stain & Odour Remover"
     description="Enzymatic formula breaks down urine proteins. Eliminates odours rather than masking. Works on carpets, wood, tile. Three times stronger than standard formula."
     url="https://www.amazon.co.uk/dp/B0002I9OA2/?tag=broadbandhelp-21"
-    price="£11.09"
+    price="£8.99"
 >}}
 **Stock up:** This will be your most-used product for the first 3-4 months. Buy the largest bottle.
 
