@@ -55,7 +55,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
 
 ### Essential Equipment:
 
-**1. A crate** (properly sized—see our [crate training guide](/training/crate-training))
+**1. A crate** (properly sized—see the crate section in our [French Bulldog puppy checklist](/breed/french-bulldog-puppy-checklist/))
 - Not a prison, a den
 - Big enough to stand and turn around, not so big they can wee in one corner and sleep in another
 - Buster's crate: his fortress of solitude
@@ -210,7 +210,7 @@ Buster loved his crate from day one. Viewed it as his private gentleman's club w
 
 Jago treated his crate like a personal attack and complained loudly until we put a blanket over it, gave him a toy, and he decided it was actually quite nice, thank you very much.
 
-We've got a full [crate training guide](/training/crate-training) if you need more help with this bit.
+Our [French Bulldog puppy checklist](/breed/french-bulldog-puppy-checklist/) has more help with crate size, setup, and placement.
 
 ## Common Mistakes (We've Made Them All)
 
@@ -529,7 +529,7 @@ Buster made it look easy (the smug git). Jago made it look impossible (the chaot
 
 It's temporary. The accidents will stop. The routine will become habit. And you'll have a properly house-trained Frenchie who only occasionally pees in inconvenient places (usually because we forgot to let them out on time).
 
-For more training help, check our guides on [crate training](/training/crate-training), [bringing your Frenchie home for the first week](/training/first-week-home), and [general French Bulldog training tips](/training/training-tips).
+For more help, see our [French Bulldog puppy checklist](/breed/french-bulldog-puppy-checklist/), [separation anxiety guide](/training/french-bulldog-separation-anxiety/), and [training hub](/training/).
 
 Now get out there and celebrate some dog wee. You've got this.
 
