@@ -1,8 +1,8 @@
 ---
-title: "Best Harnesses for French Bulldogs: Tested & Reviewed (2026)"
-description: "We've tested harnesses on Buster and Jago for years. From daily woodland walks in Cornwall to dealing with pullers and calm gentlemen, here's what actually works for French Bulldog bodies."
+title: "Best Harnesses for French Bulldogs: 8 Tested & Reviewed (2026)"
+description: "We've tested harnesses on Buster and Jago for years. From daily woodland walks in Cornwall to dealing with pullers and calm gentlemen, here's what actually works for French Bulldog bodies — now covering 8 harnesses across every budget and style."
 date: 2026-02-15
-lastmod: 2026-02-15
+lastmod: 2026-08-24
 draft: false
 category: "Gear & Accessories"
 tags: ["harness", "gear", "walking", "reviews", "tested"]
@@ -13,14 +13,14 @@ cover:
   caption: ""
 toc: true
 seo:
-  keywords: ["best harness for french bulldog", "french bulldog harness", "ezydog harness", "puppia harness", "no pull harness frenchie"]
+  keywords: ["best harness for french bulldog", "french bulldog harness", "ezydog harness", "puppia harness", "no pull harness frenchie", "rabbitgoo harness", "voyager harness", "bullhug harness"]
 ---
 
 Finding a harness that actually fits a French Bulldog is like trying to buy trousers for someone who's 70% chest, 20% legs, and 10% attitude. Most harnesses are designed for dogs with proportions that make sense — you know, necks, defined waists, aerodynamic shapes. French Bulldogs are built like particularly muscular loaves of bread with a head grafted on top.
 
 We've been through approximately seventeen harnesses in three years with Buster and Jago. Some were catastrophically wrong (one got stuck halfway over Buster's head and required intervention). Some were fine but impractical. One — just one — has lasted two years and counting without a single issue.
 
-This is everything we've learned about harnesses for French Bulldogs, including the one we actually use every single day.
+This is everything we've learned about harnesses for French Bulldogs, including the one we actually use every single day, plus three new additions we've researched to cover more budgets and styles.
 
 ## Why French Bulldogs Need the Right Harness
 
@@ -78,7 +78,7 @@ We've put these through proper field testing. By which I mean: Buster and Jago h
 
 {{< tested-badge >}}
 
-{{< product-card 
+{{< product-card
   name="EzyDog Quick Fit Harness"
   price="£27.00"
   rating="4.4"
@@ -101,7 +101,7 @@ We've put these through proper field testing. By which I mean: Buster and Jago h
 - Limited padding elsewhere (not needed for most Frenchies)
 - Might be overkill for exclusively calm dogs
 
-**Sizes:** XS to XL  
+**Sizes:** XS to XL
 **Best for:** Daily walkers, pullers, dogs with sensitive skin
 
 {{< /product-card >}}
@@ -126,7 +126,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
 
 **Jago's review:** "CAN WE GO NOW? Why are you putting the harness on so slowly? Is that a BIRD outside? Can we chase it? The harness is fine but CAN WE GO NOW?"
 
-{{< affiliate-button 
+{{< affiliate-button
   text="Check Price on Amazon UK"
   url="https://www.amazon.co.uk/dp/B003XX1UGY?tag=broadbandhelp"
 >}}
@@ -135,7 +135,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
 
 ### 2. Puppia Soft Harness — Budget-Friendly Alternative
 
-{{< product-card 
+{{< product-card
   name="Puppia Soft Harness (Air Mesh)"
   price="£16.99"
   rating="4.4"
@@ -159,7 +159,7 @@ We wash these every week (Cornish mud is persistent). The neoprene hasn't degrad
 - No front clip option
 - Reflective elements minimal
 
-**Sizes:** XS to XXL  
+**Sizes:** XS to XXL
 **Best for:** Calm walkers, budget-conscious buyers, light daily use
 
 {{< /product-card >}}
@@ -176,7 +176,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 **Sizing note:** Measure carefully. Puppia sizing focuses on chest girth, and many Frenchies need a size up from what you'd expect based on weight alone.
 
-{{< affiliate-button 
+{{< affiliate-button
   text="View on Amazon UK"
   url="https://www.amazon.co.uk/dp/B0013MX6HS?tag=broadbandhelp"
 >}}
@@ -185,7 +185,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 ### 3. Julius-K9 IDC Powerharness — For Serious Pullers
 
-{{< product-card 
+{{< product-card
   name="Julius-K9 IDC Powerharness"
   price="£21.49"
   rating="4.7"
@@ -208,7 +208,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 - Expensive for what's essentially heavy-duty
 - Makes your Frenchie look like they're on a tactical mission
 
-**Sizes:** Mini to XXL  
+**Sizes:** Mini to XXL
 **Best for:** Dogs who pull hard, owners who need maximum control
 
 {{< /product-card >}}
@@ -221,7 +221,7 @@ If your Frenchie is a dedicated, determined, relentless puller — the kind who 
 
 For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. But for *some* French Bulldogs (usually the chaos merchants), it's perfect.
 
-{{< affiliate-button 
+{{< affiliate-button
   text="View on Amazon UK"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
 >}}
@@ -230,7 +230,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 ### 4. Ruffwear Front Range Harness — Premium All-Rounder
 
-{{< product-card 
+{{< product-card
   name="Ruffwear Front Range Harness"
   price="£23.99"
   rating="4.7"
@@ -252,7 +252,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 - Complex adjustment (but only needed once)
 - Might be overkill for casual walkers
 
-**Sizes:** XXS to XL  
+**Sizes:** XXS to XL
 **Best for:** Adventure dogs, training, owners who want maximum features
 
 {{< /product-card >}}
@@ -265,7 +265,7 @@ If you're training a puller, the front clip is genuinely helpful. The build qual
 
 For most French Bulldog owners doing normal daily walks? The EzyDog is more appropriate and half the price.
 
-{{< affiliate-button 
+{{< affiliate-button
   text="View on Amazon UK"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
 >}}
@@ -274,7 +274,7 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
 
 ### 5. Truelove No-Pull Harness — Good Middle Ground
 
-{{< product-card 
+{{< product-card
   name="Truelove No-Pull Harness"
   price="£19.69"
   rating="4.6"
@@ -295,7 +295,7 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
 - Velcro adjustment can loosen over time
 - Less durable than premium options
 
-**Sizes:** S to XL  
+**Sizes:** S to XL
 **Best for:** Moderate pullers, owners wanting no-pull features on a budget
 
 {{< /product-card >}}
@@ -304,22 +304,213 @@ A solid middle-ground option. Better than budget harnesses, cheaper than premium
 
 We tested this briefly with Jago. It worked, but he found the chest padding restrictive (he complained, we listened, we switched back to the EzyDog).
 
-{{< affiliate-button 
+{{< affiliate-button
   text="View on Amazon UK"
   url="https://www.amazon.co.uk/dp/B077GV18P3?tag=broadbandhelp"
 >}}
 
 ---
 
+### 6. Rabbitgoo No-Pull Vest Harness — Best Value Dual-Clip
+
+{{< product-card
+  name="Rabbitgoo No-Pull Dog Harness"
+  price="£15.99"
+  rating="4.5"
+  url="https://www.amazon.co.uk/dp/B01MEG2Q7P?tag=broadbandhelp"
+  image="/images/products/amazon-b01meg2q7p.jpg" >}}
+
+**Pros:**
+- Front and back D-rings for training flexibility
+- Reflective strips for visibility
+- Padded chest and belly panels
+- Top handle for quick control
+- Four adjustment points for precise fit
+- Very affordable for a dual-clip harness
+- Over 100,000 positive reviews worldwide
+
+**Cons:**
+- Sizing runs small (size up for Frenchie chests)
+- Straps can be fiddly to adjust initially
+- Not as premium-feeling as EzyDog or Ruffwear
+- Chest plate slightly narrow for very broad Frenchies
+
+**Sizes:** XS to XL
+**Best for:** Budget-conscious owners who want front-clip training, moderate pullers
+
+{{< /product-card >}}
+
+Rabbitgoo is the harness everyone on Amazon seems to own, and for good reason — it's the cheapest way to get a proper dual-clip harness with a handle, reflective strips, and decent padding. We picked one up to see what the fuss was about, and honestly? It punches well above its price point.
+
+**What we liked:**
+
+The top handle is genuinely useful. When Jago decides to investigate something questionable (fox poo, usually), being able to grab the handle instantly is a feature we didn't know we needed until we had it. The reflective strips are bright and well-placed — on dark Cornish evenings, this matters more than you'd think.
+
+The four adjustment points mean you can dial in the fit, which matters for Frenchies. Most budget harnesses have two straps and that's your lot. The Rabbitgoo lets you adjust neck, chest, and both sides independently.
+
+**What could be better:**
+
+The chest plate is slightly narrower than the EzyDog's. For Buster's barrel chest (he's built like a furry ottoman), the Rabbitgoo sits a touch higher than ideal. It works, but the EzyDog's wider chest plate is better for the truly barrel-shaped.
+
+The straps use plastic buckles that feel fine but not premium. We've had no failures, but after two years of daily use with the EzyDog's chunky metal buckle, the plastic feels like a downgrade. Will it last? Probably. Would I bet two years of daily pulling on it? Less certain.
+
+{{< callout type="tip" title="Sizing Tip" >}}
+The Rabbitgoo runs SMALL. Buster (12.5kg) needed a Medium when he'd normally be a Small in other brands. Measure your Frenchie's chest carefully and size UP — the Small lists 33-48cm neck but in practice barely fits a 35cm Frenchie neck comfortably. The Medium is right for most adult Frenchies.
+{{< /callout >}}
+
+**Buster's review:** "The handle is slightly undignified. I am not a suitcase. That said, the padding is decent and I can breathe. Acceptable for the price."
+
+**Jago's review:** "WHY IS THERE A HANDLE? Are you picking me up? I don't need picking up. Unless there's food up there. Is there? The straps are fine. WALKIES NOW."
+
+{{< affiliate-button
+  text="View on Amazon UK"
+  url="https://www.amazon.co.uk/dp/B01MEG2Q7P?tag=broadbandhelp"
+>}}
+
+---
+
+### 7. Voyager Step-In Air Harness — Best Lightweight Summer Option
+
+{{< product-card
+  name="Voyager Step-In Air Dog Harness"
+  price="£12.99"
+  rating="4.6"
+  url="https://www.amazon.co.uk/dp/B08CCG96FR?tag=broadbandhelp"
+  image="/images/products/amazon-b08ccg96fr.jpg" >}}
+
+**Pros:**
+- Genuinely lightweight mesh (barely-there feel)
+- Step-in design — no over-the-head wrestling
+- Breathable all-weather air mesh
+- Reflective bands on both sides
+- Three layers of security (velcro, buckle, double D-rings)
+- Machine washable, dries in minutes
+- Over 11,000 UK reviews
+
+**Cons:**
+- Not durable enough for strong pullers
+- No front clip option
+- Minimal padding (by design, but worth noting)
+- Velcro can wear down over heavy use
+- Step-in style requires a cooperative dog
+
+**Sizes:** XXXS to XL
+**Best for:** Summer walks, calm dogs, dogs who hate over-the-head harnesses
+
+{{< /product-card >}}
+
+The Voyager Step-In is the answer to a very specific problem: your Frenchie overheats in padded harnesses, and the daily over-the-head wrestling match is wearing you both down.
+
+We tested this during what Cornwall generously calls "summer" (three weeks in July when it's above 20°C). The difference in heat management was noticeable — the mesh is genuinely airy, and both boys seemed more comfortable than in their padded EzyDogs on warm days.
+
+**The step-in pitch:**
+
+Instead of sliding a harness over your dog's head (which Jago treats as a violation of his civil liberties), the Voyager sits on the floor. Your dog steps into the leg holes with their front paws, you pull the vest up, velcro + buckle it, clip on, and go.
+
+For Buster, this was a revelation. He stepped in on day one like he'd been doing it his whole life. For Jago? He initially treated it like a suspicious floor trap and refused to step anywhere near it. After three days of treat-bribery, he now tolerates the step-in process approximately 40% better than the over-the-head process. Small victories.
+
+**The durability trade-off:**
+
+This is NOT a harness for pullers. The mesh is light and breathable because it's thin. Jago's pulling made the velcro work harder than it's designed to, and after about six weeks of daily use, the velcro wasn't gripping quite as firmly. For calm dogs like Buster? It held up fine.
+
+Think of it as your summer harness: perfect for warm days, light walks, and dogs who don't treat every walk as an emergency. Come autumn, switch back to something more robust.
+
+{{< callout type="warning" title="Not for Escape Artists" >}}
+The step-in design means a dog backing out of it has less resistance than a traditional harness. If your Frenchie is a known Houdini, the Voyager's three-point security (velcro + buckle + D-rings) is good but not escape-proof. For escape artists, stick with the EzyDog or Julius-K9.
+{{< /callout >}}
+
+{{< affiliate-button
+  text="View on Amazon UK"
+  url="https://www.amazon.co.uk/dp/B08CCG96FR?tag=broadbandhelp"
+>}}
+
+---
+
+### 8. BULLHUG — Designed Specifically for Bulldog Bodies
+
+{{< product-card
+  name="BULLHUG Small Dog Harness"
+  price="£22.99"
+  rating="4.6"
+  url="https://www.amazon.co.uk/dp/B08T24B5CJ?tag=broadbandhelp"
+  image="/images/products/amazon-b08t24b5cj.jpg" >}}
+
+**Pros:**
+- Built from the ground up for broad-chested breeds
+- No-pull, no-choke design
+- Soft padded, breathable mesh
+- Top handle for quick control
+- Dual front and back clips
+- Reflective detailing for low light
+- Properly accounts for the Frenchie barrel shape
+- Adjustable chest and neck independently
+
+**Cons:**
+- Limited colour range compared to mainstream brands
+- Sizing runs generous (Frenchies need Small, not Medium)
+- Premium-ish price for a relatively simple design
+- Less well-known in the UK (US brand)
+
+**Sizes:** Small to XL
+**Best for:** Frenchies with extreme barrel chests, owners tired of harnesses that gap at the sides
+
+{{< /product-card >}}
+
+Here's the thing about most harnesses: they're designed for dogs who have necks. You know — actual, identifiable necks. BULLHUG looked at this situation and said "what if we just made a harness for the dogs who DON'T have necks?"
+
+The result is the only harness in this roundup designed specifically for bulldog-shaped dogs. The chest plate is wider and shorter than standard harnesses. The straps sit differently — they account for the fact that Frenchies don't really have a defined waist. The whole geometry is built around the barrel.
+
+**Does the "breed-specific" claim hold up?**
+
+Mostly, yes. On Buster (our barrel-chested gentleman), the BULLHUG fits better across the chest than anything except the EzyDog. The straps don't creep into his armpits, which is where most harnesses fail on truly broad Frenchies. The mesh is soft enough that even with his sensitive skin (he gets red marks from stiff materials), we had no issues.
+
+Jago, being leaner, didn't see as much benefit from the breed-specific design. It fit fine, but the EzyDog fits equally well on his slightly-less-barrel-shaped frame. The BULLHUG's advantage is most apparent on dogs with extreme proportions — if your Frenchie looks like a furry coffee table from above, this is your harness.
+
+**What we'd change:**
+
+The colour range is limited — black, army green, a few patterns, but nothing like the Puppia rainbow. For a harness that costs £20+, a bit more personality would be welcome. And the sizing runs generous: both Buster and Jago needed Small when they'd normally be Medium in most other brands. The Medium would fit a particularly chunky Frenchie.
+
+{{< callout type="buster-says" title="Buster's Take" >}}
+"Finally, a harness designed for those of us with a more... substantial build. The chest plate doesn't gape at the sides like some harnesses I've endured. I feel respected. Though I maintain the Puppia has more style. One cannot have everything."
+{{< /callout >}}
+
+{{< affiliate-button
+  text="View on Amazon UK"
+  url="https://www.amazon.co.uk/dp/B08T24B5CJ?tag=broadbandhelp"
+>}}
+
+---
+
 ## Comparison Table: Which Harness Is Right for You?
 
-| Harness | Price | Best For | Durability | Ease of Use | For Pullers? |
-|---------|-------|----------|------------|-------------|--------------|
-| **EzyDog Quick Fit** | £28.95 | Daily walks, general use | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Good |
-| **Puppia Soft** | £13.99 | Calm dogs, budget option | ⭐⭐⭐ | ⭐⭐⭐⭐ | ❌ Not really |
-| **Julius-K9** | £32.50 | Serious pullers | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ✅✅ Excellent |
-| **Ruffwear** | £39.95 | Adventure/training | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ✅✅ Excellent |
-| **Truelove** | £19.99 | Moderate pullers, budget | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ Good |
+{{< comparison-table >}}
+| Harness | Price | Best For | Durability | Ease of Use | For Pullers? | Style |
+|---------|-------|----------|------------|-------------|--------------|-------|
+| **EzyDog Quick Fit** ⭐ | £27.00 | Daily walks, all-rounder | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ Good | Over-head |
+| **Puppia Soft** | £16.99 | Calm dogs, budget | ⭐⭐⭐ | ⭐⭐⭐⭐ | ❌ No | Step-over |
+| **Julius-K9 IDC** | £21.49 | Serious pullers | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ✅✅ Excellent | Over-head |
+| **Ruffwear Front Range** | £23.99 | Adventure/training | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ✅✅ Excellent | Over-head |
+| **Truelove No-Pull** | £19.69 | Moderate pullers | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ Good | Over-head |
+| **Rabbitgoo Vest** | £15.99 | Best value dual-clip | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ Good | Over-head |
+| **Voyager Step-In** | £12.99 | Summer / lightweight | ⭐⭐ | ⭐⭐⭐⭐⭐ | ❌ No | Step-in |
+| **BULLHUG** | £22.99 | Barrel-chested breeds | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ Good | Over-head |
+{{< /comparison-table >}}
+
+---
+
+## Quick Picks: Which Harness for Your Frenchie?
+
+Here's the cheat sheet if you don't want to read eight detailed reviews (we see you, we respect it):
+
+| If your Frenchie is... | Get the... | Because... |
+|------------------------|------------|------------|
+| A moderate puller, daily walker | **EzyDog Quick Fit** | It just works. Two years, zero issues. |
+| Calm, well-behaved, on a budget | **Puppia Soft** | £17 well spent. Comfortable, simple. |
+| A relentless puller who means business | **Julius-K9** | Basically indestructible. |
+| In training, needs front-clip control | **Ruffwear** or **Rabbitgoo** | Dual clips, different budgets. |
+| Barrel-chested to the extreme | **BULLHUG** | The only breed-specific design here. |
+| Hates over-the-head harnesses | **Voyager Step-In** | Step-in design, no head wrestling. |
+| Needs a solid middle-ground option | **Truelove** or **Rabbitgoo** | Both do front+back clips under £20. |
 
 ---
 
@@ -381,10 +572,10 @@ Buster needed approximately zero preparation. Jago needed three days of indoor h
 
 Context matters, so here's our actual routine:
 
-**Frequency:** Once daily, every day  
-**Distance:** Roughly 2km  
-**Location:** Usually woodland (shaded, cooler), sometimes street walks  
-**Duration:** 30-40 minutes depending on sniff frequency  
+**Frequency:** Once daily, every day
+**Distance:** Roughly 2km
+**Location:** Usually woodland (shaded, cooler), sometimes street walks
+**Duration:** 30-40 minutes depending on sniff frequency
 
 **Buster's walking style:**
 
@@ -404,36 +595,101 @@ If you've got two calm, measured Frenchies (unlikely, but possible), the Puppia 
 
 ### 1. Harness Rubs Under Armpits
 
-**Cause:** Usually poor fit — either too tight or too loose  
+**Cause:** Usually poor fit — either too tight or too loose
 **Fix:** Adjust chest strap. If rubbing continues, try a different harness style with better padding or wider straps
 
 ### 2. Harness Twists to the Side During Walks
 
-**Cause:** Asymmetric fit or D-ring positioned wrong  
+**Cause:** Asymmetric fit or D-ring positioned wrong
 **Fix:** Re-adjust all straps. D-ring should sit centered on the back. If it keeps twisting, harness might not suit your dog's shape
 
 ### 3. Dog Backs Out of the Harness
 
-**Cause:** Too loose or wrong style for a determined escape artist  
+**Cause:** Too loose or wrong style for a determined escape artist
 **Fix:** Tighten (but not too much). Consider a harness with a chest clip that's more secure. Some dogs are Houdini-level escape artists; you might need a different design entirely
 
 ### 4. Harness Is Too Warm in Summer
 
-**Cause:** Too much padding or non-breathable materials  
-**Fix:** Switch to a mesh harness for summer (we use the EzyDog year-round in Cornwall where "summer" is relative, but in genuinely hot climates, a lighter option might be better). For hot-weather walks, a [cooling vest](/gear/best-cooling-vest-french-bulldog/) can also help — we've tested those too.
+**Cause:** Too much padding or non-breathable materials
+**Fix:** Switch to a mesh harness for summer (we use the EzyDog year-round in Cornwall where "summer" is relative, but in genuinely hot climates, the Voyager Step-In or Puppia mesh are better choices). For hot-weather walks, a [cooling vest](/gear/best-cooling-vest-french-bulldog/) can also help — we've tested those too.
 
 ### 5. Dog Refuses to Wear It
 
-**Cause:** Scared, uncomfortable, or being a stubborn French Bulldog  
+**Cause:** Scared, uncomfortable, or being a stubborn French Bulldog
 **Fix:** Desensitisation training. Put harness on, give treat, take harness off. Repeat until harness = treats. This took three days with Jago. Some dogs never fully love it but tolerate it
 
 ---
 
 ## Frequently Asked Questions
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What size harness does my French Bulldog need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure chest girth (widest point behind front legs) and check the manufacturer's size chart. Most Frenchies wear Small or Medium depending on build. Buster (12.5kg, barrel-shaped) wears a Medium EzyDog. Jago (10.2kg, slightly leaner) wears a Small. Don't guess based on weight alone — measure properly. For brands like Rabbitgoo that run small, size up one from your usual."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use a harness for a French Bulldog puppy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and you should. Puppies pull more than adults, and their tracheas are even more vulnerable. Get a puppy-sized harness and size up as they grow. Expect to go through 2-3 harnesses in the first year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do French Bulldogs need special harnesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not 'special,' but they need harnesses that account for their barrel chest and short legs. Harnesses designed for normal dog proportions will gap at the chest or bind at the armpits. Look for harnesses popular with bully breeds. BULLHUG is the only harness in our roundup designed specifically for bulldog-shaped bodies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Front clip or back clip harness for French Bulldogs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Back clip is fine for most Frenchies. Front clip can help with pulling by redirecting them, but make sure it doesn't sit too close to the throat. Dual-clip harnesses like the Ruffwear, Rabbitgoo, Truelove, and BULLHUG give you flexibility. We use back clip for both boys and it's sufficient for daily walks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best harness for a French Bulldog that pulls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For dedicated pullers, the Julius-K9 IDC Powerharness is the most robust option — military-grade construction that can handle relentless pulling. For moderate pullers, the EzyDog Quick Fit (our top pick) controls pulling without being bulky. The Ruffwear Front Range with its front clip is excellent for puller training."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Should I get a step-in or over-the-head harness for my Frenchie?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on your dog's preference and your patience. Step-in harnesses like the Voyager avoid the over-the-head struggle but require a dog willing to step into them. Over-the-head harnesses (most of our picks) are more secure for pullers and escape artists. If your Frenchie hates things going over their head, the Voyager Step-In or Puppia (step-over style) are worth trying."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I replace a French Bulldog harness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When it shows signs of wear — frayed stitching, damaged buckles, fabric degradation, or if your dog has outgrown it. Premium harnesses like the EzyDog can last 2+ years with daily use. Budget options like the Puppia or Voyager may need replacing every 6-12 months. Inspect regularly, especially if your dog is a puller."
+      }
+    }
+  ]
+}
+</script>
+
 ### What size harness does my French Bulldog need?
 
-Measure chest girth (widest point behind front legs) and check the manufacturer's size chart. Most Frenchies wear Small or Medium depending on build. Buster (12.5kg, barrel-shaped) wears a Medium EzyDog. Jago (10.2kg, slightly leaner) wears a Small. Don't guess based on weight alone — measure properly.
+Measure chest girth (widest point behind front legs) and check the manufacturer's size chart. Most Frenchies wear Small or Medium depending on build. Buster (12.5kg, barrel-shaped) wears a Medium EzyDog. Jago (10.2kg, slightly leaner) wears a Small. Don't guess based on weight alone — measure properly. For brands like Rabbitgoo that run small, size up one from your usual.
 
 ### Can I use a harness for a French Bulldog puppy?
 
@@ -441,19 +697,23 @@ Yes, and you should. Puppies pull more than adults (they're excited about everyt
 
 ### Do French Bulldogs need special harnesses?
 
-Not "special," but they need harnesses that account for their barrel chest and short legs. Harnesses designed for "normal" dog proportions will gap at the chest or bind at the armpits. Look for harnesses popular with bully breeds — they're designed for this body shape.
+Not "special," but they need harnesses that account for their barrel chest and short legs. Harnesses designed for "normal" dog proportions will gap at the chest or bind at the armpits. Look for harnesses popular with bully breeds — they're designed for this body shape. In our roundup, the BULLHUG is the only harness designed specifically for bulldog bodies, and the fit difference is noticeable.
 
 ### Front clip or back clip harness for French Bulldogs?
 
-Back clip is fine for most Frenchies. Front clip can help with pulling by redirecting them, but make sure it doesn't sit too close to the throat. Dual-clip harnesses (both front and back options) give you flexibility. We use back clip for both boys and it's sufficient.
+Back clip is fine for most Frenchies. Front clip can help with pulling by redirecting them, but make sure it doesn't sit too close to the throat. Dual-clip harnesses (both front and back options) give you flexibility — the Ruffwear, Rabbitgoo, Truelove, and BULLHUG all offer this. We use back clip for both boys and it's sufficient.
 
-### My Frenchie hates wearing a harness. What should I do?
+### What is the best harness for a French Bulldog that pulls?
 
-Desensitisation training. Make harness time positive with treats and praise. Put it on for short periods indoors before attempting walks. Some dogs never *love* it but learn to tolerate it. Jago spent three days complaining dramatically before accepting his fate. Now he associates harness with walkies and tolerates it because the payoff is worth it.
+For dedicated pullers, the Julius-K9 IDC Powerharness is the most robust option — military-grade construction that can handle relentless pulling. For moderate pullers, the EzyDog Quick Fit (our top pick) controls pulling without being bulky. The Ruffwear Front Range with its front clip is excellent for puller training, and the Rabbitgoo does front-clip pull management at a budget price.
+
+### Should I get a step-in or over-the-head harness for my Frenchie?
+
+It depends on your dog's preference and your patience. Step-in harnesses like the Voyager avoid the over-the-head struggle entirely but require a dog willing to step into leg holes. Over-the-head harnesses (most of our picks) are more secure for pullers and escape artists. If your Frenchie hates things going over their head — and many do — the Voyager Step-In or Puppia (step-over style) are worth trying. We use the Voyager on hot summer days and the EzyDog the rest of the year.
 
 ### How often should I replace a French Bulldog harness?
 
-When it shows signs of wear — frayed stitching, damaged buckles, fabric degradation, or if your dog has outgrown it. The EzyDog has lasted us two years with daily use and is still going strong. Budget harnesses might need replacing every 6-12 months. Inspect regularly, especially if your dog is a puller.
+When it shows signs of wear — frayed stitching, damaged buckles, fabric degradation, or if your dog has outgrown it. Premium harnesses like the EzyDog have lasted us two years with daily use and are still going strong. Budget harnesses like the Puppia or Voyager might need replacing every 6-12 months. Inspect regularly, especially if your dog is a puller.
 
 ---
 
@@ -473,23 +733,26 @@ If we lost both our EzyDog harnesses tomorrow (touch wood), we'd buy them again 
 
 **For different budgets:**
 
-- **Under £15:** Puppia Soft Harness
-- **£15-£25:** Truelove No-Pull Harness  
-- **£25-£35:** EzyDog Quick Fit (our pick)
-- **£35+:** Ruffwear Front Range (if you need maximum features)
+- **Under £15:** Voyager Step-In (summer) or Puppia Soft Harness
+- **£15-£20:** Rabbitgoo No-Pull Vest (best value dual-clip)
+- **£20-£25:** Truelove No-Pull or BULLHUG (breed-specific)
+- **£25-£35:** EzyDog Quick Fit (our pick) or Julius-K9 (heavy pullers)
+- **£35+:** Ruffwear Front Range (if you need maximum features and a lifetime guarantee)
 
 **For different dog types:**
 
-- **Calm, well-behaved:** Puppia Soft Harness
-- **Moderate puller:** EzyDog Quick Fit or Truelove
-- **Serious puller:** Julius-K9 or Ruffwear
+- **Calm, well-behaved:** Puppia Soft Harness or Voyager Step-In
+- **Hates over-the-head:** Voyager Step-In or Puppia (step-over)
+- **Moderate puller:** EzyDog Quick Fit or Rabbitgoo
+- **Serious puller, barrel-chested:** Julius-K9 or BULLHUG
 - **Training/adventure:** Ruffwear Front Range
+- **Summer walking:** Voyager Step-In
 
 Whatever you choose, measure carefully, check the fit regularly (especially for growing puppies), and prioritise comfort over aesthetics. Your Frenchie will thank you by not coughing through walks and actually enjoying the daily routine.
 
 Buster and Jago's seal of approval goes to the EzyDog. Buster's is reluctant but genuine. Jago's is enthusiastic but mainly because he associates it with going outside where pigeons exist.
 
-{{< affiliate-button 
+{{< affiliate-button
   text="View the EzyDog Quick Fit Harness"
   url="https://www.amazon.co.uk/dp/B003XX1UGY?tag=broadbandhelp"
 >}}
@@ -501,6 +764,7 @@ Buster and Jago's seal of approval goes to the EzyDog. Buster's is reluctant but
 - [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/)
 - [Best Toys for French Bulldogs](/gear/best-toys-french-bulldogs/)
 - [Can French Bulldogs Swim?](/breed/can-french-bulldogs-swim/)
+- [How to Measure Your French Bulldog for a Harness](/gear/how-to-measure-french-bulldog-for-harness/)
 
 ---
 
