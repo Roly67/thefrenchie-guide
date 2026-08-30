@@ -187,7 +187,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 {{< product-card
   name="Julius-K9 IDC Powerharness"
-  price="£21.49"
+  price="£26.95"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
   image="/images/products/amazon-b004iejf6e.jpg" >}}
@@ -315,7 +315,7 @@ We tested this briefly with Jago. It worked, but he found the chest padding rest
 
 {{< product-card
   name="Rabbitgoo No-Pull Dog Harness"
-  price="£15.99"
+  price="£25.99"
   rating="4.5"
   url="https://www.amazon.co.uk/dp/B01MEG2Q7P?tag=broadbandhelp"
   image="/images/products/amazon-b01meg2q7p.jpg" >}}
@@ -373,7 +373,7 @@ The Rabbitgoo runs SMALL. Buster (12.5kg) needed a Medium when he'd normally be 
 
 {{< product-card
   name="Voyager Step-In Air Dog Harness"
-  price="£12.99"
+  price="£17.99"
   rating="4.6"
   url="https://www.amazon.co.uk/dp/B08CCG96FR?tag=broadbandhelp"
   image="/images/products/amazon-b08ccg96fr.jpg" >}}
@@ -430,7 +430,7 @@ The step-in design means a dog backing out of it has less resistance than a trad
 
 {{< product-card
   name="BULLHUG Small Dog Harness"
-  price="£22.99"
+  price="£27.99"
   rating="4.6"
   url="https://www.amazon.co.uk/dp/B08T24B5CJ?tag=broadbandhelp"
   image="/images/products/amazon-b08t24b5cj.jpg" >}}

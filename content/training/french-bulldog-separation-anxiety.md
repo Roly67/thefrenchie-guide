@@ -187,7 +187,7 @@ I prepare three frozen Kongs at a time. Game changer.
     title="Furbo Dog Camera with Treat Dispenser"
     description="HD camera lets you watch, talk to, and toss treats to your dog remotely. Sends alerts for barking, activity, and selfie moments."
     url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"
-    price="£37.00"
+    price="£29.00"
 >}}
 **Controversial take:** This is more for *your* anxiety than theirs. But knowing you can check in does provide peace of mind. Just don't talk to them constantly—that defeats the purpose of building independence.
 
@@ -196,11 +196,11 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 
 {{< product-card 
     name="ThunderShirt Classic Anxiety Jacket"
-    price="£33.92"
+    price="£35.00"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
-    price="£33.92"
+    price="£35.00"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
 
