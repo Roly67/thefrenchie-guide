@@ -1,6 +1,6 @@
 ---
 title: "Raw Feeding for French Bulldogs: Our Experience, Risks & Practical Guide"
-draft: true
+draft: false
 slug: "raw-feeding-french-bulldogs"
 silo: "nutrition"
 ---
