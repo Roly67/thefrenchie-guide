@@ -67,7 +67,7 @@ You cannot potty train a French Bulldog on vibes alone. You need supplies, a pla
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.3"
-  price="£8.99"
+  price="£11.09"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 This isn't optional. Regular cleaners don't remove the scent markers that tell your dog "this is the wee spot." Enzyme cleaners actually break down the proteins. We've tried cheaper alternatives. Don't. Just don't.
@@ -85,7 +85,7 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
   rating="4.5"
-  price="£6.79"
+  price="£8.79"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
 Super-absorbent, leak-proof, and crucially: they actually work. Some trainers say pads teach indoor weeing. We say they're a godsend if you live on the third floor and your puppy needs to go NOW.
@@ -446,7 +446,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Dirtbusters Pet Pro Urine & Odour Destroyer"
   image="/images/products/amazon-b0002i9oa2.jpg"
   rating="4.3"
-  price="£8.99"
+  price="£11.09"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002I9OA2?tag=broadbandhelp" >}}
 **Why we like it:** Actually works. Removes odours completely. One bottle lasts ages. Multiple surfaces. Doesn't smell artificial. Buy it. Seriously.
@@ -458,7 +458,7 @@ After testing approximately 847 products (rough estimate), here's what we actual
   name="Pet's Hub Training Pads (50 Pack)"
   image="/images/products/amazon-b00mw8g3yu.jpg"
   rating="4.5"
-  price="£6.79"
+  price="£8.79"
   retailer="Amazon UK"
   url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
 **Why we like it:** Super absorbent, doesn't leak, good size (56x56cm fits most puppies), stays in place. We tried cheaper ones. The cheap ones leak. Don't be heroes.
