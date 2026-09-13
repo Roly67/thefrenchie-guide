@@ -232,7 +232,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< product-card
   name="Ruffwear Front Range Harness"
-  price="£23.99"
+  price="£20.39"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
   image="/images/products/amazon-b082fq7fqg.jpg" >}}
@@ -373,7 +373,7 @@ The Rabbitgoo runs SMALL. Buster (12.5kg) needed a Medium when he'd normally be 
 
 {{< product-card
   name="Voyager Step-In Air Dog Harness"
-  price="£17.84"
+  price="£19.68"
   rating="4.6"
   url="https://www.amazon.co.uk/dp/B08CCG96FR?tag=broadbandhelp"
   image="/images/products/amazon-b08ccg96fr.jpg" >}}
@@ -430,7 +430,7 @@ The step-in design means a dog backing out of it has less resistance than a trad
 
 {{< product-card
   name="BULLHUG Small Dog Harness"
-  price="£27.99"
+  price="£29.99"
   rating="4.6"
   url="https://www.amazon.co.uk/dp/B08T24B5CJ?tag=broadbandhelp"
   image="/images/products/amazon-b08t24b5cj.jpg" >}}

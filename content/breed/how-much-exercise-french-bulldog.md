@@ -321,11 +321,11 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Front Range Harness"
-    price="£23.99"
+    price="£20.39"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
-    price="£23.99"
+    price="£20.39"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/best-harness-french-bulldog/)
 {{< /product-card >}}
@@ -334,7 +334,7 @@ A few tools make Frenchie exercise safer and more effective.
     title="Ruffwear Swamp Cooler Cooling Vest"
     description="Evaporative cooling vest for hot-weather walks. Soak in water, wring out, put on dog. Provides cooling for 2-4 hours. Reflective trim."
     url="https://www.amazon.co.uk/dp/B01MZ9D28N/?tag=broadbandhelp-21"
-    price="£63.92"
+    price="£67.73"
 >}}
 **Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/best-cooling-vest-french-bulldog/)
 {{< /product-card >}}
