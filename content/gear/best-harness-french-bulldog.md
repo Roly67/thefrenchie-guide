@@ -187,7 +187,7 @@ You're sacrificing durability and features for price. This is perfect for calm d
 
 {{< product-card
   name="Julius-K9 IDC Powerharness"
-  price="£28.89"
+  price="£33.79"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
   image="/images/products/amazon-b004iejf6e.jpg" >}}
@@ -232,7 +232,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< product-card
   name="Ruffwear Front Range Harness"
-  price="£20.39"
+  price="£59.95"
   rating="4.7"
   url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
   image="/images/products/amazon-b082fq7fqg.jpg" >}}
@@ -315,7 +315,7 @@ We tested this briefly with Jago. It worked, but he found the chest padding rest
 
 {{< product-card
   name="Rabbitgoo No-Pull Dog Harness"
-  price="£22.09"
+  price="£25.99"
   rating="4.5"
   url="https://www.amazon.co.uk/dp/B01MEG2Q7P?tag=broadbandhelp"
   image="/images/products/amazon-b01meg2q7p.jpg" >}}
@@ -373,7 +373,7 @@ The Rabbitgoo runs SMALL. Buster (12.5kg) needed a Medium when he'd normally be 
 
 {{< product-card
   name="Voyager Step-In Air Dog Harness"
-  price="£19.68"
+  price="£19.92"
   rating="4.6"
   url="https://www.amazon.co.uk/dp/B08CCG96FR?tag=broadbandhelp"
   image="/images/products/amazon-b08ccg96fr.jpg" >}}

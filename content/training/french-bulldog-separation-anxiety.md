@@ -163,7 +163,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
     title="ADAPTIL Calm Home Diffuser for Dogs"
     description="Pheromone diffuser that mimics the calming pheromones mother dogs produce. Covers up to 70m². Clinically proven to reduce stress signs in dogs."
     url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
-    price="£21.85"
+    price="£23.00"
 >}}
 **The science bit:** Releases synthetic versions of the Dog Appeasing Pheromone (DAP). Does it work? For Buster, yes. For Jago, marginally. Your mileage may vary, but it's worth trying.
 
@@ -187,7 +187,7 @@ I prepare three frozen Kongs at a time. Game changer.
     title="Furbo Dog Camera with Treat Dispenser"
     description="HD camera lets you watch, talk to, and toss treats to your dog remotely. Sends alerts for barking, activity, and selfie moments."
     url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"
-    price="£144.00"
+    price="£54.00"
 >}}
 **Controversial take:** This is more for *your* anxiety than theirs. But knowing you can check in does provide peace of mind. Just don't talk to them constantly—that defeats the purpose of building independence.
 
@@ -211,7 +211,7 @@ Buster tolerates his. Jago treats it as a personal insult.
     title="Snuggle Puppy Heartbeat Toy"
     description="Soft toy with a real-feel heartbeat and heat pack, designed to comfort puppies and anxious dogs. Mimics the presence of a littermate."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
-    price="£35.95"
+    price="£42.95"
 >}}
 **Best for:** Younger dogs or those recently rehomed. The heartbeat feature can be genuinely comforting. Plus, if your Frenchie has a shred of hunting instinct, it won't last a week. Consider it consumable.
 {{< /product-card >}}

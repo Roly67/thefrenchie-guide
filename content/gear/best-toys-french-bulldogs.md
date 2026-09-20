@@ -150,7 +150,7 @@ For the serious chewers (hi, Jago), Nylabone's Power Chew range is purpose-built
   name="KONG Extreme Dog Toy (Medium, Black)"
   image="/images/products/amazon-b0002ar0ii.jpg"
   rating="4.4"
-  price="£12.25"
+  price="£11.15"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002AR0II?tag=broadbandhelp"
   affiliate="true" >}}
@@ -200,7 +200,7 @@ This is hands-down Buster's favourite toy. The Dog Brick has flip-up compartment
   name="Snuffle Mat for Dogs (Medium/Large)"
   image="/images/products/amazon-b09wvrbk61.jpg"
   rating="4.2"
-  price="£11.99"
+  price="£12.99"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B09WVRBK61?tag=broadbandhelp"
   affiliate="true" >}}
@@ -252,7 +252,7 @@ Either way, if your Frenchie does enjoy fetch, you need the right tools.
   name="Chuckit! Breathe Right Fetch Ball (Medium, 2-Pack)"
   image="/images/products/amazon-b07d3fz15j.jpg"
   rating="4.4"
-  price="£10.93"
+  price="£10.92"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B07D3FZ15J?tag=broadbandhelp"
   affiliate="true" >}}
@@ -348,7 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   name="Rosewood Rubber Ball with Rope (Medium)"
   image="/images/products/amazon-b00p0yqyyw.jpg"
   rating="4.5"
-  price="£19.37"
+  price="£16.08"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}
