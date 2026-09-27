@@ -53,7 +53,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Ezydog Chest Plate Harness"
     description="Y-shaped front clip harness designed specifically for brachycephalic breeds. Distributes pressure across the chest, reducing strain on the throat. Reflective stitching for visibility. Multiple points of adjustment."
     url="https://www.amazon.co.uk/dp/B002QA6XPI/?tag=broadbandhelp-21"
-    price="£14.95"
+    price="£14.91"
 >}}
 **Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds. I've used these for both Buster and Jago—they're indestructible and properly designed.
 
@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="£24.19"
+    price="£24.22"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -156,7 +156,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="James Wellbeloved Puppy Food (Turkey & Rice)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
     url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp-21"
-    price="£10.49"
+    price="£10.59"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
 {{< /product-card >}}
@@ -174,7 +174,7 @@ Training treats should be:
     title="Pure Bites Freeze-Dried Training Treats"
     description="Single ingredient (chicken or liver), freeze-dried, breaks into tiny pieces. High protein, minimal calories. No additives. Smells revolting to humans, dogs love it."
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
-    price="£43.58"
+    price="£42.91"
 >}}
 **Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
 {{< /product-card >}}
@@ -197,7 +197,7 @@ Those adorable face folds? They collect moisture, food, dirt, and will develop i
     title="Squishface Wrinkle Paste"
     description="Water-repellent barrier cream for skin folds. Creates barrier against moisture, yeast, and bacteria. Use after cleaning wrinkles. Lasts ages."
     url="https://www.amazon.co.uk/dp/B01JH2DG8O/?tag=broadbandhelp-21"
-    price="£13.99"
+    price="£19.99"
 >}}
 **How to use:** Clean wrinkles with unscented baby wipe or damp cloth, dry thoroughly, apply thin layer of paste. Daily for deep wrinkles, every other day for shallower ones.
 
@@ -221,7 +221,7 @@ French Bulldogs cannot regulate their body temperature effectively. This is not 
     title="PawPride Cooling Mat"
     description="Self-cooling gel mat, no refrigeration needed. Activated by pressure. Various sizes - Small/Medium perfect for Frenchies. Helps prevent overheating during warm weather."
     url="https://www.amazon.co.uk/dp/B07TGBY43K/?tag=broadbandhelp-21"
-    price="£23.99"
+    price="£22.99"
 >}}
 **UK weather caveat:** Yes, even in Britain. That one week in July when it hits 24°C? Your Frenchie will suffer without cooling aids.
 
@@ -277,7 +277,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Nylabone Puppy Chew Toys"
     description="Specifically designed for puppy teeth (softer than adult versions). Textured for teething relief. Various shapes and sizes. Replace when heavily worn."
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
-    price="£12.65"
+    price="£12.77"
 >}}
 **Teething essential:** When puppy teeth are coming through (12-16 weeks particularly hellish), they *need* to chew. Better a Nylabone than your furniture.
 {{< /product-card >}}

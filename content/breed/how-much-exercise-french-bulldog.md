@@ -321,11 +321,11 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Front Range Harness"
-    price="£59.95"
+    price="£47.22"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
-    price="£59.95"
+    price="£47.22"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/best-harness-french-bulldog/)
 {{< /product-card >}}
@@ -334,7 +334,7 @@ A few tools make Frenchie exercise safer and more effective.
     title="Ruffwear Swamp Cooler Cooling Vest"
     description="Evaporative cooling vest for hot-weather walks. Soak in water, wring out, put on dog. Provides cooling for 2-4 hours. Reflective trim."
     url="https://www.amazon.co.uk/dp/B01MZ9D28N/?tag=broadbandhelp-21"
-    price="£58.19"
+    price="£9.99"
 >}}
 **Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/best-cooling-vest-french-bulldog/)
 {{< /product-card >}}
@@ -363,22 +363,22 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Hurtta Extreme Warmer Dog Coat"
-    price="£21.49"
+    price="£21.99"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
-    price="£21.49"
+    price="£21.99"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
 {{< /product-card >}}
 
 {{< product-card 
     name="Outward Hound Nina Ottosson Puzzle Toy"
-    price="£11.13"
+    price="£11.17"
     rating="4.4"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="£11.13"
+    price="£11.17"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}
