@@ -179,7 +179,7 @@ French Bulldogs are smarter than people give them credit for. Sure, Jago's prima
   name="Nina Ottosson Dog Brick Puzzle Toy"
   image="/images/products/amazon-b0711y9xtf.jpg"
   rating="4.4"
-  price="£20.30"
+  price="£20.06"
   where="Amazon UK / VioVet"
   url="https://www.amazon.co.uk/dp/B0711Y9XTF?tag=broadbandhelp"
   affiliate="true" >}}
@@ -200,7 +200,7 @@ This is hands-down Buster's favourite toy. The Dog Brick has flip-up compartment
   name="Snuffle Mat for Dogs (Medium/Large)"
   image="/images/products/amazon-b09wvrbk61.jpg"
   rating="4.2"
-  price="£11.99"
+  price="£13.99"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B09WVRBK61?tag=broadbandhelp"
   affiliate="true" >}}
@@ -275,7 +275,7 @@ Regular tennis balls are fine for gentle play, but the breathable design makes t
   name="KONG Flyer Rubber Frisbee"
   image="/images/products/amazon-b000brtadk.jpg"
   rating="4.5"
-  price="£11.55"
+  price="£11.57"
   where="Pets at Home / Amazon UK"
   url="https://www.amazon.co.uk/dp/B000BRTADK?tag=broadbandhelp"
   affiliate="true" >}}
@@ -323,7 +323,7 @@ Soft and cuddly on the outside, but with an internal knotted rope skeleton for d
   name="ZippyPaws Skinny Peltz Fox"
   image="/images/products/amazon-b0002asnac.jpg"
   rating="4.4"
-  price="£10.03"
+  price="£9.99"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002ASNAC?tag=broadbandhelp"
   affiliate="true" >}}
@@ -348,7 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   name="Rosewood Rubber Ball with Rope (Medium)"
   image="/images/products/amazon-b00p0yqyyw.jpg"
   rating="4.5"
-  price="£19.82"
+  price="£16.23"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}
