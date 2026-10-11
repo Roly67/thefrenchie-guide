@@ -363,22 +363,22 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Hurtta Extreme Warmer Dog Coat"
-    price="£21.99"
+    price="£19.99"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
-    price="£21.99"
+    price="£19.99"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
 {{< /product-card >}}
 
 {{< product-card 
     name="Outward Hound Nina Ottosson Puzzle Toy"
-    price="£11.17"
+    price="£10.62"
     rating="4.4"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="£11.17"
+    price="£10.62"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}
