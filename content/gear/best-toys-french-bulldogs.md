@@ -129,7 +129,7 @@ This is one of the boys' absolute favourites. Buster chews his with the focused 
   name="Nylabone Power Chew DuraChew Textured Ring"
   image="/images/products/amazon-b003almw0m.jpg"
   rating="4.6"
-  price="£16.84"
+  price="£13.25"
   where="Amazon UK / Pets at Home"
   url="https://www.amazon.co.uk/dp/B003ALMW0M?tag=broadbandhelp"
   affiliate="true" >}}
@@ -179,7 +179,7 @@ French Bulldogs are smarter than people give them credit for. Sure, Jago's prima
   name="Nina Ottosson Dog Brick Puzzle Toy"
   image="/images/products/amazon-b0711y9xtf.jpg"
   rating="4.4"
-  price="£17.89"
+  price="£20.07"
   where="Amazon UK / VioVet"
   url="https://www.amazon.co.uk/dp/B0711Y9XTF?tag=broadbandhelp"
   affiliate="true" >}}
@@ -200,7 +200,7 @@ This is hands-down Buster's favourite toy. The Dog Brick has flip-up compartment
   name="Snuffle Mat for Dogs (Medium/Large)"
   image="/images/products/amazon-b09wvrbk61.jpg"
   rating="4.2"
-  price="£13.99"
+  price="£11.99"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B09WVRBK61?tag=broadbandhelp"
   affiliate="true" >}}
@@ -252,7 +252,7 @@ Either way, if your Frenchie does enjoy fetch, you need the right tools.
   name="Chuckit! Breathe Right Fetch Ball (Medium, 2-Pack)"
   image="/images/products/amazon-b07d3fz15j.jpg"
   rating="4.4"
-  price="£10.92"
+  price="£10.89"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B07D3FZ15J?tag=broadbandhelp"
   affiliate="true" >}}
@@ -275,7 +275,7 @@ Regular tennis balls are fine for gentle play, but the breathable design makes t
   name="KONG Flyer Rubber Frisbee"
   image="/images/products/amazon-b000brtadk.jpg"
   rating="4.5"
-  price="£11.57"
+  price="£11.55"
   where="Pets at Home / Amazon UK"
   url="https://www.amazon.co.uk/dp/B000BRTADK?tag=broadbandhelp"
   affiliate="true" >}}
@@ -302,7 +302,7 @@ Yes, these are tough, muscular dogs with powerful jaws. They're also massive sof
   name="KONG Wild Knots Bear (Medium/Large)"
   image="/images/products/amazon-b00b4ur08k.jpg"
   rating="4.1"
-  price="£10.95"
+  price="£10.65"
   where="Amazon UK / The Range"
   url="https://www.amazon.co.uk/dp/B00B4UR08K?tag=broadbandhelp"
   affiliate="true" >}}
@@ -348,7 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   name="Rosewood Rubber Ball with Rope (Medium)"
   image="/images/products/amazon-b00p0yqyyw.jpg"
   rating="4.5"
-  price="£16.26"
+  price="£16.35"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}

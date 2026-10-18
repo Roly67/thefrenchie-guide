@@ -321,11 +321,11 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Front Range Harness"
-    price="£59.95"
+    price="£20.39"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
-    price="£59.95"
+    price="£20.39"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/best-harness-french-bulldog/)
 {{< /product-card >}}
@@ -353,7 +353,7 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     name="Collapsible Dog Water Bowl"
     price="£3.27"
-    rating="4.5"
+    rating="4.4"
     image="/images/products/amazon-b01arbs2s8.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
     price="£3.27"
@@ -363,22 +363,22 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Hurtta Extreme Warmer Dog Coat"
-    price="£19.99"
+    price="£21.99"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
-    price="£19.99"
+    price="£21.99"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
 {{< /product-card >}}
 
 {{< product-card 
     name="Outward Hound Nina Ottosson Puzzle Toy"
-    price="£10.62"
+    price="£9.88"
     rating="4.4"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="£10.62"
+    price="£9.88"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}

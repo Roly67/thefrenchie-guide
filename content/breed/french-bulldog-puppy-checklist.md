@@ -53,7 +53,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Ezydog Chest Plate Harness"
     description="Y-shaped front clip harness designed specifically for brachycephalic breeds. Distributes pressure across the chest, reducing strain on the throat. Reflective stitching for visibility. Multiple points of adjustment."
     url="https://www.amazon.co.uk/dp/B002QA6XPI/?tag=broadbandhelp-21"
-    price="£14.98"
+    price="£13.99"
 >}}
 **Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds. I've used these for both Buster and Jago—they're indestructible and properly designed.
 
@@ -82,7 +82,7 @@ Controversial topic, I know. But crate training makes [our potty training guide]
     title="MidWest iCrate Dog Crate - 24 inch"
     description="Fold-flat wire crate with divider panel (essential for puppies). Single-door or double-door options. Includes plastic tray. 24-inch size suitable for adult Frenchies."
     url="https://www.amazon.co.uk/dp/B07D1WP1FD/?tag=broadbandhelp-21"
-    price="£22.99"
+    price="£14.09"
 >}}
 **Key feature:** The divider panel. Puppies shouldn't have too much space initially (they'll toilet in one corner and sleep in another). As they grow, you move the divider to increase space.
 
@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="£24.20"
+    price="£23.66"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -174,7 +174,7 @@ Training treats should be:
     title="Pure Bites Freeze-Dried Training Treats"
     description="Single ingredient (chicken or liver), freeze-dried, breaks into tiny pieces. High protein, minimal calories. No additives. Smells revolting to humans, dogs love it."
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
-    price="£44.37"
+    price="£42.97"
 >}}
 **Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
 {{< /product-card >}}
@@ -277,7 +277,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Nylabone Puppy Chew Toys"
     description="Specifically designed for puppy teeth (softer than adult versions). Textured for teething relief. Various shapes and sizes. Replace when heavily worn."
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
-    price="£12.83"
+    price="£6.12"
 >}}
 **Teething essential:** When puppy teeth are coming through (12-16 weeks particularly hellish), they *need* to chew. Better a Nylabone than your furniture.
 {{< /product-card >}}
@@ -347,7 +347,7 @@ Frenchies have sensitive skin. Don't use human shampoo or harsh dog shampoos.
     title="Burt's Bees Puppy Shampoo (Tearless, 2-in-1)"
     description="Gentle, pH-balanced for puppies. Tearless formula. Adds shine without harsh chemicals. Buttermilk and linseed oil formula. Made from 97% natural ingredients."
     url="https://www.amazon.co.uk/dp/B00CVTRO48/?tag=broadbandhelp-21"
-    price="£10.66"
+    price="£10.88"
 >}}
 **Bathing frequency:** Not more than once every 3-4 weeks unless they've rolled in something unspeakable. Over-bathing dries out skin and causes issues.
 
