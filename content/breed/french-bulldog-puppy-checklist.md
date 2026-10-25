@@ -53,7 +53,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Ezydog Chest Plate Harness"
     description="Y-shaped front clip harness designed specifically for brachycephalic breeds. Distributes pressure across the chest, reducing strain on the throat. Reflective stitching for visibility. Multiple points of adjustment."
     url="https://www.amazon.co.uk/dp/B002QA6XPI/?tag=broadbandhelp-21"
-    price="£13.99"
+    price="£14.89"
 >}}
 **Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds. I've used these for both Buster and Jago—they're indestructible and properly designed.
 
@@ -64,7 +64,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Puppia Soft Harness"
     description="Soft vest-style harness, lightweight and comfortable for puppies still learning to walk on lead. Comes in small sizes suitable for Frenchie pups. Easy step-in design."
     url="https://www.amazon.co.uk/dp/B0013MX6HS/?tag=broadbandhelp-21"
-    price="£18.00"
+    price="£16.99"
 >}}
 **Alternative option:** If you want something gentler for very young puppies during initial lead training. Less robust than Ezydog but easier to get on a wriggly puppy.
 {{< /product-card >}}
@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="£23.66"
+    price="£24.76"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -147,7 +147,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="Royal Canin French Bulldog Puppy"
     description="Breed-specific formula designed for French Bulldog puppies. Kibble shaped for brachycephalic jaws. Supports digestive health and skin barriers. Suitable from 2-12 months."
     url="https://www.amazon.co.uk/dp/B009H3WMZM/?tag=broadbandhelp-21"
-    price="£9.50"
+    price="£22.99"
 >}}
 **Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
 {{< /product-card >}}
@@ -156,7 +156,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="James Wellbeloved Puppy Food (Turkey & Rice)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
     url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp-21"
-    price="£10.69"
+    price="£10.29"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
 {{< /product-card >}}
@@ -277,7 +277,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Nylabone Puppy Chew Toys"
     description="Specifically designed for puppy teeth (softer than adult versions). Textured for teething relief. Various shapes and sizes. Replace when heavily worn."
     url="https://www.amazon.co.uk/dp/B06XCNCCGK/?tag=broadbandhelp-21"
-    price="£6.12"
+    price="£5.99"
 >}}
 **Teething essential:** When puppy teeth are coming through (12-16 weeks particularly hellish), they *need* to chew. Better a Nylabone than your furniture.
 {{< /product-card >}}
@@ -286,7 +286,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Snuggle Puppy - Comfort Toy with Heartbeat"
     description="Soft toy with simulated heartbeat and heat pack. Mimics littermate comfort. Helps with first nights and separation anxiety."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
-    price="£42.95"
+    price="£43.84"
 >}}
 **For the first week:** Genuinely helps some puppies settle. The heartbeat is oddly comforting. Buster loved his. Jago immediately attempted murder-by-mauling. Your mileage may vary.
 {{< /product-card >}}
@@ -347,7 +347,7 @@ Frenchies have sensitive skin. Don't use human shampoo or harsh dog shampoos.
     title="Burt's Bees Puppy Shampoo (Tearless, 2-in-1)"
     description="Gentle, pH-balanced for puppies. Tearless formula. Adds shine without harsh chemicals. Buttermilk and linseed oil formula. Made from 97% natural ingredients."
     url="https://www.amazon.co.uk/dp/B00CVTRO48/?tag=broadbandhelp-21"
-    price="£10.88"
+    price="£10.87"
 >}}
 **Bathing frequency:** Not more than once every 3-4 weeks unless they've rolled in something unspeakable. Over-bathing dries out skin and causes issues.
 
@@ -364,7 +364,7 @@ To limit puppy's access to the house whilst toilet training and teaching boundar
     title="BabyDan Pressure Fit Safety Gate"
     description="No drilling required, adjustable width, auto-close feature. Tall enough that adult Frenchies won't jump over (not that they're athletic enough to try, but still)."
     url="https://www.amazon.co.uk/dp/B007XTDGQG/?tag=broadbandhelp-21"
-    price="£54.78"
+    price="£55.56"
 >}}
 **Where to use:** Block off stairs (puppies shouldn't use stairs until 12+ weeks, risks joint damage), rooms with hazards, kitchen during meal prep.
 

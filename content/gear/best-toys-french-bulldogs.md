@@ -129,7 +129,7 @@ This is one of the boys' absolute favourites. Buster chews his with the focused 
   name="Nylabone Power Chew DuraChew Textured Ring"
   image="/images/products/amazon-b003almw0m.jpg"
   rating="4.6"
-  price="£13.25"
+  price="£17.98"
   where="Amazon UK / Pets at Home"
   url="https://www.amazon.co.uk/dp/B003ALMW0M?tag=broadbandhelp"
   affiliate="true" >}}
@@ -150,7 +150,7 @@ For the serious chewers (hi, Jago), Nylabone's Power Chew range is purpose-built
   name="KONG Extreme Dog Toy (Medium, Black)"
   image="/images/products/amazon-b0002ar0ii.jpg"
   rating="4.4"
-  price="£12.25"
+  price="£9.99"
   where="Amazon UK"
   url="https://www.amazon.co.uk/dp/B0002AR0II?tag=broadbandhelp"
   affiliate="true" >}}
@@ -275,7 +275,7 @@ Regular tennis balls are fine for gentle play, but the breathable design makes t
   name="KONG Flyer Rubber Frisbee"
   image="/images/products/amazon-b000brtadk.jpg"
   rating="4.5"
-  price="£11.55"
+  price="£11.57"
   where="Pets at Home / Amazon UK"
   url="https://www.amazon.co.uk/dp/B000BRTADK?tag=broadbandhelp"
   affiliate="true" >}}
@@ -348,7 +348,7 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
   name="Rosewood Rubber Ball with Rope (Medium)"
   image="/images/products/amazon-b00p0yqyyw.jpg"
   rating="4.5"
-  price="£16.35"
+  price="£16.33"
   where="Pets at Home / The Range"
   url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}

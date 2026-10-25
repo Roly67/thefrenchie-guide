@@ -196,11 +196,11 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 
 {{< product-card 
     name="ThunderShirt Classic Anxiety Jacket"
-    price="£29.46"
+    price="£29.33"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
-    price="£29.46"
+    price="£29.33"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
 
@@ -211,7 +211,7 @@ Buster tolerates his. Jago treats it as a personal insult.
     title="Snuggle Puppy Heartbeat Toy"
     description="Soft toy with a real-feel heartbeat and heat pack, designed to comfort puppies and anxious dogs. Mimics the presence of a littermate."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
-    price="£42.95"
+    price="£43.84"
 >}}
 **Best for:** Younger dogs or those recently rehomed. The heartbeat feature can be genuinely comforting. Plus, if your Frenchie has a shred of hunting instinct, it won't last a week. Consider it consumable.
 {{< /product-card >}}
