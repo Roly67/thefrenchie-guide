@@ -112,7 +112,7 @@ The lesson: French Bulldogs have almost no ability to regulate body temperature 
 - **No walks in full sunshine** — our vet's advice was blunt and clear
 - **Woodland walks in shade** — we're in Cornwall, so there are options
 - **Avoid beaches when it's warm** — no shade, reflected heat, no thanks
-- **Always carry water** and take a [cooling mat](/best-cooling-vest-french-bulldog/) for after
+- **Always carry water** and take a [cooling mat](/gear/best-cooling-vest-french-bulldog/) for after
 
 And when it's really hot? They go on strike anyway. Both boys will simply sit down and refuse to walk. Jago will look at you as if you've suggested something deeply offensive. So the dogs are, in their own way, smarter than we were that day.
 
@@ -124,7 +124,7 @@ And when it's really hot? They go on strike anyway. Both boys will simply sit do
 
 Keep your Frenchie lean. Not ribby, not emaciated — but you should be able to feel their ribs without pressing hard. Your vet can help you find the right target weight.
 
-Buster gets slightly less [food](/best-dog-food-french-bulldogs-uk/) than Jago because he's less active. Both get their daily calories counted, not estimated.
+Buster gets slightly less [food](/gear/best-dog-food-french-bulldogs-uk/) than Jago because he's less active. Both get their daily calories counted, not estimated.
 
 ### Exercise: The Right Amount, The Right Way
 
@@ -141,11 +141,11 @@ French Bulldogs need exercise — they're not ornaments. But the type, timing, a
 **Don't:**
 - Exercise in hot or humid weather
 - Push them when they're showing breathing signs
-- Use collars — always a [harness](/best-harness-french-bulldog/). Collar pressure on the neck directly compresses the airway.
+- Use collars — always a [harness](/gear/best-harness-french-bulldog/). Collar pressure on the neck directly compresses the airway.
 - Exercise immediately after eating (air intake + digestion = trouble)
 - Use retractable leads that encourage pulling and straining
 
-For more detail, see our full [exercise guide](/how-much-exercise-french-bulldog/).
+For more detail, see our full [exercise guide](/breed/how-much-exercise-french-bulldog/).
 
 ### Temperature Control
 
@@ -164,13 +164,13 @@ More general temperature management:
 
 ### Sleeping Position Matters
 
-Some Frenchies breathe better with their head slightly elevated. Buster naturally gravitates to the bolster edge of his [donut bed](/best-bed-french-bulldog/) — resting his chin on the raised rim props his airway open slightly. We didn't teach him this. He worked it out himself.
+Some Frenchies breathe better with their head slightly elevated. Buster naturally gravitates to the bolster edge of his [donut bed](/gear/best-bed-french-bulldog/) — resting his chin on the raised rim props his airway open slightly. We didn't teach him this. He worked it out himself.
 
 If your Frenchie sleeps flat and snores badly, try a bed with a bolster they can rest their head on. It won't cure anything, but it can reduce the nighttime orchestra.
 
 ### Harness, Not Collar — Always
 
-This deserves its own emphasis. A collar puts direct pressure on the trachea. In a breed with an already narrowed trachea, this is asking for trouble. We use an [Ezydog harness](/best-harness-french-bulldog/) that distributes pressure across the chest instead. Every walk. Every time. No exceptions.
+This deserves its own emphasis. A collar puts direct pressure on the trachea. In a breed with an already narrowed trachea, this is asking for trouble. We use an [Ezydog harness](/gear/best-harness-french-bulldog/) that distributes pressure across the chest instead. Every walk. Every time. No exceptions.
 
 ## When to Consider Surgery
 
@@ -225,7 +225,7 @@ They can. Secondary changes (like everted laryngeal saccules) develop over time 
 **Disclaimer:** *This article reflects our personal experience as French Bulldog owners. It is not veterinary advice. Always consult a qualified veterinarian for medical concerns about your dog's breathing.*
 
 **Related guides:**
-- [How Much Exercise Does a French Bulldog Need](/how-much-exercise-french-bulldog/) — Getting the balance right
-- [Can French Bulldogs Swim?](/can-french-bulldogs-swim/) — Water safety for flat faces
-- [Best Cooling Vest for French Bulldogs](/best-cooling-vest-french-bulldog/) — Managing heat
-- [Best Harness for French Bulldogs](/best-harness-french-bulldog/) — Why collars are a no-go
+- [How Much Exercise Does a French Bulldog Need](/breed/how-much-exercise-french-bulldog/) — Getting the balance right
+- [Can French Bulldogs Swim?](/breed/can-french-bulldogs-swim/) — Water safety for flat faces
+- [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/) — Managing heat
+- [Best Harness for French Bulldogs](/gear/best-harness-french-bulldog/) — Why collars are a no-go

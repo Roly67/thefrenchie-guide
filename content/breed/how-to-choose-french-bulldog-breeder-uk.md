@@ -30,7 +30,7 @@ With most dog breeds, breeder quality matters. With French Bulldogs, it matters 
 
 ### The Health Problem Is Real
 
-French Bulldogs are brachycephalic. They have [breathing problems](/french-bulldog-breathing-problems/) by design. But the severity varies hugely between individual dogs, and that variance is largely determined by breeding choices.
+French Bulldogs are brachycephalic. They have [breathing problems](/breed/french-bulldog-breathing-problems/) by design. But the severity varies hugely between individual dogs, and that variance is largely determined by breeding choices.
 
 A responsible breeder selects parents with:
 - Open nostrils (not severely stenotic)
@@ -60,7 +60,7 @@ Good breeders test for these. Puppy farmers don't.
 
 ### Early Socialisation Shapes Everything
 
-A puppy raised in a home environment with proper handling, noise exposure, and socialisation develops into a confident, well-adjusted dog. A puppy raised in a shed with minimal human contact develops into an anxious, reactive dog — and that's the foundation for [separation anxiety](/french-bulldog-separation-anxiety/) and behavioural problems that are incredibly difficult to fix.
+A puppy raised in a home environment with proper handling, noise exposure, and socialisation develops into a confident, well-adjusted dog. A puppy raised in a shed with minimal human contact develops into an anxious, reactive dog — and that's the foundation for [separation anxiety](/training/french-bulldog-separation-anxiety/) and behavioural problems that are incredibly difficult to fix.
 
 Buster came from a breeder who raised puppies in the kitchen. He was handled daily, exposed to household noises, and met other dogs. He arrived as a confident, relaxed puppy who slept through his first night with a single woof. That's not an accident — that's good breeding and good early care.
 
@@ -305,6 +305,6 @@ Don't rush it. Get it right.
 *This guide contains no affiliate links. It exists solely to help you find a healthy, well-bred French Bulldog from someone who genuinely cares about the breed. If it saves one person from a puppy farm, it's done its job.*
 
 **Related guides:**
-- [French Bulldog Breathing Problems](/french-bulldog-breathing-problems/) — Why BOAS testing matters
-- [French Bulldog Puppy Checklist](/french-bulldog-puppy-checklist/) — What to prepare before puppy arrives
-- [French Bulldog Potty Training](/french-bulldog-potty-training/) — First weeks at home
+- [French Bulldog Breathing Problems](/breed/french-bulldog-breathing-problems/) — Why BOAS testing matters
+- [French Bulldog Puppy Checklist](/breed/french-bulldog-puppy-checklist/) — What to prepare before puppy arrives
+- [French Bulldog Potty Training](/training/french-bulldog-potty-training/) — First weeks at home

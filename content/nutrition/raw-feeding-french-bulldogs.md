@@ -78,7 +78,7 @@ If you're considering raw feeding for a French Bulldog puppy, the stakes are hig
 
 We don't feed fully raw. We feed what we'd describe as a "hybrid" approach: high-quality fish-based kibble as the base, supplemented with raw elements. This isn't ideological — it's practical. Here's what it looks like:
 
-**Morning meal:** Fish-based kibble (the boys are on a salmon and white fish formula — see our [best dog food guide](/best-dog-food-french-bulldogs-uk/) for the brands we've tested), weighed out by calorie requirement.
+**Morning meal:** Fish-based kibble (the boys are on a salmon and white fish formula — see our [best dog food guide](/gear/best-dog-food-french-bulldogs-uk/) for the brands we've tested), weighed out by calorie requirement.
 
 **Evening meal, 3-4 times a week:** A portion of commercial pre-prepared raw — usually a frozen complete raw food from a UK brand like Natures Menu, Nutriment, or Bella & Duke. These come as frozen nuggets or mince, already balanced with the right meat/bone/organ ratios. We defrost overnight in the fridge and serve at room temperature.
 
@@ -129,7 +129,7 @@ For those going the DIY route, here's what you need:
 
 Raw food is more calorie-dense than you might expect. The standard guideline is **2-3% of ideal adult body weight per day** for maintenance. For a 12kg Frenchie, that's 240-360g of raw food per day, split across two meals.
 
-But — and this matters — that's a starting point, not a rule. Use the body condition score (explained in detail in our [feeding guide](/how-much-feed-french-bulldog/)) to adjust. If your Frenchie is getting pudgy, reduce. If they're losing condition, increase.
+But — and this matters — that's a starting point, not a rule. Use the body condition score (explained in detail in our [feeding guide](/nutrition/how-much-feed-french-bulldog/)) to adjust. If your Frenchie is getting pudgy, reduce. If they're losing condition, increase.
 
 One thing we noticed: raw food seems to satisfy differently. Buster, who would inhale his kibble in under thirty seconds and then stare at us like a famine victim, takes longer with raw and seems genuinely satisfied afterwards. He still looks hopeful (he's a Frenchie), but the desperation is dialled down. We suspect it's the combination of chewing time, higher moisture content, and the mental engagement of working at a bone.
 
@@ -208,8 +208,8 @@ It helps, but it's not a cure. We've noticed the boys' gas is noticeably reduced
 **Disclaimer:** *This article reflects our personal experience as French Bulldog owners and is not veterinary advice. Raw feeding carries specific risks including bacterial contamination and nutritional imbalance. Always consult a qualified veterinarian before making significant changes to your dog's diet, and work with a veterinary nutritionist if you plan to formulate raw meals yourself.*
 
 **Related guides:**
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — The brands we actually feed and why
-- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/french-bulldog-food-allergies/) — How we discovered Buster's chicken problem
-- [How Much Should I Feed My French Bulldog?](/how-much-feed-french-bulldog/) — Portions, calories, and the body condition score
-- [Best Slow Feeder Bowl for French Bulldogs](/best-slow-feeder-bowl-french-bulldog/) — For dogs who inhale their dinner (raw or otherwise)
-- [French Bulldog Breathing Problems](/french-bulldog-breathing-problems/) — Managing health in a brachycephalic breed
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — The brands we actually feed and why
+- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/) — How we discovered Buster's chicken problem
+- [How Much Should I Feed My French Bulldog?](/nutrition/how-much-feed-french-bulldog/) — Portions, calories, and the body condition score
+- [Best Slow Feeder Bowl for French Bulldogs](/gear/best-slow-feeder-bowl-french-bulldog/) — For dogs who inhale their dinner (raw or otherwise)
+- [French Bulldog Breathing Problems](/breed/french-bulldog-breathing-problems/) — Managing health in a brachycephalic breed

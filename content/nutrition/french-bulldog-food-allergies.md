@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Food Allergies: Symptoms, Causes & What to Feed"
-draft: true
+draft: false
+date: 2026-08-07
+lastmod: 2026-08-07
 slug: "french-bulldog-food-allergies"
 silo: "nutrition"
 ---
@@ -187,7 +189,7 @@ If your Frenchie did well on venison or rabbit during the elimination diet, you 
 
 ### Our Setup
 
-After Buster's chicken diagnosis, we moved both boys to a fish-based diet. The [best dog food guide](/best-dog-food-french-bulldogs-uk/) covers the brands we've tested in detail, but the short version is: single-protein fish kibble for meals, with occasional rabbit or venison treats for variety. No chicken, no beef, no dairy.
+After Buster's chicken diagnosis, we moved both boys to a fish-based diet. The [best dog food guide](/gear/best-dog-food-french-bulldogs-uk/) covers the brands we've tested in detail, but the short version is: single-protein fish kibble for meals, with occasional rabbit or venison treats for variety. No chicken, no beef, no dairy.
 
 Jago eats the same thing because life's too short to prepare two different meals for two dogs who would absolutely swap bowls given half a chance.
 
@@ -314,7 +316,7 @@ Yes, and it's more common than single allergies. If your Frenchie improves on a 
 **Disclaimer:** *This article reflects our personal experience as French Bulldog owners and is not veterinary advice. Always consult a qualified veterinarian about your dog's health concerns, particularly before starting an elimination diet or giving supplements.*
 
 **Related guides:**
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — The brands we actually feed
-- [French Bulldog Breathing Problems](/french-bulldog-breathing-problems/) — Another common health concern
-- [Best Bed for French Bulldogs](/best-bed-french-bulldog/) — Comfort for itchy dogs
-- [French Bulldog Potty Training](/french-bulldog-potty-training/) — Especially relevant when digestive issues are in play
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — The brands we actually feed
+- [French Bulldog Breathing Problems](/breed/french-bulldog-breathing-problems/) — Another common health concern
+- [Best Bed for French Bulldogs](/gear/best-bed-french-bulldog/) — Comfort for itchy dogs
+- [French Bulldog Potty Training](/training/french-bulldog-potty-training/) — Especially relevant when digestive issues are in play

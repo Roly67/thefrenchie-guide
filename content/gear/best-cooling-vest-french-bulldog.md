@@ -265,7 +265,7 @@ You'd think "soak it and put it on" would be foolproof. You'd be wrong. Here's h
 
 ### During Your Walk
 
-- **Monitor your dog**—cooling vests help but aren't magic. Still watch for [signs of overheating](/health/french-bulldog-overheating-symptoms)
+- **Monitor your dog**—cooling vests help but aren't magic. Still watch for [signs of overheating](/lifestyle/french-bulldog-summer-safety-guide/)
 - **Re-soak if needed**—bring a water bottle to refresh the vest on longer outings
 - **Take breaks in shade**—combine the vest with sensible heat management
 - **Offer water frequently**—Frenchies are terrible at self-regulating
@@ -295,7 +295,7 @@ Yes, when used properly. They won't turn your Frenchie into a marathon runner, b
 
 ### Can I use a cooling vest instead of avoiding hot weather walks?
 
-Absolutely not. A cooling vest is an *aid*, not a solution. If it's genuinely hot outside (25°C+), your Frenchie should be having short, early morning or late evening walks only—[summer safety](/health/french-bulldog-summer-safety) isn't negotiable, regardless of gear.
+Absolutely not. A cooling vest is an *aid*, not a solution. If it's genuinely hot outside (25°C+), your Frenchie should be having short, early morning or late evening walks only—[summer safety](/lifestyle/french-bulldog-summer-safety-guide/) isn't negotiable, regardless of gear.
 
 ### How long does a cooling vest stay effective?
 
@@ -393,8 +393,8 @@ Buster and Jago thank you for your diligence. (Well, Buster thanks you. Jago jus
 ---
 
 **Related Reading:**
-- [Recognising Overheating Symptoms in French Bulldogs](/health/french-bulldog-overheating-symptoms)
-- [Summer Safety Guide for Frenchies](/health/french-bulldog-summer-safety)  
+- [Recognising Overheating Symptoms in French Bulldogs](/lifestyle/french-bulldog-summer-safety-guide/)
+- [Summer Safety Guide for Frenchies](/lifestyle/french-bulldog-summer-safety-guide/)  
 - [Best Harness for French Bulldogs](/gear/best-harness-french-bulldog)
 - [Can French Bulldogs Swim?](/breed/can-french-bulldogs-swim) (Spoiler: not really)
 

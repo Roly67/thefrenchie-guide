@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Summer Safety Guide: Heatstroke Prevention & Hot Weather Tips"
-draft: true
+draft: false
+date: 2026-08-28
+lastmod: 2026-08-28
 slug: "french-bulldog-summer-safety-guide"
 silo: "lifestyle"
 ---
@@ -22,7 +24,7 @@ Before we get into the practical stuff, it helps to understand why French Bulldo
 
 French Bulldogs are brachycephalic — their airways are squashed into a skull that's too short for all the soft tissue inside. Every Frenchie has some degree of breathing compromise. In cool weather, this mostly means snoring and snorting. In hot weather, it becomes dangerous.
 
-Dogs cool themselves primarily through panting. When a Frenchie pants, they're already working harder than other breeds to move air through those narrowed airways. Add heat and humidity, and the whole system becomes a losing battle — they can't exchange air fast enough to cool down. We covered the mechanics of this in detail in our [breathing problems guide](/french-bulldog-breathing-problems/), but the short version for summer is: your Frenchie's cooling system is fundamentally compromised before you even leave the house.
+Dogs cool themselves primarily through panting. When a Frenchie pants, they're already working harder than other breeds to move air through those narrowed airways. Add heat and humidity, and the whole system becomes a losing battle — they can't exchange air fast enough to cool down. We covered the mechanics of this in detail in our [breathing problems guide](/breed/french-bulldog-breathing-problems/), but the short version for summer is: your Frenchie's cooling system is fundamentally compromised before you even leave the house.
 
 ### The Body Shape Problem
 
@@ -94,7 +96,7 @@ Before every walk, I press the back of my hand against the pavement for five sec
 Inside the house, we have a system:
 
 - **Curtains closed** on the sun-facing side from mid-morning. Yes, it makes the house feel like a cave. Buster approves of caves.
-- **Cooling mats deployed.** We have two — one in the living room and one in the kitchen. The boys know exactly where they are and gravitate toward them without being told. We've tried several brands; our favourites are in our [gear section](/best-cooling-vest-french-bulldog/).
+- **Cooling mats deployed.** We have two — one in the living room and one in the kitchen. The boys know exactly where they are and gravitate toward them without being told. We've tried several brands; our favourites are in our [gear section](/gear/best-cooling-vest-french-bulldog/).
 - **Fans positioned** at floor level where they sleep. Frenchies sleep about 14-16 hours a day in normal weather. In hot weather, it's more like 18-20 — and that's fine. Let them rest.
 - **Frozen treats.** We fill Kongs with a bit of their regular food mixed with water, freeze them, and hand them out during the hottest part of the day. It's hydration, entertainment, and cooling in one. Jago treats frozen Kongs as the highlight of his entire summer.
 
@@ -106,7 +108,7 @@ We keep a shallow plastic paddling pool in the garden during summer — about £
 
 French Bulldogs cannot swim. Their body density, short legs, and brachycephalic head shape make swimming nearly impossible for most of them. They sink. Every summer, there are tragic stories of Frenchies drowning in garden ponds, paddling pools, and even shallow water at the beach.
 
-We have a full guide on this: [Can French Bulldogs Swim?](/can-french-bulldogs-swim/). The short answer is no, and the safety rule is: never leave your Frenchie unattended near any water deeper than their elbows. If they're near water, wear a well-fitted dog life jacket. We use ours at the beach, even when the boys are just paddling at the shoreline.
+We have a full guide on this: [Can French Bulldogs Swim?](/breed/can-french-bulldogs-swim/). The short answer is no, and the safety rule is: never leave your Frenchie unattended near any water deeper than their elbows. If they're near water, wear a well-fitted dog life jacket. We use ours at the beach, even when the boys are just paddling at the shoreline.
 
 ## Car Travel in Summer: The Non-Negotiables
 
@@ -127,7 +129,7 @@ We've tried a lot of cooling products over the years. Some are genuinely useful.
 
 | Product Type | What We Use | Verdict |
 |-------------|-------------|---------|
-| **Cooling vest** | Evaporative cooling vest | Excellent for walks on warm (not hot) days. Soak in water, wring out, put on. Gives about 45-60 minutes of cooling. We reviewed our top picks [here](/best-cooling-vest-french-bulldog/). |
+| **Cooling vest** | Evaporative cooling vest | Excellent for walks on warm (not hot) days. Soak in water, wring out, put on. Gives about 45-60 minutes of cooling. We reviewed our top picks [here](/gear/best-cooling-vest-french-bulldog/). |
 | **Cooling mat** | Pressure-activated gel mat | Both boys use these daily. No electricity, no freezing — just a gel that activates when weight is applied. Lasts about 3-4 hours before needing a reset. |
 | **Portable water bottle** | Fold-out trough style | Lives in the walk bag all summer. Small, light, gets used on every walk. |
 | **Paddling pool** | Basic plastic, shallow | £15 well spent. Jago treats it as a giant water bowl. Buster stands in it looking regal. |
@@ -146,7 +148,7 @@ French Bulldogs have a single coat — they don't have the double coat of breeds
 What actually helps:
 
 - **Regular brushing** to remove loose fur that's trapping heat
-- **Wrinkle cleaning** — sweat and moisture accumulate in those adorable face folds, and in summer that can lead to infections. We clean Buster and Jago's wrinkles daily during hot spells. Our full method is [here](/how-to-clean-french-bulldog-wrinkles/).
+- **Wrinkle cleaning** — sweat and moisture accumulate in those adorable face folds, and in summer that can lead to infections. We clean Buster and Jago's wrinkles daily during hot spells. Our full method is [here](/breed/how-to-clean-french-bulldog-wrinkles/).
 - **Paw pad checks** — hot pavement can damage pads even on short walks. We check after every walk.
 - **Pet-safe sunscreen** on exposed pink skin (nose, ears, belly) if they're going to be in direct sun for any length of time. Human sunscreen is not safe for dogs — get one formulated for pets.
 
@@ -206,8 +208,8 @@ Yes, fans help, especially when combined with a cooling mat. Position the fan at
 
 **Related guides:**
 
-- [French Bulldog Breathing Problems: What's Normal and When to Worry](/french-bulldog-breathing-problems/)
-- [Best Cooling Vest for French Bulldogs](/best-cooling-vest-french-bulldog/)
-- [Can French Bulldogs Swim? Water Safety Guide](/can-french-bulldogs-swim/)
-- [How Much Exercise Does a French Bulldog Need?](/how-much-exercise-french-bulldog/)
-- [How to Clean French Bulldog Wrinkles](/how-to-clean-french-bulldog-wrinkles/)
+- [French Bulldog Breathing Problems: What's Normal and When to Worry](/breed/french-bulldog-breathing-problems/)
+- [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/)
+- [Can French Bulldogs Swim? Water Safety Guide](/breed/can-french-bulldogs-swim/)
+- [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/)
+- [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/)

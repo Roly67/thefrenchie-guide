@@ -201,7 +201,7 @@ Buster had one ear infection in his life. It was yeast-based, likely triggered b
 If your Frenchie has recurring ear problems despite regular cleaning, allergies are likely the culprit. Ears are often the first place allergy symptoms show up in French Bulldogs.
 
 **Common allergy triggers:**
-- Food allergies (chicken, beef, dairy, grains — see our [dog food guide](/best-dog-food-french-bulldogs-uk/))
+- Food allergies (chicken, beef, dairy, grains — see our [dog food guide](/gear/best-dog-food-french-bulldogs-uk/))
 - Environmental allergies (pollen, dust mites, mould)
 - Contact allergies (certain shampoos, cleaning products, grass types)
 
@@ -253,7 +253,7 @@ Go slower. Start by just touching the ears and rewarding. Then holding the ear f
 
 ### How do I clean a French Bulldog puppy's ears?
 
-Same process, but gentler and with smaller amounts of cleaner. Start ear handling from the first week at home so they grow up tolerating it. See our [puppy checklist](/french-bulldog-puppy-checklist/) for the full first-week routine.
+Same process, but gentler and with smaller amounts of cleaner. Start ear handling from the first week at home so they grow up tolerating it. See our [puppy checklist](/breed/french-bulldog-puppy-checklist/) for the full first-week routine.
 
 ### Should I pluck ear hair?
 
@@ -270,6 +270,6 @@ Yes. Ear infections can cause head tilting, balance issues, and disorientation. 
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes. Product recommendations are based on what we actually use with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [How to Clean French Bulldog Wrinkles](/how-to-clean-french-bulldog-wrinkles/) — The other essential cleaning routine
-- [French Bulldog Puppy Checklist](/french-bulldog-puppy-checklist/) — Start grooming habits early
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — Food allergies affect ears too
+- [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/) — The other essential cleaning routine
+- [French Bulldog Puppy Checklist](/breed/french-bulldog-puppy-checklist/) — Start grooming habits early
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — Food allergies affect ears too

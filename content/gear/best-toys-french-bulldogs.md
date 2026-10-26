@@ -513,9 +513,9 @@ Every toy in this guide has been tested by Buster and Jago in real-world conditi
 ---
 
 **Related Reading:**
-- [Complete French Bulldog Training Guide](/training/complete-guide)
-- [French Bulldog Puppy Essentials](/puppies/new-puppy-checklist)
-- [Best Gear & Accessories for Frenchies](/gear/essential-equipment)
+- [Complete French Bulldog Training Guide](/training/french-bulldog-potty-training/)
+- [French Bulldog Puppy Essentials](/breed/french-bulldog-puppy-checklist/)
+- [Best Gear & Accessories for Frenchies](/gear/)
 
 ---
 

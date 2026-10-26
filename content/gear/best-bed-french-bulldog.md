@@ -94,7 +94,7 @@ For summer months, these help:
 - **Gel-infused memory foam** — disperses heat
 - **Breathable mesh covers** — allows airflow
 - **Raised/cot-style beds** — air circulates underneath
-- **Cooling mats** — we keep a [PawPride cooling mat](/best-cooling-vest-french-bulldog/) near the door for after walks; they work on beds too
+- **Cooling mats** — we keep a [PawPride cooling mat](/gear/best-cooling-vest-french-bulldog/) near the door for after walks; they work on beds too
 
 ## Best Beds for French Bulldogs: Our Recommendations
 
@@ -269,6 +269,6 @@ For most Frenchies: donut. They love the enclosed, secure feeling. The bolster g
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes including Amazon Associates. Every bed recommendation is based on genuine testing with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [Best Cooling Vest for French Bulldogs](/best-cooling-vest-french-bulldog/) — Keeping cool in summer
-- [French Bulldog Puppy Checklist](/french-bulldog-puppy-checklist/) — Everything you need from day one
-- [Best Harness for French Bulldogs](/best-harness-french-bulldog/) — Another gear essential
+- [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/) — Keeping cool in summer
+- [French Bulldog Puppy Checklist](/breed/french-bulldog-puppy-checklist/) — Everything you need from day one
+- [Best Harness for French Bulldogs](/gear/best-harness-french-bulldog/) — Another gear essential

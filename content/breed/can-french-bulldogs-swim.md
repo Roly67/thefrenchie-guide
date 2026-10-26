@@ -360,7 +360,7 @@ Puppies can be introduced to very shallow water (1-2 inches) from a few months o
 
 ### Can French Bulldogs swim in the ocean?
 
-Technically they can paddle in very shallow, calm ocean water whilst wearing a life jacket and being supervised constantly. Practically, the ocean is unpredictable and risky. We let ours paddle in the shallows on very calm days at [Cornwall beaches](/travel/best-cornwall-beaches-for-dogs), but we're talking ankle-deep water, no waves, life jackets on, hands ready to grab them.
+Technically they can paddle in very shallow, calm ocean water whilst wearing a life jacket and being supervised constantly. Practically, the ocean is unpredictable and risky. We let ours paddle in the shallows on very calm days at [Cornwall beaches](/lifestyle/french-bulldog-summer-safety-guide/), but we're talking ankle-deep water, no waves, life jackets on, hands ready to grab them.
 
 Would I let them actually *swim* in the sea? Absolutely not.
 
@@ -397,8 +397,8 @@ And for the love of everything, get a life jacket.
 
 **Related Reading:**
 - [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog)
-- [Recognising Overheating in Frenchies](/health/french-bulldog-overheating-symptoms)
-- [Cornwall Beaches Safe for Dogs](/travel/best-cornwall-beaches-for-dogs)
-- [French Bulldog Summer Safety Guide](/health/french-bulldog-summer-safety)
+- [Recognising Overheating in Frenchies](/lifestyle/french-bulldog-summer-safety-guide/)
+- [Cornwall Beaches Safe for Dogs](/lifestyle/french-bulldog-summer-safety-guide/)
+- [French Bulldog Summer Safety Guide](/lifestyle/french-bulldog-summer-safety-guide/)
 
 *Disclosure: This post contains affiliate links. If you buy through our links, we may earn a small commission at no extra cost to you. This helps fund Buster's dignified retirement and Jago's ongoing campaign to investigate everything. We only recommend products we actually use—I wouldn't put a life jacket on Buster unless it genuinely worked. He'd never forgive me.*

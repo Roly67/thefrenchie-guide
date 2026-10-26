@@ -1,6 +1,8 @@
 ---
 title: "Best Joint Supplements for French Bulldogs: Protecting Those Precious Hips & Joints"
-draft: true
+draft: false
+date: 2026-10-19
+lastmod: 2026-10-19
 slug: "best-joint-supplements-french-bulldogs"
 silo: "reviews"
 ---
@@ -256,8 +258,8 @@ I don't know what "joints" are and I don't know what "supplements" are. I know t
 
 **Related guides:**
 
-- [How Much Should I Feed My French Bulldog?](/how-much-feed-french-bulldog/) — Weight management fundamentals
-- [French Bulldog Food Allergies](/french-bulldog-food-allergies/) — Avoiding triggers that cause systemic inflammation
-- [How Much Exercise Does a French Bulldog Need?](/how-much-exercise-french-bulldog/) — Getting the balance right for joint health
-- [Best Bed for French Bulldogs](/best-bed-french-bulldog/) — Joint-supportive sleep surfaces
-- [French Bulldog Breathing Problems](/french-bulldog-breathing-problems/) — Understanding the interconnectedness of Frenchie health
+- [How Much Should I Feed My French Bulldog?](/nutrition/how-much-feed-french-bulldog/) — Weight management fundamentals
+- [French Bulldog Food Allergies](/nutrition/french-bulldog-food-allergies/) — Avoiding triggers that cause systemic inflammation
+- [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/) — Getting the balance right for joint health
+- [Best Bed for French Bulldogs](/gear/best-bed-french-bulldog/) — Joint-supportive sleep surfaces
+- [French Bulldog Breathing Problems](/breed/french-bulldog-breathing-problems/) — Understanding the interconnectedness of Frenchie health

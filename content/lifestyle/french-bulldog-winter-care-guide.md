@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Winter Care: Keeping Your Frenchie Warm, Safe & Happy"
-draft: true
+draft: false
+date: 2026-09-29
+lastmod: 2026-09-29
 slug: "french-bulldog-winter-care-guide"
 silo: "lifestyle"
 ---
@@ -26,7 +28,7 @@ This also means they get wet fast and stay wet. A Labrador shakes off rain and b
 
 ### The Breathing Problem
 
-We've covered this in detail in our [breathing problems guide](/french-bulldog-breathing-problems/), but here's the winter-specific version: dogs warm the air they breathe as it passes through their nasal passages. French Bulldogs, with their compressed airways, have less surface area for this warming process. They breathe cold air that's barely had a chance to heat up, straight into lungs that are already working harder than they should be.
+We've covered this in detail in our [breathing problems guide](/breed/french-bulldog-breathing-problems/), but here's the winter-specific version: dogs warm the air they breathe as it passes through their nasal passages. French Bulldogs, with their compressed airways, have less surface area for this warming process. They breathe cold air that's barely had a chance to heat up, straight into lungs that are already working harder than they should be.
 
 In practical terms, this means a Frenchie on a cold-weather walk is losing body heat through their breathing faster than other breeds. Combine that with the coat problem, and you've got a dog that's losing heat from the inside *and* the outside simultaneously.
 
@@ -92,7 +94,7 @@ Summer gear is mostly about cooling. Winter gear is about layers, waterproofing,
 
 ### A Proper Winter Coat
 
-This is non-negotiable. We've written a full guide to [the best coats for French Bulldogs in the UK](/best-coat-french-bulldog-uk/), but the short version is: your Frenchie needs at least one waterproof coat and ideally a fleece option for dry cold days.
+This is non-negotiable. We've written a full guide to [the best coats for French Bulldogs in the UK](/gear/best-coat-french-bulldog-uk/), but the short version is: your Frenchie needs at least one waterproof coat and ideally a fleece option for dry cold days.
 
 What to look for:
 - **Waterproof outer layer** — not "water resistant," not "showerproof." Proper waterproof, with taped seams. Cornish rain laughs at anything less.
@@ -115,7 +117,7 @@ Some Frenchies will tolerate booties. Ours won't. We tried once. Buster stood pe
 
 ### Indoor Warmth: Beds and Blankets
 
-A good bed matters year-round, but in winter it becomes essential. We've covered our [favourite Frenchie beds here](/best-bed-french-bulldog/), but the winter-specific advice is:
+A good bed matters year-round, but in winter it becomes essential. We've covered our [favourite Frenchie beds here](/gear/best-bed-french-bulldog/), but the winter-specific advice is:
 
 - **Cosy donut beds** come into their own in cold weather. The raised bolster rim traps warmth and gives them something to curl against.
 - **Blankets are not optional.** Both boys have their own fleece blankets. Buster likes his draped over him like a cape. Jago burrows underneath his and creates a warm cave. We've learned to identify the "Jago blanket lump" at a glance.
@@ -173,7 +175,7 @@ Our winter bathing rules:
 
 ### Wrinkle Care in Winter
 
-Wrinkle cleaning is important year-round, but winter adds complications. Wet walks mean moisture gets trapped in those adorable face folds, and the warm, damp environment is exactly what bacteria and yeast love. We clean Buster and Jago's wrinkles daily in winter — more detail in our [full wrinkle care guide](/how-to-clean-french-bulldog-wrinkles/).
+Wrinkle cleaning is important year-round, but winter adds complications. Wet walks mean moisture gets trapped in those adorable face folds, and the warm, damp environment is exactly what bacteria and yeast love. We clean Buster and Jago's wrinkles daily in winter — more detail in our [full wrinkle care guide](/breed/how-to-clean-french-bulldog-wrinkles/).
 
 ### Dry Skin and Dandruff
 
@@ -219,14 +221,14 @@ Watch for: persistent coughing, nasal discharge that's yellow or green (clear is
 Cold weather makes joint issues more apparent. If your Frenchie seems stiffer in the mornings during winter, or more reluctant to jump up onto furniture they normally manage easily:
 
 - **Warm them up gradually** — don't take a stiff Frenchie straight from their bed to a cold walk. Let them move around indoors for 10-15 minutes first.
-- **Keep their bed warm and supportive** — an [orthopaedic bed](/best-bed-french-bulldog/) with good support is worth its weight in gold during winter.
+- **Keep their bed warm and supportive** — an [orthopaedic bed](/gear/best-bed-french-bulldog/) with good support is worth its weight in gold during winter.
 - **Consider joint supplements** if your Frenchie is older or showing signs of stiffness. Discuss with your vet.
 
 ### Weight Gain
 
 Less exercise + same amount of food = winter weight gain. It happens to the best of us, and Frenchies are no exception. Both our boys tend to put on a little winter padding if we're not careful about adjusting their food intake to match their reduced activity.
 
-We reduce portions slightly during the darkest winter weeks when walks are shortest. Not dramatically — we're not putting them on diets — but enough to account for burning fewer calories. Our [feeding guide](/how-much-feed-french-bulldog/) has more detail on portion sizing.
+We reduce portions slightly during the darkest winter weeks when walks are shortest. Not dramatically — we're not putting them on diets — but enough to account for burning fewer calories. Our [feeding guide](/nutrition/how-much-feed-french-bulldog/) has more detail on portion sizing.
 
 ## Cornwall Winters: A Special Case
 
@@ -271,8 +273,8 @@ They're somewhat more susceptible to respiratory infections due to their comprom
 
 **Related guides:**
 
-- [Best Coat for French Bulldogs UK: Winter, Rain & Everything Cornwall Throws at Us](/best-coat-french-bulldog-uk/)
-- [Best Bed for French Bulldogs: What Buster & Jago Actually Sleep On](/best-bed-french-bulldog/)
-- [How Much Exercise Does a French Bulldog Need?](/how-much-exercise-french-bulldog/)
-- [French Bulldog Breathing Problems: What's Normal and When to Worry](/french-bulldog-breathing-problems/)
-- [How to Clean French Bulldog Wrinkles](/how-to-clean-french-bulldog-wrinkles/)
+- [Best Coat for French Bulldogs UK: Winter, Rain & Everything Cornwall Throws at Us](/gear/best-coat-french-bulldog-uk/)
+- [Best Bed for French Bulldogs: What Buster & Jago Actually Sleep On](/gear/best-bed-french-bulldog/)
+- [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/)
+- [French Bulldog Breathing Problems: What's Normal and When to Worry](/breed/french-bulldog-breathing-problems/)
+- [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/)

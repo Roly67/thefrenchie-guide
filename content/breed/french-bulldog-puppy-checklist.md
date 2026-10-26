@@ -76,7 +76,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
 
 ### 2. Crate (Probably)
 
-Controversial topic, I know. But crate training makes [our potty training guide](/french-bulldog-potty-training/) easier, provides a safe space, and prevents a lot of puppy destruction.
+Controversial topic, I know. But crate training makes [our potty training guide](/training/french-bulldog-potty-training/) easier, provides a safe space, and prevents a lot of puppy destruction.
 
 {{< product-card 
     title="MidWest iCrate Dog Crate - 24 inch"
@@ -296,7 +296,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
 - Crinkle toys (auditory stimulation)
 - Puzzle toys (start very easy, build difficulty)
 
-**Full toy guide here:** [our complete toy guide](/best-toys-french-bulldogs/)
+**Full toy guide here:** [our complete toy guide](/gear/best-toys-french-bulldogs/)
 
 ### What to Avoid:
 
@@ -528,9 +528,9 @@ And then your Frenchie puppy will snort contentedly in their sleep, or do that r
 ---
 
 **Related guides:**
-- [our potty training guide](/french-bulldog-potty-training/) - Essential toilet training guide
-- [our complete toy guide](/best-toys-french-bulldogs/) - Comprehensive toy recommendations
-- [our wrinkle care guide](/how-to-clean-french-bulldog-wrinkles/) - Wrinkle care routine
-- [our separation anxiety guide](/french-bulldog-separation-anxiety/) - If your puppy struggles alone
+- [our potty training guide](/training/french-bulldog-potty-training/) - Essential toilet training guide
+- [our complete toy guide](/gear/best-toys-french-bulldogs/) - Comprehensive toy recommendations
+- [our wrinkle care guide](/breed/how-to-clean-french-bulldog-wrinkles/) - Wrinkle care routine
+- [our separation anxiety guide](/training/french-bulldog-separation-anxiety/) - If your puppy struggles alone
 
 **Disclaimer:** This guide reflects personal experience and research. Always consult your vet for medical advice and a certified trainer for serious behavioural issues. Product recommendations are based on genuine use with Buster and Jago, though individual dogs may respond differently.
