@@ -1,6 +1,8 @@
 ---
 title: "Best Nail Clippers for French Bulldogs: Clippers vs Grinders (UK)"
-draft: true
+draft: false
+date: 2026-10-27
+lastmod: 2026-10-27
 slug: "best-nail-clippers-french-bulldogs"
 silo: "reviews"
 ---
