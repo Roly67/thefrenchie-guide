@@ -275,6 +275,6 @@ And invest in a slow feeder bowl. Trust us on that one.
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes including Amazon Associates. We only recommend products we've genuinely tested with Buster and Jago — your clicks keep the treat fund adequately stocked. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [Best Toys for French Bulldogs](/best-toys-french-bulldogs/) — What survives Buster's jaws
-- [Best Harness for French Bulldogs](/best-harness-french-bulldog/) — Why we use Ezydog
-- [French Bulldog Puppy Checklist](/french-bulldog-puppy-checklist/) — Everything you need from day one
+- [Best Toys for French Bulldogs](/gear/best-toys-french-bulldogs/) — What survives Buster's jaws
+- [Best Harness for French Bulldogs](/gear/best-harness-french-bulldog/) — Why we use Ezydog
+- [French Bulldog Puppy Checklist](/breed/french-bulldog-puppy-checklist/) — Everything you need from day one

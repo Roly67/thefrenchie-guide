@@ -764,7 +764,7 @@ Buster and Jago's seal of approval goes to the EzyDog. Buster's is reluctant but
 - [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/)
 - [Best Toys for French Bulldogs](/gear/best-toys-french-bulldogs/)
 - [Can French Bulldogs Swim?](/breed/can-french-bulldogs-swim/)
-- [How to Measure Your French Bulldog for a Harness](/gear/how-to-measure-french-bulldog-for-harness/)
+- [How to Measure Your French Bulldog for a Harness](/gear/best-harness-french-bulldog/#measuring-your-frenchie)
 
 ---
 

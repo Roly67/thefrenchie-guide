@@ -1,6 +1,8 @@
 ---
 title: "Best French Bulldog Shampoo: Reviewed for Sensitive Skin (UK)"
-draft: true
+draft: false
+date: 2026-08-28
+lastmod: 2026-08-28
 slug: "best-shampoo-french-bulldog"
 silo: "reviews"
 ---
@@ -12,7 +14,7 @@ Jago, naturally, takes the opposite approach. He walks into the bathroom unpromp
 
 And somewhere in the middle of this chaos, there's an actual decision to make that matters more than the logistics of getting a flat-faced dog into water: *what shampoo are you actually using?* Because French Bulldogs — with their sensitive skin, their deep face folds, and their alarming tendency to be allergic to half the things in the world — are not dogs you can just wash with whatever's under the sink.
 
-Buster has a chicken allergy (we wrote about that whole saga [here](/french-bulldog-food-allergies/)), and the knock-on effect is skin that flares up at the slightest provocation. A cheap shampoo with heavy fragrance? Red, itchy, "rubbing his face along the sofa" Buster within a day. We learned the hard way that the shampoo aisle is not a place to wing it.
+Buster has a chicken allergy (we wrote about that whole saga [here](/nutrition/french-bulldog-food-allergies/)), and the knock-on effect is skin that flares up at the slightest provocation. A cheap shampoo with heavy fragrance? Red, itchy, "rubbing his face along the sofa" Buster within a day. We learned the hard way that the shampoo aisle is not a place to wing it.
 
 This guide covers what we've learned about washing French Bulldogs — the shampoos that work, the ingredients that don't, and how to actually get through bath time with your sanity (mostly) intact.
 
@@ -32,7 +34,7 @@ When we used a "normal" dog shampoo on Buster, the result was visible within a d
 
 ### Those Wrinkles Are a Moisture Trap
 
-The face folds we all love are the perfect environment for trapped moisture, yeast, and bacteria. A shampoo that doesn't rinse cleanly leaves residue in the folds, which makes things worse. This is why wash is only half the job — drying the folds properly is the other half (more on that below). We cover daily fold maintenance in our [wrinkle care guide](/how-to-clean-french-bulldog-wrinkles/).
+The face folds we all love are the perfect environment for trapped moisture, yeast, and bacteria. A shampoo that doesn't rinse cleanly leaves residue in the folds, which makes things worse. This is why wash is only half the job — drying the folds properly is the other half (more on that below). We cover daily fold maintenance in our [wrinkle care guide](/breed/how-to-clean-french-bulldog-wrinkles/).
 
 ### pH Matters More Than You'd Think
 
@@ -210,7 +212,7 @@ If your Frenchie has a skin condition, your vet may recommend a different schedu
 ### The Bath Itself, Step by Step
 
 1. **Brush first.** A quick brush removes loose hair and stops it turning into a matted mess when wet.
-2. **Protect the ears.** Frenchies are prone to [ear infections](/how-to-clean-french-bulldog-ears/). A cotton ball in each ear (gentle, not forced) keeps water out. Remember to take them out after.
+2. **Protect the ears.** Frenchies are prone to [ear infections](/breed/how-to-clean-french-bulldog-ears/). A cotton ball in each ear (gentle, not forced) keeps water out. Remember to take them out after.
 3. **Lukewarm water, not hot.** Their skin is sensitive, and their compromised cooling system means hot water is genuinely uncomfortable.
 4. **Dilute the shampoo.** Mixing a bit of shampoo with water in a jug makes it easier to work through a short, dense coat and easier to rinse out.
 5. **Avoid the face entirely.** Wash the body with shampoo; use a damp cloth for the face and folds instead. Getting suds in the eyes or up the nose is a fast way to make bath time a lifelong battle.
@@ -244,7 +246,7 @@ It's worth being clear about this, because the two get conflated: shampooing you
 
 A bath cleans the body and coat. Wrinkle care is a separate, more frequent job — we clean Buster and Jago's folds a couple of times a week with a damp cloth (and dry them properly), because the folds are where moisture, food residue, and allergens collect. You don't need a special shampoo for daily fold cleaning; a clean, damp cloth and thorough drying do the job. Specialised fold wipes exist and can be handy, but water and a cloth work fine.
 
-For the full routine, our [wrinkle cleaning guide](/how-to-clean-french-bulldog-wrinkles/) walks through it step by step.
+For the full routine, our [wrinkle cleaning guide](/breed/how-to-clean-french-bulldog-wrinkles/) walks through it step by step.
 
 ## When to See the Vet
 
@@ -255,7 +257,7 @@ A shampoo can't fix everything, and it's important to know when the problem is b
 - **Recurring hot spots** — inflamed, weeping patches that appear repeatedly.
 - **Constant scratching, licking, or rubbing** — especially if it's disrupting sleep or daily life.
 
-Skin issues in Frenchies are often connected to allergies (food or environmental). If bath time isn't helping, the root cause might be in the food bowl rather than the shampoo bottle — our [food allergy guide](/french-bulldog-food-allergies/) covers that journey in detail.
+Skin issues in Frenchies are often connected to allergies (food or environmental). If bath time isn't helping, the root cause might be in the food bowl rather than the shampoo bottle — our [food allergy guide](/nutrition/french-bulldog-food-allergies/) covers that journey in detail.
 
 ## Frequently Asked Questions
 
@@ -292,8 +294,8 @@ Start young, keep the water lukewarm, avoid getting suds or water near the face,
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes including Amazon Associates. Every recommendation is based on genuine testing with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [French Bulldog Food Allergies](/french-bulldog-food-allergies/) — The root cause of many skin issues
-- [How to Clean French Bulldog Wrinkles](/how-to-clean-french-bulldog-wrinkles/) — Daily fold care between baths
-- [How to Clean French Bulldog Ears](/how-to-clean-french-bulldog-ears/) — Keeping those ears healthy
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — Diet and skin health
-- [French Bulldog Breathing Problems](/french-bulldog-breathing-problems/) — Why hot water and overheating matter
+- [French Bulldog Food Allergies](/nutrition/french-bulldog-food-allergies/) — The root cause of many skin issues
+- [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/) — Daily fold care between baths
+- [How to Clean French Bulldog Ears](/breed/how-to-clean-french-bulldog-ears/) — Keeping those ears healthy
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — Diet and skin health
+- [French Bulldog Breathing Problems](/breed/french-bulldog-breathing-problems/) — Why hot water and overheating matter

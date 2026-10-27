@@ -66,7 +66,7 @@ A coat that's too tight restricts movement and breathing. Too loose and it rides
 
 ### Harness Compatibility
 
-Most Frenchie owners use a [harness](/best-harness-french-bulldog/) rather than a collar (and if you don't, please start — collars put dangerous pressure on their trachea). Your coat needs either:
+Most Frenchie owners use a [harness](/gear/best-harness-french-bulldog/) rather than a collar (and if you don't, please start — collars put dangerous pressure on their trachea). Your coat needs either:
 - A harness slot/hole in the back
 - To fit comfortably under the harness
 - A built-in harness attachment point
@@ -252,7 +252,7 @@ Here's what actually works through the British year:
 
 **April - May:** Lightweight rain mac for showers. Fleece on cold mornings. Some days nothing needed.
 
-**June - September:** No coat needed. Focus shifts to [cooling](/best-cooling-vest-french-bulldog/) instead. If your Frenchie needs a coat in summer, something is wrong.
+**June - September:** No coat needed. Focus shifts to [cooling](/gear/best-cooling-vest-french-bulldog/) instead. If your Frenchie needs a coat in summer, something is wrong.
 
 ## Coat Care and Maintenance
 
@@ -302,6 +302,6 @@ Gradual introduction, treats, and making it part of the walk routine (coat = wal
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes. Every coat recommendation is based on what we've actually used with Buster and Jago in proper Cornish weather. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [How Much Exercise Does a French Bulldog Need](/how-much-exercise-french-bulldog/) — Seasonal walking adjustments
-- [Best Harness for French Bulldogs](/best-harness-french-bulldog/) — Coat + harness compatibility
-- [Best Cooling Vest for French Bulldogs](/best-cooling-vest-french-bulldog/) — The summer opposite
+- [How Much Exercise Does a French Bulldog Need](/breed/how-much-exercise-french-bulldog/) — Seasonal walking adjustments
+- [Best Harness for French Bulldogs](/gear/best-harness-french-bulldog/) — Coat + harness compatibility
+- [Best Cooling Vest for French Bulldogs](/gear/best-cooling-vest-french-bulldog/) — The summer opposite

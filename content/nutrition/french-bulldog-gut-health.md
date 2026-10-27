@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Gut Health: Probiotics, Digestive Enzymes & Sensitive Stomach Fixes"
-draft: true
+draft: false
+date: 2026-10-19
+lastmod: 2026-10-19
 slug: "french-bulldog-gut-health"
 silo: "nutrition"
 ---
@@ -20,7 +22,7 @@ Before we get to the fixes, let's talk about why French Bulldogs are walking dig
 
 ### The Brachycephalic Digestion Problem
 
-You already know about the breathing issues — we covered those in detail in our [breathing problems guide](/french-bulldog-breathing-problems/). But what fewer owners realise is that the same anatomy that causes respiratory trouble also affects digestion.
+You already know about the breathing issues — we covered those in detail in our [breathing problems guide](/breed/french-bulldog-breathing-problems/). But what fewer owners realise is that the same anatomy that causes respiratory trouble also affects digestion.
 
 French Bulldogs swallow more air than other breeds. It's a mechanical inevitability of their facial structure — every mouthful of food or water comes with a side of oxygen. That swallowed air has to go somewhere, and "somewhere" is usually back up (with or without the meal it accompanied) or out the other end with impressive acoustic results.
 
@@ -36,7 +38,7 @@ We've tried slow-feeder bowls. Buster figured out how to tip his over. Jago trea
 
 ### The Genetic Sensitivity Angle
 
-French Bulldogs are overrepresented in studies of canine food allergies and sensitivities. Our [food allergies guide](/french-bulldog-food-allergies/) goes into the detail, but the short version is that Frenchies have a genetic predisposition to atopic dermatitis and food-reactive immune responses. This same sensitivity extends to the gut — many Frenchies have inherently reactive digestive systems that flare up at the slightest dietary indiscretion.
+French Bulldogs are overrepresented in studies of canine food allergies and sensitivities. Our [food allergies guide](/nutrition/french-bulldog-food-allergies/) goes into the detail, but the short version is that Frenchies have a genetic predisposition to atopic dermatitis and food-reactive immune responses. This same sensitivity extends to the gut — many Frenchies have inherently reactive digestive systems that flare up at the slightest dietary indiscretion.
 
 Add in the fact that modern breeding has narrowed the gene pool (making these sensitivities more concentrated), and you've got a breed that needs more digestive support than most.
 
@@ -148,11 +150,11 @@ Home management of gut health works for maintenance and mild issues, but some sy
 
 After three years of experimentation, this is what works for our household. It's not elaborate and it doesn't require a spreadsheet — both things we tried and abandoned.
 
-**Morning meal**: High-quality fish-based kibble (single protein, no chicken or beef — see our [best dog food guide](/best-dog-food-french-bulldogs-uk/) for the brands we've tested), with a probiotic powder mixed into a tablespoon of wet food as a topper. The wet food ensures the powder doesn't just fall to the bottom of the bowl.
+**Morning meal**: High-quality fish-based kibble (single protein, no chicken or beef — see our [best dog food guide](/gear/best-dog-food-french-bulldogs-uk/) for the brands we've tested), with a probiotic powder mixed into a tablespoon of wet food as a topper. The wet food ensures the powder doesn't just fall to the bottom of the bowl.
 
 **Evening meal**: Same kibble, plus a small spoonful of plain pumpkin or steamed squash for fibre. During food transitions or if someone seems "off," we add digestive enzymes.
 
-**Treats**: Single-ingredient fish skins or venison chews. Nothing with chicken, beef, or unidentified "animal derivatives." We covered our [favourite Frenchie treats here](/best-treats-french-bulldog/).
+**Treats**: Single-ingredient fish skins or venison chews. Nothing with chicken, beef, or unidentified "animal derivatives." We covered our [favourite Frenchie treats here](/reviews/best-treats-french-bulldog/).
 
 **Water**: Fresh, changed twice daily. Both boys have a habit of backwashing food particles into their water bowl, which then ferments. Changing the water regularly is a small thing that makes a disproportionate difference.
 
@@ -177,7 +179,7 @@ The gut-brain axis — the biochemical signalling between the digestive tract an
 
 Triggers we've identified:
 - **Visitors** — Buster loves visitors AND gets stressed by visitors. It's a complicated relationship that his gut expresses on his behalf.
-- **Car journeys over an hour** — Covered in our [separation anxiety guide](/french-bulldog-separation-anxiety/) but relevant here: travel stress translates directly to digestive stress.
+- **Car journeys over an hour** — Covered in our [separation anxiety guide](/training/french-bulldog-separation-anxiety/) but relevant here: travel stress translates directly to digestive stress.
 - **Changes in routine** — Later walks, different feeding times, anyone in the household being ill or upset.
 
 For stress-related gut issues, probiotics help (they support the gut side of the gut-brain axis), but addressing the stress itself is the real solution. Exercise, routine, and sometimes just sitting with them quietly for twenty minutes — it all feeds back into digestive health.
@@ -218,8 +220,8 @@ This article reflects our personal experience with Buster and Jago, our two Fren
 
 ## Related Guides
 
-- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/french-bulldog-food-allergies/)
-- [Best Dog Food for French Bulldogs in the UK](/best-dog-food-french-bulldogs-uk/)
-- [Raw Feeding French Bulldogs: Our Experience & Honest Review](/raw-feeding-french-bulldogs/)
-- [How Much Should I Feed My French Bulldog?](/how-much-feed-french-bulldog/)
-- [Best Treats for French Bulldogs: Healthy Options They'll Actually Eat](/best-treats-french-bulldog/)
+- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/)
+- [Best Dog Food for French Bulldogs in the UK](/gear/best-dog-food-french-bulldogs-uk/)
+- [Raw Feeding French Bulldogs: Our Experience & Honest Review](/nutrition/raw-feeding-french-bulldogs/)
+- [How Much Should I Feed My French Bulldog?](/nutrition/how-much-feed-french-bulldog/)
+- [Best Treats for French Bulldogs: Healthy Options They'll Actually Eat](/reviews/best-treats-french-bulldog/)

@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Crate Training: A Step-by-Step Guide (That Actually Works)"
-draft: true
+draft: false
+date: 2026-09-29
+lastmod: 2026-09-29
 slug: "french-bulldog-crate-training"
 silo: "training"
 ---
@@ -26,11 +28,11 @@ But with French Bulldogs specifically, crate training isn't just about providing
 
 ### Potty Training (The Big One)
 
-French Bulldogs can be, let's say, *strong-willed* about where they conduct their business. A crate uses their natural instinct to keep their sleeping area clean — they won't toilet where they sleep unless they genuinely can't hold it. This makes [potty training](/french-bulldog-potty-training/) dramatically easier. Without a crate, Buster's early weeks would have involved significantly more "strategically placed surprises" on our rugs.
+French Bulldogs can be, let's say, *strong-willed* about where they conduct their business. A crate uses their natural instinct to keep their sleeping area clean — they won't toilet where they sleep unless they genuinely can't hold it. This makes [potty training](/training/french-bulldog-potty-training/) dramatically easier. Without a crate, Buster's early weeks would have involved significantly more "strategically placed surprises" on our rugs.
 
 ### Separation Anxiety Prevention
 
-Frenchies were literally bred to sit on laps. Being alone isn't in their job description. A crate gives them a predictable, secure base when you leave — somewhere that smells like them, feels safe, and isn't your entire living room for them to anxiously patrol. We credit early crate training with why both our boys handle being left alone so well. (See our [separation anxiety guide](/french-bulldog-separation-anxiety/) for the full picture.)
+Frenchies were literally bred to sit on laps. Being alone isn't in their job description. A crate gives them a predictable, secure base when you leave — somewhere that smells like them, feels safe, and isn't your entire living room for them to anxiously patrol. We credit early crate training with why both our boys handle being left alone so well. (See our [separation anxiety guide](/training/french-bulldog-separation-anxiety/) for the full picture.)
 
 ### Destruction Prevention
 
@@ -42,7 +44,7 @@ At some point, your Frenchie will need to be crated — at the vet, at the groom
 
 ### Temperature Management
 
-French Bulldogs can't regulate their body temperature well. A crate in the right spot — not in direct sunlight, not next to a radiator — gives them a temperature-stable zone. In summer, pop a [cooling mat](/best-cooling-vest-french-bulldog/) inside. In winter, a cosy blanket makes it the warmest spot in the house.
+French Bulldogs can't regulate their body temperature well. A crate in the right spot — not in direct sunlight, not next to a radiator — gives them a temperature-stable zone. In summer, pop a [cooling mat](/gear/best-cooling-vest-french-bulldog/) inside. In winter, a cosy blanket makes it the warmest spot in the house.
 
 ## Choosing the Right Crate
 
@@ -74,7 +76,7 @@ Puppies destroy things. They also have accidents. Your crate bedding needs to su
 We use vet bed fleece — it's absorbent, machine washable at 60°C, and virtually impossible to chew into swallowable chunks. Buy two so one's always clean.
 
 {{< callout type="warning" title="Skip the Memory Foam" >}}
-Expensive orthopedic beds are lovely, but your puppy will treat them as a chew toy and/or toilet. Wait until they're past the destruction phase (12-18 months). Your wallet will thank you. See our [bed guide](/best-bed-french-bulldog/) for when they're ready.
+Expensive orthopedic beds are lovely, but your puppy will treat them as a chew toy and/or toilet. Wait until they're past the destruction phase (12-18 months). Your wallet will thank you. See our [bed guide](/gear/best-bed-french-bulldog/) for when they're ready.
 {{< /callout >}}
 
 ### Location: Connected but Not Chaotic
@@ -235,7 +237,7 @@ French Bulldogs are companion dogs. 4-6 hours during the day is the maximum for 
 
 ### Not Enough Exercise First
 
-A tired Frenchie is a calm Frenchie. Crating a dog who's been bouncing off the walls with unspent energy is asking for trouble. Always provide a walk, play session, or at minimum a toilet break before extended crate time. See our [exercise guide](/how-much-exercise-french-bulldog/) for age-appropriate activity levels.
+A tired Frenchie is a calm Frenchie. Crating a dog who's been bouncing off the walls with unspent energy is asking for trouble. Always provide a walk, play session, or at minimum a toilet break before extended crate time. See our [exercise guide](/breed/how-much-exercise-french-bulldog/) for age-appropriate activity levels.
 
 ## What If Crate Training Isn't Working?
 
@@ -308,10 +310,10 @@ And if they can't — if the crate genuinely doesn't work for your dog — that'
 ---
 
 **Further reading:**
-- [French Bulldog Potty Training](/french-bulldog-potty-training/) — Crate training and potty training are best mates
-- [French Bulldog Separation Anxiety](/french-bulldog-separation-anxiety/) — For when the crying isn't just about the crate
-- [French Bulldog Puppy Checklist](/french-bulldog-puppy-checklist/) — Everything you need before your puppy arrives
-- [Best Bed for French Bulldogs](/best-bed-french-bulldog/) — Crate bedding that works
-- [How Much Exercise Does a French Bulldog Need?](/how-much-exercise-french-bulldog/) — Tired dogs crate better
+- [French Bulldog Potty Training](/training/french-bulldog-potty-training/) — Crate training and potty training are best mates
+- [French Bulldog Separation Anxiety](/training/french-bulldog-separation-anxiety/) — For when the crying isn't just about the crate
+- [French Bulldog Puppy Checklist](/breed/french-bulldog-puppy-checklist/) — Everything you need before your puppy arrives
+- [Best Bed for French Bulldogs](/gear/best-bed-french-bulldog/) — Crate bedding that works
+- [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/) — Tired dogs crate better
 
 **Disclaimer:** This guide reflects our personal experience with Buster and Jago. Every dog is different. For severe crate anxiety, persistent distress, or any concerns about your dog's wellbeing, please consult a qualified veterinary behaviourist or certified dog trainer. Never leave a distressed dog in a crate unsupervised — true panic is not training, it's suffering.

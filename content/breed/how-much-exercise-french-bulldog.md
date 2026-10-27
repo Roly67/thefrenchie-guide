@@ -68,7 +68,7 @@ When exercising, dogs cool themselves by panting. French Bulldogs pant less effe
 Frenchies are compact, muscular, and heavy for their size (typically 10-14kg). This body composition means:
 - They're not built for distance running
 - Joint strain from over-exercising is a real risk
-- Swimming is challenging (and dangerous—see [our guide on French Bulldogs and swimming](/can-french-bulldogs-swim/))
+- Swimming is challenging (and dangerous—see [our guide on French Bulldogs and swimming](/breed/can-french-bulldogs-swim/))
 
 ### 3. **Respiratory Effort**
 Even moderate exercise requires significantly more effort for a Frenchie than for other breeds. What feels like a gentle walk to you might be genuinely exhausting for them.
@@ -299,7 +299,7 @@ French Bulldogs are not natural swimmers. Their heavy heads and short legs make 
 - Never in open water (currents, cold temperatures)
 - Watch for exhaustion
 
-More here: [our guide on French Bulldogs and swimming](/can-french-bulldogs-swim/)
+More here: [our guide on French Bulldogs and swimming](/breed/can-french-bulldogs-swim/)
 
 I don't swim Buster or Jago. The risks outweigh benefits in my view.
 
@@ -327,7 +327,7 @@ A few tools make Frenchie exercise safer and more effective.
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
     price="£20.39"
 >}}
-**Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/best-harness-french-bulldog/)
+**Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/gear/best-harness-french-bulldog/)
 {{< /product-card >}}
 
 {{< product-card 
@@ -336,7 +336,7 @@ A few tools make Frenchie exercise safer and more effective.
     url="https://www.amazon.co.uk/dp/B01MZ9D28N/?tag=broadbandhelp-21"
     price="£291.98"
 >}}
-**Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/best-cooling-vest-french-bulldog/)
+**Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/gear/best-cooling-vest-french-bulldog/)
 {{< /product-card >}}
 
 {{< product-card 
@@ -531,7 +531,7 @@ Jago put on weight last winter. I reduced his dinner by 20g and added 10 minutes
 Exercise isn't just physical—it's essential for mental wellbeing.
 
 **Benefits of proper exercise:**
-- Reduces anxiety (including separation anxiety—see [our separation anxiety guide](/french-bulldog-separation-anxiety/))
+- Reduces anxiety (including separation anxiety—see [our separation anxiety guide](/training/french-bulldog-separation-anxiety/))
 - Prevents boredom-related destruction
 - Improves sleep quality
 - Provides mental stimulation (new smells, sights, experiences)
@@ -586,9 +586,9 @@ Well, Jago won't. But Buster might give you a dignified nod of approval.
 ---
 
 **Related guides:**
-- [our harness guide](/best-harness-french-bulldog/) - Choosing the right walking gear
-- [our cooling vest guide](/best-cooling-vest-french-bulldog/) - Hot weather safety
-- [our guide on French Bulldogs and swimming](/can-french-bulldogs-swim/) - Swimming safety (or why not to)
-- [the best toys for French Bulldogs](/best-toys-french-bulldogs/) - Mental stimulation alternatives
+- [our harness guide](/gear/best-harness-french-bulldog/) - Choosing the right walking gear
+- [our cooling vest guide](/gear/best-cooling-vest-french-bulldog/) - Hot weather safety
+- [our guide on French Bulldogs and swimming](/breed/can-french-bulldogs-swim/) - Swimming safety (or why not to)
+- [the best toys for French Bulldogs](/gear/best-toys-french-bulldogs/) - Mental stimulation alternatives
 
 **Disclaimer:** This guide is based on personal experience and veterinary advice. Individual Frenchies may have different needs based on health conditions. Always consult your vet if you're concerned about your dog's exercise tolerance or health.

@@ -1,6 +1,8 @@
 ---
 title: "Best French Bulldog Treats: Healthy, Hypoallergenic & Vet-Approved (UK)"
-draft: true
+draft: false
+date: 2026-09-29
+lastmod: 2026-09-29
 slug: "best-treats-french-bulldog"
 silo: "reviews"
 ---
@@ -8,7 +10,7 @@ Jago will do anything for a treat. I mean anything. Sit, stay, paw, roll over �
 
 Buster approaches treats differently. Buster is an investor. He evaluates the offering with the discerning eye of a restaurant critic: sniff, consider, deliberate. A cheap biscuit from the supermarket? He'll take it, but the look he gives you suggests he's noting it on your permanent record. A proper, meaty, high-value treat? That earns you the full-body wag — the one that starts at the shoulders and somehow involves the entire back half of the dog.
 
-And then there's the allergy factor. Buster's chicken allergy (documented at length in our [food allergy guide](/french-bulldog-food-allergies/)) means roughly 70% of the treats on the pet shop shelf are off-limits before we've even read the label. Chicken is the default protein in dog treats the way vanilla is the default in ice cream — it's everywhere, often hiding behind phrases like "meat and animal derivatives" that tell you nothing useful.
+And then there's the allergy factor. Buster's chicken allergy (documented at length in our [food allergy guide](/nutrition/french-bulldog-food-allergies/)) means roughly 70% of the treats on the pet shop shelf are off-limits before we've even read the label. Chicken is the default protein in dog treats the way vanilla is the default in ice cream — it's everywhere, often hiding behind phrases like "meat and animal derivatives" that tell you nothing useful.
 
 We've spent three years navigating this — reading ingredient labels in pet shop aisles while two French Bulldogs stare up at us with expressions of pure, weaponised hope. This guide covers the treats that survived our testing: the ones that are healthy enough for daily use, safe for allergy-prone Frenchies, and — crucially — exciting enough to earn the full-body wag.
 
@@ -252,7 +254,7 @@ The sardine thing. I don't know what a sardine is, and I don't know why it only 
 
 This is the question that separates the lean Frenchies from the ones the vet has A Conversation about. The guideline is straightforward: **treats should be no more than 10% of daily calories.**
 
-For a 12kg adult Frenchie, daily maintenance is roughly 500-600 calories depending on activity level (we cover the detailed maths in our [feeding guide](/how-much-feed-french-bulldog/)). That means 50-60 calories' worth of treats per day, maximum.
+For a 12kg adult Frenchie, daily maintenance is roughly 500-600 calories depending on activity level (we cover the detailed maths in our [feeding guide](/nutrition/how-much-feed-french-bulldog/)). That means 50-60 calories' worth of treats per day, maximum.
 
 What does that look like in practice?
 
@@ -267,7 +269,7 @@ The rule in our house: training treats are tiny (pea-sized), dental chews are a 
 
 ### Can French Bulldogs eat chicken treats?
 
-If your Frenchie doesn't have a chicken allergy or sensitivity, yes. The problem is that chicken is the most common food allergen for French Bulldogs, and you may not know about a sensitivity until it causes symptoms. If your Frenchie has any skin issues, digestive problems, or recurrent ear infections, try eliminating chicken (including treats) for 4-6 weeks and see if things improve. That single change transformed Buster's skin. Our [food allergy guide](/french-bulldog-food-allergies/) walks through the elimination diet process.
+If your Frenchie doesn't have a chicken allergy or sensitivity, yes. The problem is that chicken is the most common food allergen for French Bulldogs, and you may not know about a sensitivity until it causes symptoms. If your Frenchie has any skin issues, digestive problems, or recurrent ear infections, try eliminating chicken (including treats) for 4-6 weeks and see if things improve. That single change transformed Buster's skin. Our [food allergy guide](/nutrition/french-bulldog-food-allergies/) walks through the elimination diet process.
 
 ### Are grain-free treats better for French Bulldogs?
 
@@ -298,8 +300,8 @@ Air is the enemy. Reseal bags tightly, use airtight containers, and keep them in
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes including Amazon Associates. Every recommendation is based on genuine testing with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/french-bulldog-food-allergies/) — How we identified Buster's chicken allergy
-- [How Much Should I Feed My French Bulldog?](/how-much-feed-french-bulldog/) — Portions, calories, and managing weight
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — The complete food we feed and why
-- [Raw Feeding for French Bulldogs: Our Experience](/raw-feeding-french-bulldogs/) — The hybrid approach we actually use
-- [How to Clean French Bulldog Wrinkles](/how-to-clean-french-bulldog-wrinkles/) — Because treats end up in the folds
+- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/) — How we identified Buster's chicken allergy
+- [How Much Should I Feed My French Bulldog?](/nutrition/how-much-feed-french-bulldog/) — Portions, calories, and managing weight
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — The complete food we feed and why
+- [Raw Feeding for French Bulldogs: Our Experience](/nutrition/raw-feeding-french-bulldogs/) — The hybrid approach we actually use
+- [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/) — Because treats end up in the folds

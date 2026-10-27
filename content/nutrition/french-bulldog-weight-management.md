@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Weight Management: How We Keep Buster & Jago at a Healthy Weight"
-draft: true
+draft: false
+date: 2026-10-20
+lastmod: 2026-10-20
 slug: "french-bulldog-weight-management"
 silo: "nutrition"
 ---
@@ -28,13 +30,13 @@ More importantly, that barrel chest and narrow hips — the combination that giv
 
 ### The Food Obsession Factor
 
-We've written about this in our [gut health guide](/french-bulldog-gut-health/) and [food allergies article](/french-bulldog-food-allergies/), but it bears repeating here: French Bulldogs are pathologically food-motivated. Buster can hear a cheese wrapper being opened from two rooms away, through a closed door, while apparently asleep. His hearing for treat-related frequencies is supernatural. His hearing for "Buster, leave it" is considerably less impressive.
+We've written about this in our [gut health guide](/nutrition/french-bulldog-gut-health/) and [food allergies article](/nutrition/french-bulldog-food-allergies/), but it bears repeating here: French Bulldogs are pathologically food-motivated. Buster can hear a cheese wrapper being opened from two rooms away, through a closed door, while apparently asleep. His hearing for treat-related frequencies is supernatural. His hearing for "Buster, leave it" is considerably less impressive.
 
 This isn't a personality quirk. It's a breed trait, and it means that weight management with a Frenchie is a constant, low-level negotiation. You are not training a dog to be less interested in food. You are managing an appetite that has been selectively bred into them. Accepting this — rather than fighting it — makes the whole process less frustrating.
 
 ### The Exercise Paradox
 
-French Bulldogs need exercise to stay healthy. They also overheat, struggle to breathe during exertion, and have a deeply held philosophical objection to being outside in anything other than perfect weather. Our [exercise guide](/how-much-exercise-french-bulldog/) covers the detail, but the short version is: you can't out-exercise a bad diet with a Frenchie. A 20-minute walk burns perhaps 50-80 calories. One extra training treat can undo that in seconds.
+French Bulldogs need exercise to stay healthy. They also overheat, struggle to breathe during exertion, and have a deeply held philosophical objection to being outside in anything other than perfect weather. Our [exercise guide](/breed/how-much-exercise-french-bulldog/) covers the detail, but the short version is: you can't out-exercise a bad diet with a Frenchie. A 20-minute walk burns perhaps 50-80 calories. One extra training treat can undo that in seconds.
 
 Weight management for Frenchies is 80% diet and 20% exercise — not because exercise doesn't matter, but because the exercise window is so narrow. You have to get the food right.
 
@@ -96,7 +98,7 @@ Now we use a digital kitchen scale for every meal. Every single one. The differe
 
 We weigh the kibble. We weigh any wet food toppers. We weigh the treats for the day and put them in a separate pot so we know exactly what's available. It sounds obsessive. It takes 30 seconds per meal. It works.
 
-For portion sizes by age and activity level, our [feeding guide](/how-much-feed-french-bulldog/) has the detailed breakdown. The key point for weight management specifically is: feed for the weight your Frenchie *should be*, not the weight they currently are.
+For portion sizes by age and activity level, our [feeding guide](/nutrition/how-much-feed-french-bulldog/) has the detailed breakdown. The key point for weight management specifically is: feed for the weight your Frenchie *should be*, not the weight they currently are.
 
 ### 2. The Treat Budget
 
@@ -106,7 +108,7 @@ Our treat rules:
 
 - **Treats count toward daily intake.** If Buster's had a high-treat day (training session, visitors, someone who can't resist his face), his evening meal shrinks accordingly.
 - **Training treats are broken into tiny pieces.** A 2cm training treat becomes four or five pea-sized rewards. Buster has never once complained about the portion size of a treat.
-- **Single-ingredient, low-calorie options are the default.** Air-dried fish skins, venison chews, freeze-dried chicken (if your Frenchie tolerates chicken). Our [full treats guide](/best-treats-french-bulldog/) lists the ones that make the cut.
+- **Single-ingredient, low-calorie options are the default.** Air-dried fish skins, venison chews, freeze-dried chicken (if your Frenchie tolerates chicken). Our [full treats guide](/reviews/best-treats-french-bulldog/) lists the ones that make the cut.
 - **Vegetables as treats.** Both boys will do anything for a piece of carrot, a green bean, or a slice of cucumber. These are almost calorie-free, they add fibre, and Buster genuinely prefers carrot to some commercial treats. We don't understand it either.
 
 ### 3. The Slow-Feeder Innovation
@@ -133,13 +135,13 @@ Weighing a Frenchie who refuses to stand still on bathroom scales is a solved pr
 
 ## Exercise: The Part That Helps But Isn't a Solution
 
-We covered exercise in detail in our [dedicated guide](/how-much-exercise-french-bulldog/), so here's the weight-management-specific version.
+We covered exercise in detail in our [dedicated guide](/breed/how-much-exercise-french-bulldog/), so here's the weight-management-specific version.
 
 French Bulldogs need 20-30 minutes of walking twice a day. For weight management specifically:
 
 - **Consistency beats intensity.** Two 20-minute walks every day is better than one 60-minute walk at the weekend. Frenchies don't do "making up for lost time." They do "I've been on the sofa for three days and now you want me to WHAT?"
 - **Cool-weather walking is gold.** That 15°C autumn day when your Frenchie is trotting along with genuine enthusiasm? That's when they're burning calories efficiently. Take advantage of it.
-- **Mental exercise burns calories too.** A 15-minute training session, a puzzle feeder, or a game of "find the treats" tires a Frenchie out almost as much as a walk. For winter days when outdoor exercise is limited (see our [winter care guide](/french-bulldog-winter-care-guide/)), indoor mental exercise keeps the metabolism ticking.
+- **Mental exercise burns calories too.** A 15-minute training session, a puzzle feeder, or a game of "find the treats" tires a Frenchie out almost as much as a walk. For winter days when outdoor exercise is limited (see our [winter care guide](/lifestyle/french-bulldog-winter-care-guide/)), indoor mental exercise keeps the metabolism ticking.
 - **Don't walk an overweight Frenchie into the ground.** If your Frenchie needs to lose weight, don't suddenly double their exercise. Their joints are already under strain, their breathing is already compromised. Gradual increases — adding five minutes to walks, not twenty — prevent injury and build fitness sustainably.
 
 ## The Underweight Frenchie Problem
@@ -152,7 +154,7 @@ For underweight Frenchies:
 
 - **Add healthy calories, not junk.** A spoon of plain cooked chicken, a little extra wet food, or a small amount of salmon oil on their meals adds calories with nutritional value. More kibble works too, but calorie-dense toppers are more efficient.
 - **Feed three times a day instead of two.** Same total amount, spread across more meals — some dogs digest and absorb better with smaller, more frequent portions.
-- **Check for underlying issues.** If your Frenchie is eating well but not gaining, rule out parasites, digestive absorption problems, and (in older dogs) conditions like EPI. Our [gut health guide](/french-bulldog-gut-health/) covers some of these.
+- **Check for underlying issues.** If your Frenchie is eating well but not gaining, rule out parasites, digestive absorption problems, and (in older dogs) conditions like EPI. Our [gut health guide](/nutrition/french-bulldog-gut-health/) covers some of these.
 - **Don't overdo it.** A slightly lean Frenchie is healthier than a slightly overweight one. If your vet says they're fine, and they have energy and a good coat, you don't need to chase the upper end of the weight range.
 
 {{< callout type="jago-says" title="Jago's Opinion" >}}
@@ -203,8 +205,8 @@ This article reflects our personal experience managing Buster and Jago's weight 
 
 ## Related Guides
 
-- [How Much Should I Feed My French Bulldog? A Complete Feeding Guide](/how-much-feed-french-bulldog/)
-- [How Much Exercise Does a French Bulldog Need?](/how-much-exercise-french-bulldog/)
-- [Best Treats for French Bulldogs: Healthy Options They'll Actually Eat](/best-treats-french-bulldog/)
-- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/french-bulldog-food-allergies/)
-- [French Bulldog Gut Health: Probiotics, Digestive Enzymes & Sensitive Stomach Fixes](/french-bulldog-gut-health/)
+- [How Much Should I Feed My French Bulldog? A Complete Feeding Guide](/nutrition/how-much-feed-french-bulldog/)
+- [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/)
+- [Best Treats for French Bulldogs: Healthy Options They'll Actually Eat](/reviews/best-treats-french-bulldog/)
+- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/)
+- [French Bulldog Gut Health: Probiotics, Digestive Enzymes & Sensitive Stomach Fixes](/nutrition/french-bulldog-gut-health/)

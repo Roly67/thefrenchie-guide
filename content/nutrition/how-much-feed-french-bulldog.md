@@ -1,6 +1,8 @@
 ---
 title: "How Much Should I Feed My French Bulldog? Portions, Calories & Feeding Guide"
-draft: true
+draft: false
+date: 2026-08-18
+lastmod: 2026-08-18
 slug: "how-much-feed-french-bulldog"
 silo: "nutrition"
 ---
@@ -42,7 +44,7 @@ This is the big one. French Bulldogs are masters of the guilt-trip. The breed ha
 
 ### 2. Limited Exercise Capacity
 
-As we cover in [our exercise guide](/how-much-exercise-french-bulldog/), Frenchies can't burn off excess calories the way a working breed can. They're brachycephalic — their flat faces make them overheat quickly and tire fast. So the "oh, he'll walk it off" approach doesn't really work. What goes in the bowl stays with them.
+As we cover in [our exercise guide](/breed/how-much-exercise-french-bulldog/), Frenchies can't burn off excess calories the way a working breed can. They're brachycephalic — their flat faces make them overheat quickly and tire fast. So the "oh, he'll walk it off" approach doesn't really work. What goes in the bowl stays with them.
 
 ### 3. A Compact, Stocky Build
 
@@ -149,7 +151,7 @@ Beyond portion size, the *schedule* matters too.
 **Free feeding (leaving food down all day)?** For a Frenchie, absolutely not. They are not breeds that self-regulate. Leave a bowl down and Buster would treat it as a personal challenge. Jago would treat it as a buffet. Weigh, serve, take away. That's the system.
 
 {{< callout type="tip" title="Pro Tip" >}}
-If your Frenchie wolfs their food down in seconds — and Frenchies do — a [slow feeder bowl](/best-slow-feeder-bowl-french-bulldog/) is worth its weight in gold. It slows the eating, reduces gulping and gas, and turns mealtime from a four-second inhale into an actual activity. Jago's dinner now takes a full two minutes, which in Frenchie terms is a leisurely, civilised affair.
+If your Frenchie wolfs their food down in seconds — and Frenchies do — a [slow feeder bowl](/gear/best-slow-feeder-bowl-french-bulldog/) is worth its weight in gold. It slows the eating, reduces gulping and gas, and turns mealtime from a four-second inhale into an actual activity. Jago's dinner now takes a full two minutes, which in Frenchie terms is a leisurely, civilised affair.
 {{< /callout >}}
 
 ## Adjusting Portions When Weight Drifts
@@ -160,13 +162,13 @@ So you've weighed your Frenchie (or, more accurately, held them while standing o
 
 1. **Cut portions by about 10%** — no more, no crash dieting. Rapid weight loss is bad for dogs, especially Frenchies.
 2. **Re-check the treats.** This is usually where the hidden calories are.
-3. **Keep exercise where it is** (see [our exercise guide](/how-much-exercise-french-bulldog/)) — you're unlikely to out-walk a Frenchie's appetite, so diet does the heavy lifting.
+3. **Keep exercise where it is** (see [our exercise guide](/breed/how-much-exercise-french-bulldog/)) — you're unlikely to out-walk a Frenchie's appetite, so diet does the heavy lifting.
 4. **Re-weigh every 2–3 weeks.** Aim for slow, steady loss — roughly 1–2% of body weight per week is plenty.
 
 **If they're underweight or losing weight:**
 
 1. **Increase portions by about 10%** and re-check in a couple of weeks.
-2. **Rule out a medical cause** — sudden or unexplained weight loss in a Frenchie should trigger a vet visit, not just a bigger scoop. Food allergies (see [our guide](/french-bulldog-food-allergies/)) and other issues can cause weight loss despite a normal appetite.
+2. **Rule out a medical cause** — sudden or unexplained weight loss in a Frenchie should trigger a vet visit, not just a bigger scoop. Food allergies (see [our guide](/nutrition/french-bulldog-food-allergies/)) and other issues can cause weight loss despite a normal appetite.
 3. **Consider a higher-calorie food** rather than just piling in more volume, especially if your Frenchie has a small appetite.
 
 ## Wet Food, Raw, and Mixing — Does the Maths Change?
@@ -177,7 +179,7 @@ Short answer: the calories are the calories, whatever the format. But the practi
 - **Raw feeding** is harder to quantify because it depends on the exact recipe. If you feed raw, work with a veterinary nutritionist or a reputable pre-prepared raw brand, and go by body condition above all.
 - **Mixing wet and dry** is common and perfectly fine — just add up the calories from both. We occasionally top the boys' kibble with a spoonful of wet food on "special" days (i.e., days ending in Y), and we subtract the equivalent kibble to keep the total the same.
 
-For the full rundown on *what* to feed (the brands we've actually tested, and the ones we haven't), see [our best dog food guide](/best-dog-food-french-bulldogs-uk/).
+For the full rundown on *what* to feed (the brands we've actually tested, and the ones we haven't), see [our best dog food guide](/gear/best-dog-food-french-bulldogs-uk/).
 
 ## Signs You're Getting It Right (Or Wrong)
 
@@ -243,7 +245,7 @@ Follow the food bag's puppy chart for your puppy's current weight, split across 
 **Disclaimer:** *This article reflects our personal experience as French Bulldog owners and is not veterinary advice. Every dog is different, and portions should always be tailored to your individual dog in discussion with a qualified vet, particularly for puppies, seniors, or dogs with health conditions.*
 
 **Related guides:**
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — The brands we actually feed and why
-- [French Bulldog Food Allergies](/french-bulldog-food-allergies/) — Symptoms, causes, and what to feed an allergic Frenchie
-- [How Much Exercise Does a French Bulldog Need?](/how-much-exercise-french-bulldog/) — Calories in, calories out
-- [Best Slow Feeder Bowl for French Bulldogs](/best-slow-feeder-bowl-french-bulldog/) — For Frenchies who inhale their dinner
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — The brands we actually feed and why
+- [French Bulldog Food Allergies](/nutrition/french-bulldog-food-allergies/) — Symptoms, causes, and what to feed an allergic Frenchie
+- [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/) — Calories in, calories out
+- [Best Slow Feeder Bowl for French Bulldogs](/gear/best-slow-feeder-bowl-french-bulldog/) — For Frenchies who inhale their dinner

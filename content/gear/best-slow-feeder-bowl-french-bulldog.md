@@ -82,7 +82,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 ### 2. Best for Wet Food: Lickimat Classic
 
-**Why it's here:** If you feed wet food or use food as a topper (we do — see our [dog food guide](/best-dog-food-french-bulldogs-uk/)), a lick mat is brilliant. Spread food on it, and your Frenchie has to lick rather than gulp. The licking action also releases calming endorphins.
+**Why it's here:** If you feed wet food or use food as a topper (we do — see our [dog food guide](/gear/best-dog-food-french-bulldogs-uk/)), a lick mat is brilliant. Spread food on it, and your Frenchie has to lick rather than gulp. The licking action also releases calming endorphins.
 
 {{< product-card
   name="LickiMat Classic Soother"
@@ -98,7 +98,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 - Freezable for longer-lasting meals
 - Dishwasher safe
 
-**Pro tip:** Spread a thin layer of Forthglade wet food, freeze it, and give it to your Frenchie before you leave the house. You've just bought yourself 20 minutes of occupied, calm dog. We use this alongside [frozen Kongs](/best-toys-french-bulldogs/) as departure aids.
+**Pro tip:** Spread a thin layer of Forthglade wet food, freeze it, and give it to your Frenchie before you leave the house. You've just bought yourself 20 minutes of occupied, calm dog. We use this alongside [frozen Kongs](/gear/best-toys-french-bulldogs/) as departure aids.
 
 ### 3. Best Raised Option: EasyEat Raised Slow Feeder
 
@@ -119,7 +119,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 - Dishwasher safe insert
 - UK brand, designed with vet input
 
-**Best for:** Frenchies who struggle with floor-level bowls or who gulp air partly because they're bending too far down. We already [elevate our regular bowls](/best-dog-food-french-bulldogs-uk/) 3-4 inches, so this combines elevation with slow feeding in one unit.
+**Best for:** Frenchies who struggle with floor-level bowls or who gulp air partly because they're bending too far down. We already [elevate our regular bowls](/gear/best-dog-food-french-bulldogs-uk/) 3-4 inches, so this combines elevation with slow feeding in one unit.
 
 ### 4. Best Budget: Amazon Basics Slow Feeder
 
@@ -204,7 +204,7 @@ If slow feeder bowls aren't working, try:
 Scatter kibble across a clean floor or snuffle mat. Forces them to forage one piece at a time. Jago loves this — it turns mealtime into a treasure hunt.
 
 ### Frozen Kongs
-Stuff a Kong with wet food and kibble, freeze overnight, serve at mealtime. This is peak slow feeding — 20-30 minutes of work for a single meal's worth of food. We use [Kongs](/best-toys-french-bulldogs/) daily.
+Stuff a Kong with wet food and kibble, freeze overnight, serve at mealtime. This is peak slow feeding — 20-30 minutes of work for a single meal's worth of food. We use [Kongs](/gear/best-toys-french-bulldogs/) daily.
 
 ### Muffin Tin Feeding
 Put small amounts of food in each cup of a muffin tin. Cover some cups with tennis balls. Cheap, effective, mentally stimulating.
@@ -216,7 +216,7 @@ Feed them piece by piece during training sessions. Turns a meal into a training 
 
 ### Will a slow feeder stop my Frenchie farting?
 
-It'll reduce it significantly by reducing air intake during meals. Buster's flatulence dropped dramatically. But diet matters too — if the food itself is the problem, a slow feeder alone won't fix it. See our [dog food guide](/best-dog-food-french-bulldogs-uk/).
+It'll reduce it significantly by reducing air intake during meals. Buster's flatulence dropped dramatically. But diet matters too — if the food itself is the problem, a slow feeder alone won't fix it. See our [dog food guide](/gear/best-dog-food-french-bulldogs-uk/).
 
 ### Can puppies use slow feeder bowls?
 
@@ -241,6 +241,6 @@ Different tools for different foods. Slow feeder bowl for kibble. Lick mat for w
 **Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes. Product recommendations are based on genuine use with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [Best Dog Food for French Bulldogs UK](/best-dog-food-french-bulldogs-uk/) — What goes IN the bowl matters too
-- [Best Toys for French Bulldogs](/best-toys-french-bulldogs/) — Kongs as slow feeding tools
-- [French Bulldog Puppy Checklist](/french-bulldog-puppy-checklist/) — Setting up feeding from day one
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — What goes IN the bowl matters too
+- [Best Toys for French Bulldogs](/gear/best-toys-french-bulldogs/) — Kongs as slow feeding tools
+- [French Bulldog Puppy Checklist](/breed/french-bulldog-puppy-checklist/) — Setting up feeding from day one

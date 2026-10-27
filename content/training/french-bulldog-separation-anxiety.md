@@ -78,7 +78,7 @@ Here's where things get interesting. Not every French Bulldog destroying your fl
 
 Jago falls firmly into the "creative chaos" category. Give him 90 minutes alone with insufficient mental stimulation, and he'll redesign your living room. It's not anxiety—it's entrepreneurship.
 
-The solution? [our guide to the best toys for French Bulldogs](/best-toys-french-bulldogs/) becomes absolutely essential. Puzzle toys, chew toys, anything that occupies that bat-eared brain.
+The solution? [our guide to the best toys for French Bulldogs](/gear/best-toys-french-bulldogs/) becomes absolutely essential. Puzzle toys, chew toys, anything that occupies that bat-eared brain.
 
 ## Building Independence: The Gradual Approach
 
@@ -127,7 +127,7 @@ Some Frenchies find crates comforting—a den-like space that feels secure. Othe
 
 **If your Frenchie hates crates:**
 
-Don't force it. Instead, create a designated "safe zone"—perhaps a corner with their bed, a [choosing the right bed](/best-bed-french-bulldog/) that's comfortable and secure, familiar toys, and background noise (radio, white noise machine).
+Don't force it. Instead, create a designated "safe zone"—perhaps a corner with their bed, a [choosing the right bed](/gear/best-bed-french-bulldog/) that's comfortable and secure, familiar toys, and background noise (radio, white noise machine).
 
 Jago's safe space is basically a nest of blankets in the corner of the living room. He's constructed it himself over months, like some sort of comfort-obsessed interior designer. I daren't touch it.
 
@@ -139,7 +139,7 @@ Jago, predictably, had opinions. But even he settled quickly once we established
 
 A tired Frenchie is a calmer Frenchie. Before you leave, ensure they've had:
 
-- A proper walk (see [our exercise guide](/how-much-exercise-french-bulldog/) for guidelines)
+- A proper walk (see [our exercise guide](/breed/how-much-exercise-french-bulldog/) for guidelines)
 - Some play time or training
 - Ideally, a chance to "do their business"
 
@@ -317,8 +317,8 @@ Well, *their* world doesn't end. The shoe might not be so lucky.
 ---
 
 **Further reading:**
-- [Potty training your French Bulldog](/french-bulldog-potty-training/) - Housettraining foundations
-- [our guide to the best toys for French Bulldogs](/best-toys-french-bulldogs/) - Mental stimulation tools
-- [our exercise guide](/how-much-exercise-french-bulldog/) - Exercise guidelines
+- [Potty training your French Bulldog](/training/french-bulldog-potty-training/) - Housettraining foundations
+- [our guide to the best toys for French Bulldogs](/gear/best-toys-french-bulldogs/) - Mental stimulation tools
+- [our exercise guide](/breed/how-much-exercise-french-bulldog/) - Exercise guidelines
 
 **Disclaimer:** This guide is based on personal experience and research. For severe behavioural issues or clinical anxiety, please consult a qualified veterinary behaviourist or certified dog trainer. Always speak with your vet before using calming supplements or medications.

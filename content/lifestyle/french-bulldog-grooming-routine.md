@@ -1,6 +1,8 @@
 ---
 title: "French Bulldog Grooming: Our Complete At-Home Routine"
-draft: true
+draft: false
+date: 2026-09-29
+lastmod: 2026-09-29
 slug: "french-bulldog-grooming-routine"
 silo: "lifestyle"
 ---
@@ -22,7 +24,7 @@ A lot of people assume short-haired dogs don't need much grooming. Technically t
 
 Those adorable face folds that make Frenchies look permanently thoughtful? They're moisture traps. Food, saliva, tears, general face-grime — it all collects in there. Left unmanaged, those wrinkles become breeding grounds for bacteria and yeast. If you've ever caught a whiff of a French Bulldog's face fold that's been neglected for a week, you know exactly what we mean. It's a smell that could strip paint.
 
-We covered wrinkle cleaning in detail in our [wrinkle care guide](/how-to-clean-french-bulldog-wrinkles/), and we'll touch on it here too — but the key point is that wrinkle maintenance isn't cosmetic. It's health.
+We covered wrinkle cleaning in detail in our [wrinkle care guide](/breed/how-to-clean-french-bulldog-wrinkles/), and we'll touch on it here too — but the key point is that wrinkle maintenance isn't cosmetic. It's health.
 
 ### The Ear Situation
 
@@ -34,7 +36,7 @@ French Bulldogs are notorious for hating nail trims. Their compact paws and ofte
 
 ### The Skin Sensitivity
 
-Frenchies are allergy-prone dogs. Their skin is often the first place problems show up — whether it's food allergies (we've written about [food allergies in French Bulldogs](/french-bulldog-food-allergies/) at length), environmental sensitivities, or just dry skin from central heating. A regular grooming routine means you're looking at your dog's skin every week, which means you catch problems early.
+Frenchies are allergy-prone dogs. Their skin is often the first place problems show up — whether it's food allergies (we've written about [food allergies in French Bulldogs](/nutrition/french-bulldog-food-allergies/) at length), environmental sensitivities, or just dry skin from central heating. A regular grooming routine means you're looking at your dog's skin every week, which means you catch problems early.
 
 {{< callout type="tip" title="The Real Reason to Groom Regularly" >}}
 Grooming is a weekly health check disguised as a pampering session. You're not just cleaning — you're checking for lumps, bumps, hot spots, ear infections, skin changes, and nail issues. Catch these things early and they're a £15 treatment. Miss them and they're a £200 vet bill.
@@ -85,13 +87,13 @@ If you do nothing else, clean the wrinkles. This is non-negotiable for French Bu
 If the wrinkles smell bad (yeasty, sour, or just "off"), look red and angry, have discharge, or your dog is rubbing their face obsessively — you may have an infection brewing. A mild case might respond to more frequent cleaning, but anything persistent needs a vet. Facial fold infections can spread and become painful quickly.
 {{< /callout >}}
 
-For a deeper dive into wrinkle care, products, and troubleshooting, read our complete [wrinkle cleaning guide](/how-to-clean-french-bulldog-wrinkles/).
+For a deeper dive into wrinkle care, products, and troubleshooting, read our complete [wrinkle cleaning guide](/breed/how-to-clean-french-bulldog-wrinkles/).
 
 ## Ear Care: The Often-Forgotten One
 
 We learned about ear cleaning the hard way — Buster developed a low-grade ear infection that needed £85 worth of vet treatment, all because we weren't cleaning his ears regularly. Those satellite dishes need maintenance.
 
-We've written a comprehensive [ear cleaning guide](/how-to-clean-french-bulldog-ears/) with the full step-by-step. Here's the short version for the weekly routine:
+We've written a comprehensive [ear cleaning guide](/breed/how-to-clean-french-bulldog-ears/) with the full step-by-step. Here's the short version for the weekly routine:
 
 1. **Look.** Before you even reach for the cleaner, check both ears. Any redness? Unusual smell? Excessive wax? Dark discharge? These all warrant closer attention.
 2. **Clean.** Use a vet-approved ear cleaner (we use Virbac Epi-Otic — about £15 from Amazon or your vet). Squirt a small amount into the ear canal, massage the base of the ear for 20-30 seconds (you'll hear a satisfying squelch), then let your dog shake. Wipe away any debris with a cotton pad.
@@ -126,7 +128,7 @@ The rubber mitt is the best invention in human history. When it comes out, I sit
 
 We bathe Buster and Jago every 4-6 weeks, or sooner if someone's found something unpleasant to roll in (Jago has a talent for locating fox poo on walks). Over-bathing strips natural oils and can trigger skin issues, so resist the urge to bathe weekly.
 
-For shampoo, we use a gentle, hypoallergenic formula — nothing scented, nothing harsh. We reviewed the [best shampoos for French Bulldogs](/best-shampoo-french-bulldog/) in detail, but the short version: look for oatmeal-based or aloe vera formulas designed for sensitive skin.
+For shampoo, we use a gentle, hypoallergenic formula — nothing scented, nothing harsh. We reviewed the [best shampoos for French Bulldogs](/reviews/best-shampoo-french-bulldog/) in detail, but the short version: look for oatmeal-based or aloe vera formulas designed for sensitive skin.
 
 **Our bath checklist:**
 
@@ -190,7 +192,7 @@ If tooth brushing is a battle you're losing, dental chews (Whimzees, Yak Chews, 
 
 Our grooming routine shifts with the seasons. Cornwall's climate is relatively mild, but we still make changes:
 
-**Summer:** More frequent wrinkle cleaning (they sweat more), paw pad checks after every walk on hot pavement, and we switch to a lighter, more frequent bathing schedule if they're getting dusty on walks. Cooling vests (we reviewed our favourite [cooling vest here](/best-cooling-vest-french-bulldog/)) also need rinsing and maintenance.
+**Summer:** More frequent wrinkle cleaning (they sweat more), paw pad checks after every walk on hot pavement, and we switch to a lighter, more frequent bathing schedule if they're getting dusty on walks. Cooling vests (we reviewed our favourite [cooling vest here](/gear/best-cooling-vest-french-bulldog/)) also need rinsing and maintenance.
 
 **Winter:** Paw balm becomes essential — road grit and salt are brutal on pads. We keep baths slightly less frequent to preserve natural oils against dry central heating air. After wet winter walks, we dry them thoroughly, especially between toes and in wrinkles, because damp + warm = infection.
 
@@ -247,8 +249,8 @@ And it's when we get to appreciate them — properly clean, velvet-soft, wrinkle
 
 ### Related Guides
 
-- [How to Clean French Bulldog Wrinkles — A Complete Guide](/how-to-clean-french-bulldog-wrinkles/)
-- [How to Clean French Bulldog Ears — Step by Step](/how-to-clean-french-bulldog-ears/)
-- [Best French Bulldog Shampoo: Reviewed for Sensitive Skin (UK)](/best-shampoo-french-bulldog/)
-- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/french-bulldog-food-allergies/)
-- [French Bulldog Summer Safety Guide: Heatstroke Prevention & Hot Weather Tips](/french-bulldog-summer-safety-guide/)
+- [How to Clean French Bulldog Wrinkles — A Complete Guide](/breed/how-to-clean-french-bulldog-wrinkles/)
+- [How to Clean French Bulldog Ears — Step by Step](/breed/how-to-clean-french-bulldog-ears/)
+- [Best French Bulldog Shampoo: Reviewed for Sensitive Skin (UK)](/reviews/best-shampoo-french-bulldog/)
+- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/)
+- [French Bulldog Summer Safety Guide: Heatstroke Prevention & Hot Weather Tips](/lifestyle/french-bulldog-summer-safety-guide/)
