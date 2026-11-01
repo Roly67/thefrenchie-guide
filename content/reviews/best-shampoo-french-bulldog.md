@@ -188,7 +188,7 @@ These are our picks, chosen on ingredients, what each one is formulated for, and
 | **Pet Head Sensitive Soul** | Scented wash, smell | £ | Oatmeal & coconut | Coconut |
 | **Douxo S3 PYO** | Infections (vet-directed) | ££ | Chlorhexidine | Light |
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ## Shampoos We'd Avoid
 

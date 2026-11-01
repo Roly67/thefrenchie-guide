@@ -224,7 +224,7 @@ Made for wrinkly breeds — the listing names Frenchies, Bulldogs and Pugs — w
 
 {{< product-card name="Earth Rated Hypoallergenic Dog Wipes (Unscented)" price="£5.52" rating="4.5" url="https://www.amazon.co.uk/dp/B07NHL31CC/?tag=broadbandhelp" image="/images/products/amazon-b07nhl31cc.jpg" pros="Unscented,Hypoallergenic, alcohol- and paraben-free,Large 8x8in wipes,Very good value" cons="Not wrinkle-specific,Not medicated" >}}{{< /product-card >}}
 
-A budget-friendly alternative with over 30,000 Amazon ratings. They're hypoallergenic, free of alcohol and parabens, and large enough to work into Frenchie wrinkles — though they aren't wrinkle-specific. Pick the unscented version. Unscented is exactly what you want here: your dog's face shouldn't smell like a lavender field. Or anything, really.
+A popular, budget-friendly alternative. They're hypoallergenic, free of alcohol and parabens, and large enough to work into Frenchie wrinkles — though they aren't wrinkle-specific. Pick the unscented version. Unscented is exactly what you want here: your dog's face shouldn't smell like a lavender field. Or anything, really.
 
 {{< affiliate-button url="https://www.amazon.co.uk/dp/B07NHL31CC/?tag=broadbandhelp" text="Check Price on Amazon" >}}
 

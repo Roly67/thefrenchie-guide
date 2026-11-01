@@ -172,7 +172,7 @@ If your Frenchie prefers wet food (or you want to mix it with kibble), Forthglad
 | **Harringtons GF** | 45% | ✅ | £ | Budget option |
 | **Forthglade Just** | 100% meat | ✅ | £ (wet topper) | Wet food/topper |
 
-*Cost per kg: £ under £4 · ££ £4–£6 · £££ over £6. Bag sizes differ, so compare per kg; current prices are on each product card.*
+*Cost per kg: £ under £4 · ££ £4–£6 · £££ over £6. Bag sizes differ, so compare per kg; check the current price on Amazon.*
 
 ## Ingredients to Avoid in French Bulldog Food
 

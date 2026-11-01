@@ -204,7 +204,7 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 | **Hurtta Downpour** | Full body | £££ | Heavy rain/mud | ✅ | ❌ Adjustable |
 | **Danish Design 2-in-1** | Versatile | ££ | Spring/autumn | ✅ | ❌ Adjustable |
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ## How to Measure Your French Bulldog for a Coat
 

@@ -188,7 +188,7 @@ For summer months, these help:
 | **Veehoo Raised** | Raised mesh bed | £££ | Summer, overheating | ✅ Bolster; wipe mesh |
 | **Amazon Basics** | Budget bolster | £ | Secondary bed, starter | ✅ Machine |
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ## Beds to Avoid
 

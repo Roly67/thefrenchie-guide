@@ -209,7 +209,7 @@ These are our picks, chosen on ingredient lists, size and how Amazon UK buyers r
 | **Lily's Kitchen Sausages** | High-value, soft | ££ (8-pack) | Duck/venison | Soft, chewy | ✓ (chicken-free) |
 | **Scrumbles Natural** | Budget, everyday | £ | Salmon | Soft bites | ✓ (no chicken) |
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ## Treats We'd Avoid
 

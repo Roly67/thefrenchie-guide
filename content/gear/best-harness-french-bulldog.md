@@ -476,7 +476,7 @@ The colour range is limited compared with the Puppia rainbow. And check the size
 | **BULLHUG** | ££ | Barrel-chested breeds | ✅ Good | Over-head |
 {{< /comparison-table >}}
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ---
 
@@ -711,7 +711,7 @@ For most Frenchies, our pick is the EzyDog Quick Fit.
 - **££ (£15–£30):** Puppia Soft, Rabbitgoo No-Pull Vest (best value dual-clip), Truelove No-Pull, BULLHUG (breed-specific), or EzyDog Quick Fit (our pick)
 - **£££ (over £30):** Julius-K9 IDC (heavy pullers) or Ruffwear Front Range (maximum adjustability)
 
-Prices move; the current price is on each product card.
+Prices move; check the current price on Amazon.
 
 **For different dog types:**
 

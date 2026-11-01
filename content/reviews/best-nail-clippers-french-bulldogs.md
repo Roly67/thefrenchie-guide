@@ -107,7 +107,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 **Pros:**
 - Specifically a **small-breed** clipper — right-sized blade for a Frenchie paw
 - Rounded, soft-protection blade edge that deflects rather than crushes
-- Over 5,700 reviews at 4.6 — the most-proven small clipper we found
+- One of the most widely reviewed small clippers
 - Under a fiver, so if your Frenchie chews it, you've lost pocket change
 
 **Cons:**
@@ -132,7 +132,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 **Pros:**
 - **Built-in LED light** that illuminates the nail so you can find the quick
 - Safety guard with a visible depth stop, comfortable non-slip grip
-- Over 21,000 reviews at 4.6 — by some distance the most-proven clipper we found
+- By some distance the most widely reviewed clipper here
 - A good choice for a puppy too, where small nails make the quick even easier to miss
 
 **Cons:**
@@ -158,7 +158,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 - Designed by UK vets — reassuring provenance for a British audience
 - **Adjustable** safety guard with a clear depth window, the most useful thing about it
 - Ergonomic, non-slip handle; suitable for small and medium breeds
-- Over 2,700 reviews at 4.5
+- Widely reviewed
 
 **Cons:**
 - Pricier than the budget clippers
@@ -207,7 +207,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 **Pros:**
 - Clipper **and** nail file in one tool — the file is the bit you use to finish
 - Ultra-sharp blades that stay keen longer, plus a quick sensor for the quick
-- Non-slip ergonomic handle; 4.6 from over 500 reviews
+- Non-slip ergonomic handle
 - The most complete package for the money
 
 **Cons:**
@@ -233,7 +233,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 - **45dB** — genuinely quiet for a grinder, and the number actually matters for nervous dogs
 - **6 speeds**, so you can start at the slowest and work up
 - Two LED lights to find the quick; rechargeable and cordless
-- Dust cap catches the nail dust; over 6,400 reviews at 4.4
+- Dust cap catches the nail dust
 
 **Cons:**
 - Four stars rather than five — some owners report it running warm
@@ -257,7 +257,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 **Pros:**
 - **Four** LED lights for locating the quick
 - Three speed settings, super-quiet motor, rechargeable and cordless
-- Over 5,700 reviews at 4.4
+- Widely reviewed
 
 **Cons:**
 - Three speeds means no genuinely slow first setting for a very nervous dog
@@ -281,7 +281,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 - The **Dremel** name, which carries real weight — the same rotary tool technology used in proper workshops
 - Multiple speed settings with genuinely fine control, rechargeable and cordless
 - Two grinder heads, so one is always fresh
-- Over 1,000 reviews at 4.4
+- Well reviewed
 
 **Cons:**
 - More than twice the price of the Casfuy — a lot for a nail trim
