@@ -322,7 +322,7 @@ Those adorable wrinkles are part of what makes French Bulldogs so characterful a
 
 Start today, be consistent, and you'll quickly find that wrinkle care becomes just another part of your day — like those expectant stares when it's dinner time, or the way they somehow always need to go out right when you've sat down with a cup of tea.
 
-For more essential French Bulldog care tips, check out our guides on [French Bulldog Health Issues](#), [French Bulldog Grooming Guide](#), and [Best French Bulldog Supplements](#).
+For more French Bulldog care tips, see our guides to [French Bulldog breathing problems](/breed/french-bulldog-breathing-problems/), [an at-home grooming routine](/lifestyle/french-bulldog-grooming-routine/) and [the best joint supplements](/reviews/best-joint-supplements-french-bulldogs/).
 
 Damp climates like Cornwall's make wrinkle cleaning even more non-negotiable: damp air means moisture accumulates faster, beach trips mean sand gets everywhere, and winter walks mean mud.
 
