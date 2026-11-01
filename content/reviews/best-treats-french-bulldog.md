@@ -104,25 +104,25 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 **Real-world testing:** This is the only treat we've found that works for Buster (chicken-allergic, requires transparency) and excites Jago (would eat gravel, but has standards). The salmon and venison varieties are our go-tos. The pate texture means you control the portion size — we cut pieces roughly the size of a pea for training, which keeps the calorie count negligible per treat. Buster does a full sit without being asked when he smells the salmon one. That's the highest endorsement we can offer.
 
-### 2. Best Hypoallergenic Treat: Wainwright's Grain-Free Sensitive Treats
+### 2. Best Hypoallergenic Treat: Laughing Dog Fish & Tricks
 
-**Why it's here:** Wainwright's is Pets at Home's premium own-brand, and their sensitive treats are formulated specifically for dogs with allergies. The ingredient list is refreshingly short, and they use novel proteins — duck and sweet potato, salmon and potato — that are less likely to trigger reactions in dogs sensitised to chicken or beef.
+**Why it's here:** For a chicken-sensitive Frenchie, the ingredient list is the whole story — and this one is refreshingly short. Salmon is the protein (40%), bound with potato and sweet potato, plus linseed and parsley. No grain, no gluten, and no chicken or beef on the label. They're baked on a family farm in Lincolnshire, and at around £2.50 a bag they're cheap enough to be an everyday treat.
 
 {{< product-card
-  name="Wainwright's Grain-Free Sensitive Treats"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/wainwrights-sensitive.jpg"
-  price="~£5 per bag"
-  rating="4.5" />}}
+  name="Laughing Dog Fish & Tricks Grain-Free Treats"
+  url="https://www.amazon.co.uk/dp/B08KBGZRX5/?tag=broadbandhelp"
+  image="/images/products/amazon-b08kbgzrx5.jpg"
+  price="£2.49"
+  rating="4.4" />}}
 
 **Key features:**
-- Hypoallergenic — made without chicken, beef, wheat, or dairy
-- Novel protein sources (duck, salmon)
-- No artificial colours, flavours, or preservatives
-- Small, bone-shaped biscuits — good portion size for Frenchies
-- Readily available at Pets at Home
+- Single fish protein (40% salmon) — a sensible choice for dogs sensitised to chicken or beef
+- Grain-free and gluten-free, with no added sugar or salt
+- Short ingredient list: salmon, potato, sweet potato, linseed, parsley
+- Linseed for omega 3 & 6 — good for Frenchie skin
+- Baked in Britain, in a recyclable bag
 
-**Real-world testing:** These are our "guest treats" — the ones we keep in a jar by the front door for visitors. They're a sensible size, they don't crumble into pocket dust, and they're gentle enough for daily use. Buster tolerates them well (no skin reaction), and Jago… well, Jago would give them a 10/10, but Jago would also give a used teabag a 10/10, so his scoring system is not the most discriminating.
+**Worth knowing:** "Hypoallergenic" only means "unlikely to trigger the common allergens". If your Frenchie has a diagnosed allergy, read the full ingredient panel on the bag and introduce any new treat slowly — one at a time, so you know what caused a reaction if there is one.
 
 ### 3. Best Dental Chew: Whimzees Natural Dental Chews (Extra Small)
 
@@ -144,9 +144,9 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 **Real-world testing:** We give each of the boys one Whimzee after their evening meal, and both the vet and the state of their teeth suggest it's working. Buster takes about five minutes to work through one; Jago has it down to about ninety seconds and then looks at Buster's with predatory interest. We separate them during dental chew time. Important note: the Extra Small is the right size for Frenchies — the Small is too large, and pups under 7kg should use the XS puppy version.
 
-### 4. Best Natural Chew: Forthglade Natural Air-Dried Chews
+### 4. Best Natural Chew: Forthglade Natural Cuts Beef Tripe
 
-**Why it's here:** Sometimes you need a longer-lasting chew — something that occupies a Frenchie for more than thirty seconds while you get on with something. Forthglade's air-dried chews are single-source natural chews (beef trachea, lamb lung, chicken feet for non-allergic dogs) with absolutely nothing added.
+**Why it's here:** Sometimes you need a longer-lasting chew — something that occupies a Frenchie for more than thirty seconds while you get on with something. Forthglade's Natural Cuts are single-source, air-dried chews; the beef tripe is chicken-free, high in protein and grain-free. (The range also includes pig ear strips, and chicken feet and necks for dogs that can have chicken.)
 
 {{< product-card
   name="Forthglade Natural Cuts Air-Dried Beef Tripe"
@@ -157,16 +157,15 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 **Key features:**
 - 100% natural, single-source animal chews
-- No additives, preservatives, or processing
-- Air-dried, not cooked — retains natural nutrients
-- Good range of protein options including beef and lamb
-- UK-made
+- Air-dried, long-lasting
+- High protein, grain-free
+- Chicken-free options (beef tripe, pig ear)
 
-**Real-world testing:** We stick to the beef trachea and lamb options for Buster (avoiding chicken). These are the chews we deploy when we need twenty minutes of peace — a work call, cooking dinner, or just a moment of quiet. They're not low-calorie, so we treat them as an occasional chew rather than a daily reward, and we deduct a bit from the evening meal when they've had one. The only downside: they smell. Not unbearably, but noticeably. These are not a "keep in your coat pocket" kind of treat.
+**Worth knowing:** Air-dried chews aren't low-calorie, so treat them as an occasional chew rather than a daily reward, and take a little off the next meal when your Frenchie has had one. And tripe smells. That's part of why dogs love it, but it's not a "keep in your coat pocket" treat.
 
-### 5. Best Soft Treat for Older Dogs or Picky Eaters: Lily's Kitchen Training Treats
+### 5. Best Soft Treat for Older Dogs or Picky Eaters: Lily's Kitchen Duck & Venison Sausages
 
-**Why it's here:** Lily's Kitchen makes genuinely good dog food and treats with proper, named ingredients. Their training treats are small, soft, and come in flavours including duck and venison — both safe for chicken-allergic dogs.
+**Why it's here:** Lily's Kitchen makes genuinely good dog food and treats with proper, named ingredients. Their duck and venison sausages are soft, chewy and grain-free, and both proteins are useful for dogs that can't have chicken.
 
 {{< product-card
   name="Lily's Kitchen Duck & Venison Sausages"
@@ -176,13 +175,12 @@ After three years of testing on two highly opinionated critics (one with allergi
   rating="4.6" />}}
 
 **Key features:**
-- Made with proper, named meat (duck, venison, beef options)
-- No artificial additives or fillers
-- Small, soft, heart-shaped pieces — ideal for training
-- Organic ingredients where possible
-- UK-made
+- Made with named meat: duck and venison
+- Grain-free, no artificial additives
+- Soft and chewy — easy to tear into small pieces, kind to older teeth
+- Sold as a pack of 8 × 70g bags
 
-**Real-world testing:** These are Buster's "high-value" treat — the one we bring out for recall training, vet visits, and nail trimming sessions (the trifecta of Frenchie reluctance). They're soft enough to break into even smaller pieces, and the smell is strong enough to cut through outdoor distractions. The only criticism: the bags are small for the price. We bulk-buy when they're on offer.
+**Worth knowing:** Sausages are a higher-value, higher-calorie treat than a biscuit. Tear them into small pieces for training, and keep them for the moments that matter: recall, vet visits, nail trims.
 
 ### 6. Best Budget Option: Scrumbles Natural Dog Treats
 
@@ -208,12 +206,12 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 | Treat | Best For | Price | Protein | Texture | Allergy-Friendly |
 |-------|----------|-------|---------|---------|------------------|
-| **JR Pure Pate** | Training, value | ~£5/roll | Single-source | Soft (cuttable) | ✓ (pick protein) |
-| **Wainwright's Sensitive** | Hypoallergenic, everyday | ~£5/bag | Duck/salmon | Crunchy biscuit | ✓ |
-| **Whimzees Dental** | Dental health | ~£4/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
-| **Forthglade Chews** | Long-lasting, natural | ~£3-5/pack | Single-source | Air-dried chew | ✓ (pick protein) |
-| **Lily's Kitchen Training** | High-value, soft | ~£3.50/bag | Duck/venison | Soft, small | ✓ (pick flavour) |
-| **Scrumbles Natural** | Budget, everyday | ~£3/bag | Salmon/duck | Crunchy biscuit | ✓ (grain-free) |
+| **JR Pure Pate** | Training, value | ~£2.20/roll (10-pack) | Single-source | Soft (cuttable) | ✓ (pick protein) |
+| **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | ~£2.50/bag | Salmon | Crunchy bites | ✓ |
+| **Whimzees Dental** | Dental health | ~£9/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
+| **Forthglade Natural Cuts** | Long-lasting, natural | ~£9.50/bag | Beef tripe | Air-dried chew | ✓ (chicken-free) |
+| **Lily's Kitchen Sausages** | High-value, soft | ~£3/bag (8-pack) | Duck/venison | Soft, chewy | ✓ (chicken-free) |
+| **Scrumbles Natural** | Budget, everyday | ~£2.50/bag | Salmon | Soft bites | ✓ (no chicken) |
 
 ## Treats We'd Avoid
 
@@ -259,11 +257,11 @@ For a 12kg adult Frenchie, daily maintenance is roughly 500-600 calories dependi
 What does that look like in practice?
 
 - JR Pate (pea-sized pieces): about 2-3 calories each → roughly 20-25 pieces
-- A single Lily's Kitchen training treat: about 4-5 calories → roughly 12-15 pieces
-- One Forthglade beef trachea chew: can be 50-80 calories → that's your whole day's treat allowance
+- A Lily's Kitchen sausage: richer than a biscuit, so tear it into small pieces and count it against the day's allowance
+- One Forthglade air-dried chew: can be 50-80 calories → that's your whole day's treat allowance
 - Half a Whimzee dental chew (Extra Small): about 25 calories
 
-The rule in our house: training treats are tiny (pea-sized), dental chews are a once-daily item and we factor them into the daily total, and anything substantial (a trachea chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
+The rule in our house: training treats are tiny (pea-sized), dental chews are a once-daily item and we factor them into the daily total, and anything substantial (an air-dried chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
 
 ## Frequently Asked Questions
 
