@@ -121,20 +121,20 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 **Best for:** Frenchies who struggle with floor-level bowls or who gulp air partly because they're bending too far down. We already [elevate our regular bowls](/gear/best-dog-food-french-bulldogs-uk/) 3-4 inches, so this combines elevation with slow feeding in one unit.
 
-### 4. Best Budget: Amazon Basics Slow Feeder
+### 4. Best Budget: Dogit Go-Slow Anti-Gulp Bowl
 
-**Why it's here:** It works. It's cheap. It does the job without any bells or whistles.
+**Why it's here:** It works. It's cheap. It does the job without any bells or whistles — and with over 6,000 reviews, it's about as proven as a slow feeder gets.
 
 {{< product-card
-  name="Amazon Basics Slow Feeder Dog Bowl"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/amazon-basics-slow-feeder.jpg"
-  price="~£8"
-  rating="4.2" />}}
+  name="Dogit Go-Slow Anti-Gulp Dog Bowl (Medium, 600ml)"
+  url="https://www.amazon.co.uk/dp/B0038HLHJU/?tag=broadbandhelp"
+  image="/images/products/amazon-b0038hlhju.jpg"
+  price="£10.99"
+  rating="4.6" />}}
 
 **Key features:**
-- Simple raised pattern slows eating
-- Non-slip base
+- Raised centre post forces smaller mouthfuls
+- 600ml Medium is the right size for a Frenchie's meal
 - Dishwasher safe
 - Available in multiple sizes
 
@@ -147,7 +147,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 | **Outward Hound Flower** | Kibble slow feeder | ~£12 | Overall best for Frenchies | ⭐⭐⭐ Excellent |
 | **LickiMat Classic** | Wet food/lick mat | ~£8 | Wet food, treats, calming | ⭐⭐⭐ Excellent |
 | **EasyEat Raised** | Raised + slow feeder | ~£28 | Neck strain + speed eating | ⭐⭐⭐ Designed for it |
-| **Amazon Basics** | Budget slow feeder | ~£8 | Testing if they'll accept one | ⭐⭐ Decent |
+| **Dogit Go-Slow** | Budget slow feeder | ~£11 | Testing if they'll accept one | ⭐⭐ Decent |
 
 ## Slow Feeders to Avoid for French Bulldogs
 
