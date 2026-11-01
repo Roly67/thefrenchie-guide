@@ -90,7 +90,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="JR Pet Products Pure Pate"
-  url="https://www.amazon.co.uk/dp/B079Q2Q859/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B079Q2Q859/?tag=broadbandhelp"
   image="/images/products/amazon-b079q2q859.jpg"
   price="£21.99"
   rating="4.3" />}}
@@ -130,7 +130,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="Whimzees Natural Dental Chews (Extra Small)"
-  url="https://www.amazon.co.uk/dp/B00N1YV3QM/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00N1YV3QM/?tag=broadbandhelp"
   image="/images/products/amazon-b00n1yv3qm.jpg"
   price="£9.35"
   rating="4.6" />}}
@@ -150,7 +150,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="Forthglade Natural Cuts Air-Dried Beef Tripe"
-  url="https://www.amazon.co.uk/dp/B0H7CPCKV2/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0H7CPCKV2/?tag=broadbandhelp"
   image="/images/products/amazon-b0h7cpckv2.jpg"
   price="£9.52"
   rating="4.5" />}}
@@ -170,7 +170,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="Lily's Kitchen Duck & Venison Sausages"
-  url="https://www.amazon.co.uk/dp/B07Y5KYLYJ/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B07Y5KYLYJ/?tag=broadbandhelp"
   image="/images/products/amazon-b07y5kylyj.jpg"
   price="£23.35"
   rating="4.6" />}}
@@ -190,7 +190,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="Scrumbles Natural Dog Treats"
-  url="https://www.amazon.co.uk/dp/B0B4F4SQX3/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0B4F4SQX3/?tag=broadbandhelp"
   image="/images/products/amazon-b0b4f4sqx3.jpg"
   price="£2.55"
   rating="4.6" />}}
