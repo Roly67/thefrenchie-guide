@@ -1,6 +1,6 @@
 ---
 title: "French Bulldog Puppy Checklist: Everything You Actually Need (And What's Just Marketing)"
-description: "Bringing home a French Bulldog puppy? This comprehensive UK checklist covers the genuine essentials, Frenchie-specific gear, and what you can skip. Based on real experience with Buster and Jago."
+description: "Bringing home a French Bulldog puppy? This comprehensive UK checklist covers the genuine essentials, Frenchie-specific gear, and what you can skip."
 slug: french-bulldog-puppy-checklist
 date: 2026-02-17
 draft: false
@@ -21,11 +21,9 @@ tags:
 
 So you're bringing home a French Bulldog puppy. Congratulations! You're about to experience joy, chaos, sleep deprivation, and an alarming amount of conversations about faeces consistency.
 
-I've done this twice now—once with Buster, who arrived as a dignified 10-week-old gentleman already judging my life choices, and again with Jago, who arrived as a brindle wrecking ball with seemingly no grasp of physics or consequences.
+Your puppy may arrive as a dignified little gentleman already judging your life choices, or as a wrecking ball with seemingly no grasp of physics or consequences. Either way, it's easy to buy things you don't need — and to be missing the thing you desperately need at 3 AM. Let's save you the trouble.
 
-Both times, I bought things I didn't need. Both times, I didn't have things I desperately needed at 3 AM. Let me save you the trouble.
-
-This is the *actual* French Bulldog puppy checklist—not the "buy everything in the pet shop" version that retailers want you to believe, but the "you'll genuinely need this" version based on real-world experience, British weather, and Frenchie-specific quirks.
+This is the *actual* French Bulldog puppy checklist—not the "buy everything in the pet shop" version that retailers want you to believe, but the "you'll genuinely need this" version, built around British weather and Frenchie-specific quirks.
 
 ## Before We Start: The Reality Check
 
@@ -57,7 +55,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     image="/images/products/amazon-b002qa6xpi.jpg"
     rating="4.7"
 >}}
-**Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds. I've used these for both Buster and Jago—they're indestructible and properly designed.
+**Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds.
 
 **Sizing tip:** Measure your puppy's chest at the widest point. For Frenchie puppies (10-16 weeks), you'll likely need XXS-Small. They'll outgrow it. Accept this financial reality.
 {{< /product-card >}}
@@ -80,7 +78,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
 
 ### 2. Crate (Probably)
 
-Controversial topic, I know. But crate training makes [our potty training guide](/training/french-bulldog-potty-training/) easier, provides a safe space, and prevents a lot of puppy destruction.
+Controversial topic, we know. But crate training makes [our potty training guide](/training/french-bulldog-potty-training/) easier, provides a safe space, and prevents a lot of puppy destruction.
 
 {{< product-card 
     name="MidWest iCrate Dog Crate - 24 inch"
@@ -100,11 +98,9 @@ Controversial topic, I know. But crate training makes [our potty training guide]
 - Comfortable bedding (see below)
 - Water bowl that attaches to crate bars (they'll knock over anything else)
 
-**Placement:** Not in a busy hallway where they'll never settle, not isolated in a basement where they feel abandoned. Somewhere they can see/hear household activity but isn't constant chaos. I put Buster's crate in the corner of the living room initially.
+**Placement:** Not in a busy hallway where they'll never settle, not isolated in a basement where they feel abandoned. Somewhere they can see/hear household activity but isn't constant chaos — a corner of the living room often works.
 
-Buster's crate experience was almost suspiciously easy. First night: one woof. *One.* Then silence. After that, he treated the crate like his private members' club — went in voluntarily, curled up, and that was that.
-
-Jago? Also surprisingly fine after that first night. The trick was cheesy wedges and bedtime biscuits. A predictable, calm bedtime routine with treats made the crate a place of good things rather than imprisonment. Every night: out for a wee, bedtime biscuit, into the crate, done. Pavlov would be proud.
+The trick is a predictable, calm bedtime routine with treats, which makes the crate a place of good things rather than imprisonment. Every night: out for a wee, bedtime biscuit, into the crate, done. Pavlov would be proud.
 
 ### 3. Bedding (Washable, Indestructible-ish)
 
@@ -161,7 +157,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     image="/images/products/amazon-b009h3wmzm.jpg"
     rating="4.5"
 >}}
-**Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
+**Breed-specific option:** Formulated for French Bulldog puppies, with kibble shaped for brachycephalic jaws. It's the pricier choice.
 {{< /product-card >}}
 
 {{< product-card 
@@ -172,7 +168,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     image="/images/products/amazon-b002ovsgao.jpg"
     rating="4.7"
 >}}
-**Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
+**Solid alternative:** If your Frenchie has food sensitivities (common in the breed), a single-protein food like this may suit them better. Cheaper than Royal Canin, too.
 {{< /product-card >}}
 
 **How much:** Follow packet guidelines based on weight. Weigh your puppy weekly. Frenchies should be chunky but not obese.
@@ -192,7 +188,7 @@ Training treats should be:
     image="/images/products/amazon-b000z3mbrm.jpg"
     rating="4.4"
 >}}
-**Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
+**Training gold:** Single-ingredient and easy to break into tiny pieces. You'll go through treats fast during toilet training and basic commands.
 {{< /product-card >}}
 
 **Treats to avoid:**
@@ -218,8 +214,6 @@ Those adorable face folds? They collect moisture, food, dirt, and will develop i
     rating="4.2"
 >}}
 **How to use:** Clean wrinkles with unscented baby wipe or damp cloth, dry thoroughly, apply thin layer of paste. Daily for deep wrinkles, every other day for shallower ones.
-
-I swear by this stuff. Buster's deep nose wrinkle would be permanently gunky without it.
 {{< /product-card >}}
 
 **Also grab:**
@@ -227,9 +221,9 @@ I swear by this stuff. Buster's deep nose wrinkle would be permanently gunky wit
 - Cotton pads (for drying after cleaning)
 - Veterinary ear cleaner (those bat ears need weekly attention)
 
-Nobody warns you about the *smell.* The first time I lifted Buster's nose fold and got a whiff of what was lurking underneath, I genuinely questioned my life choices. It's like warm cheese that's been forgotten in a gym bag.
+Nobody warns you about the *smell.* Lift a neglected nose fold and what's lurking underneath is like warm cheese that's been forgotten in a gym bag.
 
-The lesson: clean the wrinkles daily from day one. Don't wait until something smells medieval. Make it part of the routine and your puppy will tolerate it. Leave it too long and you'll end up at the vet with an infected fold and a hefty bill. Trust me — routine prevention beats emergency treatment every time.
+The lesson: clean the wrinkles daily from day one. Don't wait until something smells medieval. Make it part of the routine and your puppy will tolerate it. Leave it too long and you could end up at the vet with an infected fold and a hefty bill. Routine prevention beats emergency treatment every time.
 
 ### 8. Temperature Management
 
@@ -292,7 +286,7 @@ Puppies need appropriate toys. Not "every toy in the shop," but targeted, safe o
 >}}
 **Multi-purpose genius:** Mental stimulation, teething relief, meal timer, crate training aid, exhaustion tool. Buy three. Freeze them stuffed with wet food, peanut butter, or mashed banana.
 
-I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
+A frozen Kong is a classic way to buy yourself some peace.
 {{< /product-card >}}
 
 {{< product-card 
@@ -314,7 +308,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     image="/images/products/amazon-b0722xgrmb.jpg"
     rating="4.3"
 >}}
-**For the first week:** Genuinely helps some puppies settle. The heartbeat is oddly comforting. Buster loved his. Jago immediately attempted murder-by-mauling. Your mileage may vary.
+**For the first week:** Designed to help puppies settle by mimicking a littermate. Some puppies take to it; others will immediately attempt murder-by-mauling. Your mileage may vary.
 {{< /product-card >}}
 
 **Also useful:**
@@ -402,7 +396,7 @@ To limit puppy's access to the house whilst toilet training and teaching boundar
 >}}
 **Where to use:** Block off stairs (puppies shouldn't use stairs until 12+ weeks, risks joint damage), rooms with hazards, kitchen during meal prep.
 
-I keep one permanently at the top of the stairs. Buster can navigate them safely now, but Jago treats stairs like they're Everest.
+Worth keeping one at the top of the stairs long-term if your Frenchie treats stairs like they're Everest.
 {{< /product-card >}}
 
 ### 14. Puppy-Proofing Supplies
@@ -423,9 +417,9 @@ French Bulldog puppies are destructive, curious, and shockingly athletic when so
 
 The biting and chewing of hands takes some getting used to — puppy teeth are like tiny needles, and Frenchie puppies seem to view human fingers as premium chew toys.
 
-But the scariest moment was the electric wire incident. One of the boys chewed through the power cable to the fridge. *The fridge.* Live wire, puppy teeth, could have been catastrophic. We found the chewed cable before anything happened, but it was a proper wake-up call.
+Electric cables are the big danger. A puppy can chew through a live appliance cable — even the one behind the fridge — with potentially catastrophic results.
 
-After that, every cable in the house got cable-tidied, tucked behind furniture, or enclosed in protective conduit. Puppy-proofing isn't optional — it's the difference between a funny story and a tragedy.
+Get every cable in the house cable-tidied, tucked behind furniture, or enclosed in protective conduit. Puppy-proofing isn't optional — it's the difference between a funny story and a tragedy.
 
 Oh, and the midnight toilet trips. Nobody mentions that puppies need to go out in the middle of the night. Frequently. In January. In Cornwall. In the rain. With a puppy who thinks 3 AM is playtime. Good times.
 
@@ -437,7 +431,7 @@ These aren't essential, but they make life easier:
 Creates a safe enclosed space larger than a crate. Useful if you need them contained but want to give more freedom.
 
 ### Slow Feeder Bowl
-Some Frenchies inhale their food and then vomit it back up. Slow feeders help. Jago has one. He hates it. But he vomits less.
+Some Frenchies inhale their food and then vomit it back up. Slow feeders help. They may hate it, but they'll vomit less.
 
 ### Snuggle Safe Heat Pad
 Microwave heat pad that stays warm for hours. Lovely for first nights and cold weather. Safer than electric heat pads.
@@ -456,8 +450,6 @@ Not gear, but crucial. Vet bills for French Bulldogs can be eye-watering. Get in
 - High vet fee limit (£7,000+ annually minimum)
 - Covers hereditary/congenital conditions (essential for Frenchies)
 - Includes dental illness (not just injury)
-
-Buster's insurance has paid for itself three times over already.
 
 ## What You Absolutely Don't Need
 
@@ -551,9 +543,7 @@ Worst because: they're expensive, medically complicated, sleep-disrupting, posse
 
 But if you've got the gear sorted, the house puppy-proofed, the routine planned, and realistic expectations... you're as ready as you'll ever be.
 
-Buster arrived seven years ago with me thinking I was prepared. I wasn't. But we muddled through, and now he's the calmest, most dignified Frenchie you'll meet (his words, not mine).
-
-Jago arrived three years ago. I thought, "I've done this before, I know what I'm doing." I didn't. He's still a work in progress.
+You'll think you're prepared. You won't be, entirely. And even if you've done this before, the next puppy will find new ways to surprise you.
 
 You'll make mistakes. Your house will get wrecked. You'll cry with exhaustion. You'll question your life choices at 4 AM whilst cleaning up puppy diarrhoea.
 
@@ -567,4 +557,4 @@ And then your Frenchie puppy will snort contentedly in their sleep, or do that r
 - [our wrinkle care guide](/breed/how-to-clean-french-bulldog-wrinkles/) - Wrinkle care routine
 - [our separation anxiety guide](/training/french-bulldog-separation-anxiety/) - If your puppy struggles alone
 
-**Disclaimer:** This guide reflects personal experience and research. Always consult your vet for medical advice and a certified trainer for serious behavioural issues. Product recommendations are based on genuine use with Buster and Jago, though individual dogs may respond differently.
+**Disclaimer:** This guide is general information, not veterinary advice. Always consult your vet for medical advice and a certified trainer for serious behavioural issues. Individual dogs may respond differently to any product.
