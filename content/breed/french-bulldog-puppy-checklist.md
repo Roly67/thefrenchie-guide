@@ -255,12 +255,14 @@ They get cold easily too. A lightweight fleece coat for walks isn't ridiculous�
 Your breeder should have microchipped your puppy. **Check it's registered to YOUR details** as soon as you get them.
 
 {{< product-card 
-    name="Engraved Dog ID Tag - Slide-On Style"
-    description="Attaches directly to harness D-ring, won't dangle or make noise. Engraved with your phone number. Stainless steel, won't fade."
-    url="https://www.amazon.co.uk/dp/B01MAW8O19/?tag=broadbandhelp"
-    price="£"
+    name="YEHANTI Slide-On Engraved Dog ID Tag"
+    description="Silent slide-on tag on a silicone band; stainless steel plate, up to 4 lines engraved."
+    url="https://www.amazon.co.uk/dp/B0CTH9MHRB/?tag=broadbandhelp"
+    image="/images/products/amazon-b0cth9mhrb.jpg"
+    price="£6.99"
+    rating="4.7"
 >}}
-**Why slide-on:** Doesn't dangle or jingle (helpful for crate training). Can't fall off like hanging tags.
+**Why slide-on:** It sits flat on the collar, so it doesn't dangle or jingle (helpful for crate training) and can't snag the way a hanging tag can. It comes in three sizes by collar width — check your collar before ordering.
 
 **What to engrave:**
 - Your mobile number

@@ -214,19 +214,19 @@ Here's what's worth considering for a Frenchie grooming kit (and no, human baby 
 
 ### Best Wrinkle Wipes
 
-{{< product-card name="Squishface Wrinkle Wipes" price="£13.99" rating="4.8" url="https://www.amazon.co.uk/s?k=squishface+wrinkle+wipes&tag=broadbandhelp" pros="Specifically designed for wrinkles,Gentle on sensitive skin,Perfect size for Frenchie faces,No harsh chemicals" cons="Slightly more expensive,Can't choose pack size" >}}{{< /product-card >}}
+{{< product-card name="NOVEHA Wrinkle XL Wipes for Dogs" price="£14.99" rating="4.6" url="https://www.amazon.co.uk/dp/B0CLGLWT67/?tag=broadbandhelp" image="/images/products/amazon-b0clglwt67.jpg" pros="Made for wrinkly breeds,Aloe vera and coconut oil,Extra-large 5.5x7in wipes,120 per pack" cons="Pricier than general-purpose wipes,Not medicated" >}}{{< /product-card >}}
 
-Designed specifically for wrinkly breeds, these are made for getting into deep folds and pitched as gentle on sensitive skin. They cost a little more than general-purpose grooming wipes.
+Made for wrinkly breeds — the listing names Frenchies, Bulldogs and Pugs — with aloe vera and coconut oil, for wrinkles, tear stains and tail pockets. The wipes are extra large, which makes it easier to get into a deep fold. They cost a little more than general-purpose grooming wipes.
 
-{{< affiliate-button url="https://www.amazon.co.uk/s?k=squishface+wrinkle+wipes&tag=broadbandhelp" text="Check Price on Amazon" >}}
+{{< affiliate-button url="https://www.amazon.co.uk/dp/B0CLGLWT67/?tag=broadbandhelp" text="Check Price on Amazon" >}}
 
 **Alternative option:**
 
-{{< product-card name="Earthbath Hypoallergenic Grooming Wipes" price="£12.99" rating="4.5" url="https://www.amazon.co.uk/s?k=earthbath+hypoallergenic+wipes&tag=broadbandhelp" pros="Fragrance-free,Plant-based,Large wipes,Good value" cons="Can be slightly dry,Not individually wrapped,Not wrinkle-specific" >}}{{< /product-card >}}
+{{< product-card name="Earth Rated Hypoallergenic Dog Wipes (Unscented)" price="£5.52" rating="4.5" url="https://www.amazon.co.uk/dp/B07NHL31CC/?tag=broadbandhelp" image="/images/products/amazon-b07nhl31cc.jpg" pros="Unscented,Hypoallergenic, alcohol- and paraben-free,Large 8x8in wipes,Very good value" cons="Not wrinkle-specific,Not medicated" >}}{{< /product-card >}}
 
-A budget-friendly alternative. They're fragrance-free and plant-based, and large enough to work into Frenchie wrinkles — though they aren't wrinkle-specific. Unscented is exactly what you want here: your dog's face shouldn't smell like a lavender field. Or anything, really.
+A budget-friendly alternative with over 30,000 Amazon ratings. They're hypoallergenic, free of alcohol and parabens, and large enough to work into Frenchie wrinkles — though they aren't wrinkle-specific. Pick the unscented version. Unscented is exactly what you want here: your dog's face shouldn't smell like a lavender field. Or anything, really.
 
-{{< affiliate-button url="https://www.amazon.co.uk/s?k=earthbath+hypoallergenic+wipes&tag=broadbandhelp" text="Check Price on Amazon" >}}
+{{< affiliate-button url="https://www.amazon.co.uk/dp/B07NHL31CC/?tag=broadbandhelp" text="Check Price on Amazon" >}}
 
 ### Best Wrinkle Balm
 
@@ -242,11 +242,11 @@ Made with organic ingredients including shea butter and coconut oil. Because you
 
 ### For Problem Areas
 
-{{< product-card name="Veterinary Formula Clinical Care Antiseptic & Antifungal Wipes" price="£9.99" rating="4.3" url="https://www.amazon.co.uk/s?k=veterinary+formula+clinical+care+antiseptic+antifungal+wipes&tag=broadbandhelp" pros="Effective for yeast,Medicated when needed,Good value" cons="Not for daily use,Stronger smell" >}}{{< /product-card >}}
+{{< product-card name="DOUXO S3 PYO Pads (Antibacterial & Anti-Yeast)" price="£11.93" rating="4.5" url="https://www.amazon.co.uk/dp/B08MF672HL/?tag=broadbandhelp" image="/images/products/amazon-b08mf672hl.jpg" pros="3% chlorhexidine,Anti-yeast,Vet-brand formula,Easy to get into folds" cons="Not for daily use,Pricier per wipe" >}}{{< /product-card >}}
 
-Worth keeping on hand for when you notice early signs of yeast or irritation. They're not for everyday use — they're the "things are getting concerning and we need to sort this before it becomes A Problem" option. If there's no improvement within 48 hours, see your vet.
+Medicated pads with 3% chlorhexidine, from the vet-dermatology brand Douxo. Worth keeping on hand for when you notice early signs of yeast or irritation. They're not for everyday use — they're the "things are getting concerning and we need to sort this before it becomes A Problem" option. If there's no improvement within 48 hours, see your vet.
 
-{{< affiliate-button url="https://www.amazon.co.uk/s?k=veterinary+formula+clinical+care+antiseptic+antifungal+wipes&tag=broadbandhelp" text="Check Price on Amazon" >}}
+{{< affiliate-button url="https://www.amazon.co.uk/dp/B08MF672HL/?tag=broadbandhelp" text="Check Price on Amazon" >}}
 
 When you find something that works with your French Bulldog's wrinkles, stick with it. This isn't the time for experimental purchasing.
 

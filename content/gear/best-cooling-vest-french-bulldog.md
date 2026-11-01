@@ -24,7 +24,7 @@ Here in Cornwall, we get about three days of actual summer per year. You'd think
 
 The usual advice holds: in warm weather, shaded routes (woodland rather than open beach) and early or late walks. Save the beaches for autumn and winter, when you can actually see the sand rather than just assuming it's under there somewhere beneath the Cornish mist.
 
-This is where cooling vests come in. They aren't magic, but used properly they can take the edge off. Below are five popular options and what each is suited to.
+This is where cooling vests come in. They aren't magic, but used properly they can take the edge off. Below are three options and what each is suited to.
 
 ## Why French Bulldogs Overheat (The Short, Sad Version)
 
@@ -70,7 +70,7 @@ If you're out walking in sunny weather (optimistic of you), light colours and re
 
 ---
 
-## The 5 Best Cooling Vests for French Bulldogs
+## The 3 Best Cooling Vests for French Bulldogs
 
 Here's how the popular options compare, and who each one suits.
 
@@ -103,64 +103,33 @@ The three-layer system is designed to hold water without the vest feeling like a
 **Fit matters:** A cooling vest only works if it's in contact with your dog. Fit it snugly enough that it sits against the chest and back, but loose enough to slip two fingers under the straps.
 {{< /callout >}}
 
-### 2. Canada Pooch Chill Seeker Cooling Vest
+### 2. Petface Cooling Summer Dog Coat
 
 {{< product-card 
-  name="Canada Pooch Chill Seeker Cooling Vest"
-  price="£24.99"
-  rating="3.8"
-  url="https://www.amazon.co.uk/dp/B009JLQCUI?tag=broadbandhelp"
-  image="/images/products/amazon-b009jlqcui.jpg" >}}
+  name="Petface Cooling Summer Dog Coat (50cm)"
+  price="£17.57"
+  rating="4.4"
+  url="https://www.amazon.co.uk/dp/B07K1XJSC2/?tag=broadbandhelp"
+  image="/images/products/amazon-b07k1xjsc2.jpg" >}}
 
 **Pros:**
-- Good value for money
-- Lightweight mesh design
-- Quick-dry fabric
-- Reflective trim for visibility
-- Simple to put on
+- Water-activated and reusable
+- Much cheaper than the Ruffwear
+- Well reviewed (over 1,000 Amazon ratings)
+- Sold in sizes from 30cm up to 70cm
 
 **Cons:**
-- A lighter vest won't hold as much water as premium options
-- Velcro can be fiddly with Frenchie fur
-- Expect to re-soak more frequently
+- A simpler coat than the Ruffwear's three-layer design
+- Expect to re-soak it on longer walks
+- Fit depends on getting the back length right
 
 {{< /product-card >}}
 
-If the Ruffwear is out of budget, this is a solid alternative. It's better suited to shorter walks or moderate heat than to long outings.
+If the Ruffwear is out of budget, this is the simpler alternative: soak it, wring it out, put it on. It's better suited to shorter walks or moderate heat than to long outings.
 
-The mesh design keeps it less bulky than some options, which helps if your Frenchie has Opinions about clothing. Bring water to re-soak it on longer walks.
+**Sizing:** Petface sizes these coats in centimetres, and the 50cm is sold for medium dogs. Measure your Frenchie's back, from the base of the neck to the base of the tail, and compare it with the size on the listing before ordering; a smaller Frenchie may need a different size.
 
-### 3. BullHug Specialist Cooling Vest
-
-{{< product-card 
-  name="BullHug Cooling Vest for French Bulldogs"
-  price="£34.99"
-  rating="4.6"
-  url="https://www.amazon.co.uk/s?k=bullhug+cooling+vest+dog&tag=broadbandhelp"
-  image="/images/products/bullhug-cooling-vest.jpg" >}}
-
-**Pros:**
-- Designed specifically for bulldog breeds (finally!)
-- Extra coverage on the chest and belly
-- Soft interior lining
-- Wide neck opening accommodates Frenchie proportions
-- Cute patterns (if you care about aesthetics)
-
-**Cons:**
-- Heavier when fully saturated
-- Limited colour options
-- Can ride up during vigorous play
-
-{{< /product-card >}}
-
-BullHug makes gear specifically for bully breeds, and the cut reflects the Frenchie build — barrel chest, no discernible neck, sturdy little legs.
-
-The belly coverage makes sense for Frenchies who like to lie on cool surfaces (all of them).
-
-![French Bulldog lying on cool tiles wearing a BullHug cooling vest](/images/gear/bullhug-vest-action.jpg)
-*Advanced cooling techniques: vest + tiles + existential sighing*
-
-### 4. Hifrenchies Reflective Cooling Harness Vest
+### 3. Hifrenchies Reflective Cooling Harness Vest
 
 {{< product-card 
   name="Hifrenchies Cooling Harness Vest"
@@ -188,35 +157,6 @@ This is clever in theory — cooling and walking support in one. In practice, it
 
 It suits morning toilet breaks during hot spells better than a proper walk.
 
-### 5. GF Pet Elastofit Ice Dog Vest
-
-{{< product-card 
-  name="GF Pet Elastofit Ice Dog Vest"
-  price="£32.50"
-  rating="4.4"
-  url="https://www.amazon.co.uk/s?k=gf+pet+elastofit+cooling+vest&tag=broadbandhelp"
-  image="/images/products/gf-pet-elastofit.jpg" >}}
-
-**Pros:**
-- Stretchy Elastofit material moves with your dog
-- No buckles or velcro — pull over and done
-- Available in multiple sizes
-- Designed not to restrict movement
-
-**Cons:**
-- Sizing needs care (measure carefully)
-- Can be tight around the neck for some Frenchies
-- Pull-over designs take longer to put on a wiggly dog
-- Limited colour options
-
-{{< /product-card >}}
-
-The Elastofit idea is a clever one — a fabric that stretches to fit rather than relying on straps. The trade-off is the pull-over design: with no buckles, it has to go over your dog's head, which some Frenchies find more objectionable than the vest itself.
-
-{{< callout type="tip" >}}
-**Pull-over vests and wriggly dogs:** Hold a treat on the far side of the neck opening so your Frenchie pushes their own head through, then reward. A few short practice sessions indoors make it far less of a wrestling match.
-{{< /callout >}}
-
 ---
 
 ## Comparison Table: Which Cooling Vest Is Right for You?
@@ -224,10 +164,8 @@ The Elastofit idea is a clever one — a fabric that stretches to fit rather tha
 | Vest | Price | Best For |
 |------|-------|----------|
 | **Ruffwear Swamp Cooler** | £££ | Long walks, high heat, serious cooling needs |
-| **Canada Pooch Chill Seeker** | ££ | Budget option, moderate heat, shorter walks |
-| **BullHug Specialist Vest** | £££ | Frenchie-specific fit, good all-rounder |
+| **Petface Cooling Coat** | ££ | Budget option, moderate heat, shorter walks |
 | **Hifrenchies Harness Vest** | ££ | Quick toilet breaks, dual-purpose convenience |
-| **GF Pet Elastofit** | £££ | Active dogs, unrestricted movement |
 
 *Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
@@ -348,11 +286,9 @@ Pressure-activated gel mats need no soaking, no wringing and no wrestling dogs i
 
 **If you can stretch the budget:** The [Ruffwear Swamp Cooler](#1-ruffwear-swamp-cooler-vest--top-pick) is the best all-round option. It's worth considering if you live somewhere hot or do a lot of summer walking.
 
-**If you're on a budget:** The [Canada Pooch Chill Seeker](#2-canada-pooch-chill-seeker-cooling-vest) offers good value. Expect to re-soak it more often, but for moderate heat and shorter walks, it's perfectly adequate.
+**If you're on a budget:** The [Petface Cooling Summer Dog Coat](#2-petface-cooling-summer-dog-coat) offers good value. Expect to re-soak it more often, but for moderate heat and shorter walks, it's perfectly adequate.
 
-**If your Frenchie is a perfect barrel shape:** The [BullHug Specialist Vest](#3-bullhug-specialist-cooling-vest) is designed for you, with a cut aimed at bully breeds.
-
-**If you just need something for quick trips:** The [Hifrenchies Harness Vest](#4-hifrenchies-reflective-cooling-harness-vest) is fine for toilet breaks in moderate heat, but don't expect miracles.
+**If you just need something for quick trips:** The [Hifrenchies Harness Vest](#3-hifrenchies-reflective-cooling-harness-vest) is fine for toilet breaks in moderate heat, but don't expect miracles.
 
 Whatever you choose, remember: the best cooling strategy is multiple layers of protection. Use the vest, avoid midday heat, provide shade and water, and watch your dog for signs of distress. 
 
