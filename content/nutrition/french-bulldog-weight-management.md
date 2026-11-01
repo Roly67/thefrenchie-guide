@@ -1,22 +1,18 @@
 ---
-title: "French Bulldog Weight Management: How We Keep Buster & Jago at a Healthy Weight"
+title: "French Bulldog Weight Management: How to Keep Your Frenchie at a Healthy Weight"
 draft: false
 date: 2026-10-20
 lastmod: 2026-10-20
 slug: "french-bulldog-weight-management"
 silo: "nutrition"
 ---
-Last week, Buster mounted a commando raid on the treat cupboard. We'd left it slightly ajar — a gap of perhaps two centimetres, which to a Frenchie is an invitation, not a barrier. He wedged his nose into the crack, levered the door open with the practised technique of a small, muscular safecracker, and helped himself to approximately half a bag of venison training treats before we caught him.
-
-The aftermath was predictable: a very satisfied Frenchie, a very bloated belly, and a morning weigh-in that confirmed he'd gained 200 grams in a single day of what I can only describe as "aggressive snacking." The fact that he showed precisely zero remorse — he greeted us with the smug expression of a dog who has achieved exactly what he set out to achieve — only made it worse.
-
 Weight management with French Bulldogs is like trying to regulate the tide with a bucket. They want food constantly, they'll eat anything that stays still long enough, and their body shape — that adorable, compact, barrel-chested build — means an extra kilo that would be barely noticeable on a Labrador is genuinely significant on a Frenchie.
 
-We learned this the hard way with Buster. When he came to us as a rehome at two years old, the vet took one look at him and said, gently but firmly: "He's a lovely boy. He also needs to lose about a kilo and a half." That's roughly 12% of his body weight. For a human, that's the equivalent of being told you're two stone overweight and nobody mentioned it.
+On a 12kg Frenchie, a kilo and a half of extra weight is about 12% of body weight. For a human, that's the equivalent of being two stone overweight — and it creeps on so gradually that many owners don't notice until the vet mentions it.
 
-Jago, despite being a whippet-thin chaos agent who burns calories just by existing, has taught us the other side of the coin: that some Frenchies put on weight if you blink, while others need you to actively prevent them from disappearing. Weight management isn't one-size-fits-all, even within the same household.
+And it isn't one-size-fits-all. Some Frenchies put on weight if you blink, while others are wiry, busy dogs that take real effort to keep weight on.
 
-This is everything we've learned about keeping our Frenchies at a healthy weight — the numbers, the routines, the mistakes, and the one simple body-check that tells you more than a scale ever will.
+This guide covers keeping a Frenchie at a healthy weight — the numbers, the routines, the common mistakes, and the one simple body-check that tells you more than a scale ever will.
 
 ## Why French Bulldogs Are Weight-Gain Machines
 
@@ -30,7 +26,7 @@ More importantly, that barrel chest and narrow hips — the combination that giv
 
 ### The Food Obsession Factor
 
-We've written about this in our [gut health guide](/nutrition/french-bulldog-gut-health/) and [food allergies article](/nutrition/french-bulldog-food-allergies/), but it bears repeating here: French Bulldogs are pathologically food-motivated. Buster can hear a cheese wrapper being opened from two rooms away, through a closed door, while apparently asleep. His hearing for treat-related frequencies is supernatural. His hearing for "Buster, leave it" is considerably less impressive.
+We've written about this in our [gut health guide](/nutrition/french-bulldog-gut-health/) and [food allergies article](/nutrition/french-bulldog-food-allergies/), but it bears repeating here: French Bulldogs are pathologically food-motivated. Many can hear a cheese wrapper being opened from two rooms away, through a closed door, while apparently asleep. Their hearing for "leave it" is considerably less impressive.
 
 This isn't a personality quirk. It's a breed trait, and it means that weight management with a Frenchie is a constant, low-level negotiation. You are not training a dog to be less interested in food. You are managing an appetite that has been selectively bred into them. Accepting this — rather than fighting it — makes the whole process less frustrating.
 
@@ -40,13 +36,9 @@ French Bulldogs need exercise to stay healthy. They also overheat, struggle to b
 
 Weight management for Frenchies is 80% diet and 20% exercise — not because exercise doesn't matter, but because the exercise window is so narrow. You have to get the food right.
 
-{{< callout type="buster-says" title="Buster's Take" >}}
-The humans call it "food obsession." I call it "enthusiasm." They ration my meals like I'm some kind of ascetic monk. Meanwhile Jago gets extra portions because he's "too lean," which I consider a deeply unfair double standard. I would like to lodge a formal complaint with the management.
-{{< /callout >}}
-
 ## Is Your Frenchie Overweight? The Body Condition Check
 
-Scales are useful but they're not the whole story. A Frenchie's ideal weight depends on their frame size — some are naturally smaller and lighter, others are bigger-boned. Buster at 13kg looks lean. A different Frenchie at 12kg might look chunky. The number matters less than what you can see and feel.
+Scales are useful but they're not the whole story. A Frenchie's ideal weight depends on their frame size — some are naturally smaller and lighter, others are bigger-boned. One Frenchie at 13kg can look lean while another at 12kg looks chunky. The number matters less than what you can see and feel.
 
 ### The Rib Test
 
@@ -64,7 +56,7 @@ Look at your Frenchie from above while they're standing. There should be a visib
 
 ### The Side Profile Check
 
-From the side, your Frenchie's belly should tuck up behind the ribcage. A belly that hangs level with or below the chest is carrying excess weight. Buster, in his pre-diet days, had what we affectionately called a "floor-duster situation." That's not a build. That's a problem.
+From the side, your Frenchie's belly should tuck up behind the ribcage. A belly that hangs level with or below the chest is carrying excess weight. A "floor-duster" belly isn't a build. It's a problem.
 
 ### The Energy Check
 
@@ -78,25 +70,25 @@ Extra weight on any dog is unhealthy. On a brachycephalic breed it's actively da
 
 The breed standard says 8-14kg for a male, 8-13kg for a female. That's a wide range because Frenchies vary significantly in frame size. Some are compact and fine-boned; some are chunky tanks. Both can be healthy at different weights.
 
-As a practical guide, from our experience and talking to Frenchie owners and vets:
+As a rough practical guide:
 
 - **Small-framed Frenchie**: 8-10kg is typical
-- **Medium-framed Frenchie**: 10-12kg is typical (Buster at 13kg is at the upper end of medium but lean)
-- **Large-framed Frenchie**: 12-14kg is typical (Jago at 11.5kg is on the lighter side for his frame but healthy)
+- **Medium-framed Frenchie**: 10-12kg is typical
+- **Large-framed Frenchie**: 12-14kg is typical
 
 The body condition score matters more than the number. If your Frenchie passes the rib test, has a visible waist from above, and has a belly tuck from the side, the actual weight is secondary. If they don't pass those checks, the number on the scale tells you how far you have to go, not whether you need to go at all.
 
-## Our Weight Management System: What Actually Works
+## A Weight Management Routine That Works
 
-This isn't a diet plan. It's the daily routine we settled on after learning that Buster gains weight if you so much as look at him with affection and Jago loses it if you skip a meal. Two dogs, opposite metabolisms, one household. The principles apply either way.
+This isn't a diet plan. It's a simple daily routine, and the principles apply whether your Frenchie gains weight if you so much as look at them with affection or loses it if you skip a meal.
 
 ### 1. Measure Everything. Yes, Everything.
 
-We used to eyeball portions. "That looks about right." It wasn't. Eyeballing portions is how Buster ended up 1.5kg overweight and how Jago sometimes got less than he needed because we'd overcompensated.
+Eyeballing portions — "that looks about right" — is how Frenchies end up overweight, or, if you overcompensate, underfed.
 
-Now we use a digital kitchen scale for every meal. Every single one. The difference between "a scoop" and "a weighed portion" can be 20-30% in either direction, and over weeks and months, that's the difference between maintaining weight and creeping up.
+Use a digital kitchen scale for every meal. Every single one. The difference between "a scoop" and "a weighed portion" can be 20-30% in either direction, and over weeks and months, that's the difference between maintaining weight and creeping up.
 
-We weigh the kibble. We weigh any wet food toppers. We weigh the treats for the day and put them in a separate pot so we know exactly what's available. It sounds obsessive. It takes 30 seconds per meal. It works.
+Weigh the kibble. Weigh any wet food toppers. Weigh the treats for the day and put them in a separate pot so you know exactly what's available. It sounds obsessive. It takes 30 seconds per meal. It works.
 
 For portion sizes by age and activity level, our [feeding guide](/nutrition/how-much-feed-french-bulldog/) has the detailed breakdown. The key point for weight management specifically is: feed for the weight your Frenchie *should be*, not the weight they currently are.
 
@@ -104,33 +96,33 @@ For portion sizes by age and activity level, our [feeding guide](/nutrition/how-
 
 Treats are the hidden weight-gain vector. A single commercial dog treat might be 10-30 calories. That's nothing — until you realise that five treats a day (training, "good boy," "you looked at me hopefully") is 50-150 calories, and an average Frenchie only needs 400-600 total.
 
-Our treat rules:
+Some treat rules worth adopting:
 
-- **Treats count toward daily intake.** If Buster's had a high-treat day (training session, visitors, someone who can't resist his face), his evening meal shrinks accordingly.
-- **Training treats are broken into tiny pieces.** A 2cm training treat becomes four or five pea-sized rewards. Buster has never once complained about the portion size of a treat.
-- **Single-ingredient, low-calorie options are the default.** Air-dried fish skins, venison chews, freeze-dried chicken (if your Frenchie tolerates chicken). Our [full treats guide](/reviews/best-treats-french-bulldog/) lists the ones that make the cut.
-- **Vegetables as treats.** Both boys will do anything for a piece of carrot, a green bean, or a slice of cucumber. These are almost calorie-free, they add fibre, and Buster genuinely prefers carrot to some commercial treats. We don't understand it either.
+- **Treats count toward daily intake.** After a high-treat day (training session, visitors, someone who can't resist that face), the evening meal shrinks accordingly.
+- **Training treats are broken into tiny pieces.** A 2cm training treat becomes four or five pea-sized rewards. Most Frenchies care far more about how often a treat arrives than how big it is.
+- **Single-ingredient, low-calorie options are the default.** Air-dried fish skins, venison chews, freeze-dried chicken (if your Frenchie tolerates chicken). Our [full treats guide](/reviews/best-treats-french-bulldog/) covers more options.
+- **Vegetables as treats.** Plenty of Frenchies will happily work for a piece of carrot, a green bean, or a slice of cucumber. These are almost calorie-free and they add fibre.
 
 ### 3. The Slow-Feeder Innovation
 
-We mentioned in our gut health article that Buster figured out how to tip his slow feeder over. That was true for the first two we tried. The third one — a heavy ceramic maze bowl — defeated him. He sulked for approximately 40 minutes, then accepted the new world order.
+A determined Frenchie can tip over a lightweight slow feeder, so a heavier or non-slip bowl is worth considering.
 
 Slow feeders matter for weight management because they extend meal times, which gives the stomach time to signal fullness to the brain. A Frenchie who inhales their food in 45 seconds is still "hungry" when the bowl is empty, because the satiety signal hasn't arrived yet. A Frenchie who takes 5-10 minutes to eat the same quantity gets that signal before they've finished. It's the same food, the same calories, but a completely different experience of satisfaction.
 
 ### 4. The Scheduled Feeding Principle
 
-We feed twice a day, same times, and the food goes down for 20 minutes. Whatever isn't eaten gets picked up. There is no bowl-grazing and no refilling "because they looked hungry." Frenchies always look hungry. It's their default facial expression. If we fed them every time they looked hungry, they would be spherical.
+Feed twice a day, same times, and put the food down for 20 minutes. Whatever isn't eaten gets picked up. There is no bowl-grazing and no refilling "because they looked hungry." Frenchies always look hungry. It's their default facial expression. If you fed them every time they looked hungry, they would be spherical.
 
-Scheduled feeding also means you know exactly what's going in. Free-feeding (leaving food down all day) makes it impossible to track intake, and with a food-obsessed breed, it also means the most assertive dog gets more than their share. In our house, that would be Jago looking mournfully at Buster's bowl while Buster — the gentleman — politely steps aside. Not anymore.
+Scheduled feeding also means you know exactly what's going in. Free-feeding (leaving food down all day) makes it impossible to track intake, and with a food-obsessed breed, it also means the most assertive dog gets more than their share.
 
 ### 5. Weekly Weigh-Ins
 
-We weigh the boys every Sunday morning, before breakfast. Same scales, same time of day, same conditions. The number goes into a note on my phone.
+Weigh your Frenchie once a week — say, Sunday morning before breakfast. Same scales, same time of day, same conditions. Keep a note of the number.
 
-A single weigh-in tells you almost nothing — weight fluctuates day to day by up to 200 grams based on hydration, when they last toileted, and whether they staged a treat-cupboard raid. But a trend over four to six weeks tells you everything. If Buster's weight is trending up by 100 grams a week, we know we need to trim portions slightly before it becomes a problem.
+A single weigh-in tells you almost nothing — weight fluctuates day to day by up to 200 grams based on hydration, when they last toileted, and whether they staged a treat-cupboard raid. But a trend over four to six weeks tells you everything. If weight is trending up by 100 grams a week, you know you need to trim portions slightly before it becomes a problem.
 
 {{< callout type="tip" title="The Simple Weighing Hack" >}}
-Weighing a Frenchie who refuses to stand still on bathroom scales is a solved problem: weigh yourself holding them, then weigh yourself without them, and subtract. It takes 20 seconds and eliminates the "Buster, stand STILL" negotiation that we all know ends with a Frenchie sitting down in protest.
+Weighing a Frenchie who refuses to stand still on bathroom scales is a solved problem: weigh yourself holding them, then weigh yourself without them, and subtract. It takes 20 seconds and eliminates the "stand STILL" negotiation that usually ends with a Frenchie sitting down in protest.
 {{< /callout >}}
 
 ## Exercise: The Part That Helps But Isn't a Solution
@@ -146,7 +138,7 @@ French Bulldogs need 20-30 minutes of walking twice a day. For weight management
 
 ## The Underweight Frenchie Problem
 
-Everything above is about losing weight. But some Frenchies — Jago, we're looking at you — have the opposite problem. They're hyper, they burn calories like a furnace, and keeping weight on them is genuinely difficult.
+Everything above is about losing weight. But some Frenchies have the opposite problem. They're hyper, they burn calories like a furnace, and keeping weight on them is genuinely difficult.
 
 Signs your Frenchie might be underweight: visible ribs without feeling (you can see individual ribs from across the room), prominent hip bones, spine visible or easily felt with no fat covering, lack of muscle definition (thin, not lean).
 
@@ -157,19 +149,15 @@ For underweight Frenchies:
 - **Check for underlying issues.** If your Frenchie is eating well but not gaining, rule out parasites, digestive absorption problems, and (in older dogs) conditions like EPI. Our [gut health guide](/nutrition/french-bulldog-gut-health/) covers some of these.
 - **Don't overdo it.** A slightly lean Frenchie is healthier than a slightly overweight one. If your vet says they're fine, and they have energy and a good coat, you don't need to chase the upper end of the weight range.
 
-{{< callout type="jago-says" title="Jago's Opinion" >}}
-I don't understand the weight management thing. I eat. I run. I eat more. I run more. This seems like a perfectly functioning system. Buster says he "puts on weight easily" but I think he just needs to run faster. I'm not being insensitive — I'm being motivational.
-{{< /callout >}}
+## Common Mistakes
 
-## What We Got Wrong
+These are the classic traps:
 
-Because this guide should be honest, here's what we messed up:
+**"A little extra won't hurt."** It does. Not in one day, but in a hundred days of "just a little extra." Most overweight Frenchies get that way not from binges, but from the slow creep of portions that were 10% too big, week after week after week.
 
-**"A little extra won't hurt."** It does. Not in one day, but in a hundred days of "just a little extra." That's how Buster got overweight — not from binges, but from the slow creep of portions that were 10% too big, week after week after week.
+**"He's just big-boned."** Often said, rarely true. Frenchies are stocky, yes — but stocky and overweight aren't the same thing. The body condition check tells you which one you're dealing with.
 
-**"He's just big-boned."** We said this. It wasn't true. He was overweight. Frenchies are stocky, yes — but stocky and overweight aren't the same thing. The body condition check tells you which one you're dealing with.
-
-**"We'll start the diet next week."** We said this for about six weeks. Next week is the enemy of weight management. Start today, with the next meal, with portion control that takes exactly the same amount of effort as overfeeding.
+**"We'll start the diet next week."** Next week is the enemy of weight management. Start today, with the next meal, with portion control that takes exactly the same amount of effort as overfeeding.
 
 **"Treats don't count."** They do. They really, really do. Measure them. Budget them. Account for them.
 
@@ -193,7 +181,7 @@ Yes. Neutering reduces metabolic rate by about 20-30% on average, while often in
 
 **Q: How do I manage weight when I have multiple dogs on different plans?**
 
-Separate feeding areas. Buster's bowl is in the kitchen; Jago's is in the utility room. Neither can access the other's food. This prevents the faster eater from stealing from the slower one and ensures each dog gets exactly their measured portion. It also prevents the "Jago finished first and is now staring at Buster's bowl with the intensity of a thousand suns" situation.
+Separate feeding areas — different rooms if possible — so neither dog can access the other's food. This prevents the faster eater from stealing from the slower one and ensures each dog gets exactly their measured portion. It also prevents the "finished first and now staring at the other bowl with the intensity of a thousand suns" situation.
 
 **Q: Are there any health conditions that cause weight gain in French Bulldogs?**
 
@@ -201,7 +189,7 @@ Yes. Hypothyroidism (underactive thyroid) causes unexplained weight gain, lethar
 
 ## Disclaimer
 
-This article reflects our personal experience managing Buster and Jago's weight over several years in Cornwall. We are not veterinarians, and nothing here should replace professional veterinary advice. Every French Bulldog is different — what works for our boys may not be appropriate for yours. Always consult your vet before starting any weight-loss programme, particularly if your Frenchie has existing health conditions. Sudden weight loss, unexplained weight gain, or any dramatic change in appetite should be assessed by a professional.
+This article is general guidance from French Bulldog owners. We are not veterinarians, and nothing here should replace professional veterinary advice. Every French Bulldog is different — what works for one may not be appropriate for yours. Always consult your vet before starting any weight-loss programme, particularly if your Frenchie has existing health conditions. Sudden weight loss, unexplained weight gain, or any dramatic change in appetite should be assessed by a professional.
 
 ## Related Guides
 

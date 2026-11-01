@@ -6,18 +6,18 @@ lastmod: 2026-08-18
 slug: "how-much-feed-french-bulldog"
 silo: "nutrition"
 ---
-If you've ever stood in the kitchen with a scoop in one hand and a Frenchie staring up at you like you've never fed him in his entire life, welcome. You're not alone. This is the daily performance that is feeding Buster and Jago.
+If you've ever stood in the kitchen with a scoop in one hand and a Frenchie staring up at you like you've never fed him in his entire life, welcome. You're not alone. Feeding a French Bulldog is a twice-daily performance, and the dog is always the star.
 
-Buster has a very specific talent. He can, in the space of about nine seconds, transform from a dog who finished a perfectly adequate meal into a hollow-cheeked Dickensian orphan who has *clearly* never seen food before, not once, not ever. The eyes go huge. The ears droop just slightly. A single paw lifts. If he could talk, he'd be saying "please sir, may I have some more" in a small, trembling voice.
+Many Frenchies have a very specific talent. In the space of about nine seconds, they can transform from a dog who finished a perfectly adequate meal into a hollow-cheeked Dickensian orphan who has *clearly* never seen food before, not once, not ever. The eyes go huge. The ears droop just slightly. A single paw lifts. If they could talk, they'd be saying "please sir, may I have some more" in a small, trembling voice.
 
-Jago, meanwhile, approaches every meal as if it's a competitive eating event and he's the reigning champion. He doesn't savour. He *inhales*. We're fairly sure he's never actually tasted his own food, because it's gone before it's had time to register. He once ate his dinner, then immediately sat in front of Buster's empty bowl and stared at it with the intensity of a man watching the final putt of the Open.
+Others approach every meal as if it's a competitive eating event and they're the reigning champion. They don't savour. They *inhale*. It's gone before it's had time to register.
 
-And here's the thing that makes feeding Frenchies genuinely tricky: both of them would happily eat until they physically couldn't. Given unrestricted access to food, neither would stop. Which means the question isn't "what does my Frenchie *want* to eat" — it's "how much should I actually be giving them?" And the answer matters, because French Bulldogs are one of the breeds most prone to obesity, and an overweight Frenchie is a Frenchie whose breathing, joints, and lifespan are all quietly taking a hit.
+And here's the thing that makes feeding Frenchies genuinely tricky: most would happily eat until they physically couldn't. Given unrestricted access to food, plenty of them wouldn't stop. Which means the question isn't "what does my Frenchie *want* to eat" — it's "how much should I actually be giving them?" And the answer matters, because French Bulldogs are one of the breeds most prone to obesity, and an overweight Frenchie is a Frenchie whose breathing, joints, and lifespan are all quietly taking a hit.
 
-This guide covers everything we've learned about portion sizes, calories, feeding schedules, and how to tell — from the outside, not from the pleading eyes — whether you're feeding the right amount.
+This guide covers portion sizes, calories, feeding schedules, and how to tell — from the outside, not from the pleading eyes — whether you're feeding the right amount.
 
 {{< callout type="tip" title="Pro Tip" >}}
-Stop measuring by the scoop and start measuring by weight. A cheap kitchen scale (£8–£15) will change your feeding accuracy overnight. "One cup" of kibble can vary by 30% or more depending on how it's scooped. We weigh every meal now. It takes ten seconds.
+Stop measuring by the scoop and start measuring by weight. A cheap kitchen scale (£8–£15) will change your feeding accuracy overnight. "One cup" of kibble can vary by 30% or more depending on how it's scooped. Weighing a meal takes ten seconds.
 {{< /callout >}}
 
 ## The Short Answer: A Feeding Chart
@@ -52,7 +52,7 @@ Frenchies carry a lot of dog in a small, low-to-the-ground frame. Extra weight p
 
 ### 4. Neutering Slows the Metabolism
 
-Once a Frenchie is neutered or spayed, their calorie requirements typically drop by 20–30%. The food bag doesn't know this. If you kept the same portion after neutering, you've been quietly overfeeding. We made exactly this mistake with Buster and couldn't work out why he was getting rounder on the same food.
+Once a Frenchie is neutered or spayed, their calorie requirements typically drop by 20–30%. The food bag doesn't know this. If you kept the same portion after neutering, you've been quietly overfeeding. It's one of the most common reasons a Frenchie gets rounder on "the same food".
 
 {{< callout type="vet-note" title="Vet Advice" >}}
 Obesity in French Bulldogs is not a cosmetic issue. Extra weight worsens brachycephalic airway problems, increases heatstroke risk, accelerates joint disease, and shortens lifespan. Studies consistently show overweight dogs live shorter lives than lean ones. If you're unsure whether your Frenchie is overweight, ask your vet at the next check-up — they'll give you a target weight to work towards.
@@ -60,7 +60,7 @@ Obesity in French Bulldogs is not a cosmetic issue. Extra weight worsens brachyc
 
 ## Calories Matter More Than Cups
 
-Here's the single most useful thing we've learned: **different foods have wildly different calorie densities.** A "cup" of one kibble might be 300 kcal, while the same cup of another is 450 kcal. You can feed the exact same volume and be under-feeding on one brand and over-feeding on another.
+Here's the single most useful thing to know: **different foods have wildly different calorie densities.** A "cup" of one kibble might be 300 kcal, while the same cup of another is 450 kcal. You can feed the exact same volume and be under-feeding on one brand and over-feeding on another.
 
 The food bag will list the calorie content, usually as **kcal per 100g** or **kcal per cup**. Find that number, then do the maths:
 
@@ -87,10 +87,6 @@ Forget the numbers for a moment. The single best tool for judging whether you're
 
 **The rule of thumb:** aim for a BCS of 4–5 out of 9. It's better for a Frenchie to be very slightly lean than even slightly overweight — lean dogs have fewer breathing and joint problems, and the difference matters more in this breed than in almost any other.
 
-{{< callout type="buster-says" title="Buster's Take" >}}
-"I would like to formally lodge a complaint about the Body Condition Score. I have reviewed my ribs and can confirm they are *excellent* ribs, top-quality, and I have been cruelly denied a second dinner on the basis of them. This is not what I voted for."
-{{< /callout >}}
-
 ## Feeding by Life Stage
 
 How much to feed depends enormously on how old your Frenchie is. A growing puppy is a completely different animal, nutritionally speaking, from a snoozing senior.
@@ -105,11 +101,11 @@ Puppies need more calories per kilo than adults, but they have tiny stomachs. Th
 
 For portion size, follow the bag's puppy feeding chart based on your puppy's *current* weight and expected adult weight — but treat it as a starting point and adjust by body condition. A puppy that's getting chubby should have portions trimmed slightly; a lean, rapidly growing puppy may need a touch more.
 
-One thing we learned the hard way: **don't underfeed a growing puppy out of fear of a fat adult.** Growing bones and joints need proper nutrition. You're aiming for steady, moderate growth — not maximum growth (which can stress developing joints) and not slow growth (which can starve them).
+One thing worth stressing: **don't underfeed a growing puppy out of fear of a fat adult.** Growing bones and joints need proper nutrition. You're aiming for steady, moderate growth — not maximum growth (which can stress developing joints) and not slow growth (which can starve them).
 
 ### Adults (1–7 Years): Twice a Day, Weighed Out
 
-This is the maintenance phase. Two meals a day, weighed, split evenly. We feed Buster and Jago at roughly 7am and 6pm, and the routine has the bonus effect of making them slightly less frantic about food — they know exactly when the next meal is coming.
+This is the maintenance phase. Two meals a day, weighed, split evenly. Fixed times, morning and early evening, can have the bonus effect of making a Frenchie slightly less frantic about food — they know exactly when the next meal is coming.
 
 Two meals a day (rather than one) also matters for Frenchies specifically, because of the bloat risk. One huge meal is riskier than two moderate ones.
 
@@ -117,24 +113,20 @@ Two meals a day (rather than one) also matters for Frenchies specifically, becau
 
 Older Frenchies slow down. Their metabolism dips, their exercise drops, and if you keep feeding the adult portion, the weight creeps on — and every extra kilo hurts an ageing spine.
 
-The adjustment is usually modest: reduce daily calories by about 10–20%, keep the two-meal routine, and consider switching to a senior or "light" formula that's lower in calories but still nutritionally complete. Buster, at seven, gets about 15% less than he did at four, and it's kept him at a healthy weight without him noticing the difference too loudly.
+The adjustment is usually modest: reduce daily calories by about 10–20%, keep the two-meal routine, and consider switching to a senior or "light" formula that's lower in calories but still nutritionally complete.
 
 ## The Treat Problem
 
-Treats are where almost everyone goes wrong. We include ourselves in that.
+Treats are where almost everyone goes wrong.
 
-The rule we try to follow: **treats and extras should make up no more than 10% of daily calories.** If your Frenchie gets 650 kcal a day, that's 65 kcal of treats — roughly a single small biscuit or a couple of training treats. Not a handful. Not "whatever falls on the floor." Not the crust of your toast.
+The usual rule: **treats and extras should make up no more than 10% of daily calories.** If your Frenchie gets 650 kcal a day, that's 65 kcal of treats — roughly a single small biscuit or a couple of training treats. Not a handful. Not "whatever falls on the floor." Not the crust of your toast.
 
-Here's how we keep it honest:
+Ways to keep it honest:
 
-- **Use their own kibble for training.** Before a walk, we set aside a few grams of their weighed daily kibble and use it as "treats." They don't know the difference, and it doesn't break the calorie budget.
+- **Use their own kibble for training.** Before a walk, set aside a few grams of the weighed daily kibble and use it as "treats." Most dogs don't mind the difference, and it doesn't break the calorie budget.
 - **Choose low-calorie treats.** Tiny training treats (2–3 kcal each) are your friend. Break bigger treats in half.
 - **Weigh the chews.** Dental chews and rawhide alternatives can be surprisingly calorie-dense — some are 100+ kcal each, which is a meaningful chunk of a small dog's day.
-- **Keep a "treat budget" for guests.** We leave a small pot of measured treats by the door so visitors don't improvise. (Buster has trained every house guest we've ever had within about four minutes of their arrival.)
-
-{{< callout type="jago-says" title="Jago's Opinion" >}}
-"I have heard about this so-called '10% treat rule' and I would like to propose an amendment: 90% treats, 10% whatever else. I've run the numbers. They work. I can show you my workings — they're mostly drool, but the principle is sound."
-{{< /callout >}}
+- **Keep a "treat budget" for guests.** A small pot of measured treats by the door means visitors don't improvise. (A Frenchie can train a house guest within minutes of their arrival.)
 
 ## How Many Meals a Day — and When
 
@@ -144,14 +136,14 @@ Beyond portion size, the *schedule* matters too.
 
 - **Digestion and bloat risk.** Frenchies are prone to gulping, which increases bloat and regurgitation risk. Two smaller meals are gentler than one large one.
 - **Blood sugar and behaviour.** Regular meals keep energy steadier and reduce the frantic "I'm starving" behaviour.
-- **Routine reduces anxiety.** A dog who knows when food is coming is a calmer dog. Jago's separation anxiety actually improved once we made feeding times rigidly predictable — he can trust the routine.
+- **Routine reduces anxiety.** A dog who knows when food is coming is a calmer dog.
 
-**A note on timing:** don't feed immediately before or after vigorous exercise. We leave at least 30–60 minutes between a meal and a walk. A full stomach plus a bouncy Frenchie is a combination that can end in vomiting at best and bloat at worst.
+**A note on timing:** don't feed immediately before or after vigorous exercise. Leave at least 30–60 minutes between a meal and a walk. A full stomach plus a bouncy Frenchie is a combination that can end in vomiting at best and bloat at worst.
 
-**Free feeding (leaving food down all day)?** For a Frenchie, absolutely not. They are not breeds that self-regulate. Leave a bowl down and Buster would treat it as a personal challenge. Jago would treat it as a buffet. Weigh, serve, take away. That's the system.
+**Free feeding (leaving food down all day)?** For a Frenchie, absolutely not. They are not breeds that self-regulate. Leave a bowl down and most Frenchies will treat it as a personal challenge, or a buffet. Weigh, serve, take away. That's the system.
 
 {{< callout type="tip" title="Pro Tip" >}}
-If your Frenchie wolfs their food down in seconds — and Frenchies do — a [slow feeder bowl](/gear/best-slow-feeder-bowl-french-bulldog/) is worth its weight in gold. It slows the eating, reduces gulping and gas, and turns mealtime from a four-second inhale into an actual activity. Jago's dinner now takes a full two minutes, which in Frenchie terms is a leisurely, civilised affair.
+If your Frenchie wolfs their food down in seconds — and Frenchies do — a [slow feeder bowl](/gear/best-slow-feeder-bowl-french-bulldog/) is worth its weight in gold. It slows the eating, reduces gulping and gas, and turns mealtime from a four-second inhale into an actual activity. A two-minute dinner is, in Frenchie terms, a leisurely, civilised affair.
 {{< /callout >}}
 
 ## Adjusting Portions When Weight Drifts
@@ -177,9 +169,9 @@ Short answer: the calories are the calories, whatever the format. But the practi
 
 - **Wet food** is far less calorie-dense than dry — often a quarter of the calories per 100g. If you switch from kibble to wet food by "eye," you'll likely under-feed. Check the can.
 - **Raw feeding** is harder to quantify because it depends on the exact recipe. If you feed raw, work with a veterinary nutritionist or a reputable pre-prepared raw brand, and go by body condition above all.
-- **Mixing wet and dry** is common and perfectly fine — just add up the calories from both. We occasionally top the boys' kibble with a spoonful of wet food on "special" days (i.e., days ending in Y), and we subtract the equivalent kibble to keep the total the same.
+- **Mixing wet and dry** is common and perfectly fine — just add up the calories from both. If you add a spoonful of wet food as a topper, subtract the equivalent kibble to keep the total the same.
 
-For the full rundown on *what* to feed (the brands we've actually tested, and the ones we haven't), see [our best dog food guide](/gear/best-dog-food-french-bulldogs-uk/).
+For the full rundown on *what* to feed, see [our best dog food guide](/gear/best-dog-food-french-bulldogs-uk/).
 
 ## Signs You're Getting It Right (Or Wrong)
 
@@ -240,12 +232,12 @@ Follow the food bag's puppy chart for your puppy's current weight, split across 
 
 ---
 
-*We've been through the "am I feeding them too much, too little, or are they just being Frenchies?" spiral more times than we care to admit. The good news: once you start weighing meals and trusting the body condition score instead of the pleading eyes, it stops being guesswork. The boys are at healthy weights, they still act like they've never been fed, and everyone's happy — especially at 7am and 6pm.*
+*The "am I feeding them too much, too little, or are they just being Frenchies?" spiral is a familiar one. The good news: once you start weighing meals and trusting the body condition score instead of the pleading eyes, it stops being guesswork. Your Frenchie will still act like they've never been fed. That part doesn't change.*
 
-**Disclaimer:** *This article reflects our personal experience as French Bulldog owners and is not veterinary advice. Every dog is different, and portions should always be tailored to your individual dog in discussion with a qualified vet, particularly for puppies, seniors, or dogs with health conditions.*
+**Disclaimer:** *This article is general guidance from French Bulldog owners and is not veterinary advice. Every dog is different, and portions should always be tailored to your individual dog in discussion with a qualified vet, particularly for puppies, seniors, or dogs with health conditions.*
 
 **Related guides:**
-- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — The brands we actually feed and why
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — What to look for in a Frenchie food
 - [French Bulldog Food Allergies](/nutrition/french-bulldog-food-allergies/) — Symptoms, causes, and what to feed an allergic Frenchie
 - [How Much Exercise Does a French Bulldog Need?](/breed/how-much-exercise-french-bulldog/) — Calories in, calories out
 - [Best Slow Feeder Bowl for French Bulldogs](/gear/best-slow-feeder-bowl-french-bulldog/) — For Frenchies who inhale their dinner
