@@ -90,10 +90,10 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="JR Pet Products Pure Pate"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/jr-pure-pate.jpg"
-  price="~£5 per roll"
-  rating="4.8" />}}
+  url="https://www.amazon.co.uk/dp/B079Q2Q859/?tag=broadbandhelp"
+  image="/images/products/amazon-b079q2q859.jpg"
+  price="£21.99"
+  rating="4.3" />}}
 
 **Key features:**
 - 100% single-source protein — options include salmon, lamb, venison, duck, and beef
@@ -130,9 +130,9 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="Whimzees Natural Dental Chews (Extra Small)"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/whimzees-dental.jpg"
-  price="~£4 per pack"
+  url="https://www.amazon.co.uk/dp/B00N1YV3QM/?tag=broadbandhelp"
+  image="/images/products/amazon-b00n1yv3qm.jpg"
+  price="£9.35"
   rating="4.6" />}}
 
 **Key features:**
@@ -149,11 +149,11 @@ After three years of testing on two highly opinionated critics (one with allergi
 **Why it's here:** Sometimes you need a longer-lasting chew — something that occupies a Frenchie for more than thirty seconds while you get on with something. Forthglade's air-dried chews are single-source natural chews (beef trachea, lamb lung, chicken feet for non-allergic dogs) with absolutely nothing added.
 
 {{< product-card
-  name="Forthglade Natural Air-Dried Chews"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/forthglade-chews.jpg"
-  price="~£3-5 per pack"
-  rating="4.7" />}}
+  name="Forthglade Natural Cuts Air-Dried Beef Tripe"
+  url="https://www.amazon.co.uk/dp/B0H7CPCKV2/?tag=broadbandhelp"
+  image="/images/products/amazon-b0h7cpckv2.jpg"
+  price="£9.52"
+  rating="4.5" />}}
 
 **Key features:**
 - 100% natural, single-source animal chews
@@ -169,11 +169,11 @@ After three years of testing on two highly opinionated critics (one with allergi
 **Why it's here:** Lily's Kitchen makes genuinely good dog food and treats with proper, named ingredients. Their training treats are small, soft, and come in flavours including duck and venison — both safe for chicken-allergic dogs.
 
 {{< product-card
-  name="Lily's Kitchen Training Treats"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/lilys-kitchen-training.jpg"
-  price="~£3.50 per bag"
-  rating="4.4" />}}
+  name="Lily's Kitchen Duck & Venison Sausages"
+  url="https://www.amazon.co.uk/dp/B07Y5KYLYJ/?tag=broadbandhelp"
+  image="/images/products/amazon-b07y5kylyj.jpg"
+  price="£23.35"
+  rating="4.6" />}}
 
 **Key features:**
 - Made with proper, named meat (duck, venison, beef options)
@@ -190,10 +190,10 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 {{< product-card
   name="Scrumbles Natural Dog Treats"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/scrumbles-treats.jpg"
-  price="~£3 per bag"
-  rating="4.3" />}}
+  url="https://www.amazon.co.uk/dp/B0B4F4SQX3/?tag=broadbandhelp"
+  image="/images/products/amazon-b0b4f4sqx3.jpg"
+  price="£2.55"
+  rating="4.6" />}}
 
 **Key features:**
 - Grain-free, no artificial anything
