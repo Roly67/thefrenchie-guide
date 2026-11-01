@@ -114,7 +114,7 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
   rating="4.5" />}}
 
 **Key features:**
-- Oatmeal and aloe base for irritated skin
+- Aloe vera base for irritated skin
 - No sulfates, no artificial fragrance, no parabens
 - Made in the UK
 - Very mild — suitable for frequent use on reactive skin
@@ -122,9 +122,9 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 **Real-world testing:** We switched to this during a particularly bad flare for Buster, and it genuinely helped. It's not the cheapest, but for a Frenchie with ongoing skin issues, the extra few quid is money well spent compared to vet visits.
 
-### 3. Best Budget: Johnson's Vet Skin Ease Shampoo
+### 3. Best Budget: Johnson's Vet Hypo-Allergenic Shampoo
 
-**Why it's here:** You don't always need to spend £15 on a wash. Johnson's Vet Skin Ease is a UK high-street staple that's gentle, readily available, and dramatically cheaper than the specialist brands — without the harsh ingredients we'd avoid.
+**Why it's here:** You don't always need to spend £15 on a wash. Johnson's Vet is a long-standing UK pet-care brand, and its Hypo-Allergenic shampoo is a mild, non-medicated wash for sensitive skin at a fraction of the price of the specialist brands. (Skip Johnson's "Skin Calm" for routine washing — it contains coal tar and sulphur, which is medicated territory.)
 
 {{< product-card
   name="Johnson's Vet Hypo-Allergenic Shampoo"
@@ -134,16 +134,16 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
   rating="4.5" />}}
 
 **Key features:**
-- Formulated for dogs with dry, itchy, or sensitive skin
-- Mild, pH-balanced formula
-- Available in most pet shops and supermarkets
-- Great value for a routine, non-medicated wash
+- Developed for dogs with sensitive skin
+- Mild, non-medicated formula
+- 200ml bottle — about the cheapest decent wash going
+- Great value for a routine wash
 
-**Real-world testing:** This is our fallback when the good stuff runs out and a bath can't wait. It's not as refined as Anicura, but it's gentle enough that neither of the boys has reacted to it, which at a fiver a bottle is a solid result.
+**Worth knowing:** It's a budget all-rounder rather than a treatment. For a Frenchie with an active flare-up, the WildWash or a vet-directed option is the better call.
 
-### 4. Best Deodorising: Pet Head Oatmeal Shampoo
+### 4. Best Scented Wash: Pet Head Sensitive Soul Shampoo
 
-**Why it's here:** Frenchies have a smell. It's part of the package — a mix of skin oils, fold-moisture, and general Frenchie-ness. When Jago has rolled in something that used to be alive, we need something that actually shifts odour without being aggressive about it.
+**Why it's here:** Frenchies have a smell. It's part of the package — a mix of skin oils, fold-moisture, and general Frenchie-ness. If you want a wash that leaves them smelling of something other than Frenchie, Pet Head's Sensitive Soul does it with a sensitive-skin formula: pH-neutral, vegan, with oatmeal, coconut and marula oil.
 
 {{< product-card
   name="Pet Head Sensitive Soul Shampoo"
@@ -153,12 +153,12 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
   rating="4.5" />}}
 
 **Key features:**
-- Oatmeal-based with a light, pleasant scent (we use the unscented/gentle version)
-- Deodorising without being harsh
-- Fun branding aside, the formula is genuinely decent
-- Rinses out reasonably well
+- Made for dogs with sensitive skin
+- Oatmeal, coconut and marula oil
+- pH-neutral and vegan
+- Coconut scent
 
-**Real-world testing:** Pet Head leans into the novelty, but the oatmeal formula is legitimately gentle. The scented versions are a bit much for Buster's skin, so we stick to the gentler oat one. It handles post-garden Jago admirably.
+**Worth knowing:** It's scented. If your Frenchie's skin reacts to fragrance, stick with the fragrance-free WildWash instead, and try any new shampoo on a small patch first.
 
 ### 5. Medicated Option (Vet-Directed): Douxo S3 PYO Shampoo
 
@@ -183,11 +183,11 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 | Shampoo | Best For | Price | Key Ingredient | Fragrance |
 |---------|----------|-------|----------------|-----------|
-| **Anicura Natural** | Overall use, itchy skin | ~£14 | Natural botanicals | Light, natural |
-| **WildWash Sensitive** | Reactive/allergic skin | ~£16 | Oatmeal & aloe | None |
-| **Johnson's Skin Ease** | Budget, routine wash | ~£5 | Mild pH-balanced | Light |
-| **Pet Head Oatmeal** | Deodorising, smell | ~£8 | Oatmeal | Light (gentle version) |
-| **Douxo S3 PYO** | Infections (vet-directed) | ~£20 | Chlorhexidine | Clinical |
+| **Anicura Natural** | Overall use, itchy skin | ~£17 | Natural botanicals | Light, natural |
+| **WildWash Sensitive** | Reactive/allergic skin | ~£17 | Aloe vera | None |
+| **Johnson's Hypo-Allergenic** | Budget, routine wash | ~£7 | Mild, non-medicated | Light |
+| **Pet Head Sensitive Soul** | Scented wash, smell | ~£10 | Oatmeal & coconut | Coconut |
+| **Douxo S3 PYO** | Infections (vet-directed) | ~£16 | Chlorhexidine | Light |
 
 ## Shampoos We'd Avoid
 
