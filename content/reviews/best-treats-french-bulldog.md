@@ -104,25 +104,25 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 **Real-world testing:** This is the only treat we've found that works for Buster (chicken-allergic, requires transparency) and excites Jago (would eat gravel, but has standards). The salmon and venison varieties are our go-tos. The pate texture means you control the portion size — we cut pieces roughly the size of a pea for training, which keeps the calorie count negligible per treat. Buster does a full sit without being asked when he smells the salmon one. That's the highest endorsement we can offer.
 
-### 2. Best Hypoallergenic Treat: Wainwright's Grain-Free Sensitive Treats
+### 2. Best Hypoallergenic Treat: Laughing Dog Fish & Tricks
 
-**Why it's here:** Wainwright's is Pets at Home's premium own-brand, and their sensitive treats are formulated specifically for dogs with allergies. The ingredient list is refreshingly short, and they use novel proteins — duck and sweet potato, salmon and potato — that are less likely to trigger reactions in dogs sensitised to chicken or beef.
+**Why it's here:** For a chicken-sensitive Frenchie, the ingredient list is the whole story — and this one is refreshingly short. Salmon is the protein (40%), bound with potato and sweet potato, plus linseed and parsley. No grain, no gluten, and no chicken or beef on the label. They're baked on a family farm in Lincolnshire, and at around £2.50 a bag they're cheap enough to be an everyday treat.
 
 {{< product-card
-  name="Wainwright's Grain-Free Sensitive Treats"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/treats/wainwrights-sensitive.jpg"
-  price="~£5 per bag"
-  rating="4.5" />}}
+  name="Laughing Dog Fish & Tricks Grain-Free Treats"
+  url="https://www.amazon.co.uk/dp/B08KBGZRX5/?tag=broadbandhelp"
+  image="/images/products/amazon-b08kbgzrx5.jpg"
+  price="£2.49"
+  rating="4.4" />}}
 
 **Key features:**
-- Hypoallergenic — made without chicken, beef, wheat, or dairy
-- Novel protein sources (duck, salmon)
-- No artificial colours, flavours, or preservatives
-- Small, bone-shaped biscuits — good portion size for Frenchies
-- Readily available at Pets at Home
+- Single fish protein (40% salmon) — a sensible choice for dogs sensitised to chicken or beef
+- Grain-free and gluten-free, with no added sugar or salt
+- Short ingredient list: salmon, potato, sweet potato, linseed, parsley
+- Linseed for omega 3 & 6 — good for Frenchie skin
+- Baked in Britain, in a recyclable bag
 
-**Real-world testing:** These are our "guest treats" — the ones we keep in a jar by the front door for visitors. They're a sensible size, they don't crumble into pocket dust, and they're gentle enough for daily use. Buster tolerates them well (no skin reaction), and Jago… well, Jago would give them a 10/10, but Jago would also give a used teabag a 10/10, so his scoring system is not the most discriminating.
+**Worth knowing:** "Hypoallergenic" only means "unlikely to trigger the common allergens". If your Frenchie has a diagnosed allergy, read the full ingredient panel on the bag and introduce any new treat slowly — one at a time, so you know what caused a reaction if there is one.
 
 ### 3. Best Dental Chew: Whimzees Natural Dental Chews (Extra Small)
 
@@ -209,7 +209,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 | Treat | Best For | Price | Protein | Texture | Allergy-Friendly |
 |-------|----------|-------|---------|---------|------------------|
 | **JR Pure Pate** | Training, value | ~£5/roll | Single-source | Soft (cuttable) | ✓ (pick protein) |
-| **Wainwright's Sensitive** | Hypoallergenic, everyday | ~£5/bag | Duck/salmon | Crunchy biscuit | ✓ |
+| **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | ~£2.50/bag | Salmon | Baked treat | ✓ |
 | **Whimzees Dental** | Dental health | ~£4/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
 | **Forthglade Chews** | Long-lasting, natural | ~£3-5/pack | Single-source | Air-dried chew | ✓ (pick protein) |
 | **Lily's Kitchen Training** | High-value, soft | ~£3.50/bag | Duck/venison | Soft, small | ✓ (pick flavour) |
