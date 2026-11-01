@@ -50,10 +50,10 @@ Gather everything before you start. Chasing a Frenchie around the house with one
 
 {{< product-card
   name="Virbac Epi-Otic Advanced Ear Cleaner"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/virbac-epiotic.jpg"
-  price="~£15"
-  rating="4.7" />}}
+  url="https://www.amazon.co.uk/dp/B004L8P4DA/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b004l8p4da.jpg"
+  price="£14.31"
+  rating="4.6" />}}
 
 **Why this one:** Our vet recommended it. Non-irritating, dries the ear canal, and gentle enough for weekly use. It's the gold standard for dog ear cleaners and widely used by UK vets.
 
@@ -61,9 +61,9 @@ Gather everything before you start. Chasing a Frenchie around the house with one
 
 {{< product-card
   name="Thornit Ear Powder"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/thornit-ear-powder.jpg"
-  price="~£10"
+  url="https://www.amazon.co.uk/dp/B00560R08Y/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00560r08y.jpg"
+  price="£13.50"
   rating="4.5" />}}
 
 **For:** Persistent ear mites or waxy buildup. A tiny amount absorbs moisture and helps with itching. Not a replacement for liquid cleaner, but a useful addition.
