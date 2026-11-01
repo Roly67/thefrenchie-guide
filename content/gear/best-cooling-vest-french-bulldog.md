@@ -86,7 +86,7 @@ We've put these through their paces during Cornwall's "summer" and a particularl
   name="Ruffwear Swamp Cooler Cooling Vest"
   price="£85.99"
   rating="4.3"
-  url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp"
   image="/images/products/amazon-b0dn4dz7jn.jpg" >}}
 
 **Pros:**
@@ -154,7 +154,7 @@ The mesh design means it's less bulky than some options, which Jago appreciates 
   name="BullHug Cooling Vest for French Bulldogs"
   price="£34.99"
   rating="4.6"
-  url="https://www.amazon.co.uk/s?k=bullhug+cooling+vest+dog&tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/s?k=bullhug+cooling+vest+dog&tag=broadbandhelp"
   image="/images/products/bullhug-cooling-vest.jpg" >}}
 
 **Pros:**
@@ -184,7 +184,7 @@ The belly coverage is particularly good for Frenchies who like to lie on cool su
   name="Hifrenchies Cooling Harness Vest"
   price="£17.99"
   rating="3.4"
-  url="https://www.amazon.co.uk/dp/B089W7D5VG/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B089W7D5VG/?tag=broadbandhelp"
   image="/images/products/amazon-b089w7d5vg.jpg" >}}
 
 **Pros:**
@@ -212,7 +212,7 @@ We use this for morning toilet breaks during hot spells, but wouldn't rely on it
   name="GF Pet Elastofit Ice Dog Vest"
   price="£32.50"
   rating="4.4"
-  url="https://www.amazon.co.uk/s?k=gf+pet+elastofit+cooling+vest&tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/s?k=gf+pet+elastofit+cooling+vest&tag=broadbandhelp"
   image="/images/products/gf-pet-elastofit.jpg" >}}
 
 **Pros:**
@@ -387,7 +387,7 @@ Buster and Jago thank you for your diligence. (Well, Buster thanks you. Jago jus
 
 {{< affiliate-button 
   text="View the Ruffwear Swamp Cooler on Amazon"
-  url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp"
 >}}
 
 ---
