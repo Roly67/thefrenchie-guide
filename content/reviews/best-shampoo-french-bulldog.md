@@ -182,11 +182,13 @@ These are our picks, chosen on ingredients, what each one is formulated for, and
 
 | Shampoo | Best For | Price | Key Ingredient | Fragrance |
 |---------|----------|-------|----------------|-----------|
-| **Anicura Natural** | Overall use, itchy skin | ~£17 | Natural botanicals | Light, natural |
-| **WildWash Sensitive** | Reactive/allergic skin | ~£17 | Aloe vera | None |
-| **Johnson's Hypo-Allergenic** | Budget, routine wash | ~£7 | Mild, non-medicated | Light |
-| **Pet Head Sensitive Soul** | Scented wash, smell | ~£10 | Oatmeal & coconut | Coconut |
-| **Douxo S3 PYO** | Infections (vet-directed) | ~£16 | Chlorhexidine | Light |
+| **Anicura Natural** | Overall use, itchy skin | ££ | Natural botanicals | Light, natural |
+| **WildWash Sensitive** | Reactive/allergic skin | ££ | Aloe vera | None |
+| **Johnson's Hypo-Allergenic** | Budget, routine wash | £ | Mild, non-medicated | Light |
+| **Pet Head Sensitive Soul** | Scented wash, smell | £ | Oatmeal & coconut | Coconut |
+| **Douxo S3 PYO** | Infections (vet-directed) | ££ | Chlorhexidine | Light |
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ## Shampoos We'd Avoid
 

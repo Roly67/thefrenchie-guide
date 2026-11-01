@@ -317,18 +317,18 @@ These long, thin plush toys have squeakers in the head and tail but zero stuffin
 
 ## Best Budget Pick: Tennis Ball Alternative
 
-### The £3 Hero: Standard Rubber Ball
+### The Budget Hero: Rubber Ball on a Rope
 
 {{< product-card 
-  name="Rosewood Rubber Ball with Rope (Medium)"
-  image="/images/products/amazon-b00p0yqyyw.jpg"
-  rating="4.5"
-  price="£16.29"
-  where="Pets at Home / The Range"
-  url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
+  name="Rosewood Cyber Rubber and Rope Rugby Ball"
+  image="/images/products/amazon-b002lftszk.jpg"
+  rating="4.2"
+  price="£8.95"
+  where="Amazon UK"
+  url="https://www.amazon.co.uk/dp/B002LFTSZK?tag=broadbandhelp"
   affiliate="true" >}}
 
-Look, not every toy needs to cost £15. A good quality rubber ball with a rope attached is simple and effective.
+Not every toy needs to be clever. A tough rubber ball with a rope handle is simple and effective.
 
 **What it does:** Bounces irregularly, and the rope makes it easy to throw and play tug.
 
@@ -395,7 +395,6 @@ If we could only choose three toys for a Frenchie, these would be them:
 ### 🥇 **1. KONG Classic (Medium)**
 - **Why:** Versatile, durable, treat-stuffable, dishwasher safe
 - **Best for:** Every Frenchie, every day, especially destroyers
-- **Price:** £8.79
 - **Where:** Amazon UK
 
 The KONG Classic is the foundation of a good Frenchie toy collection. Solid rubber makes it the obvious choice for a destroyer. Stuff it with treats for mental stimulation, freeze it for teething puppies, or just let them chew. It's the Toyota Corolla of dog toys – reliable, practical, and built to take a beating.
@@ -403,7 +402,6 @@ The KONG Classic is the foundation of a good Frenchie toy collection. Solid rubb
 ### 🥈 **2. Nina Ottosson Dog Brick**
 - **Why:** Mental stimulation without overheating risk
 - **Best for:** Smart Frenchies who need brain work
-- **Price:** £19.99
 - **Where:** Amazon UK / VioVet
 
 Puzzle toys tire out your Frenchie's brain, which is safer and often more effective than intense physical exercise for brachycephalic breeds. The Dog Brick offers adjustable difficulty and plenty to work out.
@@ -411,7 +409,6 @@ Puzzle toys tire out your Frenchie's brain, which is safer and often more effect
 ### 🥉 **3. Chuckit! Breathe Right Ball**
 - **Why:** Safe fetch for flat-faced breeds
 - **Best for:** Frenchies who actually enjoy fetch
-- **Price:** £9.99
 - **Where:** Amazon UK
 
 If your Frenchie likes to play fetch, this is non-negotiable. The airflow design means they can breathe while playing, which is the bare minimum we should expect from a fetch toy.

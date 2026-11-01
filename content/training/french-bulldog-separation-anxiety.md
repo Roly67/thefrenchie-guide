@@ -172,7 +172,6 @@ You don't need every gadget under the sun, but some products can make a differen
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp"
-    price="£8.79"
 >}}
 **Why it works:** Provides mental stimulation, positive association with you leaving (Kong = good things happen), and keeps them occupied during the critical first 20-30 minutes of your departure.
 
@@ -198,7 +197,6 @@ Mostly, it tells you whether your Frenchie is sleeping or plotting.
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp"
-    price="£35.00"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
 {{< /product-card >}}

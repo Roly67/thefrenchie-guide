@@ -323,7 +323,6 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp"
-    price="£23.99"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/gear/best-harness-french-bulldog/)
 {{< /product-card >}}
@@ -345,7 +344,6 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp"
-    price="£8.79"
 >}}
 **Mental exercise:** A frozen Kong can keep a Frenchie occupied for a good while, and can be more mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
 {{< /product-card >}}
@@ -356,7 +354,6 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.4"
     image="/images/products/amazon-b01arbs2s8.jpg"
     url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp"
-    price="£3.27"
 >}}
 **Hydration essential:** Always carry water for Frenchies, especially in weather above 15°C. They overheat quickly and need frequent drinking opportunities.
 {{< /product-card >}}
@@ -367,7 +364,6 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
     url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp"
-    price="£21.99"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
 {{< /product-card >}}
@@ -378,7 +374,6 @@ A few tools make Frenchie exercise safer and more effective.
     rating="4.4"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp"
-    price="£9.59"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}

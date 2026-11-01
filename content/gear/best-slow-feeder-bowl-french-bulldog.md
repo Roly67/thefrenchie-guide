@@ -142,10 +142,12 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 | Bowl | Type | Price | Best For | Flat-Face Friendly |
 |------|------|-------|----------|-------------------|
-| **Outward Hound Flower** | Kibble slow feeder | ~£12 | Overall best for Frenchies | ⭐⭐⭐ Excellent |
-| **LickiMat Classic** | Wet food/lick mat | ~£8 | Wet food, treats, calming | ⭐⭐⭐ Excellent |
-| **EasyEat Raised** | Raised + slow feeder | ~£28 | Neck strain + speed eating | ⭐⭐⭐ Designed for it |
-| **Dogit Go-Slow** | Budget slow feeder | ~£11 | Testing if they'll accept one | ⭐⭐ Decent |
+| **Outward Hound Flower** | Kibble slow feeder | ££ | Overall best for Frenchies | ⭐⭐⭐ Excellent |
+| **LickiMat Classic** | Wet food/lick mat | £ | Wet food, treats, calming | ⭐⭐⭐ Excellent |
+| **EasyEat Raised** | Raised + slow feeder | £££ | Neck strain + speed eating | ⭐⭐⭐ Designed for it |
+| **Dogit Go-Slow** | Budget slow feeder | £ | Testing if they'll accept one | ⭐⭐ Decent |
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ## Slow Feeders to Avoid for French Bulldogs
 

@@ -183,10 +183,12 @@ For summer months, these help:
 
 | Bed | Type | Price | Best For | Washable |
 |-----|------|-------|----------|----------|
-| **ANWA Donut** | Calming/donut | ~£40 | Everyday use, crates | ✅ Machine |
-| **Bedsure Ortho** | Orthopedic bolster | ~£31 | Joint support, older dogs | ✅ Cover only |
-| **Veehoo Raised** | Raised mesh bed | ~£56 | Summer, overheating | ✅ Bolster; wipe mesh |
-| **Amazon Basics** | Budget bolster | ~£13 | Secondary bed, starter | ✅ Machine |
+| **ANWA Donut** | Calming/donut | £££ | Everyday use, crates | ✅ Machine |
+| **Bedsure Ortho** | Orthopedic bolster | £££ | Joint support, older dogs | ✅ Cover only |
+| **Veehoo Raised** | Raised mesh bed | £££ | Summer, overheating | ✅ Bolster; wipe mesh |
+| **Amazon Basics** | Budget bolster | £ | Secondary bed, starter | ✅ Machine |
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ## Beds to Avoid
 

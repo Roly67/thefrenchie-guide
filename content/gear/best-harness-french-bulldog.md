@@ -467,15 +467,17 @@ The colour range is limited compared with the Puppia rainbow. And check the size
 {{< comparison-table >}}
 | Harness | Price | Best For | For Pullers? | Style |
 |---------|-------|----------|--------------|-------|
-| **EzyDog Quick Fit** ⭐ | £27.00 | Daily walks, all-rounder | ✅ Good | Over-head |
-| **Puppia Soft** | £16.99 | Calm dogs, budget | ❌ No | Step-over |
-| **Julius-K9 IDC** | £21.49 | Serious pullers | ✅✅ Excellent | Over-head |
-| **Ruffwear Front Range** | £23.99 | Adventure/training | ✅✅ Excellent | Over-head |
-| **Truelove No-Pull** | £19.69 | Moderate pullers | ✅ Good | Over-head |
-| **Rabbitgoo Vest** | £15.99 | Best value dual-clip | ✅ Good | Over-head |
-| **Voyager Step-In** | £12.99 | Summer / lightweight | ❌ No | Step-in |
-| **BULLHUG** | £22.99 | Barrel-chested breeds | ✅ Good | Over-head |
+| **EzyDog Quick Fit** ⭐ | ££ | Daily walks, all-rounder | ✅ Good | Over-head |
+| **Puppia Soft** | ££ | Calm dogs, budget | ❌ No | Step-over |
+| **Julius-K9 IDC** | £££ | Serious pullers | ✅✅ Excellent | Over-head |
+| **Ruffwear Front Range** | ££ | Adventure/training | ✅✅ Excellent | Over-head |
+| **Truelove No-Pull** | ££ | Moderate pullers | ✅ Good | Over-head |
+| **Rabbitgoo Vest** | ££ | Best value dual-clip | ✅ Good | Over-head |
+| **Voyager Step-In** | £ | Summer / lightweight | ❌ No | Step-in |
+| **BULLHUG** | ££ | Barrel-chested breeds | ✅ Good | Over-head |
 {{< /comparison-table >}}
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ---
 
@@ -486,12 +488,12 @@ Here's the cheat sheet if you don't want to read about all eight (we see you, we
 | If your Frenchie is... | Get the... | Because... |
 |------------------------|------------|------------|
 | A moderate puller, daily walker | **EzyDog Quick Fit** | Wide chest plate, high D-ring, quick buckle. |
-| Calm, well-behaved, on a budget | **Puppia Soft** | £17 well spent. Comfortable, simple. |
+| Calm, well-behaved, on a budget | **Puppia Soft** | Money well spent. Comfortable, simple. |
 | A relentless puller who means business | **Julius-K9** | Built heavy-duty for strong dogs. |
 | In training, needs front-clip control | **Ruffwear** or **Rabbitgoo** | Dual clips, different budgets. |
 | Barrel-chested to the extreme | **BULLHUG** | The only breed-specific design here. |
 | Hates over-the-head harnesses | **Voyager Step-In** | Step-in design, no head wrestling. |
-| Needs a solid middle-ground option | **Truelove** or **Rabbitgoo** | Both do front+back clips under £20. |
+| Needs a solid middle-ground option | **Truelove** or **Rabbitgoo** | Both do front+back clips at a budget price. |
 
 ---
 
@@ -706,11 +708,11 @@ For most Frenchies, our pick is the EzyDog Quick Fit.
 
 **For different budgets:**
 
-- **Under £15:** Voyager Step-In (summer) or Puppia Soft Harness
-- **£15-£20:** Rabbitgoo No-Pull Vest (best value dual-clip)
-- **£20-£25:** Truelove No-Pull or BULLHUG (breed-specific)
-- **£25-£35:** EzyDog Quick Fit (our pick) or Julius-K9 (heavy pullers)
-- **£35+:** Ruffwear Front Range (if you need maximum features and a lifetime guarantee)
+- **£ (under £15):** Voyager Step-In (summer)
+- **££ (£15–£30):** Puppia Soft, Rabbitgoo No-Pull Vest (best value dual-clip), Truelove No-Pull, BULLHUG (breed-specific), Ruffwear Front Range, or EzyDog Quick Fit (our pick)
+- **£££ (over £30):** Julius-K9 IDC (heavy pullers)
+
+Prices move; the current price is on each product card.
 
 **For different dog types:**
 

@@ -24,11 +24,11 @@ French Bulldogs have drawn the short straw on joint health. It's not one problem
 
 This is the big one for Frenchie owners — the condition that lurks in the back of your mind every time your dog jumps off something. French Bulldogs are a chondrodystrophic breed, meaning their cartilage develops abnormally. Their intervertebral discs — the cushions between vertebrae — degenerate earlier and faster than in other breeds. When a disc ruptures or herniates, it presses on the spinal cord, causing pain, paralysis, or worse.
 
-The statistics are sobering: studies suggest that between 15% and 25% of French Bulldogs will experience some degree of IVDD in their lifetime. Not all cases are catastrophic — some present as back pain or stiffness — but the risk is real and it's higher than most owners realise.
+French Bulldogs are one of the breeds most prone to IVDD, because the same genetics that give them their short legs affect their spinal discs. Not all cases are catastrophic — some present as back pain or stiffness — but the risk is real and it's higher than most owners realise.
 
 ### Hip Dysplasia
 
-French Bulldogs have the highest rate of hip dysplasia among small breeds. The Orthopaedic Foundation for Animals ranks them 2nd worst of all breeds for hip scores, behind only the Bulldog (their close relative). The shallow hip socket and distinctive "frog-leg" sit are charming, but they're also structural compromises that accelerate joint wear.
+Hip dysplasia is common in French Bulldogs, as it is in their close relative the Bulldog. The shallow hip socket and distinctive "frog-leg" sit are charming, but they're also structural compromises that accelerate joint wear.
 
 ### Patellar Luxation
 
@@ -128,7 +128,7 @@ These are our picks, chosen against the ingredient checklist above and how Amazo
 - Small, easy-to-administer capsules
 - Antinol's green-lipped mussel extract has published studies behind it for canine osteoarthritis
 
-**Worth knowing:** It's noticeably pricier than YuMOVE (around £59 for 60 capsules), and it doesn't contain glucosamine or chondroitin, so it's an anti-inflammatory add-on rather than an all-in-one. For a dog with diagnosed arthritis, ask your vet whether it's worth adding alongside a glucosamine supplement.
+**Worth knowing:** It's noticeably pricier than YuMOVE, and it doesn't contain glucosamine or chondroitin, so it's an anti-inflammatory add-on rather than an all-in-one. For a dog with diagnosed arthritis, ask your vet whether it's worth adding alongside a glucosamine supplement.
 
 ### 3. Best Budget: Vetzyme High Strength Flexible Joint
 
@@ -145,7 +145,7 @@ These are our picks, chosen against the ingredient checklist above and how Amazo
 - Glucosamine hydrochloride + chondroitin + MSM
 - Contains omega-3 from fish oil
 - Chicken-flavoured tablets (worth knowing if your Frenchie is chicken-sensitive)
-- 90 tablets for around £14 — roughly £5 a month at one a day
+- 90 tablets — three months' supply at one a day
 
 **Worth knowing:** It's a sensible preventive option for a young Frenchie with no joint symptoms yet. For a dog that's already stiff or diagnosed, the higher-spec YuMOVE or Antinol is the better starting point.
 

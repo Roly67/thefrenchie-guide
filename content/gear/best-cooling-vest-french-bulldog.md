@@ -223,11 +223,13 @@ The Elastofit idea is a clever one — a fabric that stretches to fit rather tha
 
 | Vest | Price | Best For |
 |------|-------|----------|
-| **Ruffwear Swamp Cooler** | £69.95 | Long walks, high heat, serious cooling needs |
-| **Canada Pooch Chill Seeker** | £24.99 | Budget option, moderate heat, shorter walks |
-| **BullHug Specialist Vest** | £34.99 | Frenchie-specific fit, good all-rounder |
-| **Hifrenchies Harness Vest** | £28.95 | Quick toilet breaks, dual-purpose convenience |
-| **GF Pet Elastofit** | £32.50 | Active dogs, unrestricted movement |
+| **Ruffwear Swamp Cooler** | £££ | Long walks, high heat, serious cooling needs |
+| **Canada Pooch Chill Seeker** | ££ | Budget option, moderate heat, shorter walks |
+| **BullHug Specialist Vest** | £££ | Frenchie-specific fit, good all-rounder |
+| **Hifrenchies Harness Vest** | ££ | Quick toilet breaks, dual-purpose convenience |
+| **GF Pet Elastofit** | £££ | Active dogs, unrestricted movement |
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ---
 
