@@ -96,27 +96,26 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 ## Best Coats for French Bulldogs UK: Our Picks
 
-### 1. Best All-Rounder: Ginger Ted Waterproof Bulldog Coat
+### 1. Best All-Rounder: ASENKU Waterproof Winter Coat
 
-**Why it won:** Specifically designed for the Bulldog/Frenchie barrel chest shape. Waterproof, fleece-lined, and fits properly without modifications. This is as close to "designed for our dogs" as it gets.
+**Why it's here:** It ticks every box on the checklist above in one coat — waterproof outer, warm fleece lining, reflective strip — and the maker sizes its Medium specifically for French Bulldogs. If you only want to buy one coat for a British winter, this covers rain and cold together.
 
 {{< product-card
-  name="Ginger Ted Waterproof & Warm Bulldog/Frenchie Coat"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/ginger-ted-bulldog-coat.jpg"
-  price="~£35"
-  rating="4.6" />}}
+  name="ASENKU Waterproof Winter Coat (Size M)"
+  url="https://www.amazon.co.uk/dp/B0FGJDPJ77/?tag=broadbandhelp"
+  image="/images/products/amazon-b0fgjdpj77.jpg"
+  price="£38.99"
+  rating="4.5" />}}
 
 **Key features:**
-- Specifically shaped for barrel-chested breeds
-- Waterproof outer with warm fleece lining
-- Quick-fastening belly straps
-- Reflective piping for dark winter walks
-- Fold-down neck collar
-- Rear harness slot
-- Made by a UK company
+- Waterproof, windproof outer with padded mid-layer
+- Soft fleece lining
+- Built-in harness with a metal D-ring — clip the lead straight on, no separate harness needed
+- Reflective strip for dark winter walks
+- Side Velcro and chest buckle, so nothing goes over the head
+- Size M is listed for French Bulldogs (check your Frenchie's back length and chest against the size chart)
 
-**Real-world testing:** This is Buster's main winter coat. Fits his barrel chest perfectly without being tight across the shoulders. The reflective piping is genuinely useful on our 5pm-in-the-dark December walks. Survives the washing machine without losing waterproofing.
+**Worth knowing:** The built-in harness is a different approach from a coat with a harness slot. It's convenient if you'd otherwise be layering a harness over a coat, but if your Frenchie already has a harness they're happy in (and with that windpipe, a good one matters), check the fit of the two together before relying on the coat's own.
 
 ### 2. Best Budget Waterproof: Ancol Muddy Paws Stormguard
 
@@ -202,7 +201,7 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 | Coat | Type | Price | Best For | Waterproof | Frenchie-Specific Fit |
 |------|------|-------|----------|------------|----------------------|
-| **Ginger Ted Bulldog** | All-rounder | ~£35 | Winter walks | ✅ | ✅ Yes |
+| **ASENKU Winter Coat** | All-rounder | ~£39 | Winter walks | ✅ | ✅ Size M for Frenchies |
 | **Ancol Stormguard** | Budget waterproof | ~£18 | First coat / budget | ✅ | ❌ Adjustable |
 | **Equafleece Jumper** | Fleece | ~£30 | Cold dry days | ❌ | ✅ Stretchy |
 | **Hurtta Downpour** | Full body | ~£55 | Heavy rain/mud | ✅ | ❌ Adjustable |
