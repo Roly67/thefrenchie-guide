@@ -367,7 +367,7 @@ Eyes, noses, decorative bits glued onto plush toys – all will be eaten. If it'
 Obvious choking hazard. Even if your Frenchie *can* fit it in their mouth, they shouldn't.
 
 {{< callout type="warning" title="Emergency Reminder" >}}
-If your Frenchie swallows something they shouldn't, call your vet immediately. Don't wait to see if it passes. French Bulldogs can't vomit easily due to their anatomy, so foreign objects are extra dangerous.
+If your Frenchie swallows something they shouldn't, call your vet immediately. Don't wait to see if it passes, and don't try to make your Frenchie sick unless your vet tells you to — a swallowed object can cause a blockage, or more damage on the way back up.
 {{< /callout >}}
 
 Even toys sold as "indestructible for power chewers" can have small parts — squeakers especially — that a determined dog can detach and swallow. Inspect every toy for detachable parts before you buy, and check toys regularly for damage. If it's not one solid piece, don't give it to a destroyer unsupervised.

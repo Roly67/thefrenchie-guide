@@ -1,15 +1,10 @@
 ---
 title: "How to Measure Your French Bulldog for a Harness (Step-by-Step Guide)"
-description: "Learn exactly how to measure your French Bulldog for a perfectly fitting harness. Includes sizing charts, common mistakes, and our top harness picks."
-date: 2026-02-15T10:00:00Z
+description: "Learn exactly how to measure your French Bulldog for a perfectly fitting harness. Includes a sizing chart, common mistakes, and which type of harness suits which Frenchie."
+date: 2026-11-01T10:00:00Z
 categories: ["Gear"]
 tags: ["harness", "sizing", "safety", "walking"]
-cover:
-    image: "/images/french-bulldog-harness-measurement.jpg"
-    alt: "French Bulldog being measured for a harness"
-    caption: "Getting the right measurements is crucial for your Frenchie's comfort and safety"
-    relative: false
-draft: true
+draft: false
 ---
 
 Getting the right harness for your French Bulldog isn't just about comfort — it's about **safety**. Frenchies have unique body shapes (that barrel chest and short neck) that make collars potentially dangerous and many standard dog harnesses a poor fit.
@@ -118,52 +113,26 @@ On a chart like this, a Frenchie with a 58cm chest weighing 13kg would typically
 
 Here are the types of harness worth considering, and who each suits:
 
-### 1. **[Brand Name] No-Pull Harness**
-**Best for:** Everyday walks, strong pullers  
+### 1. A No-Pull Harness (Front Clip)
+**Best for:** Everyday walks, pullers
 
-✅ Pros:
-- Front clip reduces pulling
-- Adjustable at chest and neck
-- Padded for comfort
-- Doesn't restrict breathing
-
-❌ Cons:
-- Takes a few tries to get the fit perfect
-- Slightly pricey
-
-**[Check price on Amazon →](#)** *(affiliate link)*
+A front lead clip turns your Frenchie towards you when they pull, instead of letting them lean into the chest strap. Look for adjustment at both the chest and the neck — that's what lets you fit a barrel chest without a loose neck. In our harness guide, the [Rabbitgoo No-Pull Vest](/gear/best-harness-french-bulldog/#6-rabbitgoo-no-pull-vest-harness--best-value-dual-clip) and the [Truelove No-Pull](/gear/best-harness-french-bulldog/#5-truelove-no-pull-harness--good-middle-ground) are dual-clip options at a budget price, and the [Julius-K9 IDC](/gear/best-harness-french-bulldog/#3-julius-k9-idc-powerharness--for-serious-pullers) is the heavy-duty choice for strong pullers.
 
 ---
 
-### 2. **[Brand Name] Mesh Comfort Harness**
-**Best for:** Hot weather, sensitive skin  
+### 2. A Mesh Comfort Harness
+**Best for:** Hot weather, calm walkers
 
-✅ Pros:
-- Breathable mesh (great for summer)
-- Lightweight
-- Easy to get on and off
-- Reflective strips for visibility
-
-❌ Cons:
-- Not ideal for strong pullers
-- Mesh can snag on bushes/rough terrain
-
-**[Check price on Amazon →](#)** *(affiliate link)*
+Breathable mesh is lighter and cooler than padded webbing, which matters for a breed that overheats easily. The trade-off is less control with a puller. The [Puppia Soft Harness](/gear/best-harness-french-bulldog/#2-puppia-soft-harness--budget-friendly-alternative) is the popular budget option.
 
 ---
 
-### 3. **[Brand Name] Step-In Harness**
-**Best for:** Dogs who hate "over the head" harnesses  
+### 3. A Step-In Harness
+**Best for:** Dogs who hate things going over their head
 
-✅ Pros:
-- Super easy to put on (dog steps into it)
-- Good for anxious dogs
-- Secure fit
+Your Frenchie steps in with the front legs and you clip it over the back — no wrestling a harness over that head. Check the leg openings against your measurements, as stocky front legs can make them a tight fit. See the [Voyager Step-In Air](/gear/best-harness-french-bulldog/#7-voyager-step-in-air-harness--best-lightweight-summer-option).
 
-❌ Cons:
-- Not suitable if your Frenchie has very wide paws
-
-**[Check price on Amazon →](#)** *(affiliate link)*
+For all eight picks compared, see [the best harnesses for French Bulldogs](/gear/best-harness-french-bulldog/).
 
 ## How to Test the Fit
 

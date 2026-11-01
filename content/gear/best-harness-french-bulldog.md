@@ -220,20 +220,19 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 ### 4. Ruffwear Front Range Harness — Premium All-Rounder
 
 {{< product-card
-  name="Ruffwear Front Range Harness"
-  price="£23.99"
+  name="Ruffwear Front Range Harness (Small)"
+  price="£49.95"
   rating="4.7"
-  url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
-  image="/images/products/amazon-b082fq7fqg.jpg" >}}
+  url="https://www.amazon.co.uk/dp/B0CLB65P5L/?tag=broadbandhelp"
+  image="/images/products/amazon-b0clb65p5l.jpg" >}}
 
 **Pros:**
 - Two leash attachment points (front and back)
 - Solid, well-made construction
-- Padded chest and belly
+- Padded, with a lifting handle
 - Reflective trim
-- ID pocket on back
 - Very adjustable (five adjustment points)
-- Lifetime guarantee
+- Guaranteed against defects
 
 **Cons:**
 - Expensive
@@ -241,7 +240,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 - Complex adjustment (but only needed once)
 - Might be overkill for casual walkers
 
-**Sizes:** XXS to XL
+**Sizes:** XXS to XL. The Small fits a 56–69cm chest, which covers most adult Frenchies — measure before ordering.
 **Best for:** Adventure dogs, training, owners who want maximum features
 
 {{< /product-card >}}
@@ -250,7 +249,7 @@ Ruffwear makes well-regarded gear, but it's designed for proper adventure dogs �
 
 **When it's worth it:**
 
-If you're training a puller, the front clip is genuinely helpful, and the lifetime guarantee adds peace of mind. If you do a lot of walking or your Frenchie has complex needs, the adjustability is worth the price.
+If you're training a puller, the front clip is genuinely helpful, and the guarantee against defects adds peace of mind. If you do a lot of walking or your Frenchie has complex needs, the adjustability is worth the price.
 
 For most French Bulldog owners doing normal daily walks? The EzyDog is more appropriate.
 
@@ -470,7 +469,7 @@ The colour range is limited compared with the Puppia rainbow. And check the size
 | **EzyDog Quick Fit** ⭐ | ££ | Daily walks, all-rounder | ✅ Good | Over-head |
 | **Puppia Soft** | ££ | Calm dogs, budget | ❌ No | Step-over |
 | **Julius-K9 IDC** | £££ | Serious pullers | ✅✅ Excellent | Over-head |
-| **Ruffwear Front Range** | ££ | Adventure/training | ✅✅ Excellent | Over-head |
+| **Ruffwear Front Range** | £££ | Adventure/training | ✅✅ Excellent | Over-head |
 | **Truelove No-Pull** | ££ | Moderate pullers | ✅ Good | Over-head |
 | **Rabbitgoo Vest** | ££ | Best value dual-clip | ✅ Good | Over-head |
 | **Voyager Step-In** | £ | Summer / lightweight | ❌ No | Step-in |
@@ -709,8 +708,8 @@ For most Frenchies, our pick is the EzyDog Quick Fit.
 **For different budgets:**
 
 - **£ (under £15):** Voyager Step-In (summer)
-- **££ (£15–£30):** Puppia Soft, Rabbitgoo No-Pull Vest (best value dual-clip), Truelove No-Pull, BULLHUG (breed-specific), Ruffwear Front Range, or EzyDog Quick Fit (our pick)
-- **£££ (over £30):** Julius-K9 IDC (heavy pullers)
+- **££ (£15–£30):** Puppia Soft, Rabbitgoo No-Pull Vest (best value dual-clip), Truelove No-Pull, BULLHUG (breed-specific), or EzyDog Quick Fit (our pick)
+- **£££ (over £30):** Julius-K9 IDC (heavy pullers) or Ruffwear Front Range (maximum adjustability)
 
 Prices move; the current price is on each product card.
 

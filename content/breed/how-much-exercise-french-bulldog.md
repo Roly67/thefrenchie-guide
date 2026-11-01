@@ -318,11 +318,11 @@ A "sniff walk" where you walk slowly and let them investigate everything can be 
 A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
-    name="Ruffwear Front Range Harness"
-    price="£23.99"
+    name="Ruffwear Front Range Harness (Small)"
+    price="£49.95"
     rating="4.7"
-    image="/images/products/amazon-b082fq7fqg.jpg"
-    url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp"
+    image="/images/products/amazon-b0clb65p5l.jpg"
+    url="https://www.amazon.co.uk/dp/B0CLB65P5L/?tag=broadbandhelp"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/gear/best-harness-french-bulldog/)
 {{< /product-card >}}
