@@ -120,25 +120,25 @@ These are our picks, chosen on ingredient lists, size and how Amazon UK buyers r
 
 **Worth knowing:** "Hypoallergenic" only means "unlikely to trigger the common allergens". If your Frenchie has a diagnosed allergy, read the full ingredient panel on the bag and introduce any new treat slowly — one at a time, so you know what caused a reaction if there is one.
 
-### 3. Best Dental Chew: Whimzees Natural Dental Chews (Extra Small)
+### 3. Best Dental Chew: Whimzees Toothbrush Dental Chews (Small)
 
 **Why it's here:** Dental health matters for Frenchies — those crowded teeth in a compressed jaw are plaque magnets. Whimzees are vegetable-based dental chews that are genuinely effective at cleaning teeth, and unlike many dental sticks, they don't contain hidden chicken or animal derivatives.
 
 {{< product-card
-  name="Whimzees Natural Dental Chews (Extra Small)"
-  url="https://www.amazon.co.uk/dp/B00N1YV3QM/?tag=broadbandhelp"
-  image="/images/products/amazon-b00n1yv3qm.jpg"
-  price="£9.35"
+  name="Whimzees Toothbrush Dental Chews (Small)"
+  url="https://www.amazon.co.uk/dp/B01ETSA8XW/?tag=broadbandhelp"
+  image="/images/products/amazon-b01etsa8xw.jpg"
+  price="£9.54"
   rating="4.6" />}}
 
 **Key features:**
 - Vegetable-based — potato starch, glycerin, and natural colours
 - No animal protein — suitable for most allergy dogs
 - Knobbly shape scrapes teeth as your dog chews
-- Extra Small size is the right fit for French Bulldogs
+- Size S is made for dogs of 7–12kg, which covers most adult French Bulldogs
 - Gluten-free, no artificial anything
 
-**Worth knowing:** Size matters here. The Extra Small is the right size for most adult Frenchies — the Small is too large — and pups under 7kg should use the XS puppy version. If you have more than one dog, separate them at dental chew time so nobody gulps down a second one.
+**Worth knowing:** Size matters here. Whimzees size by body weight: Small is for 7–12kg, which suits most adult Frenchies; a Frenchie over 12kg should go up to Medium. Don't size down to Extra Small (2–7kg) — a chew that's too small can be swallowed whole. They're not for dogs under 9 months; there's a separate puppy range. If you have more than one dog, separate them at dental chew time so nobody gulps down a second one.
 
 ### 4. Best Natural Chew: Forthglade Natural Cuts Beef Tripe
 
@@ -202,12 +202,14 @@ These are our picks, chosen on ingredient lists, size and how Amazon UK buyers r
 
 | Treat | Best For | Price | Protein | Texture | Allergy-Friendly |
 |-------|----------|-------|---------|---------|------------------|
-| **JR Pure Pate** | Training, value | ~£2.20/roll (10-pack) | Single-source | Soft (cuttable) | ✓ (pick protein) |
-| **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | ~£2.50/bag | Salmon | Crunchy bites | ✓ |
-| **Whimzees Dental** | Dental health | ~£9/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
-| **Forthglade Natural Cuts** | Long-lasting, natural | ~£9.50/bag | Beef tripe | Air-dried chew | ✓ (chicken-free) |
-| **Lily's Kitchen Sausages** | High-value, soft | ~£3/bag (8-pack) | Duck/venison | Soft, chewy | ✓ (chicken-free) |
-| **Scrumbles Natural** | Budget, everyday | ~£2.50/bag | Salmon | Soft bites | ✓ (no chicken) |
+| **JR Pure Pate** | Training, value | ££ (10-pack) | Single-source | Soft (cuttable) | ✓ (pick protein) |
+| **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | £ | Salmon | Crunchy bites | ✓ |
+| **Whimzees Dental** | Dental health | £ | Vegetable-based | Hard chew | ✓ (no animal protein) |
+| **Forthglade Natural Cuts** | Long-lasting, natural | £ | Beef tripe | Air-dried chew | ✓ (chicken-free) |
+| **Lily's Kitchen Sausages** | High-value, soft | ££ (8-pack) | Duck/venison | Soft, chewy | ✓ (chicken-free) |
+| **Scrumbles Natural** | Budget, everyday | £ | Salmon | Soft bites | ✓ (no chicken) |
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ## Treats We'd Avoid
 
@@ -251,7 +253,7 @@ What does that look like in practice?
 - JR Pate (pea-sized pieces): about 2-3 calories each → roughly 20-25 pieces
 - A Lily's Kitchen sausage: richer than a biscuit, so tear it into small pieces and count it against the day's allowance
 - One Forthglade air-dried chew: can be 50-80 calories → that's your whole day's treat allowance
-- Half a Whimzee dental chew (Extra Small): about 25 calories
+- Half a Whimzee dental chew: check the pack for calories per chew, as it varies by size
 
 A simple rule: training treats are tiny (pea-sized), dental chews are a once-daily item that counts towards the daily total, and anything substantial (an air-dried chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
 

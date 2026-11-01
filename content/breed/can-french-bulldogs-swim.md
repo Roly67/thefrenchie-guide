@@ -296,7 +296,7 @@ If you have a pool and a Frenchie, you need multiple layers of safety:
 5. **Life jacket on** if they're anywhere near the pool
 6. **Consider a ramp or pet-safe steps** (though they still can't really use them effectively)
 
-More Frenchies drown in home pools than anywhere else. They're curious, clumsy, top-heavy, and overconfident.
+Garden pools are a particular risk, because they're right there every day. Frenchies are curious, clumsy, top-heavy, and overconfident.
 
 Some will investigate a pool, fall in whilst investigating, and be genuinely shocked by this turn of events. Others will judge it from afar and never go near it. Both require the same safety measures.
 

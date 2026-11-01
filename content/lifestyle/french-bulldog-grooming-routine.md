@@ -112,7 +112,7 @@ Brush once a week with a rubber grooming mitt or a soft bristle brush. This isn'
 - **Distributing natural oils.** Brushing stimulates the skin and spreads oils through the coat, keeping it healthy and glossy.
 - **Bonding.** Most Frenchies come to enjoy being brushed once they're used to it. Some will push their way onto your lap when the grooming mitt comes out.
 
-**Our recommendation:** A rubber grooming mitt like the HandsOn Gloves or a Kong ZoomGroom. Both are under £10 and suit short coats. Some dogs find a brush ticklish and prefer the mitt.
+**Our recommendation:** A rubber grooming mitt like the HandsOn Gloves or a Kong ZoomGroom. Both are inexpensive and suit short coats. Some dogs find a brush ticklish and prefer the mitt.
 
 ### Bathing
 
@@ -165,7 +165,7 @@ If nail trimming is genuinely too stressful for you or your dog, most grooming s
 This is the bit people forget about. French Bulldog paw pads take a beating — hot pavements in summer, gritted roads in winter, rough terrain on walks. Check them weekly.
 
 - **Look for cracks, cuts, or foreign objects.** Grass seeds can work their way between toes and cause infections.
-- **Moisturise if needed.** If pads are dry or cracked, a dog-safe paw balm (Musher's Secret is the standard, about £12) helps. Don't use human hand cream — it contains fragrances and ingredients that aren't safe if licked.
+- **Moisturise if needed.** If pads are dry or cracked, a dog-safe paw balm (Musher's Secret is the standard) helps. Don't use human hand cream — it contains fragrances and ingredients that aren't safe if licked.
 - **Trim the fur between pads.** Some Frenchies grow tufts of fur between their toes. If it's long enough to trap mud or cause matting, trim it carefully with round-tipped scissors.
 
 ## Teeth Cleaning: Yes, This Counts as Grooming

@@ -136,7 +136,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 - A good choice for a puppy too, where small nails make the quick even easier to miss
 
 **Cons:**
-- The priciest clipper here, at nearly £17
+- Pricier than a basic clipper
 - The light helps but doesn't make a black nail pink — you still trim carefully
 
 **Best for:** Frenchies with genuinely black nails, or anyone who finds nail trims nerve-racking.
@@ -266,7 +266,7 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 
 {{< /product-card >}}
 
-**Why it wins:** Four LEDs instead of two is a genuine difference on a dark nail, and it's about £3 cheaper than the Casfuy. Three speeds rather than six means you lose the very slowest setting, but the extra light compensates.
+**Why it wins:** Four LEDs instead of two is a genuine difference on a dark nail, and it's usually a little cheaper than the Casfuy. Three speeds rather than six means you lose the very slowest setting, but the extra light compensates.
 
 ### 8. Best Premium Grinder: Dremel PawControl 7760-PET
 
@@ -295,11 +295,11 @@ These are our picks, chosen on safety features, size and live Amazon UK price an
 
 ### Also Worth Knowing About
 
-Three more that didn't make the main list but that other Frenchie owners rate well:
+Three more that didn't make the main list but are well reviewed on Amazon UK:
 
-- **Wahl Dog & Cat Nail Grinder, Corded — £27.95, 4.2, 1,216 reviews.** A proper professional corded grinder. Excellent if you want power without the battery, less excellent if the cable bothers your dog.
-- **Mcbazel 2-in-1 Grinder and Paw Trimmer — £8.49, 4.4, 263 reviews.** Grinder and paw-pad trimmer in one, for barely more than a decent clipper.
-- **FURminator Nail Clipper — £11.00, 4.1, 355 reviews.** A famous name, but the lowest rating of anything we looked at. The brand recognition outstrips the product here.
+- **Wahl Dog & Cat Nail Grinder, Corded.** A proper professional corded grinder. Excellent if you want power without the battery, less excellent if the cable bothers your dog.
+- **Mcbazel 2-in-1 Grinder and Paw Trimmer.** Grinder and paw-pad trimmer in one, for about the price of a decent clipper.
+- **FURminator Nail Clipper.** A famous name, but the lowest rating of anything we looked at. The brand recognition outstrips the product here.
 
 ## How to Actually Trim a French Bulldog's Nails
 

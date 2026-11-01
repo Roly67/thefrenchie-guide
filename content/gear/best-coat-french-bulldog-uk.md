@@ -198,11 +198,13 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 | Coat | Type | Price | Best For | Waterproof | Frenchie-Specific Fit |
 |------|------|-------|----------|------------|----------------------|
-| **ASENKU Winter Coat** | All-rounder | ~£39 | Winter walks | ✅ | ✅ Size M for Frenchies |
-| **Ancol Stormguard** | Budget waterproof | ~£15 | First coat / budget | ✅ | ❌ Adjustable |
-| **Hotterdog Jumper** | Fleece | ~£24 | Cold dry days | ❌ | ❌ Check sizing |
-| **Hurtta Downpour** | Full body | ~£65 | Heavy rain/mud | ✅ | ❌ Adjustable |
-| **Danish Design 2-in-1** | Versatile | ~£25 | Spring/autumn | ✅ | ❌ Adjustable |
+| **ASENKU Winter Coat** | All-rounder | £££ | Winter walks | ✅ | ✅ Size M for Frenchies |
+| **Ancol Stormguard** | Budget waterproof | £ | First coat / budget | ✅ | ❌ Adjustable |
+| **Hotterdog Jumper** | Fleece | ££ | Cold dry days | ❌ | ❌ Check sizing |
+| **Hurtta Downpour** | Full body | £££ | Heavy rain/mud | ✅ | ❌ Adjustable |
+| **Danish Design 2-in-1** | Versatile | ££ | Spring/autumn | ✅ | ❌ Adjustable |
+
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
 
 ## How to Measure Your French Bulldog for a Coat
 

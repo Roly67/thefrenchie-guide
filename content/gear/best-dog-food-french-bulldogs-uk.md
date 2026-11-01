@@ -164,13 +164,15 @@ If your Frenchie prefers wet food (or you want to mix it with kibble), Forthglad
 
 ## Quick Comparison
 
-| Food | Protein | Grain-Free | UK Price | Best For |
+| Food | Protein | Grain-Free | Cost per kg | Best For |
 |------|---------|-----------|----------|----------|
-| **Forthglade Complete** | 75%+ meat | ✅ | ~£30/variety | Overall best |
-| **Lily's Kitchen** | 60%+ | ✅ | ~£42 | Sensitive stomachs |
-| **Royal Canin Frenchie** | 25% protein | ❌ | ~£55 | Breed-specific needs |
-| **Harringtons GF** | 45% | ✅ | ~£20 | Budget option |
-| **Forthglade Just** | 100% meat | ✅ | ~£18/12 | Wet food/topper |
+| **Forthglade Complete** | 75%+ meat | ✅ | ££ (wet) | Overall best |
+| **Lily's Kitchen** | 60%+ | ✅ | £££ | Sensitive stomachs |
+| **Royal Canin Frenchie** | 25% protein | ❌ | ££ | Breed-specific needs |
+| **Harringtons GF** | 45% | ✅ | £ | Budget option |
+| **Forthglade Just** | 100% meat | ✅ | £ (wet topper) | Wet food/topper |
+
+*Cost per kg: £ under £4 · ££ £4–£6 · £££ over £6. Bag sizes differ, so compare per kg; current prices are on each product card.*
 
 ## Ingredients to Avoid in French Bulldog Food
 

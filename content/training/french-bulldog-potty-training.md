@@ -472,7 +472,6 @@ For more help, see our [French Bulldog puppy checklist](/breed/french-bulldog-pu
 
 Now get out there and celebrate some dog wee. You've got this.
 
-<!-- ROWLAND: Final encouraging photo of both dogs looking proud, maybe with a "fully trained" banner or similar cheeky caption -->
 
 ---
 
