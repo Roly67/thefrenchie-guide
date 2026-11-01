@@ -1,6 +1,6 @@
 ---
-title: "How to Clean French Bulldog Ears: A Step-by-Step Guide (From Someone Who's Been Side-Eyed Doing It)"
-description: "Those magnificent bat ears need regular cleaning. Here's exactly how to clean your French Bulldog's ears safely, what products to use, and how to spot infections early — from real experience with Buster and Jago."
+title: "How to Clean French Bulldog Ears: A Step-by-Step Guide"
+description: "Those magnificent bat ears need regular cleaning. Here's exactly how to clean your French Bulldog's ears safely, what products to use, and how to spot infections early."
 date: 2026-03-04
 lastmod: 2026-03-04
 draft: false
@@ -20,9 +20,9 @@ Those ears. Those glorious, enormous, satellite-dish bat ears that make French B
 
 They're adorable. They're expressive. They're also surprisingly disgusting if you don't clean them regularly.
 
-I discovered this the hard way when Buster started shaking his head like he was disagreeing with everything I said. (More than usual, I mean.) Turned out his ears were gunky, irritated, and well on their way to an infection that cost us £85 at the vet.
+A Frenchie who starts shaking their head like they're disagreeing with everything you say may well have gunky, irritated ears on their way to an infection — and a vet bill.
 
-Lesson learned: clean those magnificent bat ears weekly, and you'll avoid the vet bill, the head-shaking, and the look of betrayal when you have to administer ear drops.
+The fix: clean those magnificent bat ears weekly, and you'll help avoid the vet bill, the head-shaking, and the look of betrayal when you have to administer ear drops.
 
 {{< callout type="tip" title="Quick Summary" >}}
 Clean your Frenchie's ears weekly with a vet-approved ear cleaner and cotton pads. Never use cotton buds. Takes 2 minutes per ear once you've got the routine down.
@@ -40,7 +40,7 @@ Not all dog ears are created equal. Frenchies have open, upright ears that act l
 - **Warmth** — the ear canal is warm and dark, making it a five-star hotel for yeast and bacteria
 - **Wrinkles at the base** — where the ear meets the head, moisture can collect in skin folds
 
-Jago's ears need more attention than Buster's. Whether that's genetics, his tendency to shove his head into every hedge he encounters, or just bad luck — he produces more ear wax and gets itchier if we skip a week.
+Some Frenchies need more ear attention than others. Whether that's genetics, a habit of shoving their head into every hedge they encounter, or just bad luck, some dogs produce more wax and get itchier if you skip a week.
 
 ## What You'll Need
 
@@ -55,7 +55,7 @@ Gather everything before you start. Chasing a Frenchie around the house with one
   price="£14.31"
   rating="4.6" />}}
 
-**Why this one:** Our vet recommended it. Non-irritating, dries the ear canal, and gentle enough for weekly use. It's the gold standard for dog ear cleaners and widely used by UK vets.
+**Why this one:** Non-irritating, dries the ear canal, and gentle enough for weekly use. It's the gold standard for dog ear cleaners and widely used by UK vets.
 
 **Also good:**
 
@@ -85,7 +85,7 @@ Gather everything before you start. Chasing a Frenchie around the house with one
 
 ### Step 1: Get Comfortable (Both of You)
 
-Choose a time when your Frenchie is relaxed — after a walk or during a calm evening is ideal. We do ears on the sofa during evening telly time. The boys are half-asleep and compliant.
+Choose a time when your Frenchie is relaxed — after a walk or during a calm evening is ideal. The sofa during evening telly time works well — a half-asleep dog is a compliant dog.
 
 Have your cleaner, cotton pads, and treats within arm's reach.
 
@@ -118,21 +118,19 @@ If something looks seriously wrong, don't try to fix it yourself. The vet needs 
 
 Hold the ear flap gently upward. Squeeze a few drops of ear cleaner into the ear canal — you don't need to flood it, just enough to coat the surface.
 
-**Buster's reaction:** Stoic acceptance. A single sigh. Continues sleeping.
-
-**Jago's reaction:** Tries to shake immediately. Hence the towel.
+Some dogs accept this with a single sigh. Others try to shake immediately. Hence the towel.
 
 ### Step 4: Massage the Base
 
 With the cleaner in, gently massage the base of the ear (where it meets the head) for 15-20 seconds. You should hear a squelching sound — that's normal and means the cleaner is working its way through the canal.
 
-This is the bit most dogs actually enjoy. Buster practically purrs. Jago tolerates it with the air of someone enduring a necessary indignity.
+This is the bit most dogs actually enjoy. The rest tolerate it with the air of someone enduring a necessary indignity.
 
 ### Step 5: Let Them Shake
 
 Now step back (or protect yourself with the towel) and let them shake. They will shake. Vigorously. This is physics doing the heavy lifting — the shaking brings loosened debris up and out of the ear canal.
 
-The first time Buster shook after ear cleaning, he sprayed ear cleaner across the living room wall. The cat was not impressed. We've since learned to do this on a wipe-clean surface.
+A good shake can spray ear cleaner across the living room wall, so do this on a wipe-clean surface.
 
 ### Step 6: Wipe Clean
 
@@ -150,7 +148,7 @@ Where the ear meets the head, there's often a small fold or wrinkle. This traps 
 
 Treats. Praise. More treats. You want ear cleaning to be associated with good things, not a wrestling match.
 
-Both boys now see the ear cleaner bottle and position themselves for the routine. Pavlov would be proud (again).
+Get this right and your Frenchie may eventually see the ear cleaner bottle and position themselves for the routine. Pavlov would be proud.
 
 ## How Often Should You Clean French Bulldog Ears?
 
@@ -163,7 +161,7 @@ Both boys now see the ear cleaner bottle and position themselves for the routine
 
 Over-cleaning can strip natural protective oils and cause irritation. Under-cleaning leads to buildup, odour, and infection. Weekly hits the balance.
 
-We clean ears every Sunday evening. It's part of the grooming routine: wrinkles, ears, paw check, done. Takes about 10 minutes for both dogs.
+It helps to fold ears into a weekly grooming routine: wrinkles, ears, paw check, done.
 
 ## Recognising Ear Infections
 
@@ -194,8 +192,6 @@ Even with regular cleaning, Frenchies can develop ear infections. Knowing the si
 
 Don't attempt to treat infections yourself with over-the-counter products. Get a vet diagnosis. They'll determine the type of infection and prescribe the right treatment — antibiotic drops for bacterial, antifungal for yeast, anti-parasitic for mites.
 
-Buster had one ear infection in his life. It was yeast-based, likely triggered by a food allergy we hadn't identified yet. A week of antifungal drops and a food switch sorted it. Since then — touch wood — clean ears all round.
-
 ## Ear Cleaning and Allergies: The Connection
 
 If your Frenchie has recurring ear problems despite regular cleaning, allergies are likely the culprit. Ears are often the first place allergy symptoms show up in French Bulldogs.
@@ -205,7 +201,7 @@ If your Frenchie has recurring ear problems despite regular cleaning, allergies 
 - Environmental allergies (pollen, dust mites, mould)
 - Contact allergies (certain shampoos, cleaning products, grass types)
 
-Jago's ears flare up in spring — pollen season. We clean twice weekly from March to June and it keeps things under control. If it gets worse, it's a vet visit for antihistamines.
+If your Frenchie's ears flare up in spring (pollen season), cleaning twice weekly through that period can help. If it gets worse, talk to your vet.
 
 **Signs it's allergy-related:**
 - Recurring infections despite clean routine
@@ -213,13 +209,13 @@ Jago's ears flare up in spring — pollen season. We clean twice weekly from Mar
 - Other allergy symptoms present (itchy skin, paw licking, sneezing)
 - Ear problems started after a food change
 
-If you suspect food allergies, an elimination diet under vet guidance is the gold standard. We switched Jago's food and his ears improved noticeably within three weeks. Coincidence? Possibly. But we're not switching back.
+If you suspect food allergies, an elimination diet under vet guidance is the gold standard.
 
-## Tips From Three Years of Ear Cleaning
+## Ear Cleaning Tips
 
 ### Make It Routine
 
-Same time, same place, same order. Dogs thrive on predictability. Our Sunday evening grooming session is now so routine that both boys assume the position without being asked.
+Same time, same place, same order. Dogs thrive on predictability, and a regular weekly session soon becomes something they expect rather than resist.
 
 ### Warm the Cleaner Slightly
 
@@ -235,7 +231,7 @@ Clean one ear fully before starting the second. It's easier to track what you've
 
 ### Partner Up If Needed
 
-If your Frenchie is a wriggler, one person holds and distracts while the other cleans. We managed solo from early on because we started young, but there's no shame in needing a second pair of hands.
+If your Frenchie is a wriggler, one person holds and distracts while the other cleans. Starting young makes solo cleaning easier later, but there's no shame in needing a second pair of hands.
 
 ## Frequently Asked Questions
 
@@ -265,9 +261,9 @@ Yes. Ear infections can cause head tilting, balance issues, and disorientation. 
 
 ---
 
-*Those bat ears are one of the best things about French Bulldogs. Keep them clean, catch problems early, and they'll stay healthy and magnificent. Buster's ears are currently picking up signals from three different postcodes.*
+*Those bat ears are one of the best things about French Bulldogs. Keep them clean, catch problems early, and they'll stay healthy and magnificent.*
 
-**Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes. Product recommendations are based on what we actually use with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
+**Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes. We may earn a commission on purchases made through links on this page. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
 - [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/) — The other essential cleaning routine

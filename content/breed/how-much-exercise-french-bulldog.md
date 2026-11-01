@@ -1,6 +1,6 @@
 ---
 title: "How Much Exercise Does a French Bulldog Need? (They're Not Lazy, Just Sensible)"
-description: "French Bulldogs aren't couch potatoes—they need proper exercise. Learn how much walking, playing, and activity is right for your Frenchie, from puppyhood through to senior years. UK-based real experience with Buster and Jago."
+description: "French Bulldogs aren't couch potatoes—they need proper exercise. Learn how much walking, playing, and activity is right for your Frenchie, from puppyhood through to senior years. A UK-based guide."
 slug: how-much-exercise-french-bulldog
 date: 2026-02-17
 draft: false
@@ -23,11 +23,11 @@ Let me address the elephant in the room: French Bulldogs have a reputation for b
 
 This is partially true, but also wildly misleading.
 
-Yes, Buster would happily spend 23 hours a day asleep given the option. Yes, Jago treats long walks like some sort of personal affront. But that doesn't mean they don't *need* proper exercise—it just means their requirements are different from, say, a Border Collie who'd run marathons given half the chance.
+Yes, plenty of Frenchies would happily spend 23 hours a day asleep given the option. Yes, some treat long walks like some sort of personal affront. But that doesn't mean they don't *need* proper exercise—it just means their requirements are different from, say, a Border Collie who'd run marathons given half the chance.
 
 The internet is awash with conflicting advice. Some sources say "20 minutes daily." Others insist "60 minutes minimum." Breeders say one thing, vets say another, and meanwhile, your Frenchie is looking at you expectantly with those enormous bat ears, and you've no idea if you're under-exercising them into obesity or over-exercising them into heatstroke.
 
-Let me clear this up using actual experience, veterinary guidance, and what genuinely works with Buster and Jago.
+Let's clear this up.
 
 ## The Short Answer (For Those in a Hurry)
 
@@ -73,11 +73,11 @@ Frenchies are compact, muscular, and heavy for their size (typically 10-14kg). T
 ### 3. **Respiratory Effort**
 Even moderate exercise requires significantly more effort for a Frenchie than for other breeds. What feels like a gentle walk to you might be genuinely exhausting for them.
 
-Jago can walk for 45 minutes happily in October. The same walk in July would potentially kill him. This isn't exaggeration—heatstroke is a leading cause of death in French Bulldogs.
+A walk a Frenchie handles happily in October could be dangerous in July. This isn't exaggeration—heatstroke is a leading cause of death in French Bulldogs.
 
-We don't walk during the day on hot days. Full stop. Rain is no problem — the boys have waterproof jackets and crack on regardless. But heat? Non-negotiable. Early morning or late evening, nothing in between.
+Don't walk during the day on hot days. Full stop. Rain is manageable with a waterproof coat. But heat? Non-negotiable. Early morning or late evening, nothing in between.
 
-Buster has a particular talent for going on strike in warm weather. He'll simply stop walking, roll onto his back, and show you his tummy as if to say "No more. I'm done. Carry me." The first time it happened I thought something was wrong. Now I know it's just Buster being Buster — he's decided the walk is over, and no amount of encouragement will change his mind. You pick him up and carry him home like an extremely heavy, extremely smug baby.
+Some Frenchies go on strike in warm weather: they simply stop walking, roll onto their back, and show you their tummy as if to say "No more. I'm done. Carry me." Take it seriously — check for signs of overheating, and be prepared to carry them home like an extremely heavy, extremely smug baby.
 
 ## Age-Specific Exercise Guidelines
 
@@ -105,7 +105,7 @@ Puppy bones, joints, and growth plates are still developing. Over-exercising can
 - Joint problems in adulthood
 - Growth abnormalities
 
-Buster came to me at 10 weeks. I was *shocked* at how little walking he needed. Twenty minutes total, and he was done. But that's normal and healthy.
+New owners are often *shocked* at how little walking a young puppy needs. A puppy who's done after a short spell is normal and healthy.
 
 **What puppies actually need more of:**
 - Short, frequent toilet breaks (every 1-2 hours)
@@ -133,7 +133,7 @@ Buster came to me at 10 weeks. I was *shocked* at how little walking he needed. 
 
 This is when you establish a sustainable routine.
 
-**The Buster & Jago schedule (what actually works):**
+**A sensible adult schedule:**
 
 **Morning walk:** 20-25 minutes
 - Toilet break immediately upon waking
@@ -159,11 +159,11 @@ This is when you establish a sustainable routine.
 - Sniffing games (hide treats, find them)
 - Food-dispensing toys like Kongs
 
-Jago needs more mental stimulation than Buster. If I skip the puzzle toys, he makes his own entertainment, which usually involves redesigning the house without my consent.
+Some Frenchies need more mental stimulation than others. Skip the puzzle toys and they'll make their own entertainment, which usually involves redesigning the house without your consent.
 
 **Individual variation matters:**
 
-Some Frenchies are genuinely more athletic. Some are couch potatoes. Some are like Jago—bursts of manic energy followed by 4-hour naps.
+Some Frenchies are genuinely more athletic. Some are couch potatoes. Some do bursts of manic energy followed by 4-hour naps.
 
 Watch YOUR dog:
 - Are they pulling on the lead wanting more? (Might need longer walks)
@@ -184,7 +184,7 @@ Older Frenchies still need exercise, but the approach changes.
 - **Avoid extremes:** No hot weather walks, shorter distances in cold
 - **Hydrotherapy:** Swimming (supervised, with life jacket) is excellent low-impact exercise
 
-Buster is 7 now. His walks are shorter than three years ago, but still daily. On cold days, he wears a fleece coat. On hot days (above 18°C), we walk at 6 AM and 9 PM, skipping midday entirely.
+Keep walks daily, even if they get shorter. On cold days, a fleece coat helps. On hot days, walk early and late, skipping midday entirely.
 
 **Watch for:**
 - Increased reluctance to walk (could indicate pain)
@@ -226,11 +226,9 @@ French Bulldogs can die from heatstroke at temperatures that barely feel warm to
 5. Contact vet IMMEDIATELY
 6. Get them to vet even if they seem to recover (delayed complications are common)
 
-Jago has come close once. I nearly lost him. Now if it's above 20°C, we skip daytime walks entirely and keep evening walks under 15 minutes. Not worth the risk.
+During a heatwave — which doesn't need to sound extreme to feel like the Sahara to a Frenchie — shift walks to very early and very late, keep the curtains closed during the day, and have a cooling mat ready.
 
-Last summer we had a week where Cornwall hit 26°C — which doesn't sound extreme, but for a Frenchie it might as well be the Sahara. We shifted walks to 6 AM and 9 PM, kept the curtains closed during the day, and the cooling mat became the most fought-over piece of real estate in the house.
-
-Buster went on a full walking strike for three days. Wouldn't even go past the front gate. Just sat down, gave me The Look, and that was that. Jago would have walked regardless — he's not bright enough to recognise his own limits — so we had to be the sensible ones for him.
+If your Frenchie refuses to go past the front gate on a hot day, respect it. And if yours would walk regardless, you have to be the sensible one for them — many Frenchies don't recognise their own limits.
 
 ### Cold Weather (Below 5°C): They Get Chilly Too
 
@@ -244,11 +242,11 @@ Despite being stocky, Frenchies don't have thick coats. They feel the cold.
 - Paw protection if snow/ice/road salt (boots or paw balm)
 - Watch for shivering (they're too cold, head home)
 
-Buster has a Barbour-style waxed coat for winter. He looks ridiculous. He also stays warm and dry. Practicality wins.
+A waxed coat may look ridiculous on a Frenchie. It also keeps them warm and dry. Practicality wins.
 
 ### Rain: Most Frenchies Are Not Fans
 
-Buster views rain as a personal insult. Jago doesn't mind but will stage a dramatic protest if it's particularly heavy.
+Many Frenchies view rain as a personal insult. Even the ones who don't mind will often stage a dramatic protest if it's particularly heavy.
 
 **Rainy day solutions:**
 - Very short toilet break walks (5-10 mins)
@@ -271,7 +269,7 @@ Walking isn't the only form of exercise. French Bulldogs benefit from variety.
 
 Short bursts of play are excellent:
 - Tug-of-war (teaches "drop it," provides resistance training)
-- Fetch (if they'll bring it back—Jago will not)
+- Fetch (if they'll bring it back—many won't)
 - Gentle chase games (you chase them, not the reverse)
 
 **Keep it short:** 5-10 minute play sessions. Frenchies can't regulate intensity—they'll play until they collapse if you let them.
@@ -286,7 +284,7 @@ Mental exercise is exhausting. 10 minutes of focused training can tire a Frenchi
 - Scent work (hide treats, teach "find it")
 - Impulse control (wait, leave it)
 
-Buster knows seventeen different commands. This isn't because I'm a brilliant trainer—it's because I needed to tire out his brain when weather prevented walking.
+Bad-weather days are a great excuse to build up a repertoire of commands — tiring out their brain when weather prevents walking.
 
 ### 3. **Swimming (With EXTREME Caution)**
 
@@ -301,7 +299,7 @@ French Bulldogs are not natural swimmers. Their heavy heads and short legs make 
 
 More here: [our guide on French Bulldogs and swimming](/breed/can-french-bulldogs-swim/)
 
-I don't swim Buster or Jago. The risks outweigh benefits in my view.
+In our view, the risks outweigh the benefits.
 
 ### 4. **Nose Work**
 
@@ -338,7 +336,7 @@ A few tools make Frenchie exercise safer and more effective.
     image="/images/products/amazon-b0dn4dz7jn.jpg"
     rating="4.3"
 >}}
-**Hot weather safety:** Genuinely effective at reducing body temperature during walks. Worth the investment if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/gear/best-cooling-vest-french-bulldog/)
+**Hot weather safety:** Designed to help keep body temperature down during walks. Worth considering if you live somewhere that gets warm summers. Full review: [our cooling vest guide](/gear/best-cooling-vest-french-bulldog/)
 {{< /product-card >}}
 
 {{< product-card 
@@ -349,7 +347,7 @@ A few tools make Frenchie exercise safer and more effective.
     url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp"
     price="£8.79"
 >}}
-**Mental exercise:** Frozen Kong keeps Jago occupied for 30+ minutes. More mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
+**Mental exercise:** A frozen Kong can keep a Frenchie occupied for a good while, and can be more mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
 {{< /product-card >}}
 
 {{< product-card 
@@ -419,9 +417,9 @@ A few tools make Frenchie exercise safer and more effective.
 
 **Solution:** Reduce duration/intensity. Check for injuries. Consult vet if symptoms persist.
 
-## My Actual Routine (Real-World Example)
+## A Sample Daily Routine
 
-People always ask what I *actually* do with Buster and Jago. Here's the honest answer:
+Here's what a typical day could look like for an adult Frenchie:
 
 **Standard weekday (mild weather, 10-18°C):**
 
@@ -431,7 +429,7 @@ People always ask what I *actually* do with Buster and Jago. Here's the honest a
 - Mix of pavement and grass
 - They set the pace (usually leisurely)
 - Lots of sniffing
-- Both poo at least once (glamorous life I lead)
+- Toilet stop (glamorous life, this)
 
 **7:15 AM:** Breakfast
 
@@ -468,13 +466,11 @@ People always ask what I *actually* do with Buster and Jago. Here's the honest a
 - More training/play
 - Still broken into manageable chunks
 
-Our actual routine: one walk a day, about a mile and a half. Sometimes in the woods, sometimes on the street. They always go together — we've tried walking them separately and neither is impressed by the arrangement.
+Treat this as a template, not a rule — your Frenchie's energy levels and the weather will shape it. If you have two, some days one will want to keep going while the other decides the walk is over by rolling onto their back in the middle of the pavement and refusing to move. Passersby will think they're injured. They're not. They're just done.
 
-Jago has more energy. Always has. He'd walk all day if you let him (and if the weather cooperated). Buster gives up first — every time. He's the one who decides when the walk is over, usually by deploying the "Buster Strike": rolling onto his back in the middle of the pavement and refusing to move. It's quite the spectacle. Passersby think he's injured. He's not. He's just done.
+And then there are the zoomies — you know, those unexplained bursts of insanity where they sprint around the house at 90mph, bouncing off furniture, eyes wild, for approximately 45 seconds before collapsing in a heap and pretending it never happened. Frenchie owners know exactly what we're talking about.
 
-Apart from walks, the only real exercise they get is the odd random zoomies — you know, those unexplained bursts of insanity where they sprint around the house at 90mph, bouncing off furniture, eyes wild, for approximately 45 seconds before collapsing in a heap and pretending it never happened. Frenchie owners know what I'm talking about.
-
-## Common Mistakes (I've Made Most of These)
+## Common Mistakes
 
 ### 1. **Treating All Dogs the Same**
 
@@ -526,8 +522,6 @@ If your Frenchie is overweight:
 4. Cut treat calories
 5. Weigh weekly, adjust plan accordingly
 
-Jago put on weight last winter. I reduced his dinner by 20g and added 10 minutes to morning walks. Took three months, but he's back to healthy weight now.
-
 ## The Mental Health Factor
 
 Exercise isn't just physical—it's essential for mental wellbeing.
@@ -575,15 +569,13 @@ Get it right, and you'll have a healthy-weight Frenchie with good muscle tone, m
 
 Get it wrong—either too much or too little—and you'll have health problems, behavioural issues, or worse.
 
-Buster and Jago might grumble about the early alarm for morning walks. They might stage protests when it's raining. They might plonk their arses down halfway home because they've decided they're done.
+Your Frenchie might grumble about the early alarm for morning walks. They might stage protests when it's raining. They might plonk their arse down halfway home because they've decided they're done.
 
-But they also perk up when they hear the lead jingle. They wiggle with excitement at the door. They sniff every lamppost like they're reading the morning newspaper. And they sleep contentedly after a good walk.
+But they'll also perk up when they hear the lead jingle. They wiggle with excitement at the door. They sniff every lamppost like they're reading the morning newspaper. And they sleep contentedly after a good walk.
 
 That's how you know you're getting it right.
 
-Now get your harness, check the weather forecast, and take your Frenchie for a sensible, well-timed, appropriately-lengthed walk. They'll thank you for it.
-
-Well, Jago won't. But Buster might give you a dignified nod of approval.
+Now get your harness, check the weather forecast, and take your Frenchie for a sensible, well-timed, appropriately-lengthed walk. They'll thank you for it. Or at least give you a dignified nod of approval.
 
 ---
 
@@ -593,4 +585,4 @@ Well, Jago won't. But Buster might give you a dignified nod of approval.
 - [our guide on French Bulldogs and swimming](/breed/can-french-bulldogs-swim/) - Swimming safety (or why not to)
 - [the best toys for French Bulldogs](/gear/best-toys-french-bulldogs/) - Mental stimulation alternatives
 
-**Disclaimer:** This guide is based on personal experience and veterinary advice. Individual Frenchies may have different needs based on health conditions. Always consult your vet if you're concerned about your dog's exercise tolerance or health.
+**Disclaimer:** This guide is general information, not veterinary advice. Individual Frenchies may have different needs based on health conditions. Always consult your vet if you're concerned about your dog's exercise tolerance or health.
