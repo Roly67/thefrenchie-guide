@@ -324,7 +324,7 @@ A few tools make Frenchie exercise safer and more effective.
     price="£23.99"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
-    url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp"
     price="£23.99"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/gear/best-harness-french-bulldog/)
@@ -333,7 +333,7 @@ A few tools make Frenchie exercise safer and more effective.
 {{< product-card 
     name="Ruffwear Swamp Cooler Cooling Vest"
     description="Evaporative cooling vest for hot-weather walks. Soak in water, wring out, put on dog. Provides cooling for 2-4 hours. Reflective trim."
-    url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp"
     price="£85.99"
     image="/images/products/amazon-b0dn4dz7jn.jpg"
     rating="4.3"
@@ -346,7 +346,7 @@ A few tools make Frenchie exercise safer and more effective.
     price="£8.79"
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
-    url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp"
     price="£8.79"
 >}}
 **Mental exercise:** Frozen Kong keeps Jago occupied for 30+ minutes. More mentally tiring than a short walk. Essential for hot days when outdoor exercise is dangerous.
@@ -357,7 +357,7 @@ A few tools make Frenchie exercise safer and more effective.
     price="£3.27"
     rating="4.4"
     image="/images/products/amazon-b01arbs2s8.jpg"
-    url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp"
     price="£3.27"
 >}}
 **Hydration essential:** Always carry water for Frenchies, especially in weather above 15°C. They overheat quickly and need frequent drinking opportunities.
@@ -368,7 +368,7 @@ A few tools make Frenchie exercise safer and more effective.
     price="£21.99"
     rating="4.6"
     image="/images/products/amazon-b07547329h.jpg"
-    url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp"
     price="£21.99"
 >}}
 **Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
@@ -379,7 +379,7 @@ A few tools make Frenchie exercise safer and more effective.
     price="£9.59"
     rating="4.4"
     image="/images/products/amazon-b0711y9y8w.jpg"
-    url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp"
     price="£9.59"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
