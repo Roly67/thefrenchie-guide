@@ -98,9 +98,9 @@ For summer months, these help:
 
 ## Best Beds for French Bulldogs: Our Recommendations
 
-### 1. Best Overall (Our Pick): ANWA Donut Calming Bed
+### 1. Best Overall (Our Pick): ANWA Calming Donut Bed
 
-**Why it won:** Both Buster and Jago took to these immediately — no coaxing, no treats-on-the-bed strategy, just instant acceptance. They curl up in them every single night in their crates, and we've bought multiples so there's one in every room that matters.
+**Why it's here:** Donut beds are the style Frenchies tend to settle into fastest — the raised rim gives them a chin rest and that enclosed "nest" feeling. ANWA's calming donut is one of the most-reviewed on Amazon UK, and the 30" size suits an adult Frenchie without swamping a crate.
 
 {{< product-card
   name="ANWA Calming Donut Dog Bed"
@@ -111,14 +111,12 @@ For summer months, these help:
 
 **Key features:**
 - Raised donut rim for head and chin support
-- Soft, plush material that Frenchies gravitate toward
-- Machine washable (essential — we wash ours fortnightly)
-- Available in cooling and warming versions
-- Affordable enough to buy multiples for different rooms
+- Soft, plush faux-fur surface
+- Machine washable
+- 30" size — right for an adult Frenchie
+- Affordable enough to buy more than one
 
-**Real-world testing:** Buster circles twice, collapses into his donut, and is snoring within minutes. That snoring, by the way, sounds like a motorbike idling in a cave. Jago curls up tight against the rim and tucks his nose under the edge. Both have used these every night for over a year now.
-
-**Why multiples:** We have three of these. Crate beds, living room, office. When you find something your Frenchie loves, don't overthink it — just buy more.
+**Worth knowing:** This is a warm, plush bed — great for winter and crates, less so in a heatwave. Pair it with a cooler option (see the elevated bed below) for summer.
 
 ### 2. Best Orthopedic: Bedsure Orthopedic Dog Bed
 
@@ -140,9 +138,9 @@ For summer months, these help:
 
 **Best for:** Older Frenchies, dogs with diagnosed joint issues, or owners who want maximum orthopaedic support.
 
-### 3. Best for Summer: Elevated Cooling Cot Bed
+### 3. Best for Summer: Veehoo Raised Bed
 
-**Why it's here:** In summer, our boys gravitate away from plush beds toward cooler surfaces (hence the doormat obsession). An elevated cot bed lets air circulate underneath, keeping them cooler than any ground-level option.
+**Why it's here:** In summer, our boys gravitate away from plush beds toward cooler surfaces (hence the doormat obsession). A raised mesh bed lets air circulate underneath, keeping a Frenchie cooler than any ground-level option. Veehoo's medium has a steel frame, breathable mesh and a removable bolster for a chin rest.
 
 {{< product-card
   name="Veehoo Raised Dog Bed with Bolster"
@@ -155,10 +153,10 @@ For summer months, these help:
 - Raised mesh design for airflow
 - Breathable fabric stays cool
 - Sturdy steel frame
-- Easy to clean — just hose it down
+- Removable, washable bolster; wipe-clean mesh
 - Indoor or outdoor use
 
-**Caveat:** Not all Frenchies take to elevated beds. Some find them unstable or struggle to get on. Jago loves ours. Buster looked at it once, sighed, and went back to the doormat. Classic Buster.
+**Caveat:** Not all Frenchies take to elevated beds. Some find them unstable or struggle to get on, so put a familiar blanket on it at first and let them investigate in their own time.
 
 ### 4. Best Budget: Amazon Basics Round Bolster Bed
 
@@ -173,9 +171,11 @@ For summer months, these help:
 
 **Key features:**
 - Full bolster surround
-- Removable, machine-washable cover
-- Soft sherpa lining
+- Whole bed is machine washable
+- Soft flannel top
 - Affordable enough to replace regularly
+
+**Size check:** At 50cm across it's on the small side for an adult Frenchie — better as a puppy bed or a curl-up spot than a main bed.
 
 **Honest note:** The padding compresses faster than premium options. Expect to replace annually. But at this price, that's still reasonable.
 
@@ -183,10 +183,10 @@ For summer months, these help:
 
 | Bed | Type | Price | Best For | Washable |
 |-----|------|-------|----------|----------|
-| **ANWA Donut** | Calming/donut | ~£35 | Everyday use, crates | ✅ Machine |
-| **Bedsure Ortho** | Orthopedic bolster | ~£40 | Joint support, older dogs | ✅ Cover only |
-| **Veehoo Elevated** | Cooling cot | ~£25 | Summer, overheating | ✅ Hose down |
-| **Amazon Basics** | Budget bolster | ~£18 | Secondary bed, starter | ✅ Machine |
+| **ANWA Donut** | Calming/donut | ~£40 | Everyday use, crates | ✅ Machine |
+| **Bedsure Ortho** | Orthopedic bolster | ~£31 | Joint support, older dogs | ✅ Cover only |
+| **Veehoo Raised** | Raised mesh bed | ~£56 | Summer, overheating | ✅ Bolster; wipe mesh |
+| **Amazon Basics** | Budget bolster | ~£13 | Secondary bed, starter | ✅ Machine |
 
 ## Beds to Avoid
 
