@@ -209,7 +209,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 | Treat | Best For | Price | Protein | Texture | Allergy-Friendly |
 |-------|----------|-------|---------|---------|------------------|
 | **JR Pure Pate** | Training, value | ~£5/roll | Single-source | Soft (cuttable) | ✓ (pick protein) |
-| **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | ~£2.50/bag | Salmon | Baked treat | ✓ |
+| **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | ~£2.50/bag | Salmon | Crunchy bites | ✓ |
 | **Whimzees Dental** | Dental health | ~£4/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
 | **Forthglade Chews** | Long-lasting, natural | ~£3-5/pack | Single-source | Air-dried chew | ✓ (pick protein) |
 | **Lily's Kitchen Training** | High-value, soft | ~£3.50/bag | Duck/venison | Soft, small | ✓ (pick flavour) |
