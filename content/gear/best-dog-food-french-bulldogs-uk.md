@@ -85,10 +85,10 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Forthglade Natural Grain-Free Complete Variety Pack"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/forthglade-variety.jpg"
-  price="~£30"
-  rating="4.7" />}}
+  url="https://www.amazon.co.uk/dp/B00Y19A9BQ/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00y19a9bq.jpg"
+  price="£22.20"
+  rating="4.4" />}}
 
 **Key features:**
 - Named meat protein first (minimum 75% meat)
@@ -109,10 +109,10 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Lily's Kitchen Adult Chicken & Duck Complete Dry Food"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/lilys-kitchen-chicken.jpg"
-  price="~£42"
-  rating="4.5" />}}
+  url="https://www.amazon.co.uk/dp/B00BSSMLT6/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00bssmlt6.jpg"
+  price="£48.50"
+  rating="4.6" />}}
 
 **Key features:**
 - Freshly prepared meat as first ingredient
@@ -129,10 +129,10 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Royal Canin French Bulldog Adult"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/royal-canin-frenchie.jpg"
-  price="~£55"
-  rating="4.6" />}}
+  url="https://www.amazon.co.uk/dp/B00U6WJRVA/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00u6wjrva.jpg"
+  price="£47.39"
+  rating="4.7" />}}
 
 **Key features:**
 - Kibble designed for brachycephalic jaws
@@ -149,10 +149,10 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Harringtons Grain Free Chicken & Sweet Potato"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/harringtons-grain-free.jpg"
-  price="~£20"
-  rating="4.4" />}}
+  url="https://www.amazon.co.uk/dp/B08C3492LX/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b08c3492lx.jpg"
+  price="£48.59"
+  rating="4.6" />}}
 
 **Key features:**
 - Named chicken as first ingredient
@@ -169,10 +169,10 @@ If your Frenchie prefers wet food (or you want to mix it with kibble), Forthglad
 
 {{< product-card
   name="Forthglade Just Chicken Natural Wet Dog Food"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/forthglade-just-chicken.jpg"
-  price="~£18 (12 pack)"
-  rating="4.6" />}}
+  url="https://www.amazon.co.uk/dp/B072KGN4XX/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b072kgn4xx.jpg"
+  price="£27.39"
+  rating="4.4" />}}
 
 ## Quick Comparison
 
