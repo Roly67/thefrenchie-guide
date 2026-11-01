@@ -84,10 +84,10 @@ We've put these through their paces during Cornwall's "summer" and a particularl
 
 {{< product-card 
   name="Ruffwear Swamp Cooler Cooling Vest"
-  price="£291.98"
-  rating="4.5"
-  url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
-  image="/images/products/amazon-b01mz9d28n.jpg" >}}
+  price="£85.99"
+  rating="4.3"
+  url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp"
+  image="/images/products/amazon-b0dn4dz7jn.jpg" >}}
 
 **Pros:**
 - Genuinely effective evaporative cooling that lasts
@@ -182,10 +182,10 @@ The belly coverage is particularly good for Frenchies who like to lie on cool su
 
 {{< product-card 
   name="Hifrenchies Cooling Harness Vest"
-  price="£28.95"
-  rating="4.3"
-  url="https://www.amazon.co.uk/s?k=bullhug+cooling+vest+dog&tag=broadbandhelp"
-  image="/images/products/hifrenchies-cooling-harness.jpg" >}}
+  price="£17.99"
+  rating="3.4"
+  url="https://www.amazon.co.uk/dp/B089W7D5VG/?tag=broadbandhelp"
+  image="/images/products/amazon-b089w7d5vg.jpg" >}}
 
 **Pros:**
 - Dual-purpose: cooling vest + walking harness
@@ -387,7 +387,7 @@ Buster and Jago thank you for your diligence. (Well, Buster thanks you. Jago jus
 
 {{< affiliate-button 
   text="View the Ruffwear Swamp Cooler on Amazon"
-  url="https://www.amazon.co.uk/dp/B01MZ9D28N?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B0DN4DZ7JN/?tag=broadbandhelp"
 >}}
 
 ---
