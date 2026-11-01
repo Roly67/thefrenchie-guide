@@ -88,7 +88,7 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="Anicura Natural Dog Shampoo"
-  url="https://www.amazon.co.uk/dp/B00N58WRUA/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00N58WRUA/?tag=broadbandhelp"
   image="/images/products/amazon-b00n58wrua.jpg"
   price="£17.00"
   rating="4.4" />}}
@@ -108,7 +108,7 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="WildWash Sensitive Skin Shampoo"
-  url="https://www.amazon.co.uk/dp/B00GLPD8IY/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00GLPD8IY/?tag=broadbandhelp"
   image="/images/products/amazon-b00glpd8iy.jpg"
   price="£16.95"
   rating="4.5" />}}
@@ -128,7 +128,7 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="Johnson's Vet Hypo-Allergenic Shampoo"
-  url="https://www.amazon.co.uk/dp/B00GNBFNH0/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00GNBFNH0/?tag=broadbandhelp"
   image="/images/products/amazon-b00gnbfnh0.jpg"
   price="£6.75"
   rating="4.5" />}}
@@ -147,7 +147,7 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="Pet Head Sensitive Soul Shampoo"
-  url="https://www.amazon.co.uk/dp/B08P4SFRNN/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B08P4SFRNN/?tag=broadbandhelp"
   image="/images/products/amazon-b08p4sfrnn.jpg"
   price="£10.00"
   rating="4.5" />}}
@@ -166,7 +166,7 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="Douxo S3 PYO Antiseptic Shampoo"
-  url="https://www.amazon.co.uk/dp/B083G56GSV/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B083G56GSV/?tag=broadbandhelp"
   image="/images/products/amazon-b083g56gsv.jpg"
   price="£16.25"
   rating="4.6" />}}
