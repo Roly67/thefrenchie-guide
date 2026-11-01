@@ -124,10 +124,10 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Ancol Muddy Paws Stormguard Dog Coat"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/ancol-stormguard.jpg"
-  price="~£18"
-  rating="4.3" />}}
+  url="https://www.amazon.co.uk/dp/B005FF1A9K/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b005ff1a9k.jpg"
+  price="£14.95"
+  rating="4.5" />}}
 
 **Key features:**
 - Fully waterproof outer
@@ -144,11 +144,11 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 **Why it's here:** When it's cold but not raining, you need warmth without waterproofing bulk. The Equafleece is like a cosy jumper — lightweight, warm, and Frenchies seem to love wearing it. It's also UK-made.
 
 {{< product-card
-  name="Equafleece Dog Jumper"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/equafleece-jumper.jpg"
-  price="~£30"
-  rating="4.7" />}}
+  name="Hotterdog Fleece Jumper (from Equafleece)"
+  url="https://www.amazon.co.uk/dp/B006929UXQ/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b006929uxq.jpg"
+  price="£24.25"
+  rating="4.3" />}}
 
 **Key features:**
 - Polartec fleece — warm, breathable, quick-drying
@@ -166,10 +166,10 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Hurtta Downpour Suit"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/hurtta-downpour.jpg"
-  price="~£55"
-  rating="4.4" />}}
+  url="https://www.amazon.co.uk/dp/B078XSM2GC/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b078xsm2gc.jpg"
+  price="£64.99"
+  rating="4.7" />}}
 
 **Key features:**
 - Full body coverage including legs and belly
@@ -186,10 +186,10 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Danish Design Ultimate 2-in-1 Dog Coat"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/danish-design-2in1.jpg"
-  price="~£25"
-  rating="4.4" />}}
+  url="https://www.amazon.co.uk/dp/B00BNX46SU/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00bnx46su.jpg"
+  price="£25.23"
+  rating="4.5" />}}
 
 **Key features:**
 - Waterproof outer with detachable fleece inner
