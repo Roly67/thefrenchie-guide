@@ -110,20 +110,17 @@ It also suits very different play styles: the dog who chews with the focused det
 
 {{< /product-card >}}
 
-### 2. Nylabone Power Chew DuraChew
+### 2. Nylabone Power Chew Donut
 
 {{< product-card 
-  name="Nylabone Power Chew DuraChew Textured Ring"
-  image="/images/products/amazon-b003almw0m.jpg"
-  rating="4.6"
-  price="£17.99"
-  where="Amazon UK / Pets at Home"
-  url="https://www.amazon.co.uk/dp/B003ALMW0M?tag=broadbandhelp"
+  name="Nylabone Power Chew Donut (Medium)"
+  where="Amazon UK"
+  url="https://www.amazon.co.uk/dp/B0CVJQRLVK?tag=broadbandhelp"
   affiliate="true" >}}
 
 For serious chewers, Nylabone's Power Chew range is purpose-built for dogs with powerful jaws. These aren't edible — they're designed to be gnawed on.
 
-**Why it works:** The textured surface is designed to help clean teeth and massage gums as they chew. The flavours (bacon, chicken, peanut butter) keep them interested, though I suspect they're more suggestion than actual taste.
+**Why it works:** A donut shape is easy for a flat face to grip, and the textured surface is designed to help clean teeth as they chew. This one is bacon-flavoured, though I suspect that's more suggestion than actual taste.
 
 **Important:** These are for chewing, not eating. If your Frenchie is an aggressive destroyer who tries to *consume* everything, supervise the first few sessions, and replace the chew once it's worn down or pieces start to come off.
 
@@ -199,12 +196,9 @@ This looks like a shaggy rug had a baby with a dog toy. Hide kibble or treats in
 ### 6. KONG Wobbler
 
 {{< product-card 
-  name="KONG Wobbler Interactive Treat Toy"
-  image="/images/products/amazon-b07542nrbn.jpg"
-  rating="3.7"
-  price="£6.99"
+  name="KONG Wobbler (Small)"
   where="Pets at Home / Amazon UK"
-  url="https://www.amazon.co.uk/dp/B07542NRBN?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B004NSVIRY?tag=broadbandhelp"
   affiliate="true" >}}
 
 Imagine a Weeble (remember those? "Weebles wobble but they don't fall down"?) crossed with a treat dispenser. Your Frenchie bats it around, and kibble falls out of the hole at unpredictable intervals.
@@ -227,11 +221,8 @@ Either way, if your Frenchie does enjoy fetch, you need the right tools.
 
 {{< product-card 
   name="Chuckit! Breathe Right Fetch Ball (Medium, 2-Pack)"
-  image="/images/products/amazon-b07d3fz15j.jpg"
-  rating="4.4"
-  price="£10.89"
   where="Amazon UK"
-  url="https://www.amazon.co.uk/dp/B07D3FZ15J?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B075NP9MWG?tag=broadbandhelp"
   affiliate="true" >}}
 
 The hollow, lattice-like design allows air to flow through even when it's in your Frenchie's mouth — the point being to avoid wheezing after three throws.
@@ -295,12 +286,9 @@ Soft and cuddly on the outside, but with an internal knotted rope skeleton. Less
 ### 10. ZippyPaws Skinny Peltz (No Stuffing Plush)
 
 {{< product-card 
-  name="ZippyPaws Skinny Peltz Fox"
-  image="/images/products/amazon-b0002asnac.jpg"
-  rating="4.4"
-  price="£9.79"
+  name="ZippyPaws Skinny Peltz 3-Pack (Fox, Raccoon & Squirrel, Large)"
   where="Amazon UK"
-  url="https://www.amazon.co.uk/dp/B0002ASNAC?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B00P0YQYYW?tag=broadbandhelp"
   affiliate="true" >}}
 
 These long, thin plush toys have squeakers in the head and tail but zero stuffing in the body. When your Frenchie inevitably "kills" it, there's no polyfill explosion all over your living room.

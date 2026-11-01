@@ -75,12 +75,9 @@ This isn't optional. Regular cleaners don't remove the scent markers that tell y
 **4. Puppy pads** (controversial, but useful for flats/apartments)
 
 {{< product-card 
-  name="Pet's Hub Training Pads (50 Pack)"
-  image="/images/products/amazon-b00mw8g3yu.jpg"
-  rating="4.5"
-  price="£9.91"
+  name="Pet's Hub Training Pads (50 Pack, 56x56cm)"
   retailer="Amazon UK"
-  url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
+  url="https://www.amazon.co.uk/dp/B0FNS6Y165?tag=broadbandhelp" >}}
 Absorbent pads for indoor emergencies. Some trainers say pads teach indoor weeing. We say they're a godsend if you live on the third floor and your puppy needs to go NOW.
 {{< /product-card >}}
 
@@ -386,12 +383,9 @@ Here's what's worth having:
 ### Training Pads (For Flats/Emergency Backup)
 
 {{< product-card 
-  name="Pet's Hub Training Pads (50 Pack)"
-  image="/images/products/amazon-b00mw8g3yu.jpg"
-  rating="4.5"
-  price="£9.91"
+  name="Pet's Hub Training Pads (50 Pack, 56x56cm)"
   retailer="Amazon UK"
-  url="https://www.amazon.co.uk/dp/B00MW8G3YU?tag=broadbandhelp" >}}
+  url="https://www.amazon.co.uk/dp/B0FNS6Y165?tag=broadbandhelp" >}}
 **Why it's worth it:** Absorbent pads for flats and indoor emergencies. At 56x56cm they're big enough for most puppies.
 {{< /product-card >}}
 

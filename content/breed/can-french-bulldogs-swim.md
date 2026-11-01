@@ -111,19 +111,17 @@ Look for:
 - **Bright colours** (so you can spot them immediately)
 - **Adjustable straps** (Frenchies are barrel-shaped; one size does not fit all)
 
-The **Outward Hound PupSaver Life Jacket** ticks these boxes for brachycephalic breeds.
+The **Outward Hound Granby Splash** is a popular option that covers the basics: bright orange, a grab handle and adjustable straps. Check the size guide against your Frenchie's chest measurement, and try it on in the bath or a paddling pool first.
 
-{{< product-card name="Outward Hound PupSaver Ripstop Life Jacket" price="£24.04" rating="4.5" url="https://www.amazon.co.uk/dp/B0081XIKY6?tag=broadbandhelp" image="/images/products/amazon-b0081xiky6.jpg" >}}
+{{< product-card name="Outward Hound Granby Splash Dog Life Jacket (Medium)" url="https://www.amazon.co.uk/dp/B0081XIKYG?tag=broadbandhelp" >}}
 
-**Why it's brilliant for Frenchies:**
-- **Front chin float** keeps their head elevated (crucial for brachycephalic breeds)
-- **High flotation panels** positioned for top-heavy dogs  
-- **Ripstop material** for durability
-- **Multiple grab handles** for quick extraction
-- **Reflective strips** for visibility
-- **Adjustable straps** accommodate the Frenchie barrel shape
+**What to check on any life jacket for a Frenchie:**
+- **Flotation under the chin or chest**, to keep a heavy head up (crucial for brachycephalic breeds)
+- **A strong grab handle** on the back for quick extraction
+- **Adjustable chest and neck straps**, to fit a barrel shape without gaps
+- **Bright colour or reflective trim**, so you can spot them in the water
 
-**The not-so-brilliant bits:**
+**Worth knowing:**
 - Sizing can be confusing (measure carefully)
 - Some dogs will need bribes to cooperate
 - Won't make your Frenchie a good swimmer (nothing will), just a *safe* swimmer
@@ -349,8 +347,8 @@ Just remember: these dogs are designed for sofas, not seas. Respect their limita
 And for the love of everything, get a life jacket.
 
 {{< affiliate-button 
-  text="View the Outward Hound PupSaver Life Jacket"
-  url="https://www.amazon.co.uk/dp/B0081XIKY6?tag=broadbandhelp"
+  text="View the Outward Hound Granby Splash Life Jacket"
+  url="https://www.amazon.co.uk/dp/B0081XIKYG?tag=broadbandhelp"
 >}}
 
 ---
