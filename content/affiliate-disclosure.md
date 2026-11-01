@@ -20,21 +20,20 @@ When we link to a product on Amazon, pet product retailers, or other online stor
 For example:
 - We're part of the **Amazon Associates Programme** and other affiliate networks.
 - When you buy something through our Amazon links, Amazon pays us a small commission.
-- This helps us keep the site running and allows us to continue testing products and creating helpful content.
+- This helps us keep the site running and continue creating helpful content.
 
 ### What We Recommend
 
 Here's our promise to you:
 
-✅ **We only recommend products we've actually used** — Buster and Jago test everything we feature.  
-✅ **We're honest about what works and what doesn't** — If a product is rubbish, we'll tell you.  
+✅ **We're clear about how products are chosen** — Our recommendations are based on product listings, ingredients and specifications, verified customer reviews, and the specific needs of French Bulldogs. Unless an article explicitly says otherwise, we have not personally tested the products we feature.  
+✅ **We're honest about drawbacks** — If a product has known weaknesses, we'll tell you.  
 ✅ **Affiliate earnings don't influence our opinions** — We'd rather earn nothing than recommend something poor.  
 ✅ **We disclose all affiliate relationships** — You'll always know when a link is an affiliate link.
 
 ### How We Use Affiliate Income
 
 The income we earn from affiliate links helps us:
-- Test new products for our dogs
 - Pay for web hosting and site maintenance
 - Create detailed, helpful content
 - Keep the site ad-free (or minimal ads)
@@ -65,4 +64,4 @@ Email: hello@thefrenchieguide.com
 
 ---
 
-*Thank you for supporting The Frenchie Guide. Your trust means everything to us — and to Buster and Jago!* 🐾
+*Thank you for supporting The Frenchie Guide. Your trust means everything to us!* 🐾

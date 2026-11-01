@@ -13,11 +13,11 @@ By using The Frenchie Guide (https://thefrenchieguide.com), you agree to these t
 
 ### What this site is
 
-The Frenchie Guide is a personal blog sharing our experience as French Bulldog owners. We write product reviews, care guides, and training tips based on our own experience with our dogs, Buster and Jago.
+The Frenchie Guide is a personal blog run by French Bulldog owners. We write product guides, care guides, and training tips for French Bulldog owners. Our product recommendations are based on product listings, ingredients and specifications, verified customer reviews, and the specific needs of the breed.
 
 ### Not professional advice
 
-**Our content is not veterinary, medical, or professional advice.** Everything we share is based on personal experience as dog owners, not professional qualifications. Always consult a qualified veterinarian for health concerns about your dog.
+**Our content is not veterinary, medical, or professional advice.** We are dog owners, not qualified professionals, and nothing here is a substitute for professional advice. Always consult a qualified veterinarian for health concerns about your dog.
 
 We do our best to ensure our content is accurate and up to date, but we make no guarantees about its completeness, reliability, or suitability for your situation. Every dog is different.
 
@@ -25,7 +25,7 @@ We do our best to ensure our content is accurate and up to date, but we make no 
 
 Some links on this site are affiliate links. If you click one and make a purchase, we may earn a small commission at no extra cost to you. This helps us keep the site running.
 
-Affiliate relationships never influence our opinions. We only recommend products we've personally tested with our own dogs. For full details, see our [Affiliate Disclosure](/affiliate-disclosure/).
+Affiliate relationships never influence our opinions. Unless an article explicitly says otherwise, we have not personally tested the products we feature. For full details, see our [Affiliate Disclosure](/affiliate-disclosure/).
 
 ### Intellectual property
 

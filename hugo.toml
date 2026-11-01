@@ -14,7 +14,7 @@ pagerSize = 10
 home = ["HTML", "RSS", "JSON"]
 
 [params]
-description = "Real advice from real Frenchie parents. Product reviews, care guides, and tips for French Bulldog owners — tested by Buster & Jago."
+description = "Real advice from real Frenchie parents. Product reviews, care guides, and tips for French Bulldog owners."
 author = "The Frenchie Guide Team"
 images = ["/images/og-default.jpg"]
 
@@ -62,7 +62,7 @@ text = "The Frenchie Guide"
 Title = "Welcome to The Frenchie Guide"
 Content = """
 Real advice from real Frenchie parents. We're Buster & Jago's humans, based in Cornwall, UK.
-Here you'll find honest product reviews, care guides, and tips for French Bulldog owners — tested by our own pups.
+Here you'll find honest product reviews, care guides, and tips for French Bulldog owners.
 
 **New here?** [Start here](/start-here/) to learn what makes us different.
 """

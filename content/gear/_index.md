@@ -1,7 +1,7 @@
 ---
 title: "Gear & Accessories"
-description: "The best harnesses, collars, leads, beds, and accessories for French Bulldogs — tested by Buster & Jago."
+description: "The best harnesses, collars, leads, beds, and accessories for French Bulldogs — chosen for the Frenchie build."
 layout: "list"
 ---
 
-Find the gear that works for real Frenchies. All our recommendations are based on hands-on testing with our own dogs.
+Find gear that suits the Frenchie build. Our picks are based on product listings, specs, verified reviews, and what French Bulldogs need — barrel chests, short necks and sensitive airways.

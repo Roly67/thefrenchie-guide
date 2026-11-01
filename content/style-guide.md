@@ -53,12 +53,6 @@ Both light and dark modes are fully supported!
 {{< star-rating score="3.5" >}}
 {{< star-rating score="3" >}}
 
-### Tested Badge
-
-{{< tested-badge >}}
-{{< tested-badge text="Tested by Buster" >}}
-{{< tested-badge text="Jago Approved" >}}
-
 ### Pros & Cons
 
 {{< pros-cons 
@@ -70,9 +64,7 @@ Both light and dark modes are fully supported!
 
 {{< product-card name="Puppia Soft Harness" image="/images/placeholder-product.jpg" price="£24.99" rating="4.5" url="https://amazon.co.uk" pros="Comfortable,Easy to put on,Breathable" cons="Limited colours,Sizing runs small" >}}{{< /product-card >}}
 
-{{< tested-badge >}}
-
-We've been using the Puppia Soft Harness with Buster for over 6 months now, and it's become our go-to choice for daily walks. The soft mesh material doesn't irritate his sensitive skin, and the step-in design makes it quick to get ready for adventures.
+The Puppia Soft Harness uses a soft mesh body and a step-in design, which suits Frenchies who dislike things going over their head. Describe products from their listing, specs and verified reviews — never claim we or the dogs have tested or used a product.
 
 **Best for:** Daily walks, small to medium Frenchies, sensitive skin
 
@@ -93,18 +85,6 @@ Always measure your Frenchie before ordering a harness online. Sizes can vary si
 
 {{< callout type="warning" title="Important Warning" >}}
 French Bulldogs are brachycephalic (flat-faced) and can overheat quickly. Never exercise them in hot weather and always have water available.
-{{< /callout >}}
-
-### Buster Says
-
-{{< callout type="buster-says" title="Buster's Take" >}}
-I absolutely LOVE this harness! It doesn't pull on my neck when I get excited about squirrels (which is often). Five paws up! 🐾
-{{< /callout >}}
-
-### Jago Says
-
-{{< callout type="jago-says" title="Jago's Opinion" >}}
-More treats, less walks. That's my motto. But if we must go out, at least make it comfortable!
 {{< /callout >}}
 
 ### Vet Notes
