@@ -53,7 +53,7 @@ This is crucial for French Bulldogs. Their tracheas are vulnerable, and pulling 
     title="Ezydog Chest Plate Harness"
     description="Y-shaped front clip harness designed specifically for brachycephalic breeds. Distributes pressure across the chest, reducing strain on the throat. Reflective stitching for visibility. Multiple points of adjustment."
     url="https://www.amazon.co.uk/dp/B002QA6XPI/?tag=broadbandhelp-21"
-    price="£14.89"
+    price="£14.88"
 >}}
 **Why this one:** The Y-shape sits behind the front legs, not across the throat. Essential for flat-faced breeds. I've used these for both Buster and Jago—they're indestructible and properly designed.
 
@@ -125,7 +125,7 @@ Regular deep bowls are challenging for flat-faced breeds. Food ends up everywher
     title="Neater Pets French Bulldog Bowl Set"
     description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp-21"
-    price="£24.76"
+    price="£24.77"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
@@ -147,7 +147,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="Royal Canin French Bulldog Puppy"
     description="Breed-specific formula designed for French Bulldog puppies. Kibble shaped for brachycephalic jaws. Supports digestive health and skin barriers. Suitable from 2-12 months."
     url="https://www.amazon.co.uk/dp/B009H3WMZM/?tag=broadbandhelp-21"
-    price="£22.99"
+    price="£22.35"
 >}}
 **Expensive but effective:** Specifically formulated for Frenchies' nutritional needs. The kibble shape genuinely makes eating easier for flat faces.
 {{< /product-card >}}
@@ -156,7 +156,7 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
     title="James Wellbeloved Puppy Food (Turkey & Rice)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
     url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp-21"
-    price="£10.29"
+    price="£8.99"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), this is gentler. Buster was on this initially before we switched to Royal Canin.
 {{< /product-card >}}
@@ -174,7 +174,7 @@ Training treats should be:
     title="Pure Bites Freeze-Dried Training Treats"
     description="Single ingredient (chicken or liver), freeze-dried, breaks into tiny pieces. High protein, minimal calories. No additives. Smells revolting to humans, dogs love it."
     url="https://www.amazon.co.uk/dp/B000Z3MBRM/?tag=broadbandhelp-21"
-    price="£42.97"
+    price="£42.02"
 >}}
 **Training gold:** You'll go through these fast during toilet training and basic commands. Worth every penny.
 {{< /product-card >}}
@@ -286,7 +286,7 @@ I give Jago a frozen Kong before I need 20 minutes of peace. Works every time.
     title="Snuggle Puppy - Comfort Toy with Heartbeat"
     description="Soft toy with simulated heartbeat and heat pack. Mimics littermate comfort. Helps with first nights and separation anxiety."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
-    price="£43.84"
+    price="£45.68"
 >}}
 **For the first week:** Genuinely helps some puppies settle. The heartbeat is oddly comforting. Buster loved his. Jago immediately attempted murder-by-mauling. Your mileage may vary.
 {{< /product-card >}}
@@ -332,7 +332,7 @@ You'll need hundreds. Puppies poo approximately 47 times per day. This feels lik
     title="Earth Rated Poo Bags - Lavender Scented"
     description="Extra thick, leak-proof, lavender scented (genuinely helps). Comes on rolls that fit standard dispensers. Certified compostable."
     url="https://www.amazon.co.uk/dp/B00BSYR7K8/?tag=broadbandhelp-21"
-    price="£9.99"
+    price="£10.99"
 >}}
 **Buy in bulk:** Subscribe and save on Amazon. You'll go through a roll per week minimum.
 {{< /product-card >}}
@@ -347,7 +347,7 @@ Frenchies have sensitive skin. Don't use human shampoo or harsh dog shampoos.
     title="Burt's Bees Puppy Shampoo (Tearless, 2-in-1)"
     description="Gentle, pH-balanced for puppies. Tearless formula. Adds shine without harsh chemicals. Buttermilk and linseed oil formula. Made from 97% natural ingredients."
     url="https://www.amazon.co.uk/dp/B00CVTRO48/?tag=broadbandhelp-21"
-    price="£10.87"
+    price="£9.99"
 >}}
 **Bathing frequency:** Not more than once every 3-4 weeks unless they've rolled in something unspeakable. Over-bathing dries out skin and causes issues.
 

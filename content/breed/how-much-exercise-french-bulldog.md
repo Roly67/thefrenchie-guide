@@ -321,11 +321,11 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Ruffwear Front Range Harness"
-    price="£20.39"
+    price="£23.99"
     rating="4.7"
     image="/images/products/amazon-b082fq7fqg.jpg"
     url="https://www.amazon.co.uk/dp/B082FQ7FQG/?tag=broadbandhelp-21"
-    price="£20.39"
+    price="£23.99"
 >}}
 **Essential for walks:** Proper harness distributes pressure across chest, not throat. Critical for brachycephalic breeds. See also: [our harness guide](/gear/best-harness-french-bulldog/)
 {{< /product-card >}}
@@ -374,11 +374,11 @@ A few tools make Frenchie exercise safer and more effective.
 
 {{< product-card 
     name="Outward Hound Nina Ottosson Puzzle Toy"
-    price="£9.13"
+    price="£9.59"
     rating="4.4"
     image="/images/products/amazon-b0711y9y8w.jpg"
     url="https://www.amazon.co.uk/dp/B0711Y9Y8W/?tag=broadbandhelp-21"
-    price="£9.13"
+    price="£9.59"
 >}}
 **Rainy day solution:** When weather prevents proper walks, puzzle toys provide mental exhaustion. Start with Level 1 difficulty, progress upward.
 {{< /product-card >}}

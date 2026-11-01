@@ -126,7 +126,7 @@ We used these on Buster and Jago, and we've pulled the price and review data liv
   name="Thunderpaws LED Dog Nail Clippers with Light Illumination (Yellow)"
   url="https://www.amazon.co.uk/dp/B0D5QZGZ39?tag=broadbandhelp"
   image="/images/products/amazon-b0d5qzgz39.jpg"
-  price="£16.99"
+  price="£14.99"
   rating="4.6" >}}
 
 **Pros:**
@@ -275,7 +275,7 @@ We used these on Buster and Jago, and we've pulled the price and review data liv
   name="Dremel PawControl 7760-PET Dog Nail Grinder and Trimmer, Cordless & Rechargeable"
   url="https://www.amazon.co.uk/dp/B0DJ3JR93D?tag=broadbandhelp"
   image="/images/products/amazon-b0dj3jr93d.jpg"
-  price="£59.29"
+  price="£59.39"
   rating="4.4" >}}
 
 **Pros:**

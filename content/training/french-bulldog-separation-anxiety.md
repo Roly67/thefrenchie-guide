@@ -163,7 +163,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
     title="ADAPTIL Calm Home Diffuser for Dogs"
     description="Pheromone diffuser that mimics the calming pheromones mother dogs produce. Covers up to 70m². Clinically proven to reduce stress signs in dogs."
     url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
-    price="£16.56"
+    price="£23.00"
 >}}
 **The science bit:** Releases synthetic versions of the Dog Appeasing Pheromone (DAP). Does it work? For Buster, yes. For Jago, marginally. Your mileage may vary, but it's worth trying.
 
@@ -196,11 +196,11 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
 
 {{< product-card 
     name="ThunderShirt Classic Anxiety Jacket"
-    price="£29.33"
+    price="£35.00"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
     url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
-    price="£29.33"
+    price="£35.00"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
 
@@ -211,7 +211,7 @@ Buster tolerates his. Jago treats it as a personal insult.
     title="Snuggle Puppy Heartbeat Toy"
     description="Soft toy with a real-feel heartbeat and heat pack, designed to comfort puppies and anxious dogs. Mimics the presence of a littermate."
     url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
-    price="£43.84"
+    price="£45.68"
 >}}
 **Best for:** Younger dogs or those recently rehomed. The heartbeat feature can be genuinely comforting. Plus, if your Frenchie has a shred of hunting instinct, it won't last a week. Consider it consumable.
 {{< /product-card >}}
