@@ -14,7 +14,7 @@ draft: true
 
 Getting the right harness for your French Bulldog isn't just about comfort — it's about **safety**. Frenchies have unique body shapes (that barrel chest and short neck) that make collars potentially dangerous and many standard dog harnesses a poor fit.
 
-In this guide, I'll walk you through **exactly how to measure your French Bulldog for a harness**, share the common sizing mistakes we've made (so you don't have to), and recommend the harnesses that have worked best for Buster and Jago.
+In this guide, I'll walk you through **exactly how to measure your French Bulldog for a harness**, cover the common sizing mistakes (so you don't make them), and suggest the types of harness worth looking at.
 
 ## Why French Bulldogs Need Special Harness Sizing
 
@@ -31,7 +31,7 @@ French Bulldogs have:
 As brachycephalic dogs, Frenchies already have restricted airways. A poorly fitting harness (especially one that puts pressure on the throat or chest) can make breathing even harder.
 
 **Escape Artists**  
-Despite their stocky build, a too-loose harness means your Frenchie can back out of it. We learned this the hard way with Jago on a coastal path walk!
+Despite their stocky build, a too-loose harness means your Frenchie can back out of it — not something you want to discover on a coastal path.
 
 > **⚠️ Warning:** Never use a collar for walking — French Bulldogs are prone to tracheal collapse. Always use a well-fitted harness.
 
@@ -60,9 +60,6 @@ This is the **most important measurement** for harnesses.
 
 **Record this measurement** — this is typically the main sizing reference for harnesses.
 
-**Buster's chest:** 58cm  
-**Jago's chest:** 55cm
-
 ### 2. Measure the Neck
 
 **How to measure:**
@@ -70,9 +67,6 @@ This is the **most important measurement** for harnesses.
 - Again, keep it snug but allow room for two fingers
 
 This measurement helps ensure the harness won't slip over your Frenchie's head or rub their neck.
-
-**Buster's neck:** 38cm  
-**Jago's neck:** 36cm
 
 ### 3. Measure the Length (Optional)
 
@@ -83,17 +77,11 @@ Some harness brands ask for the **back length**.
 
 This isn't always required, but it helps with harnesses that have a longer back strap.
 
-**Buster's length:** 32cm  
-**Jago's length:** 30cm
-
 ### 4. Check Your Frenchie's Weight
 
 Most harness sizing charts use **both chest measurement and weight** to help you pick the right size. Weigh your dog (you can step on the scales holding them, then subtract your own weight).
 
-**Buster's weight:** 13kg  
-**Jago's weight:** 11.5kg
-
-## Common Sizing Mistakes (We've Made Them All)
+## Common Sizing Mistakes
 
 ### ❌ Measuring Too Loosely
 If your tape is too loose, you'll order a harness that's too big. Your Frenchie could back out of it or it'll rub and chafe.
@@ -122,18 +110,16 @@ Every brand is different, but here's what to look for:
 | M    | 50-60      | 36-42     | 8-13        |
 | L    | 60-70      | 42-48     | 13-18       |
 
-**Buster** (58cm chest, 13kg) would typically be a **Medium**, though it depends on the brand.
+On a chart like this, a Frenchie with a 58cm chest weighing 13kg would typically be a **Medium**, though it depends on the brand.
 
 > **💡 Tip:** Always check **customer reviews from other Frenchie owners**. If lots of people say "runs small" or "too loose for brachycephalic breeds," trust them!
 
 ## Our Top French Bulldog Harness Recommendations
 
-After trying (and returning) several harnesses, here are the ones that have worked for Buster and Jago:
+Here are the types of harness worth considering, and who each suits:
 
 ### 1. **[Brand Name] No-Pull Harness**
 **Best for:** Everyday walks, strong pullers  
-**Buster wears:** Size M  
-**Jago wears:** Size M  
 
 ✅ Pros:
 - Front clip reduces pulling
@@ -151,7 +137,6 @@ After trying (and returning) several harnesses, here are the ones that have work
 
 ### 2. **[Brand Name] Mesh Comfort Harness**
 **Best for:** Hot weather, sensitive skin  
-**Buster wears:** Size M  
 
 ✅ Pros:
 - Breathable mesh (great for summer)
@@ -169,7 +154,6 @@ After trying (and returning) several harnesses, here are the ones that have work
 
 ### 3. **[Brand Name] Step-In Harness**
 **Best for:** Dogs who hate "over the head" harnesses  
-**Jago wears:** Size M  
 
 ✅ Pros:
 - Super easy to put on (dog steps into it)
@@ -204,7 +188,7 @@ Even a great harness won't last forever. Replace when:
 - **Clips or buckles are loose or broken**
 - **It no longer fits** using the two-finger test
 
-We typically replace harnesses every 12-18 months with regular use.
+How long that takes depends on the harness and how hard your dog is on it, so check it regularly.
 
 ## Final Thoughts
 
@@ -215,7 +199,7 @@ Getting the right harness for your French Bulldog takes a bit of effort, but it'
 ✅ Better control (especially for pullers)  
 ✅ Peace of mind for you
 
-Buster and Jago's harnesses are non-negotiable for us — we never walk them without one. Take the time to measure properly, check sizing charts, and test the fit. Your Frenchie will thank you (probably with snorts and snuggles).
+A harness should be non-negotiable for every walk. Take the time to measure properly, check sizing charts, and test the fit. Your Frenchie will thank you (probably with snorts and snuggles).
 
 ## FAQs
 
