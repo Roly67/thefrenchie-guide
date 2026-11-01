@@ -133,11 +133,11 @@ For serious chewers, Nylabone's Power Chew range is purpose-built for dogs with 
 
 {{< product-card 
   name="KONG Extreme Dog Toy (Medium, Black)"
-  image="/images/products/amazon-b0002ar0ii.jpg"
+  image="/images/products/amazon-b000gudzo2.jpg"
   rating="4.4"
   price="£9.99"
   where="Amazon UK"
-  url="https://www.amazon.co.uk/dp/B0002AR0II?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B000GUDZO2?tag=broadbandhelp"
   affiliate="true" >}}
 
 If the standard KONG Classic doesn't last long in your house, meet the Extreme. Made from KONG's toughest black rubber compound, this is designed for the power chewers of the world.

@@ -349,23 +349,23 @@ A few tools make Frenchie exercise safer and more effective.
 {{< /product-card >}}
 
 {{< product-card 
-    name="Collapsible Dog Water Bowl"
+    name="ZUOFENG Collapsible Silicone Dog Bowl"
     price="£3.27"
-    rating="4.4"
-    image="/images/products/amazon-b01arbs2s8.jpg"
-    url="https://www.amazon.co.uk/dp/B01ARBS2S8/?tag=broadbandhelp"
+    rating="4.5"
+    image="/images/products/amazon-b07pcny3wg.jpg"
+    url="https://www.amazon.co.uk/dp/B07PCNY3WG/?tag=broadbandhelp"
 >}}
 **Hydration essential:** Always carry water for Frenchies, especially in weather above 15°C. They overheat quickly and need frequent drinking opportunities.
 {{< /product-card >}}
 
 {{< product-card 
-    name="Hurtta Extreme Warmer Dog Coat"
-    price="£21.99"
-    rating="4.6"
-    image="/images/products/amazon-b07547329h.jpg"
-    url="https://www.amazon.co.uk/dp/B07547329H/?tag=broadbandhelp"
+    name="ASENKU Waterproof Winter Coat (Size M)"
+    price="£38.99"
+    rating="4.5"
+    image="/images/products/amazon-b0fgjdpj77.jpg"
+    url="https://www.amazon.co.uk/dp/B0FGJDPJ77/?tag=broadbandhelp"
 >}}
-**Winter essential:** Frenchies feel the cold. Proper coat means you can maintain exercise routine in winter without them shivering. Worth the investment.
+**Winter essential:** Frenchies feel the cold. A proper coat means you can keep up the exercise routine in winter without them shivering. The maker sizes M for French Bulldogs; see our [coat guide](/gear/best-coat-french-bulldog-uk/) for more options.
 {{< /product-card >}}
 
 {{< product-card 

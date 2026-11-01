@@ -98,7 +98,7 @@ Here are our eight picks, what each does well, and who each one suits.
 - Limited padding elsewhere (not needed for most Frenchies)
 - Might be overkill for exclusively calm dogs
 
-**Sizes:** XS to XL
+**Sizes:** XS to XL. The Small fits a 33–60cm chest; a broad-chested Frenchie above that needs the Medium.
 **Best for:** Daily walkers, pullers, dogs with sensitive skin
 
 {{< /product-card >}}
@@ -175,11 +175,11 @@ You're sacrificing durability and features for price. This suits calm dogs, occa
 ### 3. Julius-K9 IDC Powerharness — For Serious Pullers
 
 {{< product-card
-  name="Julius-K9 IDC Powerharness"
-  price="£32.29"
+  name="Julius-K9 IDC Powerharness (Size S)"
+  price="£30.00"
   rating="4.7"
-  url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
-  image="/images/products/amazon-b004iejf6e.jpg" >}}
+  url="https://www.amazon.co.uk/dp/B0DKJ27THJ?tag=broadbandhelp"
+  image="/images/products/amazon-b0dkj27thj.jpg" >}}
 
 **Pros:**
 - Heavy-duty construction
@@ -197,7 +197,7 @@ You're sacrificing durability and features for price. This suits calm dogs, occa
 - Expensive for what's essentially heavy-duty
 - Makes your Frenchie look like they're on a tactical mission
 
-**Sizes:** Mini to XXL
+**Sizes:** Mini to XXL. Size S fits a 49–67cm chest (7–15kg), which covers most adult Frenchies.
 **Best for:** Dogs who pull hard, owners who need maximum control
 
 {{< /product-card >}}
@@ -212,7 +212,7 @@ For most French Bulldogs? Unnecessary. Too warm, too bulky, too much harness. Bu
 
 {{< affiliate-button
   text="View on Amazon UK"
-  url="https://www.amazon.co.uk/dp/B004IEJF6E?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B0DKJ27THJ?tag=broadbandhelp"
 >}}
 
 ---
@@ -255,7 +255,7 @@ For most French Bulldog owners doing normal daily walks? The EzyDog is more appr
 
 {{< affiliate-button
   text="View on Amazon UK"
-  url="https://www.amazon.co.uk/dp/B082FQ7FQG?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B0CLB65P5L?tag=broadbandhelp"
 >}}
 
 ---
@@ -302,11 +302,11 @@ Watch how your Frenchie moves in it at first: on a very broad, short-legged dog,
 ### 6. Rabbitgoo No-Pull Vest Harness — Best Value Dual-Clip
 
 {{< product-card
-  name="Rabbitgoo No-Pull Dog Harness"
-  price="£18.69"
+  name="Rabbitgoo No-Pull Dog Harness (Small)"
+  price="£19.99"
   rating="4.5"
-  url="https://www.amazon.co.uk/dp/B01MEG2Q7P?tag=broadbandhelp"
-  image="/images/products/amazon-b01meg2q7p.jpg" >}}
+  url="https://www.amazon.co.uk/dp/B01MA58881?tag=broadbandhelp"
+  image="/images/products/amazon-b01ma58881.jpg" >}}
 
 **Pros:**
 - Front and back D-rings for training flexibility
@@ -348,7 +348,7 @@ Frenchie necks and chests are broad for their weight, so don't pick a size by we
 
 {{< affiliate-button
   text="View on Amazon UK"
-  url="https://www.amazon.co.uk/dp/B01MEG2Q7P?tag=broadbandhelp"
+  url="https://www.amazon.co.uk/dp/B01MA58881?tag=broadbandhelp"
 >}}
 
 ---

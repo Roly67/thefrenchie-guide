@@ -161,12 +161,12 @@ Do NOT immediately change your puppy's food. Their digestive systems are sensiti
 {{< /product-card >}}
 
 {{< product-card 
-    name="James Wellbeloved Puppy Food (Turkey & Rice)"
+    name="James Wellbeloved Puppy Food (Turkey & Rice, 15kg)"
     description="UK brand, hypoallergenic, single protein source. Good for sensitive tummies. No added artificial colours, flavours or preservatives. More affordable than Royal Canin."
-    url="https://www.amazon.co.uk/dp/B002OVSGAO/?tag=broadbandhelp"
-    price="£8.99"
-    image="/images/products/amazon-b002ovsgao.jpg"
-    rating="4.7"
+    url="https://www.amazon.co.uk/dp/B0DQV3G8D2/?tag=broadbandhelp"
+    price="£55.99"
+    image="/images/products/amazon-b0dqv3g8d2.jpg"
+    rating="5.0"
 >}}
 **Solid alternative:** If your Frenchie has food sensitivities (common in the breed), a single-protein food like this may suit them better. Cheaper than Royal Canin, too.
 {{< /product-card >}}
@@ -389,11 +389,11 @@ Exception: Wrinkles and ears need more frequent attention (daily/weekly), but th
 To limit puppy's access to the house whilst toilet training and teaching boundaries.
 
 {{< product-card 
-    name="BabyDan Pressure Fit Safety Gate"
-    description="No drilling required, adjustable width, auto-close feature. Tall enough that adult Frenchies won't jump over (not that they're athletic enough to try, but still)."
-    url="https://www.amazon.co.uk/dp/B007XTDGQG/?tag=broadbandhelp"
-    price="£55.56"
-    image="/images/products/amazon-b007xtdgqg.jpg"
+    name="BabyDan Premier Pressure Fit Stair Gate (73.5–93.3cm)"
+    description="No drilling required, fits openings of 73.5–93.3cm, one-hand opening, built-in pressure indicator. Tall enough that adult Frenchies won't jump over (not that they're athletic enough to try, but still)."
+    url="https://www.amazon.co.uk/dp/B08R223W4L/?tag=broadbandhelp"
+    price="£54.78"
+    image="/images/products/amazon-b08r223w4l.jpg"
     rating="4.4"
 >}}
 **Where to use:** Block off stairs (puppies shouldn't use stairs until 12+ weeks, risks joint damage), rooms with hazards, kitchen during meal prep.
