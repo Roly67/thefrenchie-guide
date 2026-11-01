@@ -138,9 +138,9 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 **Honest note:** Not as good a fit as breed-specific coats — the chest can be a bit snug while the back is too long on some Frenchies. But at this price, it's worth trying before investing in a premium option.
 
-### 3. Best Fleece (Cold, Dry Days): Equafleece Dog Jumper
+### 3. Best Fleece (Cold, Dry Days): Hotterdog Fleece Jumper (from Equafleece)
 
-**Why it's here:** When it's cold but not raining, you need warmth without waterproofing bulk. The Equafleece is like a cosy jumper — lightweight, warm, and Frenchies seem to love wearing it. It's also UK-made.
+**Why it's here:** When it's cold but not raining, you need warmth without waterproofing bulk. Hotterdog is the Amazon-available line from Equafleece, the UK dog-fleece maker: a soft, lightweight jumper that keeps a short-coated Frenchie warm on dry, cold days.
 
 {{< product-card
   name="Hotterdog Fleece Jumper (from Equafleece)"
@@ -150,14 +150,12 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
   rating="4.3" />}}
 
 **Key features:**
-- Polartec fleece — warm, breathable, quick-drying
-- Stretchy fit accommodates barrel chests
-- Step-in design (no over-the-head faff)
-- Machine washable at 40°C
-- UK-made
-- Available in loads of colours
+- Warm, lightweight fleece
+- Close-fitting jumper style, covers chest and body
+- Machine washable
+- Several sizes and colours
 
-**Real-world testing:** Jago wears his Equafleece for garden toilet breaks on cold mornings and shorter walks in dry cold weather. It's the one he resists least, probably because it's soft and goes on quickly. The step-in design is a game-changer — no wrestling match required.
+**Worth knowing:** It's a jumper, so it goes on over the head with the front legs through the sleeves. That's more of a faff than a Velcro coat, and (as we said above) many Frenchies dislike things going over their heads. Measure your Frenchie's back length carefully, as Medium can run long on a short-backed dog.
 
 ### 4. Best for Serious Rain: Hurtta Downpour Suit
 
@@ -202,9 +200,9 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 | Coat | Type | Price | Best For | Waterproof | Frenchie-Specific Fit |
 |------|------|-------|----------|------------|----------------------|
 | **ASENKU Winter Coat** | All-rounder | ~£39 | Winter walks | ✅ | ✅ Size M for Frenchies |
-| **Ancol Stormguard** | Budget waterproof | ~£18 | First coat / budget | ✅ | ❌ Adjustable |
-| **Equafleece Jumper** | Fleece | ~£30 | Cold dry days | ❌ | ✅ Stretchy |
-| **Hurtta Downpour** | Full body | ~£55 | Heavy rain/mud | ✅ | ❌ Adjustable |
+| **Ancol Stormguard** | Budget waterproof | ~£15 | First coat / budget | ✅ | ❌ Adjustable |
+| **Hotterdog Jumper** | Fleece | ~£24 | Cold dry days | ❌ | ❌ Check sizing |
+| **Hurtta Downpour** | Full body | ~£65 | Heavy rain/mud | ✅ | ❌ Adjustable |
 | **Danish Design 2-in-1** | Versatile | ~£25 | Spring/autumn | ✅ | ❌ Adjustable |
 
 ## How to Measure Your French Bulldog for a Coat
