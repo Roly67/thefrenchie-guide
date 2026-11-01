@@ -62,7 +62,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 {{< product-card
   name="Outward Hound Fun Feeder Slo-Bowl — Flower"
-  url="https://www.amazon.co.uk/dp/B00L3O3UPE/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00L3O3UPE/?tag=broadbandhelp"
   image="/images/products/amazon-b00l3o3upe.jpg"
   price="£16.39"
   rating="4.5" />}}
@@ -86,7 +86,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 {{< product-card
   name="LickiMat Classic Soother"
-  url="https://www.amazon.co.uk/dp/B086TZSK7R/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B086TZSK7R/?tag=broadbandhelp"
   image="/images/products/amazon-b086tzsk7r.jpg"
   price="£7.99"
   rating="4.4" />}}
@@ -106,7 +106,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 {{< product-card
   name="EasyEat Raised Slow Feeder for Flat-Faced Dogs"
-  url="https://www.amazon.co.uk/dp/B0DHH2MMMW/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0DHH2MMMW/?tag=broadbandhelp"
   image="/images/products/amazon-b0dhh2mmmw.jpg"
   price="£44.99"
   rating="4.0" />}}
