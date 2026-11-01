@@ -124,7 +124,7 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Ancol Muddy Paws Stormguard Dog Coat"
-  url="https://www.amazon.co.uk/dp/B005FF1A9K/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B005FF1A9K/?tag=broadbandhelp"
   image="/images/products/amazon-b005ff1a9k.jpg"
   price="£14.95"
   rating="4.5" />}}
@@ -145,7 +145,7 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Hotterdog Fleece Jumper (from Equafleece)"
-  url="https://www.amazon.co.uk/dp/B006929UXQ/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B006929UXQ/?tag=broadbandhelp"
   image="/images/products/amazon-b006929uxq.jpg"
   price="£24.25"
   rating="4.3" />}}
@@ -166,7 +166,7 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Hurtta Downpour Suit"
-  url="https://www.amazon.co.uk/dp/B078XSM2GC/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B078XSM2GC/?tag=broadbandhelp"
   image="/images/products/amazon-b078xsm2gc.jpg"
   price="£64.99"
   rating="4.7" />}}
@@ -186,7 +186,7 @@ Frenchies + walks + mud + rain = a coat that needs washing regularly. Machine-wa
 
 {{< product-card
   name="Danish Design Ultimate 2-in-1 Dog Coat"
-  url="https://www.amazon.co.uk/dp/B00BNX46SU/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00BNX46SU/?tag=broadbandhelp"
   image="/images/products/amazon-b00bnx46su.jpg"
   price="£25.23"
   rating="4.5" />}}
