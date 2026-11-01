@@ -115,9 +115,9 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 **Real-world testing:** This is what Buster takes daily, and it's been our baseline for two years. The chews are genuinely palatable — neither dog has ever refused one, which is notable given Buster's discerning standards. The downside: it's not the cheapest option, and you need to be consistent. Miss a few days and you're essentially starting over.
 
-### 2. Best for Established Arthritis: Antinol
+### 2. Best for Established Arthritis: Antinol Joint Care Pro
 
-**Why it's here:** Antinol takes a different approach from most joint supplements. Instead of glucosamine/chondroitin, its active ingredient is PCSO-524 — a patented lipid extract from green-lipped mussel that's specifically standardised for omega-3 content and anti-inflammatory activity.
+**Why it's here:** Antinol takes a different approach from most joint supplements. Instead of glucosamine/chondroitin, it's built on a green-lipped mussel oil extract — the omega-3 lipids that drive green-lipped mussel's anti-inflammatory effect, in a small capsule. Joint Care Pro is the current Antinol formula for small adult and senior dogs.
 
 {{< product-card
   name="Antinol Joint Care Pro"
@@ -127,14 +127,14 @@ We've tried a fair number of joint supplements over the years. Some earned a per
   rating="4.6" />}}
 
 **Key features:**
-- Patented PCSO-524 green-lipped mussel extract — not generic
-- Standardised EPA/DHA content (quality control matters)
-- Multiple published studies supporting efficacy for canine osteoarthritis
+- Green-lipped mussel oil extract, with omega-3 and vitamin E
+- Formulated for small adult and senior dogs
 - Small, easy-to-administer capsules
+- Antinol's green-lipped mussel extract has published studies behind it for canine osteoarthritis
 
-**Real-world testing:** We switched Buster to Antinol for a three-month trial after hearing strong recommendations from other Frenchie owners. The improvement was subtle but genuine — he seemed more willing to walk further and his post-walk stiffness was less noticeable. The main reason we didn't stay on it permanently was cost (it's noticeably pricier than YuMOVE) and the fact that we'd need two separate supplements — Antinol for the anti-inflammatory effect and something else for the glucosamine/chondroitin. For a dog with diagnosed arthritis, though, this would be our first choice.
+**Worth knowing:** It's noticeably pricier than YuMOVE (around £59 for 60 capsules), and it doesn't contain glucosamine or chondroitin, so it's an anti-inflammatory add-on rather than an all-in-one. For a dog with diagnosed arthritis, ask your vet whether it's worth adding alongside a glucosamine supplement.
 
-### 3. Best Budget: Vetzyme High Strength Joint Aid
+### 3. Best Budget: Vetzyme High Strength Flexible Joint
 
 **Why it's here:** Not everyone can spend £25-£40 a month on joint supplements. Vetzyme covers the basics — glucosamine, chondroitin, MSM — at a price that's genuinely affordable for long-term use.
 
@@ -148,14 +148,14 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 **Key features:**
 - Glucosamine hydrochloride + chondroitin + MSM
 - Contains omega-3 from fish oil
-- Palatable liver-flavoured tablets
-- Affordable for long-term daily use
+- Chicken-flavoured tablets (worth knowing if your Frenchie is chicken-sensitive)
+- 90 tablets for around £14 — roughly £5 a month at one a day
 
-**Real-world testing:** This is Jago's maintenance supplement. At four years old with no joint symptoms, we're treating it as a preventive measure, and for that purpose, Vetzyme covers the bases. The tablets are softer than some competitors and crumble easily, which is annoying — but at this price point, you accept minor inconveniences.
+**Worth knowing:** It's a sensible preventive option for a young Frenchie with no joint symptoms yet. For a dog that's already stiff or diagnosed, the higher-spec YuMOVE or Antinol is the better starting point.
 
 ### 4. Best Natural: GWF Nutrition Joint Aid for Dogs
 
-**Why it's here:** If you want a supplement that reads like food rather than a pharmaceutical, this is it. GWF's formula is built around green-liberal mussel, glucosamine, and a blend of herbs (boswellia, turmeric, ginger) with established anti-inflammatory properties.
+**Why it's here:** If you want a supplement that reads like food rather than a pharmaceutical, this is it. GWF's formula combines glucosamine, chondroitin, MSM and collagen with curcumin (from turmeric) and omega-3.
 
 {{< product-card
   name="GWF Nutrition Joint Aid for Dogs"
@@ -165,12 +165,12 @@ We've tried a fair number of joint supplements over the years. Some earned a per
   rating="4.7" />}}
 
 **Key features:**
-- Green-lipped mussel as a primary ingredient
-- Glucosamine + MSM at therapeutic doses
-- Boswellia (frankincense) and turmeric — natural anti-inflammatories
-- Powder form — easy to mix into food
+- Glucosamine, chondroitin and MSM
+- Curcumin (turmeric) — a natural anti-inflammatory
+- Omega-3, collagen and amino acids for muscle maintenance
+- Micropellets — easy to mix into food
 
-**Real-world testing:** We used this for a six-month stretch when we were curious about the herbal anti-inflammatory angle. The powder form was surprisingly convenient — it disappeared into wet food without the dogs noticing. Buster's mobility seemed comparable to when he was on YuMOVE. The main drawback: measuring the powder each day is very slightly more faff than tossing a chew into a bowl.
+**Real-world testing:** We used this for a six-month stretch when we were curious about the herbal anti-inflammatory angle. The pellet form was surprisingly convenient — it disappeared into wet food without the dogs noticing. Buster's mobility seemed comparable to when he was on YuMOVE. The main drawback: measuring the pellets each day is very slightly more faff than tossing a chew into a bowl.
 
 {{< callout type="buster-says" title="Buster's Take" >}}
 I have tasted many joint supplements. The chews from YuMOVE are acceptable — not quite treats, but close enough that I'll take them without filing a complaint. The tablets that crumble into dust in the bowl? Those are an insult to my station. And the capsules hidden in cheese? I know they're in there. The cheese is still cheese, so I'll eat them. But I know.
