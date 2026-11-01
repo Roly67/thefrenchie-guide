@@ -102,10 +102,10 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 {{< product-card
   name="YuMOVE Joint Care for Adult Dogs"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/reviews/yumove-joint-care.jpg"
-  price="~£20-£35 per month depending on dog size"
-  rating="4.7" />}}
+  url="https://www.amazon.co.uk/dp/B003W5RRGU/?tag=broadbandhelp"
+  image="/images/products/amazon-b003w5rrgu.jpg"
+  price="£26.00"
+  rating="4.6" />}}
 
 **Key features:**
 - Green-lipped mussel (ActivEase complex) — clinically studied
@@ -120,10 +120,10 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 **Why it's here:** Antinol takes a different approach from most joint supplements. Instead of glucosamine/chondroitin, its active ingredient is PCSO-524 — a patented lipid extract from green-lipped mussel that's specifically standardised for omega-3 content and anti-inflammatory activity.
 
 {{< product-card
-  name="Antinol"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/reviews/antinol.jpg"
-  price="~£25-£40 per month"
+  name="Antinol Joint Care Pro"
+  url="https://www.amazon.co.uk/dp/B0F5QPZRWH/?tag=broadbandhelp"
+  image="/images/products/amazon-b0f5qpzrwh.jpg"
+  price="£58.99"
   rating="4.6" />}}
 
 **Key features:**
@@ -139,11 +139,11 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 **Why it's here:** Not everyone can spend £25-£40 a month on joint supplements. Vetzyme covers the basics — glucosamine, chondroitin, MSM — at a price that's genuinely affordable for long-term use.
 
 {{< product-card
-  name="Vetzyme High Strength Joint Aid"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/reviews/vetzyme-joint-aid.jpg"
-  price="~£8-£12 per month"
-  rating="4.3" />}}
+  name="Vetzyme High Strength Flexible Joint"
+  url="https://www.amazon.co.uk/dp/B003ZGE5SY/?tag=broadbandhelp"
+  image="/images/products/amazon-b003zge5sy.jpg"
+  price="£13.99"
+  rating="4.6" />}}
 
 **Key features:**
 - Glucosamine hydrochloride + chondroitin + MSM
@@ -159,10 +159,10 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 {{< product-card
   name="GWF Nutrition Joint Aid for Dogs"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/reviews/gwf-joint-aid.jpg"
-  price="~£15-£25 per month"
-  rating="4.5" />}}
+  url="https://www.amazon.co.uk/dp/B002VVLBFY/?tag=broadbandhelp"
+  image="/images/products/amazon-b002vvlbfy.jpg"
+  price="£13.27"
+  rating="4.7" />}}
 
 **Key features:**
 - Green-lipped mussel as a primary ingredient
