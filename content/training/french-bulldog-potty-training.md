@@ -334,15 +334,7 @@ Some trainers hate pads. We think they're a practical solution for flat-dwellers
 
 ### 2. Grass Patches (Fake Lawn)
 
-{{< product-card 
-  name="Piddle Patch Indoor Dog Toilet"
-  image="/images/products/amazon-b07yztpmrq.jpg"
-  rating="4.0"
-  price="£38.50"
-  retailer="Various UK retailers"
-  url="https://www.amazon.co.uk/dp/B07YZTPMRQ?tag=broadbandhelp" >}}
-Real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. Requires regular replacement but gets good reviews from flat-living Frenchie owners.
-{{< /product-card >}}
+**Real-grass patches:** These are real grass delivered in a water-resistant box. Some dogs prefer this to pads because it's more similar to outside. The grass needs replacing regularly, so the running cost adds up.
 
 ### 3. Very Frequent Trips Outside
 
