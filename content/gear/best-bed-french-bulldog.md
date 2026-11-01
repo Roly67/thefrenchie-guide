@@ -103,11 +103,11 @@ For summer months, these help:
 **Why it won:** Both Buster and Jago took to these immediately — no coaxing, no treats-on-the-bed strategy, just instant acceptance. They curl up in them every single night in their crates, and we've bought multiples so there's one in every room that matters.
 
 {{< product-card
-  name="ANWA Donut Calming & Cooling Dog Bed"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/sleeping-resting/amazon-b0bmlkcpfz.jpg"
-  price="~£35"
-  rating="4.5" />}}
+  name="ANWA Calming Donut Dog Bed"
+  url="https://www.amazon.co.uk/dp/B08FQSWKZT/?tag=broadbandhelp"
+  image="/images/products/amazon-b08fqswkzt.jpg"
+  price="£39.99"
+  rating="4.6" />}}
 
 **Key features:**
 - Raised donut rim for head and chin support
@@ -126,10 +126,10 @@ For summer months, these help:
 
 {{< product-card
   name="Bedsure Orthopedic Dog Bed — Bolster Dog Sofa"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/bedsure-ortho.jpg"
-  price="~£40"
-  rating="4.4" />}}
+  url="https://www.amazon.co.uk/dp/B0F4XF32S3/?tag=broadbandhelp"
+  image="/images/products/amazon-b0f4xf32s3.jpg"
+  price="£31.44"
+  rating="4.6" />}}
 
 **Key features:**
 - Egg-crate + memory foam dual layer
@@ -145,11 +145,11 @@ For summer months, these help:
 **Why it's here:** In summer, our boys gravitate away from plush beds toward cooler surfaces (hence the doormat obsession). An elevated cot bed lets air circulate underneath, keeping them cooler than any ground-level option.
 
 {{< product-card
-  name="Veehoo Elevated Dog Bed"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/veehoo-cot.jpg"
-  price="~£25"
-  rating="4.3" />}}
+  name="Veehoo Raised Dog Bed with Bolster"
+  url="https://www.amazon.co.uk/dp/B0CYB7RB5W/?tag=broadbandhelp"
+  image="/images/products/amazon-b0cyb7rb5w.jpg"
+  price="£55.99"
+  rating="4.4" />}}
 
 **Key features:**
 - Raised mesh design for airflow
@@ -166,10 +166,10 @@ For summer months, these help:
 
 {{< product-card
   name="Amazon Basics Round Bolster Dog Bed"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/products/amazon-basics-round.jpg"
-  price="~£18"
-  rating="4.3" />}}
+  url="https://www.amazon.co.uk/dp/B07233P1W2/?tag=broadbandhelp"
+  image="/images/products/amazon-b07233p1w2.jpg"
+  price="£13.46"
+  rating="4.4" />}}
 
 **Key features:**
 - Full bolster surround
