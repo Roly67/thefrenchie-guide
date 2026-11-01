@@ -102,7 +102,7 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 {{< product-card
   name="YuMOVE Joint Care for Adult Dogs"
-  url="https://www.amazon.co.uk/dp/B003W5RRGU/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B003W5RRGU/?tag=broadbandhelp"
   image="/images/products/amazon-b003w5rrgu.jpg"
   price="£26.00"
   rating="4.6" />}}
@@ -121,7 +121,7 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 {{< product-card
   name="Antinol Joint Care Pro"
-  url="https://www.amazon.co.uk/dp/B0F5QPZRWH/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0F5QPZRWH/?tag=broadbandhelp"
   image="/images/products/amazon-b0f5qpzrwh.jpg"
   price="£58.99"
   rating="4.6" />}}
@@ -140,7 +140,7 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 {{< product-card
   name="Vetzyme High Strength Flexible Joint"
-  url="https://www.amazon.co.uk/dp/B003ZGE5SY/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B003ZGE5SY/?tag=broadbandhelp"
   image="/images/products/amazon-b003zge5sy.jpg"
   price="£13.99"
   rating="4.6" />}}
@@ -159,7 +159,7 @@ We've tried a fair number of joint supplements over the years. Some earned a per
 
 {{< product-card
   name="GWF Nutrition Joint Aid for Dogs"
-  url="https://www.amazon.co.uk/dp/B002VVLBFY/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B002VVLBFY/?tag=broadbandhelp"
   image="/images/products/amazon-b002vvlbfy.jpg"
   price="£13.27"
   rating="4.7" />}}
