@@ -50,7 +50,7 @@ Gather everything before you start. Chasing a Frenchie around the house with one
 
 {{< product-card
   name="Virbac Epi-Otic Advanced Ear Cleaner"
-  url="https://www.amazon.co.uk/dp/B004L8P4DA/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B004L8P4DA/?tag=broadbandhelp"
   image="/images/products/amazon-b004l8p4da.jpg"
   price="£14.31"
   rating="4.6" />}}
@@ -61,7 +61,7 @@ Gather everything before you start. Chasing a Frenchie around the house with one
 
 {{< product-card
   name="Thornit Ear Powder"
-  url="https://www.amazon.co.uk/dp/B00560R08Y/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00560R08Y/?tag=broadbandhelp"
   image="/images/products/amazon-b00560r08y.jpg"
   price="£13.50"
   rating="4.5" />}}
