@@ -144,9 +144,9 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 **Real-world testing:** We give each of the boys one Whimzee after their evening meal, and both the vet and the state of their teeth suggest it's working. Buster takes about five minutes to work through one; Jago has it down to about ninety seconds and then looks at Buster's with predatory interest. We separate them during dental chew time. Important note: the Extra Small is the right size for Frenchies — the Small is too large, and pups under 7kg should use the XS puppy version.
 
-### 4. Best Natural Chew: Forthglade Natural Air-Dried Chews
+### 4. Best Natural Chew: Forthglade Natural Cuts Beef Tripe
 
-**Why it's here:** Sometimes you need a longer-lasting chew — something that occupies a Frenchie for more than thirty seconds while you get on with something. Forthglade's air-dried chews are single-source natural chews (beef trachea, lamb lung, chicken feet for non-allergic dogs) with absolutely nothing added.
+**Why it's here:** Sometimes you need a longer-lasting chew — something that occupies a Frenchie for more than thirty seconds while you get on with something. Forthglade's Natural Cuts are single-source, air-dried chews; the beef tripe is chicken-free, high in protein and grain-free. (The range also includes pig ear strips, and chicken feet and necks for dogs that can have chicken.)
 
 {{< product-card
   name="Forthglade Natural Cuts Air-Dried Beef Tripe"
@@ -157,16 +157,15 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 **Key features:**
 - 100% natural, single-source animal chews
-- No additives, preservatives, or processing
-- Air-dried, not cooked — retains natural nutrients
-- Good range of protein options including beef and lamb
-- UK-made
+- Air-dried, long-lasting
+- High protein, grain-free
+- Chicken-free options (beef tripe, pig ear)
 
-**Real-world testing:** We stick to the beef trachea and lamb options for Buster (avoiding chicken). These are the chews we deploy when we need twenty minutes of peace — a work call, cooking dinner, or just a moment of quiet. They're not low-calorie, so we treat them as an occasional chew rather than a daily reward, and we deduct a bit from the evening meal when they've had one. The only downside: they smell. Not unbearably, but noticeably. These are not a "keep in your coat pocket" kind of treat.
+**Worth knowing:** Air-dried chews aren't low-calorie, so treat them as an occasional chew rather than a daily reward, and take a little off the next meal when your Frenchie has had one. And tripe smells. That's part of why dogs love it, but it's not a "keep in your coat pocket" treat.
 
-### 5. Best Soft Treat for Older Dogs or Picky Eaters: Lily's Kitchen Training Treats
+### 5. Best Soft Treat for Older Dogs or Picky Eaters: Lily's Kitchen Duck & Venison Sausages
 
-**Why it's here:** Lily's Kitchen makes genuinely good dog food and treats with proper, named ingredients. Their training treats are small, soft, and come in flavours including duck and venison — both safe for chicken-allergic dogs.
+**Why it's here:** Lily's Kitchen makes genuinely good dog food and treats with proper, named ingredients. Their duck and venison sausages are soft, chewy and grain-free, and both proteins are useful for dogs that can't have chicken.
 
 {{< product-card
   name="Lily's Kitchen Duck & Venison Sausages"
@@ -176,13 +175,12 @@ After three years of testing on two highly opinionated critics (one with allergi
   rating="4.6" />}}
 
 **Key features:**
-- Made with proper, named meat (duck, venison, beef options)
-- No artificial additives or fillers
-- Small, soft, heart-shaped pieces — ideal for training
-- Organic ingredients where possible
-- UK-made
+- Made with named meat: duck and venison
+- Grain-free, no artificial additives
+- Soft and chewy — easy to tear into small pieces, kind to older teeth
+- Sold as a pack of 8 × 70g bags
 
-**Real-world testing:** These are Buster's "high-value" treat — the one we bring out for recall training, vet visits, and nail trimming sessions (the trifecta of Frenchie reluctance). They're soft enough to break into even smaller pieces, and the smell is strong enough to cut through outdoor distractions. The only criticism: the bags are small for the price. We bulk-buy when they're on offer.
+**Worth knowing:** Sausages are a higher-value, higher-calorie treat than a biscuit. Tear them into small pieces for training, and keep them for the moments that matter: recall, vet visits, nail trims.
 
 ### 6. Best Budget Option: Scrumbles Natural Dog Treats
 
@@ -208,12 +206,12 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 | Treat | Best For | Price | Protein | Texture | Allergy-Friendly |
 |-------|----------|-------|---------|---------|------------------|
-| **JR Pure Pate** | Training, value | ~£5/roll | Single-source | Soft (cuttable) | ✓ (pick protein) |
+| **JR Pure Pate** | Training, value | ~£2.20/roll (10-pack) | Single-source | Soft (cuttable) | ✓ (pick protein) |
 | **Laughing Dog Fish & Tricks** | Hypoallergenic, everyday | ~£2.50/bag | Salmon | Crunchy bites | ✓ |
-| **Whimzees Dental** | Dental health | ~£4/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
-| **Forthglade Chews** | Long-lasting, natural | ~£3-5/pack | Single-source | Air-dried chew | ✓ (pick protein) |
-| **Lily's Kitchen Training** | High-value, soft | ~£3.50/bag | Duck/venison | Soft, small | ✓ (pick flavour) |
-| **Scrumbles Natural** | Budget, everyday | ~£3/bag | Salmon/duck | Crunchy biscuit | ✓ (grain-free) |
+| **Whimzees Dental** | Dental health | ~£9/pack | Vegetable-based | Hard chew | ✓ (no animal protein) |
+| **Forthglade Natural Cuts** | Long-lasting, natural | ~£9.50/bag | Beef tripe | Air-dried chew | ✓ (chicken-free) |
+| **Lily's Kitchen Sausages** | High-value, soft | ~£3/bag (8-pack) | Duck/venison | Soft, chewy | ✓ (chicken-free) |
+| **Scrumbles Natural** | Budget, everyday | ~£2.50/bag | Salmon | Soft bites | ✓ (no chicken) |
 
 ## Treats We'd Avoid
 
@@ -259,11 +257,11 @@ For a 12kg adult Frenchie, daily maintenance is roughly 500-600 calories dependi
 What does that look like in practice?
 
 - JR Pate (pea-sized pieces): about 2-3 calories each → roughly 20-25 pieces
-- A single Lily's Kitchen training treat: about 4-5 calories → roughly 12-15 pieces
-- One Forthglade beef trachea chew: can be 50-80 calories → that's your whole day's treat allowance
+- A Lily's Kitchen sausage: richer than a biscuit, so tear it into small pieces and count it against the day's allowance
+- One Forthglade air-dried chew: can be 50-80 calories → that's your whole day's treat allowance
 - Half a Whimzee dental chew (Extra Small): about 25 calories
 
-The rule in our house: training treats are tiny (pea-sized), dental chews are a once-daily item and we factor them into the daily total, and anything substantial (a trachea chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
+The rule in our house: training treats are tiny (pea-sized), dental chews are a once-daily item and we factor them into the daily total, and anything substantial (an air-dried chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
 
 ## Frequently Asked Questions
 
