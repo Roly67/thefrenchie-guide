@@ -54,9 +54,9 @@ All defined in `layouts/shortcodes/`:
 |-----------|---------|------------|
 | `product-card` | Product review card with rating | `name`, `image`, `price`, `rating`, `url`, `pros`, `cons` |
 | `star-rating` | Star display | `score` |
-| `tested-badge` | "Tested by Buster & Jago" trust badge | `text` (optional) |
+| `tested-badge` | "Tested by Buster & Jago" trust badge — **do not use** (no product is claimed as tested) | `text` (optional) |
 | `pros-cons` | Pros/cons list | `pros`, `cons` (comma-separated) |
-| `callout` | Info/warning box | `type` (`tip`, `warning`, `buster-says`, `jago-says`, `vet-note`), `title` |
+| `callout` | Info/warning box | `type` (`tip`, `warning`, `buster-says`, `jago-says`, `vet-note`), `title`. **Never** use `buster-says` / `jago-says` for product endorsements |
 | `affiliate-button` | CTA button with disclosure | `url`, `text` |
 | `comparison-table` | Wraps a markdown comparison table | (inner content) |
 
@@ -70,4 +70,4 @@ Push to `main` triggers `.github/workflows/deploy.yml` which builds with Hugo Ex
 
 ## Writing Style
 
-Content is written in a personal, British English voice — first-person plural ("we"), informal but knowledgeable. All product recommendations reference real testing with the author's French Bulldogs (Buster and Jago). UK pricing (GBP). Affiliate links must always use the `affiliate-button` shortcode for proper FTC/ASA disclosure.
+Content is written in a personal, British English voice — first-person plural ("we"), informal but knowledgeable. Product recommendations are based on product listings, specifications, ingredients, verified reviews and breed-specific reasoning — never claim first-hand testing or use of a product. Stories, traits or details about Buster and Jago come only from Rowland; never invent them. UK pricing (GBP). Affiliate links must always use the `affiliate-button` shortcode for proper FTC/ASA disclosure.
