@@ -6,16 +6,16 @@ lastmod: 2026-09-29
 slug: "best-treats-french-bulldog"
 silo: "reviews"
 ---
-Jago will do anything for a treat. I mean anything. Sit, stay, paw, roll over — the full repertoire, executed with a precision that would impress a police dog handler. But here's the thing: he doesn't actually know those commands in the traditional sense. He just cycles through his entire trick library at speed the moment he sees the treat bag, like a furry slot machine, hoping one of them will trigger the payout.
+Most French Bulldogs will do anything for a treat. Sit, stay, paw, roll over — some will cycle through every trick they know at speed the moment the treat bag appears, like a furry slot machine, hoping one of them triggers the payout.
 
-Buster approaches treats differently. Buster is an investor. He evaluates the offering with the discerning eye of a restaurant critic: sniff, consider, deliberate. A cheap biscuit from the supermarket? He'll take it, but the look he gives you suggests he's noting it on your permanent record. A proper, meaty, high-value treat? That earns you the full-body wag — the one that starts at the shoulders and somehow involves the entire back half of the dog.
+Others are more discerning: sniff, consider, deliberate. A cheap supermarket biscuit gets taken with a look that suggests it's being noted on your permanent record. A proper, meaty, high-value treat earns the full-body wag — the one that starts at the shoulders and somehow involves the entire back half of the dog.
 
-And then there's the allergy factor. Buster's chicken allergy (documented at length in our [food allergy guide](/nutrition/french-bulldog-food-allergies/)) means roughly 70% of the treats on the pet shop shelf are off-limits before we've even read the label. Chicken is the default protein in dog treats the way vanilla is the default in ice cream — it's everywhere, often hiding behind phrases like "meat and animal derivatives" that tell you nothing useful.
+And then there's the allergy factor. Chicken is one of the commonest triggers for Frenchies with food allergies (covered at length in our [food allergy guide](/nutrition/french-bulldog-food-allergies/)), and for a chicken-sensitive dog a large share of the treats on the pet shop shelf are off-limits before you've even read the label. Chicken is the default protein in dog treats the way vanilla is the default in ice cream — it's everywhere, often hiding behind phrases like "meat and animal derivatives" that tell you nothing useful.
 
-We've spent three years navigating this — reading ingredient labels in pet shop aisles while two French Bulldogs stare up at us with expressions of pure, weaponised hope. This guide covers the treats that survived our testing: the ones that are healthy enough for daily use, safe for allergy-prone Frenchies, and — crucially — exciting enough to earn the full-body wag.
+This guide covers treats that are healthy enough for daily use, suitable for allergy-prone Frenchies going by their ingredient lists, and — crucially — exciting enough to earn the full-body wag.
 
 {{< callout type="tip" title="Pro Tip" >}}
-Treats should make up no more than 10% of your Frenchie's daily calories. For a 12kg French Bulldog on roughly 500-600 calories a day, that's about 50-60 calories of treats. It's shockingly easy to double that without noticing — we've weighed out a "normal" day's treats and been genuinely surprised. Use a measuring cup or count pieces, at least for the first week, until you've calibrated your eye.
+Treats should make up no more than 10% of your Frenchie's daily calories. For a 12kg French Bulldog on roughly 500-600 calories a day, that's about 50-60 calories of treats. It's shockingly easy to double that without noticing — weigh out a "normal" day's treats once and you may be genuinely surprised. Use a measuring cup or count pieces, at least for the first week, until you've calibrated your eye.
 {{< /callout >}}
 
 ## Why French Bulldogs Need Their Own Treat Strategy
@@ -24,35 +24,31 @@ French Bulldogs are not Labrador Retrievers. You can't just grab any bag of dog 
 
 ### The Allergy Factor
 
-French Bulldogs are among the breeds most prone to food allergies and sensitivities. Chicken, beef, dairy, and wheat are the usual suspects, and they show up in surprising places. We've found chicken fat in "salmon" treats, beef liver in "lamb" chews, and wheat in treats that proudly declared themselves "grain-free" on the front (the back told a different story).
+French Bulldogs are among the breeds most prone to food allergies and sensitivities. Chicken, beef, dairy, and wheat are the usual suspects, and they show up in surprising places. It's common to find chicken fat in "salmon" treats, beef liver in "lamb" chews, and wheat in treats with a big "natural" claim on the front.
 
 The lesson: the front of the pack is marketing. The ingredient list on the back is the only bit that matters. If a treat says "with real chicken" but your Frenchie is allergic to chicken, it doesn't matter how real it is. It's still chicken.
 
-For Buster, we avoid chicken, poultry fat (unless the source is specified and it's not chicken), and anything with vague "meat and animal derivatives." That means reading every label, every time — even on treats we've bought before, because formulations change without warning.
+For a chicken-allergic Frenchie, that means avoiding chicken, poultry fat (unless the source is specified and it's not chicken), and anything with vague "meat and animal derivatives." Read every label, every time — even on treats you've bought before, because formulations change without warning.
 
 ### The Weight Management Problem
 
 French Bulldogs gain weight easily. Their compact, muscular build means extra kilos show up fast, and every extra kilo puts more strain on joints that are already under pressure, and on a breathing system that's already compromised. Treats are the silent contributor to Frenchie weight gain — they're easy to dismiss as "just a couple of biscuits" when in reality a handful of rich training treats can add 100+ calories to a dog that only needs 500-600.
 
-We've been there. Buster got noticeably rounder during a period when we were doing a lot of at-home training and being generous with the rewards. The vet's gentle-but-firm "let's talk about his weight" was the wake-up call. Now we measure treats as carefully as we measure meals.
+It creeps up most during spells of lots of at-home training, when the rewards flow freely. The fix is simple: measure treats as carefully as you measure meals.
 
 ### The Training Value
 
-High-value treats — the really good stuff — are the difference between a Frenchie who sort-of listens and a Frenchie who locks eyes with you like you're the most interesting person in the world. For training sessions, especially with a breed that has a reputation for stubbornness (earned, in Jago's case), the treat quality matters.
+High-value treats — the really good stuff — are the difference between a Frenchie who sort-of listens and a Frenchie who locks eyes with you like you're the most interesting person in the world. For training sessions, especially with a breed that has a reputation for stubbornness, the treat quality matters.
 
-The hierarchy we've worked out through trial and error:
+A useful hierarchy:
 
-- **Low value (everyday):** A piece of their regular kibble. Fine for reinforcing known behaviours at home. Jago accepts kibble as a reward with the enthusiasm of someone accepting a complimentary mint.
+- **Low value (everyday):** A piece of their regular kibble. Fine for reinforcing known behaviours at home.
 - **Medium value (training):** A decent commercial treat, something with a bit of flavour. Good for practising commands in a familiar environment.
-- **High value (distractions present):** Something genuinely exciting — meaty, smelly, special. This is what you need when you're training outdoors, around other dogs, or trying to teach something new. The treat has to be more interesting than whatever else is going on. For Jago, that bar is high.
-
-{{< callout type="buster-says" title="Buster's Take" >}}
-I have developed a sophisticated treat evaluation protocol. Phase one: sniff from a distance of approximately six inches. Phase two: closer inspection, assessing aroma intensity and meat content. Phase three: consume only if the offering meets my minimum standards, which are exacting and not fully understood by the humans. A biscuit that fails at any phase is politely declined with a look that says, "We both know you can do better."
-{{< /callout >}}
+- **High value (distractions present):** Something genuinely exciting — meaty, smelly, special. This is what you need when you're training outdoors, around other dogs, or trying to teach something new. The treat has to be more interesting than whatever else is going on. For some Frenchies, that bar is high.
 
 ## What to Look for in a French Bulldog Treat
 
-Before we get to specific products, here's the checklist we run through in the pet shop aisle.
+Before we get to specific products, here's the checklist worth running through in the pet shop aisle.
 
 ### Ingredients to Seek
 
@@ -77,16 +73,16 @@ French Bulldogs have small mouths — smaller than you'd expect for a dog their 
 For chews, the hazard is the opposite: treats small enough to swallow whole. A Frenchie that inhales a treat without chewing it is a choking risk. Any chew should be large enough that your dog has to work on it, not gulp it.
 
 {{< callout type="warning" title="Choking Hazard Alert" >}}
-French Bulldogs are enthusiastic eaters with compressed airways — a dangerous combination for treats. Always supervise your Frenchie with any chew or dental stick. If a treat gets small enough to swallow whole (roughly the size of their throat opening), take it away. Rawhide is particularly risky — it softens with chewing, becomes slippery, and can block the airway. We don't feed rawhide at all.
+French Bulldogs are enthusiastic eaters with compressed airways — a dangerous combination for treats. Always supervise your Frenchie with any chew or dental stick. If a treat gets small enough to swallow whole (roughly the size of their throat opening), take it away. Rawhide is particularly risky — it softens with chewing, becomes slippery, and can block the airway. Skip rawhide altogether.
 {{< /callout >}}
 
-## Best Treats for French Bulldogs: Our Reviews
+## Best Treats for French Bulldogs: Our Picks
 
-After three years of testing on two highly opinionated critics (one with allergies, one with no standards whatsoever), these are the treats we keep coming back to.
+These are our picks, chosen on ingredient lists, size and how Amazon UK buyers rate them.
 
 ### 1. Best Everyday Training Treat: JR Pet Products Pure Pate
 
-**Why it won:** This is the treat that lives in our walk bag, our training pouch, and every jacket pocket we own. JR Pet Products make a range of pure meat pates — 100% single-source protein, nothing else. No fillers, no grains, no mystery ingredients. The pate comes in a sausage-shaped roll that you slice into tiny cubes, so one roll makes hundreds of training treats.
+**Why it's here:** JR Pet Products make a range of pure meat pates — 100% single-source protein, nothing else. No fillers, no grains, no mystery ingredients. The pate comes in a sausage-shaped roll that you slice into tiny cubes, so one roll makes hundreds of training treats.
 
 {{< product-card
   name="JR Pet Products Pure Pate"
@@ -102,7 +98,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 - One roll makes literally hundreds of treats
 - Freezer-friendly — slice and freeze portions
 
-**Real-world testing:** This is the only treat we've found that works for Buster (chicken-allergic, requires transparency) and excites Jago (would eat gravel, but has standards). The salmon and venison varieties are our go-tos. The pate texture means you control the portion size — we cut pieces roughly the size of a pea for training, which keeps the calorie count negligible per treat. Buster does a full sit without being asked when he smells the salmon one. That's the highest endorsement we can offer.
+**Worth knowing:** Because you slice it yourself, you control the portion size — pea-sized pieces for training keep the calorie count per treat negligible. Pick the protein to suit your dog: if yours is chicken-sensitive, the salmon, lamb, venison, duck or beef versions avoid chicken entirely.
 
 ### 2. Best Hypoallergenic Treat: Laughing Dog Fish & Tricks
 
@@ -142,7 +138,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 - Extra Small size is the right fit for French Bulldogs
 - Gluten-free, no artificial anything
 
-**Real-world testing:** We give each of the boys one Whimzee after their evening meal, and both the vet and the state of their teeth suggest it's working. Buster takes about five minutes to work through one; Jago has it down to about ninety seconds and then looks at Buster's with predatory interest. We separate them during dental chew time. Important note: the Extra Small is the right size for Frenchies — the Small is too large, and pups under 7kg should use the XS puppy version.
+**Worth knowing:** Size matters here. The Extra Small is the right size for most adult Frenchies — the Small is too large — and pups under 7kg should use the XS puppy version. If you have more than one dog, separate them at dental chew time so nobody gulps down a second one.
 
 ### 4. Best Natural Chew: Forthglade Natural Cuts Beef Tripe
 
@@ -200,7 +196,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 - Resealable bags
 - Good value for the ingredient quality
 
-**Real-world testing:** Scrumbles are our "filler" treats — perfectly good for everyday rewards when we don't need the high-value stuff. The salmon ones are our pick for Buster. They're a bit crumblier than we'd like (you'll find biscuit dust in the bottom of the bag), but for the price, the ingredient list is excellent.
+**Worth knowing:** Scrumbles are an everyday "filler" treat rather than a high-value one — good for routine rewards when you don't need the really exciting stuff. If your Frenchie is chicken-sensitive, pick the salmon or duck versions and check the ingredient panel.
 
 ## Quick Comparison
 
@@ -215,7 +211,7 @@ After three years of testing on two highly opinionated critics (one with allergi
 
 ## Treats We'd Avoid
 
-Some treats sit on the "never again" list. Here's what we steer clear of and why:
+Some treats aren't worth the risk. Here's what to steer clear of and why:
 
 - **Rawhide chews.** Choking hazard, digestive blockage risk, often chemically treated during processing. Just not worth it.
 - **Anything with "meat and animal derivatives."** Useless for allergy management and usually low-quality.
@@ -230,11 +226,11 @@ If your Frenchie has a diagnosed food allergy, treats are as important as meals 
 
 ## Homemade Treats: Cheaper and You Know What's in Them
 
-We don't make all of our own treats — life is short and JR Pate exists — but we do make a few things regularly because they're cheaper, healthier, and genuinely easy.
+You don't need to make all your own treats — life is short and JR Pate exists — but a few homemade options are cheaper, healthier, and genuinely easy.
 
 ### Frozen Kong Fillers (Summer Essential)
 
-Mix a portion of your Frenchie's regular wet food or soaked kibble with a splash of water or unsalted bone broth, stuff it into a Kong, and freeze overnight. In summer, this is worth its weight in gold — hydration, mental stimulation, and cooling in one. Jago treats a frozen Kong as a religious experience.
+Mix a portion of your Frenchie's regular wet food or soaked kibble with a splash of water or unsalted bone broth, stuff it into a Kong, and freeze overnight. In summer, this is worth its weight in gold — hydration, mental stimulation, and cooling in one.
 
 ### Single-Ingredient Freeze-Dried Bites
 
@@ -242,11 +238,7 @@ Cube some sweet potato, apple (no seeds — they contain cyanide precursors), or
 
 ### Sardine Surprise
 
-We drain a tin of sardines in spring water (not oil, not brine), mash them with a fork, and freeze teaspoon-sized blobs on a baking tray. Transfer the frozen blobs to a bag. One blob is about 10 calories and smells strong enough to earn attention from three rooms away. Buster's recall training improved dramatically after we introduced these.
-
-{{< callout type="jago-says" title="Jago's Opinion" >}}
-The sardine thing. I don't know what a sardine is, and I don't know why it only comes out of the Cold Box of Mystery, but I know that when the human goes near the Cold Box and makes that particular crinkling noise, my entire day has just improved. Buster says I need to "play it cool" to "manage expectations." I do not know what these words mean. I know sardines.
-{{< /callout >}}
+Drain a tin of sardines in spring water (not oil, not brine), mash them with a fork, and freeze teaspoon-sized blobs on a baking tray. Transfer the frozen blobs to a bag. One blob is about 10 calories and smells strong enough to earn attention from three rooms away. That makes them a strong candidate for recall training, where you need the highest-value reward you have.
 
 ## How Many Treats Is Too Many?
 
@@ -261,13 +253,13 @@ What does that look like in practice?
 - One Forthglade air-dried chew: can be 50-80 calories → that's your whole day's treat allowance
 - Half a Whimzee dental chew (Extra Small): about 25 calories
 
-The rule in our house: training treats are tiny (pea-sized), dental chews are a once-daily item and we factor them into the daily total, and anything substantial (an air-dried chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
+A simple rule: training treats are tiny (pea-sized), dental chews are a once-daily item that counts towards the daily total, and anything substantial (an air-dried chew, a filled Kong) means the evening meal gets slightly smaller. When in doubt, deduct from the meal.
 
 ## Frequently Asked Questions
 
 ### Can French Bulldogs eat chicken treats?
 
-If your Frenchie doesn't have a chicken allergy or sensitivity, yes. The problem is that chicken is the most common food allergen for French Bulldogs, and you may not know about a sensitivity until it causes symptoms. If your Frenchie has any skin issues, digestive problems, or recurrent ear infections, try eliminating chicken (including treats) for 4-6 weeks and see if things improve. That single change transformed Buster's skin. Our [food allergy guide](/nutrition/french-bulldog-food-allergies/) walks through the elimination diet process.
+If your Frenchie doesn't have a chicken allergy or sensitivity, yes. The problem is that chicken is the most common food allergen for French Bulldogs, and you may not know about a sensitivity until it causes symptoms. If your Frenchie has any skin issues, digestive problems, or recurrent ear infections, try eliminating chicken (including treats) for 4-6 weeks and see if things improve. Our [food allergy guide](/nutrition/french-bulldog-food-allergies/) walks through the elimination diet process.
 
 ### Are grain-free treats better for French Bulldogs?
 
@@ -279,7 +271,7 @@ Watch for: increased itching or scratching (especially face, paws, and belly), r
 
 ### Should I use treats for training or just rewards?
 
-Both. Structured training sessions (5-10 minutes, once or twice a day) with high-value treats are genuinely effective for French Bulldogs. But the casual, everyday rewards — a treat for coming when called, for sitting before the lead goes on, for being calm when the doorbell rings — are just as valuable. They build a positive association without formal training sessions. Buster now sits automatically when he sees his lead because he's been rewarded for it consistently, not because we "trained" it in a session.
+Both. Structured training sessions (5-10 minutes, once or twice a day) with high-value treats are genuinely effective for French Bulldogs. But the casual, everyday rewards — a treat for coming when called, for sitting before the lead goes on, for being calm when the doorbell rings — are just as valuable. They build a positive association without formal training sessions. A Frenchie rewarded consistently for sitting when the lead comes out will soon start doing it automatically, no formal session required.
 
 ### Can I give my Frenchie human food as treats?
 
@@ -287,19 +279,19 @@ Some human foods are great in moderation: plain cooked chicken (if no allergy), 
 
 ### How do I store treats to keep them fresh?
 
-Air is the enemy. Reseal bags tightly, use airtight containers, and keep them in a cool, dry cupboard. Soft treats and pates have a shorter shelf life once opened — we keep opened JR Pate in the fridge and slice portions into the freezer. If a treat looks or smells different to when you bought it, err on the side of caution. Frenchies have sensitive stomachs; a mouldy treat is not a risk worth taking.
+Air is the enemy. Reseal bags tightly, use airtight containers, and keep them in a cool, dry cupboard. Soft treats and pates have a shorter shelf life once opened — keep opened JR Pate in the fridge and slice portions into the freezer. If a treat looks or smells different to when you bought it, err on the side of caution. Frenchies have sensitive stomachs; a mouldy treat is not a risk worth taking.
 
 ---
 
-*Treats are a small part of your Frenchie's diet by volume, but a big part of their life by impact. The right treat makes training work, builds trust, and makes you the most interesting person in the room. The wrong treat — too rich, too processed, the wrong protein — can undo weeks of careful allergy management. We've learned to treat treats seriously. And when we get it right, Buster does the full-body wag, and Jago cycles through his entire trick repertoire at double speed, and that — that's worth the label-reading.*
+*Treats are a small part of your Frenchie's diet by volume, but a big part of their life by impact. The right treat makes training work, builds trust, and makes you the most interesting person in the room. The wrong treat — too rich, too processed, the wrong protein — can undo weeks of careful allergy management. Treat treats seriously. Get it right and you'll get the full-body wag, and the entire trick repertoire at double speed, and that — that's worth the label-reading.*
 
-**Disclaimer:** *This article reflects our personal experience with Buster and Jago. We are not veterinarians or canine nutritionists. Always check with your vet before introducing new foods, especially if your French Bulldog has known allergies, pancreatitis, or other health conditions. Treat recommendations are based on our experience and may not suit every dog.*
+**Disclaimer:** *We are not veterinarians or canine nutritionists. Always check with your vet before introducing new foods, especially if your French Bulldog has known allergies, pancreatitis, or other health conditions. Treat recommendations are based on ingredient lists, product details and Amazon customer reviews, and may not suit every dog.*
 
-**Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes including Amazon Associates. Every recommendation is based on genuine testing with Buster and Jago. [Full disclosure](/affiliate-disclosure/)*
+**Affiliate Disclosure:** *The Frenchie Guide participates in affiliate programmes including Amazon Associates. Recommendations are based on ingredient lists, product details and Amazon customer reviews. [Full disclosure](/affiliate-disclosure/)*
 
 **Related guides:**
-- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/) — How we identified Buster's chicken allergy
+- [French Bulldog Food Allergies: Symptoms, Causes & What to Feed](/nutrition/french-bulldog-food-allergies/) — Spotting a food allergy and running an elimination diet
 - [How Much Should I Feed My French Bulldog?](/nutrition/how-much-feed-french-bulldog/) — Portions, calories, and managing weight
-- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — The complete food we feed and why
-- [Raw Feeding for French Bulldogs: Our Experience](/nutrition/raw-feeding-french-bulldogs/) — The hybrid approach we actually use
+- [Best Dog Food for French Bulldogs UK](/gear/best-dog-food-french-bulldogs-uk/) — Complete foods worth considering
+- [Raw Feeding for French Bulldogs](/nutrition/raw-feeding-french-bulldogs/) — The pros, cons and a hybrid approach
 - [How to Clean French Bulldog Wrinkles](/breed/how-to-clean-french-bulldog-wrinkles/) — Because treats end up in the folds
