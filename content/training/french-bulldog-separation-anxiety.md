@@ -179,12 +179,9 @@ Preparing a few frozen Kongs at a time saves a job before each departure.
 {{< /product-card >}}
 
 {{< product-card 
-    name="Furbo Dog Camera with Treat Dispenser"
-    description="HD camera lets you watch, talk to, and toss treats to your dog remotely. Sends alerts for barking, activity, and selfie moments."
-    url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp"
-    price="£69.00"
-    image="/images/products/amazon-b01fxc7jwq.jpg"
-    rating="4.0"
+    name="Furbo 360° Dog Camera"
+    description="Camera you can watch and talk through from your phone, with remote treat tossing. No subscription required."
+    url="https://www.amazon.co.uk/dp/B09GDQZLD1/?tag=broadbandhelp"
 >}}
 **Controversial take:** This is more for *your* anxiety than theirs. But knowing you can check in does provide peace of mind. Just don't talk to them constantly—that defeats the purpose of building independence.
 

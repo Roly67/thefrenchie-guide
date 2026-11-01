@@ -126,12 +126,9 @@ Puppies are disgusting. They'll wee on it, vomit on it, drag it through mud, and
 Regular deep bowls are challenging for flat-faced breeds. Food ends up everywhere, water goes up their nose, it's chaos.
 
 {{< product-card 
-    name="Neater Pets French Bulldog Bowl Set"
-    description="Shallow, wide ceramic bowls specifically designed for flat-faced breeds. Reduces mess. Elevated stand (adjustable height). Prevents whisker stress and breathing interference."
+    name="SSAWcasa Tilted Elevated Bowls (French Bulldog)"
+    description="Raised, tilted stainless-steel bowls on an adjustable bamboo stand, sold for French Bulldogs and other flat-faced breeds."
     url="https://www.amazon.co.uk/dp/B09FTB2T19/?tag=broadbandhelp"
-    price="£24.77"
-    image="/images/products/amazon-b09ftb2t19.jpg"
-    rating="4.1"
 >}}
 **The flat-face factor:** Shallow bowls mean they don't have to shove their entire face into the food. Less snorting, less mess, less water inhalation.
 
