@@ -104,7 +104,7 @@ For summer months, these help:
 
 {{< product-card
   name="ANWA Calming Donut Dog Bed"
-  url="https://www.amazon.co.uk/dp/B08FQSWKZT/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B08FQSWKZT/?tag=broadbandhelp"
   image="/images/products/amazon-b08fqswkzt.jpg"
   price="£39.99"
   rating="4.6" />}}
@@ -126,7 +126,7 @@ For summer months, these help:
 
 {{< product-card
   name="Bedsure Orthopedic Dog Bed — Bolster Dog Sofa"
-  url="https://www.amazon.co.uk/dp/B0F4XF32S3/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0F4XF32S3/?tag=broadbandhelp"
   image="/images/products/amazon-b0f4xf32s3.jpg"
   price="£31.44"
   rating="4.6" />}}
@@ -146,7 +146,7 @@ For summer months, these help:
 
 {{< product-card
   name="Veehoo Raised Dog Bed with Bolster"
-  url="https://www.amazon.co.uk/dp/B0CYB7RB5W/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B0CYB7RB5W/?tag=broadbandhelp"
   image="/images/products/amazon-b0cyb7rb5w.jpg"
   price="£55.99"
   rating="4.4" />}}
@@ -166,7 +166,7 @@ For summer months, these help:
 
 {{< product-card
   name="Amazon Basics Round Bolster Dog Bed"
-  url="https://www.amazon.co.uk/dp/B07233P1W2/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B07233P1W2/?tag=broadbandhelp"
   image="/images/products/amazon-b07233p1w2.jpg"
   price="£13.46"
   rating="4.4" />}}
