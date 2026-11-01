@@ -2,12 +2,13 @@
      shown when they come from the Creators API / PA API (refreshed within 24h,
      with a timestamp), and Amazon images may not be cached. Until the site has
      API access, cards show neither price nor rating, and any image under
-     /images/products/ (downloaded Amazon images, now deleted) falls back to the
+     /images/products/ (downloaded Amazon images, now deleted) is ignored, and
+     a card with no real image shows no image area rather than a grey
      placeholder. The price/rating/image attributes stay in content so an API
      refresh can switch them back on. */}}
 {{ $name := .Get "name" }}
-{{ $image := .Get "image" | default "/images/placeholder-product.jpg" }}
-{{ if hasPrefix $image "/images/products/" }}{{ $image = "/images/placeholder-product.jpg" }}{{ end }}
+{{ $image := .Get "image" | default "" }}
+{{ if or (hasPrefix $image "/images/products/") (eq $image "/images/placeholder-product.jpg") }}{{ $image = "" }}{{ end }}
 {{ $url := .Get "url" }}
 {{ $prosRaw := .Get "pros" }}
 {{ $consRaw := .Get "cons" }}
@@ -17,9 +18,11 @@
 {{ if $consRaw }}{{ $cons = split $consRaw "," }}{{ end }}
 <div class="frenchie-product-card">
   <div class="frenchie-product-card__header">
+    {{ with $image }}
     <div class="frenchie-product-card__image">
-      <img src="{{ $image }}" alt="{{ $name }}" loading="lazy">
+      <img src="{{ . }}" alt="{{ $name }}" loading="lazy">
     </div>
+    {{ end }}
     <div class="frenchie-product-card__info">
       <h3 class="frenchie-product-card__name">{{ $name }}</h3>
     </div>
