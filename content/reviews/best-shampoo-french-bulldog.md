@@ -88,10 +88,10 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="Anicura Natural Dog Shampoo"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/grooming/anicura-shampoo.jpg"
-  price="~£14"
-  rating="4.7" />}}
+  url="https://www.amazon.co.uk/dp/B00N58WRUA/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00n58wrua.jpg"
+  price="£17.00"
+  rating="4.4" />}}
 
 **Key features:**
 - Formulated for itchy, sensitive, and allergy-prone skin
@@ -108,10 +108,10 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="WildWash Sensitive Skin Shampoo"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/grooming/wildwash-sensitive.jpg"
-  price="~£16"
-  rating="4.6" />}}
+  url="https://www.amazon.co.uk/dp/B00GLPD8IY/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00glpd8iy.jpg"
+  price="£16.95"
+  rating="4.5" />}}
 
 **Key features:**
 - Oatmeal and aloe base for irritated skin
@@ -127,11 +127,11 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 **Why it's here:** You don't always need to spend £15 on a wash. Johnson's Vet Skin Ease is a UK high-street staple that's gentle, readily available, and dramatically cheaper than the specialist brands — without the harsh ingredients we'd avoid.
 
 {{< product-card
-  name="Johnson's Vet Skin Ease Shampoo"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/grooming/johnsons-skin-ease.jpg"
-  price="~£5"
-  rating="4.4" />}}
+  name="Johnson's Vet Hypo-Allergenic Shampoo"
+  url="https://www.amazon.co.uk/dp/B00GNBFNH0/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b00gnbfnh0.jpg"
+  price="£6.75"
+  rating="4.5" />}}
 
 **Key features:**
 - Formulated for dogs with dry, itchy, or sensitive skin
@@ -146,10 +146,10 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 **Why it's here:** Frenchies have a smell. It's part of the package — a mix of skin oils, fold-moisture, and general Frenchie-ness. When Jago has rolled in something that used to be alive, we need something that actually shifts odour without being aggressive about it.
 
 {{< product-card
-  name="Pet Head Oatmeal Shampoo"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/grooming/pet-head-oatmeal.jpg"
-  price="~£8"
+  name="Pet Head Sensitive Soul Shampoo"
+  url="https://www.amazon.co.uk/dp/B08P4SFRNN/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b08p4sfrnn.jpg"
+  price="£10.00"
   rating="4.5" />}}
 
 **Key features:**
@@ -166,10 +166,10 @@ After three years of washing two Frenchies (one allergic, one who'd eat gravel g
 
 {{< product-card
   name="Douxo S3 PYO Antiseptic Shampoo"
-  url="AFFILIATE_LINK_HERE"
-  image="/images/grooming/douxo-s3-pyo.jpg"
-  price="~£20"
-  rating="4.7" />}}
+  url="https://www.amazon.co.uk/dp/B083G56GSV/?tag=broadbandhelp-21"
+  image="/images/products/amazon-b083g56gsv.jpg"
+  price="£16.25"
+  rating="4.6" />}}
 
 **Key features:**
 - Chlorhexidine-based antiseptic for skin infections
