@@ -160,10 +160,12 @@ By the time I'm out the door, both Buster and Jago are ready for a kip anyway.
 I'm not one for buying every gadget under the sun, but some products genuinely make a difference for anxious Frenchies.
 
 {{< product-card 
-    title="ADAPTIL Calm Home Diffuser for Dogs"
+    name="ADAPTIL Calm Home Diffuser for Dogs"
     description="Pheromone diffuser that mimics the calming pheromones mother dogs produce. Covers up to 70m². Clinically proven to reduce stress signs in dogs."
-    url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B0038XBOJC/?tag=broadbandhelp"
     price="£23.00"
+    image="/images/products/amazon-b0038xbojc.jpg"
+    rating="3.8"
 >}}
 **The science bit:** Releases synthetic versions of the Dog Appeasing Pheromone (DAP). Does it work? For Buster, yes. For Jago, marginally. Your mileage may vary, but it's worth trying.
 
@@ -175,7 +177,7 @@ I'm not one for buying every gadget under the sun, but some products genuinely m
     price="£8.79"
     rating="4.5"
     image="/images/products/amazon-b000ayn7lu.jpg"
-    url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B000AYN7LU/?tag=broadbandhelp"
     price="£8.79"
 >}}
 **Why it works:** Provides mental stimulation, positive association with you leaving (Kong = good things happen), and keeps them occupied during the critical first 20-30 minutes of your departure.
@@ -184,10 +186,12 @@ I prepare three frozen Kongs at a time. Game changer.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Furbo Dog Camera with Treat Dispenser"
+    name="Furbo Dog Camera with Treat Dispenser"
     description="HD camera lets you watch, talk to, and toss treats to your dog remotely. Sends alerts for barking, activity, and selfie moments."
-    url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B01FXC7JWQ/?tag=broadbandhelp"
     price="£69.00"
+    image="/images/products/amazon-b01fxc7jwq.jpg"
+    rating="4.0"
 >}}
 **Controversial take:** This is more for *your* anxiety than theirs. But knowing you can check in does provide peace of mind. Just don't talk to them constantly—that defeats the purpose of building independence.
 
@@ -199,7 +203,7 @@ I mainly use mine to confirm whether Jago is sleeping or plotting.
     price="£35.00"
     rating="4.2"
     image="/images/products/amazon-b0029py7sk.jpg"
-    url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B0029PY7SK/?tag=broadbandhelp"
     price="£35.00"
 >}}
 **Does it work?** Some dogs respond brilliantly to pressure wraps. Others look at you like you've dressed them in a straightjacket and are plotting revenge.
@@ -208,10 +212,12 @@ Buster tolerates his. Jago treats it as a personal insult.
 {{< /product-card >}}
 
 {{< product-card 
-    title="Snuggle Puppy Heartbeat Toy"
+    name="Snuggle Puppy Heartbeat Toy"
     description="Soft toy with a real-feel heartbeat and heat pack, designed to comfort puppies and anxious dogs. Mimics the presence of a littermate."
-    url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp-21"
+    url="https://www.amazon.co.uk/dp/B0722XGRMB/?tag=broadbandhelp"
     price="£45.68"
+    image="/images/products/amazon-b0722xgrmb.jpg"
+    rating="4.3"
 >}}
 **Best for:** Younger dogs or those recently rehomed. The heartbeat feature can be genuinely comforting. Plus, if your Frenchie has a shred of hunting instinct, it won't last a week. Consider it consumable.
 {{< /product-card >}}
