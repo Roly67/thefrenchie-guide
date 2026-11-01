@@ -115,7 +115,7 @@ The three-layer system is designed to hold water without the vest feeling like a
 **Pros:**
 - Water-activated and reusable
 - Much cheaper than the Ruffwear
-- Well reviewed (over 1,000 Amazon ratings)
+- Widely bought and well reviewed
 - Sold in sizes from 30cm up to 70cm
 
 **Cons:**
@@ -167,7 +167,7 @@ It suits morning toilet breaks during hot spells better than a proper walk.
 | **Petface Cooling Coat** | ££ | Budget option, moderate heat, shorter walks |
 | **Hifrenchies Harness Vest** | ££ | Quick toilet breaks, dual-purpose convenience |
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ---
 

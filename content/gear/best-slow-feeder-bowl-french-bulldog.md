@@ -121,7 +121,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 
 ### 4. Best Budget: Dogit Go-Slow Anti-Gulp Bowl
 
-**Why it's here:** It's cheap and simple, with no bells or whistles — and with over 6,000 reviews, it's a widely bought slow feeder.
+**Why it's here:** It's cheap and simple, with no bells or whistles — and it's a widely bought slow feeder.
 
 {{< product-card
   name="Dogit Go-Slow Anti-Gulp Dog Bowl (Medium, 600ml)"
@@ -147,7 +147,7 @@ If your Frenchie sounds distressed while eating from a slow feeder — excessive
 | **EasyEat Raised** | Raised + slow feeder | £££ | Neck strain + speed eating | ⭐⭐⭐ Designed for it |
 | **Dogit Go-Slow** | Budget slow feeder | £ | Testing if they'll accept one | ⭐⭐ Decent |
 
-*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Current prices are on each product card.*
+*Price bands: £ under £15 · ££ £15–£30 · £££ over £30. Check the current price on Amazon.*
 
 ## Slow Feeders to Avoid for French Bulldogs
 

@@ -1,7 +1,13 @@
+{{/* Amazon Associates policy: prices, ratings and product images may only be
+     shown when they come from the Creators API / PA API (refreshed within 24h,
+     with a timestamp), and Amazon images may not be cached. Until the site has
+     API access, cards show neither price nor rating, and any image under
+     /images/products/ (downloaded Amazon images, now deleted) falls back to the
+     placeholder. The price/rating/image attributes stay in content so an API
+     refresh can switch them back on. */}}
 {{ $name := .Get "name" }}
 {{ $image := .Get "image" | default "/images/placeholder-product.jpg" }}
-{{ $price := .Get "price" }}
-{{ $rating := .Get "rating" | default "0" }}
+{{ if hasPrefix $image "/images/products/" }}{{ $image = "/images/placeholder-product.jpg" }}{{ end }}
 {{ $url := .Get "url" }}
 {{ $prosRaw := .Get "pros" }}
 {{ $consRaw := .Get "cons" }}
@@ -16,8 +22,6 @@
     </div>
     <div class="frenchie-product-card__info">
       <h3 class="frenchie-product-card__name">{{ $name }}</h3>
-      {{ if ne $rating "0" }}{{ partial "star-rating.html" (dict "score" $rating) }}{{ end }}
-      {{ if $price }}<div class="frenchie-product-card__price">{{ $price }}</div>{{ end }}
     </div>
   </div>
   <div class="frenchie-product-card__body">
