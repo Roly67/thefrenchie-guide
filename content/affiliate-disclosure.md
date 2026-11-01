@@ -7,7 +7,9 @@ url: "/affiliate-disclosure/"
 
 ## Affiliate Disclosure
 
-**Last updated:** February 15, 2026
+**As an Amazon Associate I earn from qualifying purchases.**
+
+**Last updated:** November 1, 2026
 
 ### Our Commitment to Transparency
 
