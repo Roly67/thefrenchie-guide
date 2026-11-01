@@ -85,7 +85,7 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Forthglade Natural Grain-Free Complete Variety Pack"
-  url="https://www.amazon.co.uk/dp/B00Y19A9BQ/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00Y19A9BQ/?tag=broadbandhelp"
   image="/images/products/amazon-b00y19a9bq.jpg"
   price="£22.20"
   rating="4.4" />}}
@@ -109,7 +109,7 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Lily's Kitchen Adult Chicken & Duck Complete Dry Food"
-  url="https://www.amazon.co.uk/dp/B00BSSMLT6/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00BSSMLT6/?tag=broadbandhelp"
   image="/images/products/amazon-b00bssmlt6.jpg"
   price="£48.50"
   rating="4.6" />}}
@@ -129,7 +129,7 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Royal Canin French Bulldog Adult"
-  url="https://www.amazon.co.uk/dp/B00U6WJRVA/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B00U6WJRVA/?tag=broadbandhelp"
   image="/images/products/amazon-b00u6wjrva.jpg"
   price="£47.39"
   rating="4.7" />}}
@@ -149,7 +149,7 @@ Royal Canin's breed-specific French Bulldog kibble is shaped specifically for fl
 
 {{< product-card
   name="Harringtons Grain Free Chicken & Sweet Potato"
-  url="https://www.amazon.co.uk/dp/B08C3492LX/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B08C3492LX/?tag=broadbandhelp"
   image="/images/products/amazon-b08c3492lx.jpg"
   price="£48.59"
   rating="4.6" />}}
@@ -169,7 +169,7 @@ If your Frenchie prefers wet food (or you want to mix it with kibble), Forthglad
 
 {{< product-card
   name="Forthglade Just Chicken Natural Wet Dog Food"
-  url="https://www.amazon.co.uk/dp/B072KGN4XX/?tag=broadbandhelp-21"
+  url="https://www.amazon.co.uk/dp/B072KGN4XX/?tag=broadbandhelp"
   image="/images/products/amazon-b072kgn4xx.jpg"
   price="£27.39"
   rating="4.4" />}}
