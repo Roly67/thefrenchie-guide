@@ -2,7 +2,7 @@
 title: "Best Bed for French Bulldogs: Orthopaedic, Donut & Cooling Picks (2026)"
 description: "Orthopedic beds, donut beds, cooling beds and cot-style beds for French Bulldogs — what to look for, our picks, and how to stop your Frenchie choosing the doormat instead."
 date: 2026-02-23
-lastmod: 2026-03-02
+lastmod: 2026-11-01
 draft: false
 category: "Gear & Accessories"
 tags: ["dog beds", "gear", "reviews", "orthopedic", "sleep", "UK"]

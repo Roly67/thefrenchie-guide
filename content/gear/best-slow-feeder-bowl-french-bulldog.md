@@ -2,7 +2,7 @@
 title: "Best Slow Feeder Bowl for French Bulldogs: Stop the Hoovering (2026)"
 description: "Your Frenchie inhales food like it's their last meal. A slow feeder bowl fixes the speed-eating, reduces bloat risk, and dramatically improves the air quality in your home. Here are our UK picks."
 date: 2026-03-04
-lastmod: 2026-03-04
+lastmod: 2026-11-01
 draft: false
 category: "Gear & Accessories"
 tags: ["slow feeder", "bowls", "gear", "feeding", "digestion", "UK"]

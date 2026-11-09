@@ -2,7 +2,7 @@
 title: "French Bulldog Grooming: A Complete At-Home Routine"
 draft: false
 date: 2026-09-29
-lastmod: 2026-09-29
+lastmod: 2026-11-01
 slug: "french-bulldog-grooming-routine"
 silo: "lifestyle"
 ---

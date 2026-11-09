@@ -2,7 +2,7 @@
 title: "French Bulldog Potty Training: The Complete (Honest) Guide"
 description: "The unvarnished truth about potty training French Bulldogs: why they can be stubborn, a step-by-step schedule, night-time tips, flat-dwelling options and the mistakes to avoid."
 date: 2026-02-15
-lastmod: 2026-02-15
+lastmod: 2026-11-01
 draft: false
 category: "Training"
 tags: ["training", "puppy", "potty training", "housetraining", "behaviour"]

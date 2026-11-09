@@ -2,7 +2,7 @@
 title: "French Bulldog Crate Training: A Step-by-Step Guide (That Actually Works)"
 draft: false
 date: 2026-09-29
-lastmod: 2026-09-29
+lastmod: 2026-11-01
 slug: "french-bulldog-crate-training"
 silo: "training"
 ---

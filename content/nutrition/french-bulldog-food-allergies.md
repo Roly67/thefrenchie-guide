@@ -2,7 +2,7 @@
 title: "French Bulldog Food Allergies: Symptoms, Causes & What to Feed"
 draft: false
 date: 2026-08-07
-lastmod: 2026-08-07
+lastmod: 2026-11-01
 slug: "french-bulldog-food-allergies"
 silo: "nutrition"
 ---

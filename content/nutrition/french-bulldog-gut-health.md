@@ -2,7 +2,7 @@
 title: "French Bulldog Gut Health: Probiotics, Digestive Enzymes & Sensitive Stomach Fixes"
 draft: false
 date: 2026-10-19
-lastmod: 2026-10-19
+lastmod: 2026-11-01
 slug: "french-bulldog-gut-health"
 silo: "nutrition"
 ---

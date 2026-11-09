@@ -1,6 +1,7 @@
 ---
 title: "French Bulldog Puppy Checklist: Everything You Actually Need (And What's Just Marketing)"
 description: "Bringing home a French Bulldog puppy? This comprehensive UK checklist covers the genuine essentials, Frenchie-specific gear, and what you can skip."
+lastmod: 2026-11-01
 slug: french-bulldog-puppy-checklist
 date: 2026-02-17
 draft: false

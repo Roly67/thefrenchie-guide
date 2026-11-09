@@ -1,5 +1,7 @@
 ---
 title: "Raw Feeding for French Bulldogs: Benefits, Risks & Practical Guide"
+date: 2026-09-02
+lastmod: 2026-11-01
 draft: false
 slug: "raw-feeding-french-bulldogs"
 silo: "nutrition"
