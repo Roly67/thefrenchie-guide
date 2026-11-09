@@ -2,7 +2,7 @@
 title: "How Much Should I Feed My French Bulldog? Portions, Calories & Feeding Guide"
 draft: false
 date: 2026-08-18
-lastmod: 2026-08-18
+lastmod: 2026-11-01
 slug: "how-much-feed-french-bulldog"
 silo: "nutrition"
 ---

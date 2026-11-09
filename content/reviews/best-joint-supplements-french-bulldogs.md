@@ -2,7 +2,7 @@
 title: "Best Joint Supplements for French Bulldogs: Protecting Those Precious Hips & Joints"
 draft: false
 date: 2026-10-19
-lastmod: 2026-10-19
+lastmod: 2026-11-01
 slug: "best-joint-supplements-french-bulldogs"
 silo: "reviews"
 ---

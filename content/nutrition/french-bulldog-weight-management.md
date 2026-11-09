@@ -2,7 +2,7 @@
 title: "French Bulldog Weight Management: How to Keep Your Frenchie at a Healthy Weight"
 draft: false
 date: 2026-10-20
-lastmod: 2026-10-20
+lastmod: 2026-11-01
 slug: "french-bulldog-weight-management"
 silo: "nutrition"
 ---

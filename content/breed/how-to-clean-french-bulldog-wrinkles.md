@@ -1,6 +1,7 @@
 ---
 title: "How to Clean French Bulldog Wrinkles: A Step-by-Step Guide"
 description: "Learn how to clean your French Bulldog's wrinkles safely and effectively. A simple daily routine to keep your Frenchie's folds fresh, clean, and healthy."
+lastmod: 2026-11-01
 date: 2026-02-15
 draft: false
 categories: ["Breed Info"]

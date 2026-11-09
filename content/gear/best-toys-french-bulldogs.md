@@ -3,7 +3,7 @@ title: "Best Toys for French Bulldogs: Safe, Durable & Actually Fun (2026)"
 description: "The best French Bulldog toys that are safe for short snouts, built for strong jaws, and genuinely entertaining. From tough chew toys to puzzle games that won't bore them senseless."
 slug: best-toys-french-bulldogs
 date: 2026-02-15
-lastmod: 2026-02-15
+lastmod: 2026-11-01
 draft: false
 category: "Gear & Accessories"
 tags: ["toys", "gear", "reviews", "enrichment", "chew toys"]

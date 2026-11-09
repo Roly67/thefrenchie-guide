@@ -2,7 +2,7 @@
 title: "Best French Bulldog Treats: Healthy, Hypoallergenic & Vet-Approved (UK)"
 draft: false
 date: 2026-09-29
-lastmod: 2026-09-29
+lastmod: 2026-11-01
 slug: "best-treats-french-bulldog"
 silo: "reviews"
 ---

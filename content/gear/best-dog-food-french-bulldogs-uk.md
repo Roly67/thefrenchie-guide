@@ -2,7 +2,7 @@
 title: "Best Dog Food for French Bulldogs UK: Our Top Picks (2026)"
 description: "What to look for in a dog food for French Bulldogs in the UK, and our top picks — from sensitive stomachs to the fart situation."
 date: 2026-02-23
-lastmod: 2026-03-02
+lastmod: 2026-11-01
 draft: false
 category: "Gear & Accessories"
 tags: ["dog food", "nutrition", "gear", "reviews", "UK", "sensitive stomach", "grain-free"]

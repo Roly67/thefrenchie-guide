@@ -2,7 +2,7 @@
 title: "Best Coat for French Bulldogs UK: Winter, Rain & Everything Cornwall Throws at Us (2026)"
 description: "French Bulldogs feel the cold and hate the rain. Here are the best coats and jackets for Frenchies in the UK — waterproof, fleece-lined, and suited to proper British weather."
 date: 2026-03-04
-lastmod: 2026-03-04
+lastmod: 2026-11-01
 draft: false
 category: "Gear & Accessories"
 tags: ["coats", "jackets", "gear", "winter", "rain", "UK", "weather"]

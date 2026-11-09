@@ -2,7 +2,7 @@
 title: "French Bulldog Winter Care: Keeping Your Frenchie Warm, Safe & Happy"
 draft: false
 date: 2026-09-29
-lastmod: 2026-09-29
+lastmod: 2026-11-01
 slug: "french-bulldog-winter-care-guide"
 silo: "lifestyle"
 ---

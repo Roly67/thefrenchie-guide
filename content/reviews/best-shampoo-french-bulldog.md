@@ -2,7 +2,7 @@
 title: "Best French Bulldog Shampoo: Reviewed for Sensitive Skin (UK)"
 draft: false
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-11-01
 slug: "best-shampoo-french-bulldog"
 silo: "reviews"
 ---

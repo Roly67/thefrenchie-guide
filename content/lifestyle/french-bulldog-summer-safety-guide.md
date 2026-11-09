@@ -2,7 +2,7 @@
 title: "French Bulldog Summer Safety Guide: Heatstroke Prevention & Hot Weather Tips"
 draft: false
 date: 2026-08-28
-lastmod: 2026-08-28
+lastmod: 2026-11-01
 slug: "french-bulldog-summer-safety-guide"
 silo: "lifestyle"
 ---
